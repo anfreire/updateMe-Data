@@ -1,0 +1,22 @@
+{
+  "version": "2.1",
+  "download": "https://github.com/anfreire/updateMe/raw/gh-pages/updateMe.apk",
+  "releaseNotes": [
+    {
+      "title": "Revamped User Interface",
+      "description": "Experience a fresh, modern look with the latest Material Design update."
+    },
+    {
+      "title": "Dynamic Content Loading",
+      "description": "Enjoy seamless content updates directly from the server, eliminating the need for manual app updates."
+    },
+    {
+      "title": "Expanded App Sources",
+      "description": "Access a wider range of apps with support for multiple providers, enhancing diversity in app choices."
+    },
+    {
+      "title": "Enhanced Security Measures",
+      "description": "Ensure app safety with Virus Total analysis, providing comprehensive scan results to users."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Movies & TV Shows Streaming": {
+    "apps": ["HDO"],
+    "icon": "movie-open-play"
+  },
+  "Music Streaming": {
+    "apps": ["Spotify", "YouTube Music"],
+    "icon": "music-box-multiple"
+  },
+  "Video Streaming": {
+    "apps": ["YouTube", "Twitch"],
+    "icon": "play-box-multiple"
+  },
+  "Media Downloaders": {
+    "apps": ["NewPipe", "Seal", "YTDLnis"],
+    "icon": "file-download"
+  },
+  "Photo Editing": {
+    "apps": ["Photo Editor Pro", "Photoshop Express"],
+    "icon": "image-edit"
+  },
+  "Video Editing": {
+    "apps": ["CapCut", "InShot"],
+    "icon": "movie-edit"
+  },
+  "Social Media": {
+    "apps": ["Instagram", "Twitter", "Reddit", "TikTok"],
+    "icon": "account-group"
+  },
+  "Launchers": {
+    "apps": ["Niagara Launcher", "Smart Launcher 6"],
+    "icon": "home-edit"
+  },
+  "Drinking Games": {
+    "apps": [ "Picolo", "PartyPal", "Never Have I Ever"],
+    "icon": "beer"
+  },
+  "Others": {
+    "apps": ["MicroG", "ReVanced Manager"],
+    "icon": "shape-plus"
+  }
+}
