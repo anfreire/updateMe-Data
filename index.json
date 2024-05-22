@@ -41,10 +41,10 @@
                 "packageName": "app.revanced.android.youtube",
                 "source": "https://github.com/revancedapps/revanced.net",
                 "version": "19.11.43",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-20/revanced.net_revanced_youtube_v19.11.43_cli4.6.0_p4.8.0.20.apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_v19.11.43_cli4.6.0_p4.8.1.apk",
+                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "064471916dee6d78a6cf4ac5f181baff362ff31cb0c219d3b33d7e53e16ec267"
+                "sha256": "584eea3e1eb0f79a23a01b6fcc3f0214ee81208a41d88068115f8135f1ce89e9"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.youtube",
@@ -59,19 +59,19 @@
                 "packageName": "app.revanced.android.youtube",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "19.11.43",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220940/youtube-revanced-v19.11.43-all.apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced_2.apk",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/youtube-revanced-v19.11.43-all.apk",
+                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_revanced_2.apk",
                 "safe": true,
-                "sha256": "1e8c2bd1626172c5a7da854ea2162efc1372d661213b8e483112cb6b3350522f"
+                "sha256": "ed8ae14545136f69e4117fc2d3e8486e5bad1ad622b5517cc50b53c0acbbd183"
             },
             "ReVanced Extended (2)": {
                 "packageName": "app.rvx.android.youtube",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "19.16.39",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220940/youtube-revanced-extended-v19.16.39-all.apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced_extended_2.apk",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/youtube-revanced-extended-v19.16.39-all.apk",
+                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "07e3538e21c66904a9a82b1721c928d069c1d142218b8a6991bf85febe89126f"
+                "sha256": "a1f286da6d898654b94f1f4a40bafe99aa683db50a5aa906fa79370119bb6d1a"
             }
         }
     },
@@ -91,11 +91,11 @@
             "ReVanced": {
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.01.52",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-20/revanced.net_revanced_youtube_music_v7.01.52_cli4.6.0_p4.8.0.20.apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced.apk",
+                "version": "7.02.51",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.02.51_cli4.6.0_p4.8.1.apk",
+                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "62dfd271c9ae74114874317947c2d3bc07e40422e734d1cd2cf93f16a30ca7ce"
+                "sha256": "5ef4e2a0bffa9dc4b50cfdd431b7c311fd2fe26da0262426e8ff89550726cb4a"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.apps.youtube.music",
@@ -109,20 +109,20 @@
             "ReVanced (2)": {
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "6.51.52",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220940/music-revanced-v6.51.52-arm64-v8a.apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced_2.apk",
+                "version": "7.01.52",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/music-revanced-v7.01.52-arm64-v8a.apk",
+                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_music_revanced_2.apk",
                 "safe": true,
-                "sha256": "51d2df9e4ffee055892a203a77711ec29a082581d4e8ad941d9c23707e43da2d"
+                "sha256": "94417eb5bbb405cde22836cfaea07342fbe1bdaf9d8aa0f5529f29b8ca28f6cc"
             },
             "ReVanced Extended (2)": {
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "6.50.51",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220940/music-revanced-extended-v6.50.51-arm64-v8a.apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced_extended_2.apk",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/music-revanced-extended-v6.50.51-arm64-v8a.apk",
+                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_music_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "8a78f447a7903db6b15e050153dbf24eaadeeb367307d940df8da04999f9418c"
+                "sha256": "4d5dd254f7a9c746c830df2e46610cef53c79d848aef1cdc35935e0d3a8c1d72"
             }
         }
     },
@@ -195,10 +195,10 @@
                 "packageName": "com.ss.android.ugc.trill",
                 "source": "https://revanced.net/revanced-tiktok",
                 "version": "32.5.3",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-16/revanced.net_revanced_tiktok_v32.5.3_cli4.6.0_p4.7.0.10.apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/tiktok_revanced.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_tiktok_v32.5.3_cli4.6.0_p4.8.1.apk",
+                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "aaa97b0e18d8f60067d424509505694cde5b7dd9e2f6b6629b41fd19135cbf51"
+                "sha256": "63e1557ee9e9965d1d960ccffd2cb65473de5fb4f41f68e8768db14db1f351eb"
             }
         }
     },
