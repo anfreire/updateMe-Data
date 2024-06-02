@@ -15,7 +15,7 @@
                 "source": "https://hdo.app",
                 "version": "2.0.19",
                 "packageName": "com.hdobox",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/hdo_hdo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/hdo_hdo.apk",
                 "safe": true,
                 "sha256": "f94612147174a531f12a3d4d753c835bde0a1a9a2af41394085f121dac761862"
             }
@@ -38,35 +38,35 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.11.43",
+                "version": "19.16.39",
                 "packageName": "app.revanced.android.youtube",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_revanced.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "584eea3e1eb0f79a23a01b6fcc3f0214ee81208a41d88068115f8135f1ce89e9"
+                "sha256": "e11f14d1ff714afc185151f17287d23dbc06e60a6662d871f1da375f2e8d9570"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.16.39",
+                "version": "19.20.34",
                 "packageName": "app.rvx.android.youtube",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced_extended.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended.apk",
                 "safe": true,
-                "sha256": "184dc9e356db548107fac4679a7b00858105b09674cebf11eeca5aa78e3dd29a"
+                "sha256": "18070f321ee8e4b18d54bcf742579965a606eb6f465ee806d50670809d1901b1"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "19.11.43",
                 "packageName": "app.revanced.android.youtube",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_revanced_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_2.apk",
                 "safe": true,
-                "sha256": "ed8ae14545136f69e4117fc2d3e8486e5bad1ad622b5517cc50b53c0acbbd183"
+                "sha256": "6dc18e81fa204b30e3214a776c5f8395b7205fadd7167bf0a50d68ce00c5081b"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.16.39",
+                "version": "19.20.34",
                 "packageName": "app.rvx.android.youtube",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_revanced_extended_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "a1f286da6d898654b94f1f4a40bafe99aa683db50a5aa906fa79370119bb6d1a"
+                "sha256": "d25ac3f2fb67993348beabe507f9fc891e66c3db018a0453758941ee137f4282"
             }
         }
     },
@@ -85,25 +85,25 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.02.51",
+                "version": "7.03.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_music_revanced.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "5ef4e2a0bffa9dc4b50cfdd431b7c311fd2fe26da0262426e8ff89550726cb4a"
+                "sha256": "9a7e8d30b67588391ce49c5bc1abc15a92adaf74970613398863d05ee80f7c23"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "6.51.52",
+                "version": "7.03.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced_extended.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended.apk",
                 "safe": true,
-                "sha256": "e4d3739d4dcc50f5501481fee14e8b7146d49832af84a85785585f64da313d48"
+                "sha256": "1e24e3b3528d05bcf22a4f5e8ee8a7835d9767d4181d61b1f7e4c8de2c214e9b"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "7.01.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_music_revanced_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_2.apk",
                 "safe": true,
                 "sha256": "94417eb5bbb405cde22836cfaea07342fbe1bdaf9d8aa0f5529f29b8ca28f6cc"
             },
@@ -111,7 +111,7 @@
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "6.50.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/youtube_music_revanced_extended_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended_2.apk",
                 "safe": true,
                 "sha256": "4d5dd254f7a9c746c830df2e46610cef53c79d848aef1cdc35935e0d3a8c1d72"
             }
@@ -137,9 +137,9 @@
                 "source": "https://revanced.net/revanced-reddit-extended",
                 "version": "2024.17.0",
                 "packageName": "com.reddit.frontpage",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/reddit_revanced.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "9a7ce04b65250a5738bb86fdce0d93ab52bfdf086ea084919321368275f8f6a6"
+                "sha256": "2f42121b3f16268f98ce7b384517c7379a68513eac1635e072124397860a3eda"
             }
         }
     },
@@ -164,6 +164,14 @@
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
                 "sha256": "75b64c3356f758696fa5fd2da8db2d4a2e670393523384a64d3fa8733289fbe3"
+            },
+            "ReVanced (2)": {
+                "source": "https://github.com/j-hc/revanced-magisk-module",
+                "version": "16.9.1",
+                "packageName": "tv.twitch.android.app",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced_2.apk",
+                "safe": true,
+                "sha256": "ae5b8a7ec10ab60006dbe2f50fa93b6e66e5795bf35dbe3bf4b1d7a410eb81b9"
             }
         }
     },
@@ -181,10 +189,10 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://revanced.net/revanced-tiktok",
-                "version": "32.5.3",
-                "packageName": "com.ss.android.ugc.trill",
-                "download": "https://github.com/anfreire/UpdateMeData/releases/download/apps/tiktok_revanced.apk",
+                "source": "https://github.com/j-hc/revanced-magisk-module",
+                "version": "0",
+                "packageName": "com.zhiliaoapp.musically",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced_2.apk",
                 "safe": true,
                 "sha256": "63e1557ee9e9965d1d960ccffd2cb65473de5fb4f41f68e8768db14db1f351eb"
             }
@@ -227,19 +235,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.40.509",
+                "version": "8.9.42.575",
                 "packageName": "com.spotify.music",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "2d8d0f2c74ffd6e3a4d1ee2a1fdbbef10f44b2f8aad9bcfd265cae0f6492cd2f"
+                "sha256": "d8269653396fbf792553b02e38a05a356c69d57b8a0e09f927192d7a7b5ffc82"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.40.509",
+                "version": "8.9.44.368",
                 "packageName": "com.spotify.music",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "2d8d0f2c74ffd6e3a4d1ee2a1fdbbef10f44b2f8aad9bcfd265cae0f6492cd2f"
+                "sha256": "337d13c257c1d43d836adf2cec04503a576b0309d7dffa52988dfff177f8dbc4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -410,14 +418,6 @@
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/instagram_instander.apk",
                 "safe": true,
                 "sha256": "5a88e6252b04ce54dbc4545b01081860e7c9d3eb6a053b870e327f0329449577"
-            },
-            "AeroInsta": {
-                "source": "https://aeroinsta.com/",
-                "version": "316.0.0.38.109",
-                "packageName": "com.aeroinsta.android",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/instagram_aeroinsta.apk",
-                "safe": true,
-                "sha256": "e41f910ccd4c197cbbdce349525ff2fa834e3ddaaa11bb7ebf2aa5c21a097726"
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
