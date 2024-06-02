@@ -243,11 +243,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "12.0.0",
-                "packageName": "com.lemon.lvoverseat",
+                "version": "8.9.44.368",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "7bd7285677fcd1286c72137a57fdd6f634f8848ef44864abeb61af87f3ace50a"
+                "sha256": "337d13c257c1d43d836adf2cec04503a576b0309d7dffa52988dfff177f8dbc4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
