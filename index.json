@@ -54,11 +54,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.11.43",
+                "version": "19.16.39",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_2.apk",
                 "safe": true,
-                "sha256": "6dc18e81fa204b30e3214a776c5f8395b7205fadd7167bf0a50d68ce00c5081b"
+                "sha256": "2ca8e8f1b80e0ba86cd4516a8ec8c2376d370a30fc3296b4ed0dbd69b34994a6"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.03.51",
+                "version": "7.03.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_2.apk",
                 "safe": true,
-                "sha256": "7136f5399c16ba538ab673e6c16323669878e9c8c566d03df698b8ba8b84622c"
+                "sha256": "5a71bbe951ecfd5b4e328894b7099681c1b818751e5225e3b6e9e70e859f1eda"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced_2.apk",
                 "safe": true,
-                "sha256": "ae5b8a7ec10ab60006dbe2f50fa93b6e66e5795bf35dbe3bf4b1d7a410eb81b9"
+                "sha256": "815df19488390597989ad780ca928f929e5c09e2970bbf613504199fe023642e"
             }
         }
     },
@@ -194,7 +194,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "41b009117d16404f8d899beb4d23428745f57fdc2d12658053042c18db125bb1"
+                "sha256": "29c9f4a2b38b86a4a53273e1a4d20a1be49afd3bae4501e9fe160a378fb692a3"
             }
         }
     },
@@ -313,11 +313,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "14.1.76",
+                "version": "14.2.86",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "a04eba58916777ae289653b9c6eb47d637043b1276ff6fa99826f474ebc02b00"
+                "sha256": "c28deba78c72098d900cde710ce5908c84aca2ed359f2e1f293e3e9846a7402b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
