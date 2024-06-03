@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_2.apk",
                 "safe": true,
-                "sha256": "2ca8e8f1b80e0ba86cd4516a8ec8c2376d370a30fc3296b4ed0dbd69b34994a6"
+                "sha256": "dd534ef69e186d26a9e26924d63ebc608d5e61ddca8b7f5a24381d18d6b60666"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_2.apk",
                 "safe": true,
-                "sha256": "5a71bbe951ecfd5b4e328894b7099681c1b818751e5225e3b6e9e70e859f1eda"
+                "sha256": "cab00fe367ee34b78c4e39f83f1e98b01cc46b5d9e8e823a46fcbfe82b0002a2"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced_2.apk",
                 "safe": true,
-                "sha256": "815df19488390597989ad780ca928f929e5c09e2970bbf613504199fe023642e"
+                "sha256": "893f2a49c1995d26c54be84fdfd08011e5ab3c19862be59e92b13c7ae5e7545c"
             }
         }
     },
@@ -194,7 +194,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "29c9f4a2b38b86a4a53273e1a4d20a1be49afd3bae4501e9fe160a378fb692a3"
+                "sha256": "0da163046538126fdef65d1ec352a425ed02a7fd54b363381d1dbc59f530ab8b"
             }
         }
     },
