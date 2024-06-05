@@ -321,11 +321,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "14.1.76",
+                "version": "14.1.87",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "43f559853f74d812351cff209e4eb868bca59acfe66f3f59dbbc78bf487f1f11"
+                "sha256": "4b5c3059feec4b5f31301bb11f1d3c060e3c5376a5754fc51c1e1f8671d84f05"
             }
         }
     },
@@ -383,11 +383,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.041.1451",
+                "version": "2.050.1452",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
                 "safe": false,
-                "sha256": "7f1dfa942b96060bb5cea86c76c074b6d456776e4ecb570a9487d0e94f5a36bc"
+                "sha256": "e056cd7bf7ff05996ed28e118e6da4eeb36c53629e42b822239ca4e6ba4be091"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
