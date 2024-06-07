@@ -313,11 +313,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "14.2.86",
+                "version": "14.3.97",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "c28deba78c72098d900cde710ce5908c84aca2ed359f2e1f293e3e9846a7402b"
+                "sha256": "094c4c8e1d1f4e832bb972b3f48c684a677681a58a216b00019e20824bf57654"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
