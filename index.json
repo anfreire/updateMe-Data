@@ -321,11 +321,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "14.1.87",
+                "version": "14.3.97",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "4b5c3059feec4b5f31301bb11f1d3c060e3c5376a5754fc51c1e1f8671d84f05"
+                "sha256": "0f002025fea016ea1e4fe2244ce38ce9d1768af38fc2c621c1542f34ffa5f34f"
             }
         }
     },
