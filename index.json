@@ -663,5 +663,24 @@
                 "sha256": "f94b5f4cafb955ef446475b4e4076b4b7fa4ba235873bc64038a5886020917a1"
             }
         }
+    },
+    "Lawnchair": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/lawnchair.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Open-Source",
+            "Pixel Launcher-like UI "
+        ],
+        "providers": {
+            "LawnchairLauncher": {
+                "source": "https://github.com/LawnchairLauncher/lawnchair",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
