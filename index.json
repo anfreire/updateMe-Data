@@ -682,5 +682,32 @@
                 "sha256": ""
             }
         }
+    },
+    "Borealis": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/borealis.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Disable Analytics and Ads",
+            "Unlock Pro Features"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/borealis-1.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LiteApks": {
+                "source": "https://liteapks.com/borealis-icon-pack.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
