@@ -684,14 +684,17 @@
         }
     },
     "Borealis": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/borealis.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/borealis.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
             "Smart Launcher 6",
             "Lawnchair"
         ],
-        "features": [],
+        "features": [
+            "Disable Analytics and Ads",
+            "Unlock Pro Features"
+        ],
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/borealis-1.html",
@@ -712,7 +715,7 @@
         }
     },
     "Layers": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/layers_icon_pack.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/layers_icon_pack.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -726,24 +729,24 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/layers-icon-pack.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "10.2",
+                "packageName": "com.sreerag.layers",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_modyolo.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "a9d6d1b3052b5a1822e176bf32f24ca046613560f3ac484299eafe8c5a583654"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "10.2",
+                "packageName": "com.sreerag.layers",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "a9d6d1b3052b5a1822e176bf32f24ca046613560f3ac484299eafe8c5a583654"
             }
         }
     },
     "Australis": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/australis.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/australis.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -757,11 +760,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/australis-icon-pack.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "1.38.0",
+                "packageName": "com.unvoid.australis",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/australis_modyolo.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "6d901d5782f0523d257f19a6664962823f8ce68eb6c4a4700ad60fd81f818d63"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
@@ -774,7 +777,7 @@
         }
     },
     "Vera": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/vera.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/vera.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -805,7 +808,7 @@
         }
     },
     "Linebit": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/linebit.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/linebit.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -819,19 +822,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/linebit-icon-pack.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "1.9.8",
+                "packageName": "com.edzondm.linebit",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_modyolo.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "c4cb745671818e4e2ab83357b5a3f9eb8aec20397bc7915b473cb01986556f1c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/linebit-icon-pack.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "1.9.8",
+                "packageName": "com.edzondm.linebit",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "c4cb745671818e4e2ab83357b5a3f9eb8aec20397bc7915b473cb01986556f1c"
             }
         }
     }
