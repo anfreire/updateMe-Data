@@ -772,5 +772,36 @@
                 "sha256": ""
             }
         }
+    },
+    "Vera": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/vera.png",
+        "depends": [],
+        "complements": [
+            "Niagara Launcher",
+            "Smart Launcher 6",
+            "Lawnchair"
+        ],
+        "features": [
+            "Disable Analytics and Ads",
+            "Unlock Pro Features"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/vera-icon-pack.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/vera-icon-pack.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
