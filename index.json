@@ -686,11 +686,12 @@
     "Borealis": {
         "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/borealis.png",
         "depends": [],
-        "complements": [],
-        "features": [
-            "Disable Analytics and Ads",
-            "Unlock Pro Features"
+        "complements": [
+            "Niagara Launcher",
+            "Smart Launcher 6",
+            "Lawnchair"
         ],
+        "features": [],
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/borealis-1.html",
@@ -710,7 +711,7 @@
             }
         }
     },
-    "Layers Icon Pack": {
+    "Layers": {
         "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/layers_icon_pack.png",
         "depends": [],
         "complements": [
@@ -733,6 +734,37 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
+    },
+    "Australis": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/australis.png",
+        "depends": [],
+        "complements": [
+            "Niagara Launcher",
+            "Smart Launcher 6",
+            "Lawnchair"
+        ],
+        "features": [
+            "Disable Analytics and Ads",
+            "Unlock Pro Features"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/australis-icon-pack.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LiteApks": {
+                "source": "https://liteapks.com/australis-icon-pack-2.html",
                 "version": "",
                 "packageName": "",
                 "download": "",
