@@ -654,7 +654,7 @@
             "Unlock Pro Features"
         ],
         "providers": {
-            "LiteApks": {
+            "LITEAPKS": {
                 "source": "https://liteapks.com/download/never-have-i-ever-194362",
                 "version": "7.1.7",
                 "packageName": "com.nixgames.neverdid",
@@ -701,7 +701,7 @@
                 "safe": true,
                 "sha256": "c6a82f3f0ac31908519cbe612c3f35c4f0f43a07fa118a289a2e540db9389f0f"
             },
-            "LiteApks": {
+            "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
                 "version": "2.157.0",
                 "packageName": "com.unvoid.borealis",
@@ -763,7 +763,7 @@
                 "safe": true,
                 "sha256": ""
             },
-            "LiteApks": {
+            "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
                 "version": "",
                 "packageName": "",
@@ -796,6 +796,37 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
+    },
+    "Linebit": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/linebit.png",
+        "depends": [],
+        "complements": [
+            "Niagara Launcher",
+            "Smart Launcher 6",
+            "Lawnchair"
+        ],
+        "features": [
+            "Disable Analytics and Ads",
+            "Unlock Pro Features"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/linebit-icon-pack.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/linebit-icon-pack.html",
                 "version": "",
                 "packageName": "",
                 "download": "",
