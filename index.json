@@ -847,14 +847,6 @@
             "Ad-free music player"
         ],
         "providers": {
-            "LITEAPKS": {
-                "source": "https://liteapks.com/soundcloud.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
-                "safe": true,
-                "sha256": ""
-            },
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
                 "version": "2024.05.28-release",
