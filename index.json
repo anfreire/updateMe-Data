@@ -768,11 +768,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "1.38.0",
+                "packageName": "com.unvoid.australis",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/australis_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "6d901d5782f0523d257f19a6664962823f8ce68eb6c4a4700ad60fd81f818d63"
             }
         }
     },
