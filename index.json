@@ -839,7 +839,7 @@
         }
     },
     "SoundCloud": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/icons/soundcloud.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/soundcloud.png",
         "depends": [],
         "complements": [],
         "features": [
