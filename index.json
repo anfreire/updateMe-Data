@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "95183fccd2a1d857bb300233cb9d3f4cf0dfb6efe72dde1e80de511e48370d90"
+                "sha256": "37cfd06653c167208bc5f45249a1b747b380d41a704875d4ba37a726be15d642"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "bd074751480fafa271d343f9c8c5a5ddfe1551735ebcdaccd14bfeb911caef51"
+                "sha256": "0d3c13a56830bf9b51be700f01bc4b2f4901ab9781d1c34d2dbfe877baae7850"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -286,11 +286,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.543.170",
+                "version": "1.552.173",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_apkdone.apk",
                 "safe": true,
-                "sha256": "60ac587b51c44cd6f697e2da5337d30bf9a67e0ab74732d6eeae290c6feb92cc"
+                "sha256": "7951867143c1abbc0c4aa5fc93443007f53f8b0e3c0ecebb72b5b2a1aa8e11b2"
             }
         }
     },
@@ -599,11 +599,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.7.6.1-beta",
+                "version": "1.7.6",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "dbd0e261b3ec2511dc3a407ff0a95fef1f38cf2b7c406caead5aa47b2a3bb2c9"
+                "sha256": "74e74ef96d93d7adc7a33b75e68b3d349280f585054efbfa570cf78b1881e625"
             }
         }
     },
@@ -799,11 +799,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "6.0.8",
+                "packageName": "cs14.pixelperfect.iconpack.vera",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "1487c46cc42112497c1fce0c185e89b46b026c0b9f120c0ab9cbd977b255c0b6"
             }
         }
     },
