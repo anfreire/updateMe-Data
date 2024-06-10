@@ -837,5 +837,32 @@
                 "sha256": "c4cb745671818e4e2ab83357b5a3f9eb8aec20397bc7915b473cb01986556f1c"
             }
         }
+    },
+    "SoundCloud": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/icons/soundcloud.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Premium Unlocked",
+            "Ad-free music player"
+        ],
+        "providers": {
+            "LITEAPKS": {
+                "source": "https://liteapks.com/soundcloud.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/soundcloud/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
