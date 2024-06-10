@@ -857,11 +857,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "2024.05.28-release",
+                "packageName": "com.soundcloud.android",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "d34fbec697ea562a8b2f62603b3c7e32ed42192cfae98d212dc6d2193c22051c"
             }
         }
     }
