@@ -505,11 +505,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.12.2",
+                "version": "1.12.3",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagara_launcher_modyolo.apk",
                 "safe": true,
-                "sha256": "f6f02208735d326e8f1969a096b39312927bafd17d4a6ce5e0e84076b0f78193"
+                "sha256": "69ddfc88f0c2d249030bf23c80920393591b8101f999f9d573368ac2836cc0ba"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -521,11 +521,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.2",
+                "version": "1.12.3",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagara_launcher_apkdone.apk",
                 "safe": true,
-                "sha256": "f6f02208735d326e8f1969a096b39312927bafd17d4a6ce5e0e84076b0f78193"
+                "sha256": "69ddfc88f0c2d249030bf23c80920393591b8101f999f9d573368ac2836cc0ba"
             }
         }
     },
@@ -540,11 +540,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 028",
+                "version": "6.4 build 030",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_modyolo.apk",
                 "safe": true,
-                "sha256": "967cde9698cb66d64d58d2bd9968c58ee954d5c97321f11f16ed4bdc9f0ac92f"
+                "sha256": "55e379366702aa9865f4c94fd6c107ea6e30a94150fe0b527f63bb5a71e81953"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
@@ -791,11 +791,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/vera-icon-pack.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "6.0.8",
+                "packageName": "cs14.pixelperfect.iconpack.vera",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modyolo.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "1487c46cc42112497c1fce0c185e89b46b026c0b9f120c0ab9cbd977b255c0b6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
