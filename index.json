@@ -46,11 +46,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.20.34",
+                "version": "19.20.35",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended.apk",
                 "safe": true,
-                "sha256": "18070f321ee8e4b18d54bcf742579965a606eb6f465ee806d50670809d1901b1"
+                "sha256": "bad9706a118db0246e0fe3b2398770b8c6fc4c226f56b83b6661c13d23027172"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.03.51",
+                "version": "7.04.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended.apk",
                 "safe": true,
-                "sha256": "1e24e3b3528d05bcf22a4f5e8ee8a7835d9767d4181d61b1f7e4c8de2c214e9b"
+                "sha256": "498b26c35e2cc8a09a4c61a7e92cfb211f25478307f400e2ba92ed9b4de856f3"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "2f42121b3f16268f98ce7b384517c7379a68513eac1635e072124397860a3eda"
+                "sha256": "1eff61dad00aa9bc52226b2a40f90bf9df6c7c8be1626ba32496b486e8486fb7"
             }
         }
     },
@@ -513,11 +513,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.2",
+                "version": "1.12.3",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagara_launcher_liteapks.apk",
                 "safe": true,
-                "sha256": "f6f02208735d326e8f1969a096b39312927bafd17d4a6ce5e0e84076b0f78193"
+                "sha256": "64ff0bae954581e7ce34d281d895fc761219182dae5ef7ada03b65b8fab9ebe8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -548,11 +548,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 028",
+                "version": "6.4 build 030",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_liteapks.apk",
                 "safe": true,
-                "sha256": "0dca3ed462db197a04f9372612090e486d8340184a84943df206678b14bd0520"
+                "sha256": "ca3171b30627960baba783b54bdd84d5b5d3615f1adb40b2680b438d1a8ba75c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
