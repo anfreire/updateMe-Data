@@ -599,11 +599,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.7.6",
+                "version": "1.7.7",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "74e74ef96d93d7adc7a33b75e68b3d349280f585054efbfa570cf78b1881e625"
+                "sha256": "ac9cb1eb0eddc08a90dcd129002dc53dca3d5f4f8cbe93be3c18d9dcc4ef4b90"
             }
         }
     },
