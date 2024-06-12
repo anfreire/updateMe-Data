@@ -46,11 +46,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.20.35",
+                "version": "19.21.40",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended.apk",
                 "safe": true,
-                "sha256": "bad9706a118db0246e0fe3b2398770b8c6fc4c226f56b83b6661c13d23027172"
+                "sha256": "0712380fabe8799b9a4eec90bd8d9ca97c5bac291b0464686f5c6d0ba92b7291"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -62,11 +62,11 @@
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.20.34",
+                "version": "19.21.40",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "d25ac3f2fb67993348beabe507f9fc891e66c3db018a0453758941ee137f4282"
+                "sha256": "cbd8970ccc5af8f7d0daa03467e6e28978a4e99964c31d3415cad358658c65c6"
             }
         }
     },
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.04.51",
+                "version": "7.05.52",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended.apk",
                 "safe": true,
-                "sha256": "498b26c35e2cc8a09a4c61a7e92cfb211f25478307f400e2ba92ed9b4de856f3"
+                "sha256": "405b96d02097988017b2f0af28bae63d2327c4885a23dfa2104fb72c839461f1"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -109,11 +109,11 @@
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.03.51",
+                "version": "7.05.52",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "7f6519c0ab34948fc80664013bcfc517720b0d3e70f9d0af58e668643fff47fd"
+                "sha256": "18138e179c0ebe83b2936729fd0cf3883a3ecca6a664f4b8614eb2800b03c56b"
             }
         }
     },
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "1eff61dad00aa9bc52226b2a40f90bf9df6c7c8be1626ba32496b486e8486fb7"
+                "sha256": "66d40e7b1e0e37f46f4c7a46d38bdd2c92ae7be6a75fb6cc06b8444fcfd3325d"
             }
         }
     },
@@ -305,11 +305,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "13.5.407",
+                "version": "14.3.97",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_modyolo.apk",
                 "safe": true,
-                "sha256": "2d0367576eead41bda428bddd8830b25d026ff2e734527f6bb85a464509b2b96"
+                "sha256": "094c4c8e1d1f4e832bb972b3f48c684a677681a58a216b00019e20824bf57654"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
