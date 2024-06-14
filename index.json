@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended.apk",
                 "safe": true,
-                "sha256": "0712380fabe8799b9a4eec90bd8d9ca97c5bac291b0464686f5c6d0ba92b7291"
+                "sha256": "5dd50d40311be2f2587c5e6c3972c0746926ba6b7e8181b81802266808179821"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.05.52",
+                "version": "7.05.53",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended.apk",
                 "safe": true,
-                "sha256": "405b96d02097988017b2f0af28bae63d2327c4885a23dfa2104fb72c839461f1"
+                "sha256": "92ed102cc95c193ce037d16a5808feccb6fffb368ab62e36124ecddb7c56fb58"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "66d40e7b1e0e37f46f4c7a46d38bdd2c92ae7be6a75fb6cc06b8444fcfd3325d"
+                "sha256": "df1c7217c6a229ace009453132c806fd1782420b3c8ca0591d5244d11d59732e"
             }
         }
     },
