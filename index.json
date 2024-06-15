@@ -540,19 +540,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 030",
+                "version": "6.4 build 031",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_modyolo.apk",
                 "safe": true,
-                "sha256": "55e379366702aa9865f4c94fd6c107ea6e30a94150fe0b527f63bb5a71e81953"
+                "sha256": "4613326f92407a848519c7922b599847bf1de45fadc5c0677d05b885f5468274"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 030",
+                "version": "6.4 build 031",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_liteapks.apk",
                 "safe": true,
-                "sha256": "ca3171b30627960baba783b54bdd84d5b5d3615f1adb40b2680b438d1a8ba75c"
+                "sha256": "374fc0e9c29e6466ff0d7d77a3dd77abb5306c8a47b30643df2e2e2b27378ec5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -603,7 +603,7 @@
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "5397b2233a9f8fc0429ff0e2654c47e3b9352801ce7dae7c79c115dc46eab947"
+                "sha256": "0c3f9b18249ce6f8be6b1d5aeb32841835612a85a835b7010a2964819cb22f85"
             }
         }
     },
