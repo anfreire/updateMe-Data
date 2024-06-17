@@ -3,6 +3,10 @@
     "apps": ["HDO"],
     "icon": "movie-open-play"
   },
+  "IPTV": {
+    "apps": ["IPTV Pro"],
+    "icon": "television-play"
+  },
   "Music Streaming": {
     "apps": ["Spotify", "YouTube Music", "SoundCloud"],
     "icon": "music-box-multiple"
