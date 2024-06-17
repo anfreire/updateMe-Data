@@ -893,13 +893,13 @@
             "Disable Analytics and Ads"
         ],
         "providers": {
-            "APKLITE": {
-                "source": "https://apklite.me/perfect-iptv-player-mod-apk/",
-                "version": "",
-                "packageName": "",
-                "download": "",
+            "LITEAPKS": {
+                "source": "https://liteapks.com/perfect-iptv-player.html",
+                "version": "1.2.1",
+                "packageName": "com.leuco.iptv",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/perfect_iptv_player_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "44efec46948a01132e616001569ede1b6d12889c233fa807c0bdd64b129eea68"
             }
         }
     }
