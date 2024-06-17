@@ -856,5 +856,40 @@
                 "sha256": "d34fbec697ea562a8b2f62603b3c7e32ed42192cfae98d212dc6d2193c22051c"
             }
         }
+    },
+    "IPTV Pro": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/iptv_pro.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Premium Unlocked",
+            "Disable Analytics and Ads"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/iptv-pro.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/iptv-pro.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/iptv-pro/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
