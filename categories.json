@@ -5,7 +5,7 @@
   },
   "IPTV": {
     "apps": ["IPTV Pro"],
-    "icon": "television-play"
+    "icon": "television-classic"
   },
   "Music Streaming": {
     "apps": ["Spotify", "YouTube Music", "SoundCloud"],
