@@ -656,11 +656,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/download/never-have-i-ever-194362",
-                "version": "7.1.7",
+                "version": "7.1.9",
                 "packageName": "com.nixgames.neverdid",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/never_have_i_ever_liteapks.apk",
                 "safe": true,
-                "sha256": "f94b5f4cafb955ef446475b4e4076b4b7fa4ba235873bc64038a5886020917a1"
+                "sha256": "78e0d32e69c4fe7281b369300aeaa488bc1e40a26729052caae3b5e7b0122071"
             }
         }
     },
