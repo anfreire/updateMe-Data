@@ -868,19 +868,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "7.1.6",
+                "packageName": "ru.iptvremote.android.iptv.pro",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptv_pro_modyolo.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "a01b69e57b5eb1c524a32e9f3077862fbc4126f53618d3a84b060e4d423cc7cf"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "8.0.4",
+                "packageName": "ru.iptvremote.android.iptv.pro",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptv_pro_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "eeeb99dce0a1d7a52aacbc0e1d2ffaf87a95a05e8d630e4082af1842b1cee286"
             }
         }
     },
