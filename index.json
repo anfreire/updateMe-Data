@@ -891,5 +891,24 @@
                 "sha256": ""
             }
         }
+    },
+    "Perfect IPTV Player": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/perfect_iptv_player.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Premium Unlocked",
+            "Disable Analytics and Ads"
+        ],
+        "providers": {
+            "APKLITE": {
+                "source": "https://apklite.me/perfect-iptv-player-mod-apk/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
