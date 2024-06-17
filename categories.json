@@ -4,7 +4,7 @@
     "icon": "movie-open-play"
   },
   "IPTV": {
-    "apps": ["IPTV Pro"],
+    "apps": ["IPTV Pro", "Perfect IPTV Player"],
     "icon": "television-classic"
   },
   "Music Streaming": {
