@@ -881,14 +881,6 @@
                 "download": "",
                 "safe": true,
                 "sha256": ""
-            },
-            "APKDONE": {
-                "source": "https://apkdone.com/iptv-pro/",
-                "version": "",
-                "packageName": "",
-                "download": "",
-                "safe": true,
-                "sha256": ""
             }
         }
     },
