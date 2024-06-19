@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "37cfd06653c167208bc5f45249a1b747b380d41a704875d4ba37a726be15d642"
+                "sha256": "a36997b2892f5c571d0a3bdaad733c563e451bf1744d4e19613a3d6ad2f609aa"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "0d3c13a56830bf9b51be700f01bc4b2f4901ab9781d1c34d2dbfe877baae7850"
+                "sha256": "44fab9db366a44318e1406dca58f02d01f7bacd29fb458ece0a20713088ca3c7"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -313,19 +313,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "14.4.117",
+                "version": "14.4.118",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "d129246aaadc91050143af16bb7ef25a60af644809caad2c957abcb86a854bf5"
+                "sha256": "57957c0f55249dd3ab0d15dbc0c7e58e3517725b619049e68e9342c92d257cd3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "14.4.117",
+                "version": "14.4.118",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "39b0739fa29788b5642cfaa658cc1b96be28898c6c8fbf9def27778c869814ec"
+                "sha256": "fe6d8166107fb2ba0879e4334a586f7da74783ce8ee323039f0d9bd041bca2e6"
             }
         }
     },
@@ -348,11 +348,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "12.1.0",
-                "packageName": "com.lemon.lvoverseat",
+                "version": "14.4.118",
+                "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "43d36ff35cc47f4da785f59a9159738e06a246f5c088e8f47e47bd9a628e259b"
+                "sha256": "fe6d8166107fb2ba0879e4334a586f7da74783ce8ee323039f0d9bd041bca2e6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -421,11 +421,11 @@
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
-                "version": "303.0.0.40.111",
+                "version": "328.0.0.42.91",
                 "packageName": "cc.honista.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_honinsta.apk",
                 "safe": true,
-                "sha256": "17e4c09f62f251cbc5b1dd703c95fb9ddf0d051a9e2a7d351167f3a55adf6b0c"
+                "sha256": "fe90e6c83c19ff396e4d865f97da35c43c1bba8e3b696416bdf80d6e84c4c9c2"
             }
         }
     },
@@ -876,11 +876,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "8.0.4",
+                "version": "8.0.5",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptv_pro_liteapks.apk",
                 "safe": true,
-                "sha256": "eeeb99dce0a1d7a52aacbc0e1d2ffaf87a95a05e8d630e4082af1842b1cee286"
+                "sha256": "cc6cdb92cd2493062fa4fbf7d83474975f9eced7ad2d6f0bfc3de09460e0c95d"
             }
         }
     },
