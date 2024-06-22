@@ -340,11 +340,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "12.0.0",
+                "version": "12.2.0",
                 "packageName": "com.lemon.lvoverseat",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "7bd7285677fcd1286c72137a57fdd6f634f8848ef44864abeb61af87f3ace50a"
+                "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -548,11 +548,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 031",
+                "version": "6.4 build 032",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_liteapks.apk",
                 "safe": true,
-                "sha256": "374fc0e9c29e6466ff0d7d77a3dd77abb5306c8a47b30643df2e2e2b27378ec5"
+                "sha256": "c596e1a58834339898af35016785a2e61d1ed99da3834e929c0f68f9597898a5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -675,11 +675,11 @@
         "providers": {
             "LawnchairLauncher": {
                 "source": "https://github.com/LawnchairLauncher/lawnchair",
-                "version": "14 Dev (#1011)",
+                "version": "14.Dev.(#1012)",
                 "packageName": "app.lawnchair.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
-                "sha256": "52eedb92871452d30b4fa60ce43f72d5e30ecdf87b7b7a7a5359f87883da55f8"
+                "sha256": "79fd337b221203fe3aa5aa311b5a10b65529277f5322cef320731e80a2a1e7f0"
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
