@@ -930,7 +930,7 @@
             }
         }
     },
-    "Auto Clicker Macro: Clickmate": {
+    "Clickmate": {
         "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/auto_clicker_macro:_clickmate.png",
         "depends": [],
         "complements": [],
@@ -957,6 +957,33 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/clickmate/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
+    },
+    "Tasker": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/tasker.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Premium Unlocked",
+            "Disable Analytics and Ads"
+        ],
+        "providers": {
+            "LITEAPKS": {
+                "source": "https://liteapks.com/tasker.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/tasker/",
                 "version": "",
                 "packageName": "",
                 "download": "",
