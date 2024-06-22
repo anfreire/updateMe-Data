@@ -910,5 +910,24 @@
                 "sha256": "44efec46948a01132e616001569ede1b6d12889c233fa807c0bdd64b129eea68"
             }
         }
+    },
+    "Automate": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/automate.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Premium Unlocked",
+            "Disable Analytics and Ads"
+        ],
+        "providers": {
+            "LITEAPKS": {
+                "source": "https://liteapks.com/automate.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
