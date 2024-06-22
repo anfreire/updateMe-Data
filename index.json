@@ -922,11 +922,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/automate.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "1.43.0",
+                "packageName": "com.llamalab.automate",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/automate_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "3658c81279f8f41fc7f04aa300a75b89ce7cc2b64ca64f32b0bb31b69391abb7"
             }
         }
     },
@@ -941,27 +941,27 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/auto-clicker-macro-clickmate.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "6.1.6",
+                "packageName": "com.inscode.autoclicker",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_modyolo.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "02e5e4afa9e7a8b1ee19e10fd68d7df4ed56ee5ebb3b48cf4c2bc0cb0bbb28d0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/auto-clicker-macro-clickmate.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "6.0.9",
+                "packageName": "com.inscode.autoclicker",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "95c606011aa790e17b65c8721db74c95c1239de44b871fff8ed5f7c32196cf33"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/clickmate/",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "6.0.9",
+                "packageName": "com.inscode.autoclicker",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_apkdone.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "cfee9ecdcb07837d3ef74ac280f8997eaea6325b1227ce628df6eca67fb91754"
             }
         }
     },
@@ -976,19 +976,19 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/tasker.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "6.2.22",
+                "packageName": "net.dinglisch.android.taskerm",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "31848b23eb37001389d177a3a13c44649874e8fa7cc6f22de39d43b47439f0cd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "6.2.22",
+                "packageName": "net.dinglisch.android.taskerm",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_apkdone.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "06c9daf72f93d3563a6efa097f998b8996a6696f5eed4b338c270eded31f36f5"
             }
         }
     }
