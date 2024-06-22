@@ -929,5 +929,40 @@
                 "sha256": ""
             }
         }
+    },
+    "Auto Clicker Macro: Clickmate": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/auto_clicker_macro:_clickmate.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Premium Unlocked",
+            "Disable Analytics and Ads"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/auto-clicker-macro-clickmate.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/auto-clicker-macro-clickmate.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/clickmate/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
