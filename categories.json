@@ -31,6 +31,14 @@
     "apps": ["Instagram", "Twitter", "Reddit", "TikTok"],
     "icon": "account-group"
   },
+  "Automation": {
+    "apps": ["Clickmate", "Tasker", "Automate"],
+    "icon": "robot-industrial"
+  },
+  "Drinking Games": {
+    "apps": ["Picolo", "PartyPal", "Never Have I Ever"],
+    "icon": "beer"
+  },
   "Launchers": {
     "apps": ["Niagara Launcher", "Smart Launcher 6", "Lawnchair"],
     "icon": "home-edit"
@@ -38,10 +46,6 @@
   "Icon Packs": {
     "apps": ["Borealis", "Layers", "Australis", "Vera", "Linebit"],
     "icon": "image-filter-black-white"
-  },
-  "Drinking Games": {
-    "apps": [ "Picolo", "PartyPal", "Never Have I Ever"],
-    "icon": "beer"
   },
   "Others": {
     "apps": ["MicroG", "ReVanced Manager"],
