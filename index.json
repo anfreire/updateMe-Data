@@ -680,6 +680,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
                 "sha256": "52eedb92871452d30b4fa60ce43f72d5e30ecdf87b7b7a7a5359f87883da55f8"
+            },
+            "Goooler": {
+                "source": "https://github.com/Goooler/LawnchairRelease",
+                "version": "14.0.0 (071ffac)",
+                "packageName": "app.lawnchair",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_goooler.apk",
+                "safe": true,
+                "sha256": "c91b8a6596e2c70abeb02c464cf6c05b51abaf64574fa0e1463098a543fbefba"
             }
         }
     },
