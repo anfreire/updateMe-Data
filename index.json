@@ -540,11 +540,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 031",
+                "version": "6.4 build 032",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_modyolo.apk",
                 "safe": true,
-                "sha256": "4613326f92407a848519c7922b599847bf1de45fadc5c0677d05b885f5468274"
+                "sha256": "d4a761df36804d9cc36e78b40964352b0a5f222ae764792df4cb8931002e69ea"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
