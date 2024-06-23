@@ -58,15 +58,15 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_2.apk",
                 "safe": true,
-                "sha256": "dd534ef69e186d26a9e26924d63ebc608d5e61ddca8b7f5a24381d18d6b60666"
+                "sha256": "e6bc345a7053d2380f7e7c711eb3974dccab29f962e9a840c920a07acad3d232"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.21.40",
+                "version": "19.23.40",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "cbd8970ccc5af8f7d0daa03467e6e28978a4e99964c31d3415cad358658c65c6"
+                "sha256": "f894a72bffc0455c950114cb1e3a55fb901e634f4af8d8b6cce5f0045451e318"
             }
         }
     },
@@ -105,15 +105,15 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_2.apk",
                 "safe": true,
-                "sha256": "cab00fe367ee34b78c4e39f83f1e98b01cc46b5d9e8e823a46fcbfe82b0002a2"
+                "sha256": "571a472b381b4b8bcd4babbc016af0fa0f5c2c229a3e1a48cc6589110bedf596"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.05.52",
+                "version": "7.06.53",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "18138e179c0ebe83b2936729fd0cf3883a3ecca6a664f4b8614eb2800b03c56b"
+                "sha256": "3d240542023ee8bc3f70bb70f1a2289e3e4ae415573c07400be5c340a42c27bc"
             }
         }
     },
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced_2.apk",
                 "safe": true,
-                "sha256": "893f2a49c1995d26c54be84fdfd08011e5ab3c19862be59e92b13c7ae5e7545c"
+                "sha256": "475fa773f7b65e47a585415dceff6166ac7cd84134b2345d1f7c66dca31b4f6c"
             }
         }
     },
@@ -194,7 +194,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "0da163046538126fdef65d1ec352a425ed02a7fd54b363381d1dbc59f530ab8b"
+                "sha256": "e216537c62efecbd6c3f7178efe9940a84cd1a53f5a9236ab5d047d3508256b9"
             }
         }
     },
@@ -278,11 +278,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.552.173",
+                "version": "1.56.174",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_liteapks.apk",
                 "safe": true,
-                "sha256": "a73a10e444169031d9be2baeef74e7a1a28be565a59fd2f0ffc5a6725879b226"
+                "sha256": "f330442c166c5fad08a5aac38d1a9600040cdc38c3d2e83c4ed3ac3a812bc803"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -348,11 +348,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "12.1.0",
+                "version": "12.2.0",
                 "packageName": "com.lemon.lvoverseat",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "43d36ff35cc47f4da785f59a9159738e06a246f5c088e8f47e47bd9a628e259b"
+                "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
