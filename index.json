@@ -46,11 +46,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.21.40",
+                "version": "19.23.40",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended.apk",
                 "safe": true,
-                "sha256": "5dd50d40311be2f2587c5e6c3972c0746926ba6b7e8181b81802266808179821"
+                "sha256": "3b9282eff6207c7a34333b65166be6ba0fe19a22eccb83548bb6b879a106c4b6"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.05.53",
+                "version": "7.06.53",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended.apk",
                 "safe": true,
-                "sha256": "92ed102cc95c193ce037d16a5808feccb6fffb368ab62e36124ecddb7c56fb58"
+                "sha256": "3bb98b4787f1e0ea6b016175f366682e4637bd145b68e06931ae103328435b5a"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "df1c7217c6a229ace009453132c806fd1782420b3c8ca0591d5244d11d59732e"
+                "sha256": "6eb022cdcee2e91a0ee4ee47c417e5d76efe10006487b456dc9ba64d5aea7b21"
             }
         }
     },
@@ -321,11 +321,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "14.4.118",
+                "version": "14.5.120",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "fe6d8166107fb2ba0879e4334a586f7da74783ce8ee323039f0d9bd041bca2e6"
+                "sha256": "63fb5548a597b9d8c129bec61e08ba9339e0b8c58f5fb745f1b21411db1c3937"
             }
         }
     },
@@ -675,19 +675,19 @@
         "providers": {
             "LawnchairLauncher": {
                 "source": "https://github.com/LawnchairLauncher/lawnchair",
-                "version": "14.Dev.(#1012)",
+                "version": "14.Dev.(#1014)",
                 "packageName": "app.lawnchair.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
-                "sha256": "79fd337b221203fe3aa5aa311b5a10b65529277f5322cef320731e80a2a1e7f0"
+                "sha256": "a90fe4b301b3d4ed69107190b3719c2f1c4b0e5962805b8d46e9120c6011612d"
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
-                "version": "14.0.0 (071ffac)",
+                "version": "14.0.0 (4dfa881)",
                 "packageName": "app.lawnchair",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_goooler.apk",
                 "safe": true,
-                "sha256": "c91b8a6596e2c70abeb02c464cf6c05b51abaf64574fa0e1463098a543fbefba"
+                "sha256": "e7cd01da1122d35d682b0180409af4853a4f9754a2672f08a8e87f063f983f8a"
             }
         }
     },
