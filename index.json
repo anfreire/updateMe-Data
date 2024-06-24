@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "a36997b2892f5c571d0a3bdaad733c563e451bf1744d4e19613a3d6ad2f609aa"
+                "sha256": "8e3e0c6042806209840cf6b47fbc1f33030ee073bc9d2ffb19bc7fcc5fa0bfe0"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended.apk",
                 "safe": true,
-                "sha256": "3b9282eff6207c7a34333b65166be6ba0fe19a22eccb83548bb6b879a106c4b6"
+                "sha256": "7c475e452b453dea3be3f66b05a89de7322421099153f78091077dff7a0902cc"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "44fab9db366a44318e1406dca58f02d01f7bacd29fb458ece0a20713088ca3c7"
+                "sha256": "d0fad00c07c301dbda7c2fd60ca96913c14d679f6327e2a81daedecb088d9aa8"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended.apk",
                 "safe": true,
-                "sha256": "3bb98b4787f1e0ea6b016175f366682e4637bd145b68e06931ae103328435b5a"
+                "sha256": "6efb11af993679220b869bc222dc9d4110c6a0f2c064808f26aa52225b2eafd7"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "6eb022cdcee2e91a0ee4ee47c417e5d76efe10006487b456dc9ba64d5aea7b21"
+                "sha256": "364af37541c98c98440b1f81efa488c2d4dfe4ebd1d3dfd0485227e2c2da0f90"
             }
         }
     },
