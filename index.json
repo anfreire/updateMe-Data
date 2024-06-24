@@ -577,11 +577,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.21.0-dev.3",
+                "version": "1.21.0-dev.4",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revanced_manager_revanced.apk",
                 "safe": true,
-                "sha256": "55d69580b73b8c5bdf15b6798e0afa97841a144425e33377a82ed2683dee9320"
+                "sha256": "9a429de0a14c776935e2c443bd0c511dee537150dc664027da7fa48ecc167666"
             }
         }
     },
@@ -706,19 +706,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/borealis-1.html",
-                "version": "2.157.0",
+                "version": "2.158.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_modyolo.apk",
                 "safe": true,
-                "sha256": "c6a82f3f0ac31908519cbe612c3f35c4f0f43a07fa118a289a2e540db9389f0f"
+                "sha256": "529c8b6912f82821d68ec77ba7dd15bbfd908ec9ced15d6742044c0bc67d101b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.157.0",
+                "version": "2.158.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": true,
-                "sha256": "c6a82f3f0ac31908519cbe612c3f35c4f0f43a07fa118a289a2e540db9389f0f"
+                "sha256": "529c8b6912f82821d68ec77ba7dd15bbfd908ec9ced15d6742044c0bc67d101b"
             }
         }
     },
