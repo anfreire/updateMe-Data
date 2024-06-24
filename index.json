@@ -356,11 +356,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "12.0.0",
-                "packageName": "com.lemon.lvoverseas",
+                "version": "12.2.0",
+                "packageName": "com.lemon.lvoverseat",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": true,
-                "sha256": "803e595c8669884b56d2666c5c13e74598a440c1ec4eabb427f27065b0e109d6"
+                "sha256": "c54e30147d91913ece05ddba53e6500364697d6f225f69b3b4b96bf26fd1013d"
             }
         }
     },
