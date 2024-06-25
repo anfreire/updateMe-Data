@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "8e3e0c6042806209840cf6b47fbc1f33030ee073bc9d2ffb19bc7fcc5fa0bfe0"
+                "sha256": "e7c1401359b7689c35d56c325badb2ceb2f004c34760684775de7877f95640d7"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "d0fad00c07c301dbda7c2fd60ca96913c14d679f6327e2a81daedecb088d9aa8"
+                "sha256": "20ad7e9660dbedd592d5ded0882056ee9be8d0b4eceb1ed86caaa9e4df232aac"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -675,11 +675,11 @@
         "providers": {
             "LawnchairLauncher": {
                 "source": "https://github.com/LawnchairLauncher/lawnchair",
-                "version": "14.Dev.(#1014)",
+                "version": "14.Dev.(#1022)",
                 "packageName": "app.lawnchair.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
-                "sha256": "a90fe4b301b3d4ed69107190b3719c2f1c4b0e5962805b8d46e9120c6011612d"
+                "sha256": "483b76cc544a6978c9f436969456e5bed1b2a140594e0d19caf6af02b27ff633"
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
