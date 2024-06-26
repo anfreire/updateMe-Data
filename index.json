@@ -577,11 +577,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.21.0-dev.4",
+                "version": "1.21.0-dev.5",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revanced_manager_revanced.apk",
                 "safe": true,
-                "sha256": "9a429de0a14c776935e2c443bd0c511dee537150dc664027da7fa48ecc167666"
+                "sha256": "9df49f288a720f8e3c24645bff1e0617a886ff5aebb3d4da40c6475728a8ce60"
             }
         }
     },
