@@ -278,11 +278,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.56.174",
+                "version": "1.562.176",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_liteapks.apk",
                 "safe": true,
-                "sha256": "f330442c166c5fad08a5aac38d1a9600040cdc38c3d2e83c4ed3ac3a812bc803"
+                "sha256": "e59488c031590b34dc43bafb7172c421347093a1e8545333808bee81e5c7f471"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -675,19 +675,19 @@
         "providers": {
             "LawnchairLauncher": {
                 "source": "https://github.com/LawnchairLauncher/lawnchair",
-                "version": "14.Dev.(#1027)",
+                "version": "14.Dev.(#1040)",
                 "packageName": "app.lawnchair.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
-                "sha256": "c561087e42430fafe552e482dc5b86e276a7b2473713e996e8639686629fa358"
+                "sha256": "2c185c268e796b68f417fa9cd7634eb719e3a94d3b2465ae455549241b19d721"
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
-                "version": "14.0.0 (4dfa881)",
+                "version": "14.0.0 (53f8011)",
                 "packageName": "app.lawnchair",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_goooler.apk",
                 "safe": true,
-                "sha256": "e7cd01da1122d35d682b0180409af4853a4f9754a2672f08a8e87f063f983f8a"
+                "sha256": "0c8dae065fa66de04d7eee8c9282dd26d39b8da695566817b6014d5eb6f5ff3b"
             }
         }
     },
