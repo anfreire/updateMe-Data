@@ -235,11 +235,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.50.552",
+                "version": "8.9.52.552",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "e67a41a726e865a5ce49412d307d047147b4e34170f096cbec287a20ac644923"
+                "sha256": "4fd16f296e20c10714f944bad58df09a00c472ea050a48170d2719c66d8b6974"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -675,11 +675,11 @@
         "providers": {
             "LawnchairLauncher": {
                 "source": "https://github.com/LawnchairLauncher/lawnchair",
-                "version": "14.Dev.(#1043)",
+                "version": "14.Dev.(#1045)",
                 "packageName": "app.lawnchair.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
-                "sha256": "fd8ca5ffa0bfbb29e771c3590b2f0a42edbc426190bbe6c67cc4192eb4b93742"
+                "sha256": "d75231067bdd6c47c6c9c44378f789f5fc6d8d7184ccc4efab646181c9ed3a9b"
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
