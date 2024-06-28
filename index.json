@@ -278,19 +278,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.562.176",
+                "version": "1.563.177",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_liteapks.apk",
                 "safe": true,
-                "sha256": "e59488c031590b34dc43bafb7172c421347093a1e8545333808bee81e5c7f471"
+                "sha256": "015a74fa2040babd2b47e2fb34f96ca28684e210447c5610778cb3828fb975ff"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.552.173",
+                "version": "1.563.177",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_apkdone.apk",
                 "safe": true,
-                "sha256": "7951867143c1abbc0c4aa5fc93443007f53f8b0e3c0ecebb72b5b2a1aa8e11b2"
+                "sha256": "1e4a6fb9167a3320eb57ba359e88f3a4adfb23850eacd93be73d8bf39eb25837"
             }
         }
     },
@@ -313,11 +313,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "14.5.120",
+                "version": "14.6.124",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "7013f7732ed083f0ae8039f7545edb81c2d0cdbf117b36f7ad27a2adb64db8bb"
+                "sha256": "b21f480a7c7781d7b548bcb2bab2cfd0927cf586fe34fcdc3a7029e474d7567c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -675,11 +675,11 @@
         "providers": {
             "LawnchairLauncher": {
                 "source": "https://github.com/LawnchairLauncher/lawnchair",
-                "version": "14.Dev.(#1040)",
+                "version": "14.Dev.(#1043)",
                 "packageName": "app.lawnchair.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
-                "sha256": "2c185c268e796b68f417fa9cd7634eb719e3a94d3b2465ae455549241b19d721"
+                "sha256": "fd8ca5ffa0bfbb29e771c3590b2f0a42edbc426190bbe6c67cc4192eb4b93742"
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
