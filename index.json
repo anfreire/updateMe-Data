@@ -321,11 +321,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "14.5.120",
+                "version": "14.6.124",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "63fb5548a597b9d8c129bec61e08ba9339e0b8c58f5fb745f1b21411db1c3937"
+                "sha256": "fc3af437f3c79d6f4545f08e846c5aa8564d7f8bceecd8f62f78aca2c4856c56"
             }
         }
     },
@@ -922,11 +922,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/automate.html",
-                "version": "1.43.0",
+                "version": "1.43.1",
                 "packageName": "com.llamalab.automate",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/automate_liteapks.apk",
                 "safe": true,
-                "sha256": "3658c81279f8f41fc7f04aa300a75b89ce7cc2b64ca64f32b0bb31b69391abb7"
+                "sha256": "df263773a77b3a43f1487f56b7c071937010996f54293a5e130cce4594ab64d3"
             }
         }
     },
