@@ -675,19 +675,19 @@
         "providers": {
             "LawnchairLauncher": {
                 "source": "https://github.com/LawnchairLauncher/lawnchair",
-                "version": "14.Dev.(#1046)",
+                "version": "14.Dev.(#1047)",
                 "packageName": "app.lawnchair.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_lawnchairlauncher.apk",
                 "safe": true,
-                "sha256": "1d9d3b72e4538368a9b9474c90cefe048cf10276bd3c9e78e39780c92ea2c5c7"
+                "sha256": "94b82cd71053ceab53faabb1901bd65e4df1f2882570206b963e74d095456d73"
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
-                "version": "14.0.0 (a69546f)",
+                "version": "14.0.0 (c80e980)",
                 "packageName": "app.lawnchair",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_goooler.apk",
                 "safe": true,
-                "sha256": "bce476f2b1afac88b3e87b4a4fa30e986f5391d45454acba1ea489cf2634aab5"
+                "sha256": "42342f54df0436530eac3c1654b925a36ba8f808f9a895fb69e31c485d63395b"
             }
         }
     },
