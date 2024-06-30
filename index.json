@@ -706,7 +706,7 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/borealis-1.html",
-                "version": "2.158.0",
+                "version": "2.159.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_modyolo.apk",
                 "safe": true,
