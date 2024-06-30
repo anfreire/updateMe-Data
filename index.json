@@ -243,11 +243,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.50.552",
+                "version": "8.9.52.552",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "e67a41a726e865a5ce49412d307d047147b4e34170f096cbec287a20ac644923"
+                "sha256": "4fd16f296e20c10714f944bad58df09a00c472ea050a48170d2719c66d8b6974"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -683,11 +683,11 @@
             },
             "Goooler": {
                 "source": "https://github.com/Goooler/LawnchairRelease",
-                "version": "14.0.0 (c80e980)",
+                "version": "14.0.0 (b092b09)",
                 "packageName": "app.lawnchair",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lawnchair_goooler.apk",
                 "safe": true,
-                "sha256": "42342f54df0436530eac3c1654b925a36ba8f808f9a895fb69e31c485d63395b"
+                "sha256": "6fbda36b6fb4c736cc219a6b1ee0f500f9bfb28d5bee0fc3d4e0359d49651de1"
             }
         }
     },
