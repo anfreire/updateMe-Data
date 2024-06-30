@@ -577,11 +577,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.21.0-dev.5",
+                "version": "1.21.0-dev.6",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revanced_manager_revanced.apk",
                 "safe": true,
-                "sha256": "9df49f288a720f8e3c24645bff1e0617a886ff5aebb3d4da40c6475728a8ce60"
+                "sha256": "496e1a8fc67ef7a9f02c1591804d649efb9d7f4d6d201432ddb5fb6adbbac95f"
             }
         }
     },
@@ -706,7 +706,7 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/borealis-1.html",
-                "version": "2.159.0",
+                "version": "2.158.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_modyolo.apk",
                 "safe": true,
