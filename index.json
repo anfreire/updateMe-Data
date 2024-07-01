@@ -737,11 +737,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/layers-icon-pack.html",
-                "version": "10.2",
+                "version": "10.3",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_modyolo.apk",
-                "safe": true,
-                "sha256": "a9d6d1b3052b5a1822e176bf32f24ca046613560f3ac484299eafe8c5a583654"
+                "safe": false,
+                "sha256": "67a79caf4f1167668d4239687fa48e4a452db5fa48e2a42feb3208819385a16f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
