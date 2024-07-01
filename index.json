@@ -340,11 +340,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "12.2.0",
-                "packageName": "com.lemon.lvoverseat",
+                "version": "1.38.0",
+                "packageName": "com.unvoid.australis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
+                "sha256": "6d901d5782f0523d257f19a6664962823f8ce68eb6c4a4700ad60fd81f818d63"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -375,11 +375,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.050.1452",
-                "packageName": "com.camerasideas.instashot",
+                "version": "0.3.1.4.240913-hw",
+                "packageName": "app.revanced.android.gms",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "1389e7c42315ddedf69cbf1d43337915892910b54ccc3089dfe0c6353b65bb03"
+                "sha256": "809235ef03babef4695170a88116f97ec5d1a30da310ab0b4d9fb630f706714c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
