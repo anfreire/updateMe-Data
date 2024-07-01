@@ -340,11 +340,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "1.38.0",
-                "packageName": "com.unvoid.australis",
+                "version": "12.2.0",
+                "packageName": "com.lemon.lvoverseat",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "6d901d5782f0523d257f19a6664962823f8ce68eb6c4a4700ad60fd81f818d63"
+                "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -375,18 +375,18 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "0.3.1.4.240913-hw",
-                "packageName": "app.revanced.android.gms",
+                "version": "2.050.1452",
+                "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "809235ef03babef4695170a88116f97ec5d1a30da310ab0b4d9fb630f706714c"
+                "sha256": "1389e7c42315ddedf69cbf1d43337915892910b54ccc3089dfe0c6353b65bb03"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
                 "version": "2.050.1452",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "e056cd7bf7ff05996ed28e118e6da4eeb36c53629e42b822239ca4e6ba4be091"
             },
             "MODYOLO": {
@@ -543,7 +543,7 @@
                 "version": "6.4 build 032",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_modyolo.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "d4a761df36804d9cc36e78b40964352b0a5f222ae764792df4cb8931002e69ea"
             },
             "LITEAPKS": {
@@ -551,7 +551,7 @@
                 "version": "6.4 build 032",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_liteapks.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "c596e1a58834339898af35016785a2e61d1ed99da3834e929c0f68f9597898a5"
             },
             "APKDONE": {
@@ -599,11 +599,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.7.7",
+                "version": "1.7.8",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "0c3f9b18249ce6f8be6b1d5aeb32841835612a85a835b7010a2964819cb22f85"
+                "sha256": "42239f8cd6ff8b27bf6fc01eb9e6d79debd9c395716b65d46998ad4d502d5380"
             }
         }
     },
@@ -709,7 +709,7 @@
                 "version": "2.158.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_modyolo.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "529c8b6912f82821d68ec77ba7dd15bbfd908ec9ced15d6742044c0bc67d101b"
             },
             "LITEAPKS": {
@@ -717,7 +717,7 @@
                 "version": "2.158.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "529c8b6912f82821d68ec77ba7dd15bbfd908ec9ced15d6742044c0bc67d101b"
             }
         }
@@ -748,7 +748,7 @@
                 "version": "10.3",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "67a79caf4f1167668d4239687fa48e4a452db5fa48e2a42feb3208819385a16f"
             }
         }
@@ -802,7 +802,7 @@
                 "version": "6.0.8",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modyolo.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "1487c46cc42112497c1fce0c185e89b46b026c0b9f120c0ab9cbd977b255c0b6"
             },
             "LITEAPKS": {
@@ -810,7 +810,7 @@
                 "version": "6.0.8",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "1487c46cc42112497c1fce0c185e89b46b026c0b9f120c0ab9cbd977b255c0b6"
             }
         }
@@ -833,7 +833,7 @@
                 "version": "1.9.8",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_modyolo.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "c4cb745671818e4e2ab83357b5a3f9eb8aec20397bc7915b473cb01986556f1c"
             },
             "LITEAPKS": {
@@ -841,7 +841,7 @@
                 "version": "1.9.8",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_liteapks.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "c4cb745671818e4e2ab83357b5a3f9eb8aec20397bc7915b473cb01986556f1c"
             }
         }
@@ -944,7 +944,7 @@
                 "version": "6.1.6",
                 "packageName": "com.inscode.autoclicker",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_modyolo.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "02e5e4afa9e7a8b1ee19e10fd68d7df4ed56ee5ebb3b48cf4c2bc0cb0bbb28d0"
             },
             "LITEAPKS": {
@@ -960,7 +960,7 @@
                 "version": "6.0.9",
                 "packageName": "com.inscode.autoclicker",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_apkdone.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "cfee9ecdcb07837d3ef74ac280f8997eaea6325b1227ce628df6eca67fb91754"
             }
         }
@@ -987,7 +987,7 @@
                 "version": "6.2.22",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_apkdone.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "06c9daf72f93d3563a6efa097f998b8996a6696f5eed4b338c270eded31f36f5"
             }
         }
