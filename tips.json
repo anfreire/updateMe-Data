@@ -1,0 +1,115 @@
+{
+  "Open links with modded apps": {
+    "description": "Make the modded app open links like the original app",
+    "content": [
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/apps_open_links/0.gif",
+        "description": "As you can see, when clicking the youtube link, the modded app doesn't open it, it opens on the browser"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/apps_open_links/1.gif",
+        "description": "Open the settings app, navigate to the 'Apps' section and select the desired app"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/apps_open_links/2.gif",
+        "description": "In the app's settings, click on the 'Open by default' option. This title may differ depending on the device and the Android version. Then toggle the 'Open supported links' option"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/apps_open_links/3.gif",
+        "description": "Add all the supported links that you want the app to open. In this case, we are adding the youtube links"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/apps_open_links/4.gif",
+        "description": "Now, when clicking the youtube link, the modded app will open it. This can be done with any app that doesn't open links"
+      }
+    ]
+  },
+  "Disable ads auto-skip on YouTube Revanced": {
+    "description": "Show skip button when ads are playing on YouTube Revanced",
+    "content": [
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_skip_ads/0.gif",
+        "description": "In YouTube Revanced, navigate to the settings"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_skip_ads/1.gif",
+        "description": "Select 'ReVanced' and then 'SponsorBlock'"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_skip_ads/2.gif",
+        "description": "In every segment, select 'Show a skip button'"
+      }
+    ]
+  },
+  "Download media on Youtube Revanced": {
+    "description": "Make the YouTube Revanced app download through your preferred media downloader",
+    "content": [
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_download/0.gif",
+        "description": "Navigate to the settings of YouTube Revanced"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_download/1.gif",
+        "description": "Select 'ReVanced', then 'Player' and finally 'External downloads'"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_download/2.gif",
+        "description": "Activate the 'Show external download button' and 'Override download action button' options"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_download/3.gif",
+        "description": "Insert the package name of the media downloader that you want to use on the 'Download package name' dialog. In this case, we are using 'Seal'. The package name can be found on the app page"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/yt_download/4.gif",
+        "description": "When playing a video, the download button will be displayed. Click on it to download the video or audio"
+      }
+    ]
+  },
+  "Check VirusTotal Analysis": {
+    "description": "Consult the analysis of a apk file in VirusTotal",
+    "content": [
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/check_analysis/0.gif",
+        "description": "Navigate to the app that you want to check the analysis"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/check_analysis/1.gif",
+        "description": "In the providers table, in the column 'Secure', there is a button indicating the analysis status of the app in VirusTotal"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/check_analysis/2.gif",
+        "description": "Long press the button to open the analysis in the browser"
+      }
+    ]
+  },
+  "Verify the SHA-256 of an APK": {
+    "description": "Verify the SHA-256 of an apk's VirusTotal analysis",
+    "content": [
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/verify_sha256/0.gif",
+        "description": "Navigate to the app that you want to verify the SHA-256"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/verify_sha256/1.gif",
+        "description": "Download the apk, by clicking on the 'install' button"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/verify_sha256/2.gif",
+        "description": "Don't install the app yet, click 'cancel' on the installation dialog"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/verify_sha256/3.gif",
+        "description": "Save the apk to local storage by selecting it and clicking the share button"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/verify_sha256/4.gif",
+        "description": "With a tool to generate the SHA-256 of the file, like many websites or the 'Hash Droid' app, generate the SHA-256 of the apk"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/gifs/verify_sha256/5.gif",
+        "description": "Compare the generated SHA-256 with the one displayed in the app. They should be the same"
+      }
+    ]
+  }
+}

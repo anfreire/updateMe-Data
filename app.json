@@ -1,0 +1,18 @@
+{
+  "version": "2.2.2",
+  "download": "https://github.com/anfreire/updateMe-Mobile/releases/download/v2.2.2/updateMe.apk",
+  "releaseNotes": [
+    {
+      "title": "App Sugestions Statistics",
+      "description": "New statistics page to show the number of app suggestions"
+    },
+    {
+      "title": "New Suggestions and Reports API",
+      "description": "New API to send suggestions and reports due to high demand"
+    },
+    {
+      "title": "Bug fixes",
+      "description": "App version not updating when installed/updates/uninstalled"
+    }
+  ]
+}
