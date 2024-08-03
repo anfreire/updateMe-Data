@@ -1838,13 +1838,21 @@
                 "safe": true,
                 "sha256": "dc525cd386ee5228c69b2afe6c167064f633fc6d21e73fce850d2cf0740c0152"
             },
-            "derrin": {
-                "source": "https://forum.mobilism.me/viewtopic.php?f=438&t=5672429&hilit=ES+File+Explorer+File+Manager",
-                "version": "4.4.2.12",
-                "packageName": "com.estrongs.android.pop",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/es_file_manager_derrin.apk",
-                "safe": false,
-                "sha256": "69929590943ee86df0a509af1cbfdd4e5476992111904662054598fc09129353"
+            "LITEAPKS": {
+                "source": "https://liteapks.com/es-file-explorer.html",
+                "version": "1.6.3",
+                "packageName": "filemanager.fileexplorer.manager",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/es_file_manager_modyolo.apk",
+                "safe": true,
+                "sha256": "dc525cd386ee5228c69b2afe6c167064f633fc6d21e73fce850d2cf0740c0152"
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/es-file-explorer-manager-pro/",
+                "version": "1.6.3",
+                "packageName": "filemanager.fileexplorer.manager",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/es_file_manager_modyolo.apk",
+                "safe": true,
+                "sha256": "dc525cd386ee5228c69b2afe6c167064f633fc6d21e73fce850d2cf0740c0152"
             }
         }
     }
