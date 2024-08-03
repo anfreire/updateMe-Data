@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "98d6b581e385b85d66fbf451f1bbfa2bd7d57de93a37316bdc52c041db49f37c"
+                "sha256": "2ad38609546a33e623ad67b1ec95501f1f51ddc3e0ec44acd6ce0a04453d3301"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "7640e9c5765e4f2425caac10dbc3986202a63f2ecddd2c2e676bcf9c3b095669"
+                "sha256": "20724374a442194fea6c6a43b643cc9531a9f05303e562af25240b4229b898cd"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -250,7 +250,7 @@
                 "version": "8.9.60.560",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "f80fe142ccb37e72e67f58568672f417907afa73135d45e108c40a14c29ccb35"
             },
             "APKDONE": {
@@ -274,11 +274,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.566.180",
+                "version": "1.567.181",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_modyolo.apk",
                 "safe": true,
-                "sha256": "6866d37f00944b8862191474ad3bcced6c581792d2788ed284589f7ba64d52b5"
+                "sha256": "c167353b50294e6013cd9f95ef327272707803eaeb5f61363b394179f4f6b6cc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -293,7 +293,7 @@
                 "version": "1.566.180",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "bb46eeaa958a10a7a495b491146c19feb3dea8838f7a4e03abeb6194b6fbe3a4"
             }
         }
@@ -531,7 +531,7 @@
                 "version": "1.12.4",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagara_launcher_apkdone.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "007a5d715f7b90480dbf89c3739c95130f93f8c46a5ca162d0d4055f4a478bec"
             }
         }
@@ -550,7 +550,7 @@
                 "version": "6.4 build 042",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_modyolo.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "533bf1929228673267c2abc7fb34817085e2fb31cd44f2dc143576bccd7e798e"
             },
             "LITEAPKS": {
@@ -558,7 +558,7 @@
                 "version": "6.4 build 041",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_liteapks.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "5b7178912d2c782e7373cfcc7de55d4e25fb8405a3a8fd644b2d006fa0126758"
             },
             "APKDONE": {
@@ -1231,7 +1231,7 @@
                 "version": "4.7.6",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "3063424209d545487c97a4799124c9ca01ca60eb1ef04e46d4d2e39a05e125db"
             }
         }
@@ -1265,7 +1265,7 @@
                 "version": "25.5.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "faee88ccf3b90a90182e2e4c9f0e2d561a877d5f6562125ec7b84cecfd6783c4"
             }
         }
@@ -1511,7 +1511,7 @@
                 "version": "5.160.7",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "199c80ba92f2333357eda327cc42edc5bfe92378b47a9472be9dd3123fc366d1"
             }
         }
@@ -1546,7 +1546,7 @@
                 "version": "1.85.7",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mx_player_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "d85051ddf80deec2734d9085dcb3edd25d165c53c1121d60cea52c5979000d50"
             }
         }
@@ -1580,7 +1580,7 @@
                 "version": "13.2.17",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "0e23e3c5a18480ec4da408201a1cd0deae72da40fc5453e300e97797fa9bff9e"
             }
         }
@@ -1685,7 +1685,7 @@
                 "version": "1.03.55.0725",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/my_diary_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
             }
         }
@@ -1772,7 +1772,7 @@
                 "version": "4.105.90.901 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "e3f69174c042521a34fabbbaca99c0e7d83b8c076485ebfd1ac4b116d51f3056"
             },
             "LITEAPKS": {
