@@ -1848,11 +1848,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
-                "version": "Pro 1.1.4.1",
-                "packageName": "com.estrongs.android.pop.pro",
+                "version": "4.4.2.12",
+                "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/es_file_explorer_apkdone.apk",
                 "safe": false,
-                "sha256": "82e4dcfdd0db883460e7de5f58f950b98959a3f6b5db29183672e2d92fc992ea"
+                "sha256": "2ff6771fd7accbb74c3bb6baad5b103273a80b9030287dd38b6d4572de36065c"
             }
         }
     }
