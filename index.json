@@ -317,11 +317,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "15.0.179",
+                "version": "15.1.188",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "55cd0d23309bc28aa8e60fd0f630bde6deb5128368aeafd79726efb7f42b9b12"
+                "sha256": "0f6e61c370190ae32ea5ac8de1b82df782b556c6b643b61d1ce4662f1d29e35f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1404,11 +1404,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.16.6",
+                "version": "14.16.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "6bd7536f32152c6f8c027fa244fd78911a8a453636eaeb81772348f52c6f4f65"
+                "sha256": "3bd2e9c9334aab58fb152de6b3df6f7193e19e1b6a31f141cb2598dd0e0dcf8f"
             }
         }
     },
@@ -1456,11 +1456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.34.0-240711",
+                "version": "14.36.0-240725",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "4780cc3f257542f5befb4fa67d6f7f5111a07f2e0fba13cc66eca5013fa87827"
+                "sha256": "614d5044c6d410bd50149b4dcecad6e5e67a68aaa4891d4d8a8119603157d2a2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1621,11 +1621,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.2.1-rc0",
+                "version": "1.2.2-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sd_maid_se_liteapks.apk",
                 "safe": true,
-                "sha256": "2287bd5c33e1b41ddf5f4e74014ec582263406ff2eafff5ef2423ba918416282"
+                "sha256": "d04cec513cbb052d668b6a581241799a8d8e6a155590e4b6accc0b3676678b8a"
             }
         }
     },
