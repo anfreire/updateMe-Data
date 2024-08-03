@@ -1561,11 +1561,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "1.3.2",
-                "packageName": "com.hgamesart.snowstorm",
+                "version": "13.2.17",
+                "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "72fbe2de7ea99dcaaaef9c71d67589217330b7f1051465f89ebcfa4e6191ada7"
+                "sha256": "72fdc7e1ff1c5f04931da5be9d0aae669cdf74aa1a652414c87803cfb9ad594f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
