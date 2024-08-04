@@ -1855,5 +1855,45 @@
                 "sha256": "2ff6771fd7accbb74c3bb6baad5b103273a80b9030287dd38b6d4572de36065c"
             }
         }
+    },
+    "Friendly For Twitter/X": {
+        "icon": {
+            "icon": "/home/anfreire/Documents/UpdateMe/Data/icons/FriendlyForTwitterX.png",
+            "depends": [],
+            "complements": [],
+            "features": [
+                "Premium Unlocked"
+            ],
+            "providers": {
+                "MODYOLO": {
+                    "source": "https://modyolo.com/friendly-for-twitter.html",
+                    "version": "",
+                    "packageName": "",
+                    "download": "",
+                    "safe": true,
+                    "sha256": ""
+                },
+                "LITEAPKS": {
+                    "source": "https://liteapks.com/friendly-for-twitter.html",
+                    "version": "",
+                    "packageName": "",
+                    "download": "",
+                    "safe": true,
+                    "sha256": ""
+                },
+                "Balatan": {
+                    "source": "https://forum.mobilism.me/viewtopic.php?f=1336&t=5648859&hilit=Friendly+for+twitter",
+                    "version": "",
+                    "packageName": "",
+                    "download": "",
+                    "safe": true,
+                    "sha256": ""
+                }
+            }
+        },
+        "depends": [],
+        "complements": [],
+        "features": [],
+        "providers": {}
     }
 }
