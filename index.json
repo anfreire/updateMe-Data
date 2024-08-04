@@ -42,13 +42,13 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "2ad38609546a33e623ad67b1ec95501f1f51ddc3e0ec44acd6ce0a04453d3301"
+                "sha256": "7013f0ab07afa41d6a83617310b5cb61c865f6b62e2a5ee1d5b6829bf1827b99"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
                 "version": "19.25.39",
                 "packageName": "app.rvx.android.youtube",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
                 "sha256": "178202bc43c9ae5290193a1fa7b17b186e79eebb52c1034b8ebb3091f119dc1d"
             },
@@ -56,7 +56,7 @@
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "19.16.39",
                 "packageName": "app.revanced.android.youtube",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
                 "sha256": "48ea475a7fcfb572441a9154de1ab8d198e8a0fccc32b5129fc5479ca2f4ce3e"
             },
@@ -64,7 +64,7 @@
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "19.16.39",
                 "packageName": "app.rvx.android.youtube",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced_extended_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
                 "sha256": "ee133377224e5eb651bd26bb70cc4d7a366391722e6349a93f6af005bc7b3427"
             }
@@ -87,15 +87,15 @@
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "7.03.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "20724374a442194fea6c6a43b643cc9531a9f05303e562af25240b4229b898cd"
+                "sha256": "ca95ccbfb6469144bd12875c1123e60943846026556db58ee895c25e8c28f03b"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "7.12.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
                 "sha256": "0a305a2124be1ba4e64a7ac36ed2f3845bc689d218fc956d8cee1296deb5bf50"
             },
@@ -103,7 +103,7 @@
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "7.03.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
                 "sha256": "93e2531a19fa9d52426dcc19f359b92abddab21a77da8a9bcc64941a5a692f51"
             },
@@ -111,7 +111,7 @@
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "7.10.52",
                 "packageName": "app.rvx.android.apps.youtube.music",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_music_revanced_extended_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
                 "sha256": "bd97976cfbaf515371dfcf27d2d6a43a87f64a97302c285f53772aa98d5aa15e"
             }
@@ -169,7 +169,7 @@
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "16.9.1",
                 "packageName": "tv.twitch.android.app",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced_2.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
                 "sha256": "4aec4a847ae542fec91121161da4fd099b5b47ab0994b319092bfae7092a800f"
             }
@@ -247,11 +247,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.60.560",
+                "version": "8.9.62.566",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
-                "safe": false,
-                "sha256": "f80fe142ccb37e72e67f58568672f417907afa73135d45e108c40a14c29ccb35"
+                "safe": true,
+                "sha256": "ce3815f5a5bdf94af7067c736e61642a833bf8a496fb45926f912635e8ae8bc7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -276,7 +276,7 @@
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
                 "version": "1.567.181",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": true,
                 "sha256": "c167353b50294e6013cd9f95ef327272707803eaeb5f61363b394179f4f6b6cc"
             },
@@ -284,7 +284,7 @@
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
                 "version": "1.567.181",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": true,
                 "sha256": "161128163dd71252a48a8fb2a891fc736eb8d9dde05ee75a8b07cf6130d6a62d"
             },
@@ -292,7 +292,7 @@
                 "source": "https://apkdone.com/photo-editor-pro-apk",
                 "version": "1.566.180",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photo_editor_pro_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
                 "safe": true,
                 "sha256": "bb46eeaa958a10a7a495b491146c19feb3dea8838f7a4e03abeb6194b6fbe3a4"
             }
@@ -319,7 +319,7 @@
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
                 "version": "15.1.188",
                 "packageName": "com.adobe.psmobile",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
                 "sha256": "0f6e61c370190ae32ea5ac8de1b82df782b556c6b643b61d1ce4662f1d29e35f"
             },
@@ -327,7 +327,7 @@
                 "source": "https://apkdone.com/adobe-photoshop-express/",
                 "version": "15.0.179",
                 "packageName": "com.adobe.psmobile",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
                 "sha256": "806d06eaececa871c8067d05dd26183b6496b609029d74e98c6e155b0c570be0"
             }
@@ -419,7 +419,7 @@
                 "source": "https://myinsta.app",
                 "version": "338.0.0.31.95",
                 "packageName": "com.myinsta.android",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinsta_clone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinstaclone.apk",
                 "safe": true,
                 "sha256": "6d8ed536096e0129d6d0de16353db988fc90ba8177c133df50f35d444b0ba836"
             },
@@ -427,7 +427,7 @@
                 "source": "https://myinsta.app",
                 "version": "338.0.0.31.95",
                 "packageName": "com.instagram.android",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinsta_unclone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinstaunclone.apk",
                 "safe": true,
                 "sha256": "63107d9dc9ad91de095f37095e0bae832c57934ee4c65d8d2a2ba0f593cd2cd8"
             },
@@ -443,7 +443,7 @@
                 "source": "https://thedise.me/instander/",
                 "version": "263.2.0.19.104",
                 "packageName": "com.instander.android",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_instander_clone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_instanderclone.apk",
                 "safe": true,
                 "sha256": "5a88e6252b04ce54dbc4545b01081860e7c9d3eb6a053b870e327f0329449577"
             },
@@ -451,7 +451,7 @@
                 "source": "https://thedise.me/instander/",
                 "version": "263.2.0.19.104",
                 "packageName": "com.instagram.android",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_instander_unclone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_instanderunclone.apk",
                 "safe": true,
                 "sha256": "4227afabe569ff5f4228f2c063cc1d87c1e783e476b46c7698e526b4080d9374"
             }
@@ -522,7 +522,7 @@
                 "source": "https://liteapks.com/niagara-launcher.html",
                 "version": "1.12.5",
                 "packageName": "bitpit.launcher",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagara_launcher_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
                 "sha256": "9282d421db9e286c6b43239402312d28fd138889dd4750c14f9cf8460ac81729"
             },
@@ -530,7 +530,7 @@
                 "source": "https://apkdone.com/niagara-launcher/",
                 "version": "1.12.4",
                 "packageName": "bitpit.launcher",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagara_launcher_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": false,
                 "sha256": "007a5d715f7b90480dbf89c3739c95130f93f8c46a5ca162d0d4055f4a478bec"
             }
@@ -549,7 +549,7 @@
                 "source": "https://modyolo.com/smart-launcher-6.html",
                 "version": "6.4 build 042",
                 "packageName": "ginlemon.flowerfree",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": true,
                 "sha256": "533bf1929228673267c2abc7fb34817085e2fb31cd44f2dc143576bccd7e798e"
             },
@@ -557,7 +557,7 @@
                 "source": "https://liteapks.com/smart-launcher-6.html",
                 "version": "6.4 build 041",
                 "packageName": "ginlemon.flowerfree",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
                 "sha256": "5b7178912d2c782e7373cfcc7de55d4e25fb8405a3a8fd644b2d006fa0126758"
             },
@@ -565,7 +565,7 @@
                 "source": "https://apkdone.com/smart-launcher-5/",
                 "version": "6.4 build 002",
                 "packageName": "ginlemon.flowerfree",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smart_launcher_6_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
                 "safe": true,
                 "sha256": "096017d92ef043aaad94c1b7cc7391b99334735e4455e48f495dc3f20dbbe75f"
             }
@@ -586,7 +586,7 @@
                 "source": "https://github.com/ReVanced/revanced-manager",
                 "version": "1.21.1",
                 "packageName": "app.revanced.manager.flutter",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revanced_manager_revanced.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
                 "sha256": "5627a000c722b7bd5c2122cbf5f419b04dd60e57c070ce72b33d356182f9e64a"
             }
@@ -665,7 +665,7 @@
                 "source": "https://liteapks.com/download/never-have-i-ever-194362",
                 "version": "7.1.9",
                 "packageName": "com.nixgames.neverdid",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/never_have_i_ever_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/neverhaveiever_liteapks.apk",
                 "safe": true,
                 "sha256": "78e0d32e69c4fe7281b369300aeaa488bc1e40a26729052caae3b5e7b0122071"
             }
@@ -858,7 +858,7 @@
                 "source": "https://modyolo.com/iptv-pro.html",
                 "version": "8.0.7",
                 "packageName": "ru.iptvremote.android.iptv.pro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptv_pro_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
                 "sha256": "df741dd3ad3a712e206b2cae567dcfb2d34f99f6ff6807ee3c7420bc4b244214"
             },
@@ -866,7 +866,7 @@
                 "source": "https://liteapks.com/iptv-pro.html",
                 "version": "8.0.7",
                 "packageName": "ru.iptvremote.android.iptv.pro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptv_pro_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
                 "sha256": "c63c1a47fb70d943883760e963e2010d13b09ef92fb41a22c54e770034f7c190"
             }
@@ -885,7 +885,7 @@
                 "source": "https://liteapks.com/perfect-iptv-player.html",
                 "version": "1.2.1",
                 "packageName": "com.leuco.iptv",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/perfect_iptv_player_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/perfectiptvplayer_liteapks.apk",
                 "safe": true,
                 "sha256": "44efec46948a01132e616001569ede1b6d12889c233fa807c0bdd64b129eea68"
             }
@@ -990,11 +990,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.2.4",
+                "version": "9.3.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "77087fb2036da85d802322fb70839bca393c243542a287591f2333790d5e080b"
+                "sha256": "ac1dca02a86526e47a9ca1c6e15ae36198f5c10801d47d4daffeb0b0e6b1ca03"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1188,7 +1188,7 @@
                 "source": "https://liteapks.com/app-cloner.html",
                 "version": "2.18.2",
                 "packageName": "com.applisto.appcloner",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/app_cloner_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/appcloner_liteapks.apk",
                 "safe": true,
                 "sha256": "89f60a2ffbbea44a3d683bda5065b69fc2bd649f01f636101e02d9ed42e51070"
             },
@@ -1338,7 +1338,7 @@
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
                 "version": "18.11.1",
                 "packageName": "cn.wps.moffice_eng",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wps_office_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": true,
                 "sha256": "1e203c994a3475c4a95720f1d312dc101c343261d8379c64f4e74283549762b2"
             },
@@ -1364,7 +1364,7 @@
                 "source": "https://modyolo.com/x-plore-file-manager.html",
                 "version": "4.38.30",
                 "packageName": "com.lonelycatgames.Xplore",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplore_file_manager_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": true,
                 "sha256": "6da73446ec00ec76a274b13baac7aef19edf35123122defa5accc33b01242360"
             },
@@ -1372,7 +1372,7 @@
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
                 "version": "4.38.30",
                 "packageName": "com.lonelycatgames.Xplore",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplore_file_manager_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
                 "sha256": "05bf094f5d7b2ab4fa54fa3e1d38fc1a8add466881a12d8ed8cb171687824363"
             },
@@ -1380,7 +1380,7 @@
                 "source": "https://apkdone.com/x-plore-file-manager/",
                 "version": "4.38.30",
                 "packageName": "com.lonelycatgames.Xplore",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplore_file_manager_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
                 "sha256": "0ec5a89cce4c8da64171d863a31b7521d72022303e3361955f716b1a22684971"
             }
@@ -1529,7 +1529,7 @@
                 "source": "https://modyolo.com/mx-video-player.html",
                 "version": "1.86.1",
                 "packageName": "com.mxtech.videoplayer.pro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mx_player_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modyolo.apk",
                 "safe": true,
                 "sha256": "3d653d8e221bb427bb5a6e217071c8088ca0f989c4feb5e7695729790370ee85"
             },
@@ -1545,7 +1545,7 @@
                 "source": "https://apkdone.com/mx-player/",
                 "version": "1.85.7",
                 "packageName": "com.mxtech.videoplayer.pro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mx_player_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_apkdone.apk",
                 "safe": true,
                 "sha256": "d85051ddf80deec2734d9085dcb3edd25d165c53c1121d60cea52c5979000d50"
             }
@@ -1564,7 +1564,7 @@
                 "version": "13.2.17",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "72fdc7e1ff1c5f04931da5be9d0aae669cdf74aa1a652414c87803cfb9ad594f"
             },
             "LITEAPKS": {
@@ -1597,7 +1597,7 @@
                 "source": "https://modyolo.com/sd-maid-pro.html",
                 "version": "5.6.3",
                 "packageName": "eu.thedarken.sdm",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sd_maid_pro_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidpro_modyolo.apk",
                 "safe": true,
                 "sha256": "a0998edabbe34a3dffc43b164d3d5df1b487ddc4509b0f3f75fed81579564e23"
             },
@@ -1605,7 +1605,7 @@
                 "source": "https://liteapks.com/sd-maid-pro.html",
                 "version": "5.6.3",
                 "packageName": "eu.thedarken.sdm",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sd_maid_pro_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidpro_liteapks.apk",
                 "safe": false,
                 "sha256": "142796598e1764d8d04a87659568e8367b33aae07c9586bd1459a632b79db143"
             }
@@ -1623,7 +1623,7 @@
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
                 "version": "1.2.2-rc0",
                 "packageName": "eu.darken.sdmse",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sd_maid_se_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": true,
                 "sha256": "d04cec513cbb052d668b6a581241799a8d8e6a155590e4b6accc0b3676678b8a"
             }
@@ -1642,7 +1642,7 @@
                 "source": "https://modyolo.com/1dm.html",
                 "version": "16",
                 "packageName": "idm.internet.download.manager.plus",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/1dm+_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modyolo.apk",
                 "safe": true,
                 "sha256": "c6999d5bb645dc52c0c8fcb22e032965f07aa1e17d5f9b0ab893d00afa209aef"
             },
@@ -1650,7 +1650,7 @@
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
                 "version": "16",
                 "packageName": "idm.internet.download.manager.plus",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/1dm+_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_liteapks.apk",
                 "safe": true,
                 "sha256": "733858f625f8a3b88bd18650a1695e4e91d948d4a3a4223213235e7c8e0bce57"
             },
@@ -1658,7 +1658,7 @@
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
                 "version": "16",
                 "packageName": "idm.internet.download.manager.plus",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/1dm+_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_apkdone.apk",
                 "safe": true,
                 "sha256": "d5155476d8cedc2c2bf81552c171b00c2681a4dd6c87bd2d7fedea1212486bf2"
             }
@@ -1684,7 +1684,7 @@
                 "source": "https://apkdone.com/my-diary/",
                 "version": "1.03.55.0725",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/my_diary_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": true,
                 "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
             }
@@ -1737,7 +1737,7 @@
                 "source": "https://modyolo.com/nova-launcher-prime.html",
                 "version": "7.0.57",
                 "packageName": "com.teslacoilsw.launcher",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nova_launcher_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_modyolo.apk",
                 "safe": false,
                 "sha256": "d762b053d4b1047540e023eae220df72b67607727868e375664a2236b2b7afea"
             },
@@ -1745,7 +1745,7 @@
                 "source": "https://liteapks.com/nova-launcher-prime.html",
                 "version": "8.1.1",
                 "packageName": "com.teslacoilsw.launcher",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nova_launcher_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_liteapks.apk",
                 "safe": true,
                 "sha256": "cef82342f50055543d6fc88957cdcbb638e00b04586609dc85ec1f83d9bacc98"
             },
@@ -1753,7 +1753,7 @@
                 "source": "https://apkdone.com/nova-launcher-prime-apk/",
                 "version": "8.1.1",
                 "packageName": "com.teslacoilsw.launcher",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nova_launcher_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_apkdone.apk",
                 "safe": false,
                 "sha256": "08d6e04660cca48dbce32f6b0f94ba6df9ed1c356775bfa0f779e88f9189b06f"
             }
@@ -1797,7 +1797,7 @@
                 "source": "https://forum.mobilism.me/viewtopic.php?f=428&t=5676835&hilit=VPN.lat",
                 "version": "3.8.4.0.3",
                 "packageName": "com.vpn.lat",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpn.lat_derrin.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnlat_derrin.apk",
                 "safe": true,
                 "sha256": "e745ecdea88e943fb8050d39b540fcc9cf6fa4eec55827b64363b003616b0617"
             }
@@ -1834,7 +1834,7 @@
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
                 "version": "4.4.2.12",
                 "packageName": "com.estrongs.android.pop",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/modyolo",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modyolo.apk",
                 "safe": true,
                 "sha256": "6aac354da51f09d2ca861236aa183e4a7039a0989eaa961b2204acc25dfb4f30"
             },
@@ -1842,7 +1842,7 @@
                 "source": "https://liteapks.com/es-file-explorer.html",
                 "version": "4.4.2.12",
                 "packageName": "com.estrongs.android.pop",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/es_file_explorer_liteapks.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
                 "safe": true,
                 "sha256": "6aac354da51f09d2ca861236aa183e4a7039a0989eaa961b2204acc25dfb4f30"
             },
@@ -1850,7 +1850,7 @@
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
                 "version": "4.4.2.12",
                 "packageName": "com.estrongs.android.pop",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/es_file_explorer_apkdone.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_apkdone.apk",
                 "safe": true,
                 "sha256": "2ff6771fd7accbb74c3bb6baad5b103273a80b9030287dd38b6d4572de36065c"
             }
