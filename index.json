@@ -1933,11 +1933,11 @@
         "providers": {
             "LSPosed": {
                 "source": "https://github.com/LSPosed/LSPatch",
-                "version": "",
-                "packageName": "",
-                "download": "",
-                "safe": true,
-                "sha256": ""
+                "version": "0.6",
+                "packageName": "org.lsposed.lspatch",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lspatch_lsposed.apk",
+                "safe": false,
+                "sha256": "13d543f46fac47b46d6173dd062925fd7efa4f357ab62b8206d94d37c79b10f3"
             }
         }
     }
