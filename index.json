@@ -1904,41 +1904,5 @@
                 "sha256": "c13313c04cad74b8e8882c32393374fcb9071235a6efdb980645c614beeb60b2"
             }
         }
-    },
-    "Shizuku": {
-        "icon": "/home/anfreire/Documents/UpdateMe/Data/icons/Shizuku.png",
-        "depends": [],
-        "complements": [
-            "LSPatch"
-        ],
-        "features": [],
-        "providers": {
-            "RikkaApps": {
-                "source": "https://github.com/RikkaApps/Shizuku",
-                "version": "13.5.4.r1049.0e53409",
-                "packageName": "moe.shizuku.privileged.api",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shizuku_rikkaapps.apk",
-                "safe": true,
-                "sha256": "a05832ce3716afb1fcccf46f348006d2a296ca777e1ff3d223797dc74d06b31f"
-            }
-        }
-    },
-    "LSPatch": {
-        "icon": "/home/anfreire/Documents/UpdateMe/Data/icons/LSPatch.png",
-        "depends": [
-            "Shizuku"
-        ],
-        "complements": [],
-        "features": [],
-        "providers": {
-            "LSPosed": {
-                "source": "https://github.com/LSPosed/LSPatch",
-                "version": "0.6",
-                "packageName": "org.lsposed.lspatch",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lspatch_lsposed.apk",
-                "safe": false,
-                "sha256": "13d543f46fac47b46d6173dd062925fd7efa4f357ab62b8206d94d37c79b10f3"
-            }
-        }
     }
 }

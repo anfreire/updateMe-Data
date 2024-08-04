@@ -1,177 +1,104 @@
 {
-    "Movies & TV Shows": {
-        "apps": [
-            "HDO",
-            "OnStream",
-            "Showly"
-        ],
-        "icon": "movie-open-play"
-    },
-    "Music Streaming": {
-        "apps": [
-            "Spotify",
-            "YouTube Music",
-            "SoundCloud",
-            "Shazam",
-            "Musixmatch"
-        ],
-        "icon": "music-box-multiple"
-    },
-    "Video Streaming": {
-        "apps": [
-            "YouTube",
-            "Twitch"
-        ],
-        "icon": "play-box-multiple"
-    },
-    "Social Media": {
-        "apps": [
-            "Instagram",
-            "Reddit",
-            "TikTok",
-            "Telegram",
-            "Friendly For Twitter/X"
-        ],
-        "icon": "account-group"
-    },
-    "Photography": {
-        "apps": [
-            "SNOW"
-        ],
-        "icon": "camera"
-    },
-    "Photo Editing": {
-        "apps": [
-            "Photo Editor Pro",
-            "Photoshop Express",
-            "Picsart",
-            "Lightroom"
-        ],
-        "icon": "image-edit"
-    },
-    "Video Editing": {
-        "apps": [
-            "CapCut",
-            "InShot"
-        ],
-        "icon": "movie-edit"
-    },
-    "IPTV": {
-        "apps": [
-            "IPTV Pro",
-            "Perfect IPTV Player"
-        ],
-        "icon": "television-box"
-    },
-    "Media Players": {
-        "apps": [
-            "MX Player"
-        ],
-        "icon": "play-circle"
-    },
-    "Media Downloaders": {
-        "apps": [
-            "NewPipe",
-            "Seal",
-            "YTDLnis"
-        ],
-        "icon": "file-download"
-    },
-    "Download Managers": {
-        "apps": [
-            "1DM+",
-            "nzb360"
-        ],
-        "icon": "download-network"
-    },
-    "Launchers": {
-        "apps": [
-            "Niagara Launcher",
-            "Smart Launcher 6",
-            "Nova Launcher"
-        ],
-        "icon": "home-edit"
-    },
-    "Icon Packs": {
-        "apps": [
-            "Borealis",
-            "Layers",
-            "Australis",
-            "Vera",
-            "Linebit",
-            "ENIX"
-        ],
-        "icon": "image-filter-black-white"
-    },
-    "Automation": {
-        "apps": [
-            "Clickmate",
-            "Tasker",
-            "Automate"
-        ],
-        "icon": "robot-industrial"
-    },
-    "Productivity": {
-        "apps": [
-            "Xodo",
-            "CamScanner",
-            "WPS Office",
-            "My Diary"
-        ],
-        "icon": "briefcase"
-    },
-    "VPN": {
-        "apps": [
-            "VPN.lat",
-            "Malloc Privacy & Security VPN"
-        ],
-        "icon": "shield-key"
-    },
-    "Navigation": {
-        "apps": [
-            "Waze"
-        ],
-        "icon": "map-marker"
-    },
-    "Education": {
-        "apps": [
-            "Brilliant",
-            "Duolingo"
-        ],
-        "icon": "school"
-    },
-    "Health": {
-        "apps": [
-            "Fitify"
-        ],
-        "icon": "heart"
-    },
-    "Drinking Games": {
-        "apps": [
-            "Picolo",
-            "PartyPal",
-            "Never Have I Ever"
-        ],
-        "icon": "beer"
-    },
-    "Utils": {
-        "apps": [
-            "App Cloner",
-            "AdGuard",
-            "X-plore File Manager",
-            "Truecaller",
-            "SD Maid Pro",
-            "SD Maid SE",
-            "ES File Explorer"
-        ],
-        "icon": "tools"
-    },
-    "Others": {
-        "apps": [
-            "MicroG",
-            "ReVanced Manager",
-            "Shizuku"
-        ],
-        "icon": "shape-plus"
-    }
+  "Movies & TV Shows": {
+    "apps": ["HDO", "OnStream", "Showly"],
+    "icon": "movie-open-play"
+  },
+  "Music Streaming": {
+    "apps": ["Spotify", "YouTube Music", "SoundCloud", "Shazam", "Musixmatch"],
+    "icon": "music-box-multiple"
+  },
+  "Video Streaming": {
+    "apps": ["YouTube", "Twitch"],
+    "icon": "play-box-multiple"
+  },
+  "Social Media": {
+    "apps": [
+      "Instagram",
+      "Reddit",
+      "TikTok",
+      "Telegram",
+      "Friendly For Twitter/X"
+    ],
+    "icon": "account-group"
+  },
+  "Photography": {
+    "apps": ["SNOW"],
+    "icon": "camera"
+  },
+  "Photo Editing": {
+    "apps": ["Photo Editor Pro", "Photoshop Express", "Picsart", "Lightroom"],
+    "icon": "image-edit"
+  },
+  "Video Editing": {
+    "apps": ["CapCut", "InShot"],
+    "icon": "movie-edit"
+  },
+  "IPTV": {
+    "apps": ["IPTV Pro", "Perfect IPTV Player"],
+    "icon": "television-box"
+  },
+  "Media Players": {
+    "apps": ["MX Player"],
+    "icon": "play-circle"
+  },
+  "Media Downloaders": {
+    "apps": ["NewPipe", "Seal", "YTDLnis"],
+    "icon": "file-download"
+  },
+  "Download Managers": {
+    "apps": ["1DM+", "nzb360"],
+    "icon": "download-network"
+  },
+  "Launchers": {
+    "apps": ["Niagara Launcher", "Smart Launcher 6", "Nova Launcher"],
+    "icon": "home-edit"
+  },
+  "Icon Packs": {
+    "apps": ["Borealis", "Layers", "Australis", "Vera", "Linebit", "ENIX"],
+    "icon": "image-filter-black-white"
+  },
+  "Automation": {
+    "apps": ["Clickmate", "Tasker", "Automate"],
+    "icon": "robot-industrial"
+  },
+  "Productivity": {
+    "apps": ["Xodo", "CamScanner", "WPS Office", "My Diary"],
+    "icon": "briefcase"
+  },
+  "VPN": {
+    "apps": ["VPN.lat", "Malloc Privacy & Security VPN"],
+    "icon": "shield-key"
+  },
+  "Navigation": {
+    "apps": ["Waze"],
+    "icon": "map-marker"
+  },
+  "Education": {
+    "apps": ["Brilliant", "Duolingo"],
+    "icon": "school"
+  },
+  "Health": {
+    "apps": ["Fitify"],
+    "icon": "heart"
+  },
+  "Drinking Games": {
+    "apps": ["Picolo", "PartyPal", "Never Have I Ever"],
+    "icon": "beer"
+  },
+  "Utils": {
+    "apps": [
+      "App Cloner",
+      "AdGuard",
+      "X-plore File Manager",
+      "Truecaller",
+      "SD Maid Pro",
+      "SD Maid SE",
+      "ES File Explorer"
+    ],
+    "icon": "tools"
+  },
+  "Others": {
+    "apps": ["MicroG", "ReVanced Manager"],
+    "icon": "shape-plus"
+  }
 }
