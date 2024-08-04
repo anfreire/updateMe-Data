@@ -1832,11 +1832,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
-                "version": "1.6.3",
-                "packageName": "filemanager.fileexplorer.manager",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/es_file_manager_modyolo.apk",
+                "version": "4.4.2.12",
+                "packageName": "com.estrongs.android.pop",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/modyolo",
                 "safe": true,
-                "sha256": "dc525cd386ee5228c69b2afe6c167064f633fc6d21e73fce850d2cf0740c0152"
+                "sha256": "6aac354da51f09d2ca861236aa183e4a7039a0989eaa961b2204acc25dfb4f30"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
