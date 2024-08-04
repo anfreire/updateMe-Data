@@ -1535,11 +1535,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.1",
-                "packageName": "com.mxtech.videoplayer.pro",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mx_player_liteapks.apk",
+                "version": "3.6.11",
+                "packageName": "io.friendly.twitter",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "3d653d8e221bb427bb5a6e217071c8088ca0f989c4feb5e7695729790370ee85"
+                "sha256": "ef38a3df960695fde2b457a5855f1207d0ed1ee6eee5adfd07c634af3807b08b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1857,43 +1857,37 @@
         }
     },
     "Friendly For Twitter/X": {
-        "icon": {
-            "icon": "/home/anfreire/Documents/UpdateMe/Data/icons/FriendlyForTwitterX.png",
-            "depends": [],
-            "complements": [],
-            "features": [
-                "Premium Unlocked"
-            ],
-            "providers": {
-                "MODYOLO": {
-                    "source": "https://modyolo.com/friendly-for-twitter.html",
-                    "version": "",
-                    "packageName": "",
-                    "download": "",
-                    "safe": true,
-                    "sha256": ""
-                },
-                "LITEAPKS": {
-                    "source": "https://liteapks.com/friendly-for-twitter.html",
-                    "version": "",
-                    "packageName": "",
-                    "download": "",
-                    "safe": true,
-                    "sha256": ""
-                },
-                "Balatan": {
-                    "source": "https://forum.mobilism.me/viewtopic.php?f=1336&t=5648859&hilit=Friendly+for+twitter",
-                    "version": "",
-                    "packageName": "",
-                    "download": "",
-                    "safe": true,
-                    "sha256": ""
-                }
-            }
-        },
+        "icon": "/home/anfreire/Documents/UpdateMe/Data/icons/FriendlyForTwitterX.png",
         "depends": [],
         "complements": [],
-        "features": [],
-        "providers": {}
+        "features": [
+            "Premium Unlocked"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/friendly-for-twitter.html",
+                "version": "3.6.11",
+                "packageName": "io.friendly.twitter",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/friendlyfortwitterx_modyolo.apk",
+                "safe": false,
+                "sha256": "ef38a3df960695fde2b457a5855f1207d0ed1ee6eee5adfd07c634af3807b08b"
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/friendly-for-twitter.html",
+                "version": "4.2.1",
+                "packageName": "io.friendly.twitter",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/friendlyfortwitterx_liteapks.apk",
+                "safe": true,
+                "sha256": "03b3d39aee97aee951365ff3b033174b20216058f975ecfacd64fb5e994ec83e"
+            },
+            "Balatan": {
+                "source": "https://forum.mobilism.me/viewtopic.php?f=1336&t=5648859&hilit=Friendly+for+twitter",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
