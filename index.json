@@ -356,7 +356,7 @@
                 "packageName": "com.lemon.lvoverseat",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
+                "sha256": "c54e30147d91913ece05ddba53e6500364697d6f225f69b3b4b96bf26fd1013d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -856,11 +856,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "8.0.7",
+                "version": "7.1.6",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
-                "sha256": "df741dd3ad3a712e206b2cae567dcfb2d34f99f6ff6807ee3c7420bc4b244214"
+                "sha256": "93b3b82594db5a48a0e79a6825738973d0ae924cbcb598e4b5542862537dedea"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -868,7 +868,7 @@
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "c63c1a47fb70d943883760e963e2010d13b09ef92fb41a22c54e770034f7c190"
+                "sha256": "472ed31729fcded1074cfa68aeef48266fe0d289e22fb838d62036756ea36cb7"
             }
         }
     },
@@ -887,7 +887,7 @@
                 "packageName": "com.leuco.iptv",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/perfectiptvplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "44efec46948a01132e616001569ede1b6d12889c233fa807c0bdd64b129eea68"
+                "sha256": "ee5562ea9f703faf65bda99d475c13f1b827ca0b93c19959b81e8d8121944e8a"
             }
         }
     },
@@ -1404,11 +1404,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.16.7",
+                "version": "14.16.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "3bd2e9c9334aab58fb152de6b3df6f7193e19e1b6a31f141cb2598dd0e0dcf8f"
+                "sha256": "ec810b396f40daa367ad430040f8f7577fa148beb6b660230ed2db117fd605b6"
             }
         }
     },
@@ -1595,11 +1595,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/sd-maid-pro.html",
-                "version": "5.6.3",
+                "version": "5.6.1",
                 "packageName": "eu.thedarken.sdm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidpro_modyolo.apk",
-                "safe": true,
-                "sha256": "a0998edabbe34a3dffc43b164d3d5df1b487ddc4509b0f3f75fed81579564e23"
+                "safe": false,
+                "sha256": "b50a3a75e57ba6d33c39edce6bb150d2152f52b3558c962f878b0c4d82ff2d37"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-pro.html",
@@ -1644,7 +1644,7 @@
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modyolo.apk",
                 "safe": true,
-                "sha256": "c6999d5bb645dc52c0c8fcb22e032965f07aa1e17d5f9b0ab893d00afa209aef"
+                "sha256": "7a3f1604e24b353c2a0b6db13918bc2abc38d6f58b3a2c8a3df5f66d2664211b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
