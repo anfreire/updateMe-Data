@@ -756,11 +756,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
-                "version": "1.38.0",
+                "version": "1.42.0",
                 "packageName": "com.unvoid.australis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/australis_liteapks.apk",
                 "safe": true,
-                "sha256": "6d901d5782f0523d257f19a6664962823f8ce68eb6c4a4700ad60fd81f818d63"
+                "sha256": "2216c5e621aa0e6bee6e6b0ac111400bb140200bbc7360631fe9de39d316eb92"
             }
         }
     },
@@ -1254,11 +1254,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.5.0",
+                "version": "25.5.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "62c626daab77026e61f8d5e74e7b9e88b2d4c322378fa1550bf3aca2ef42cb78"
+                "sha256": "a4a648fbb80d0f2cebc6e814876ee2a9feebc5b208d25115c3fb42289c30bbe0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
