@@ -417,19 +417,19 @@
         "providers": {
             "MyInsta - Clone": {
                 "source": "https://myinsta.app",
-                "version": "338.0.0.31.95",
+                "version": "340.0.0.22.109",
                 "packageName": "com.myinsta.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinstaclone.apk",
                 "safe": true,
-                "sha256": "6d8ed536096e0129d6d0de16353db988fc90ba8177c133df50f35d444b0ba836"
+                "sha256": "adf8ac68ab32e16940e3101da28dd8adfcc8b8c58e44770d284c57299605b72e"
             },
             "MyInsta - Unclone": {
                 "source": "https://myinsta.app",
-                "version": "338.0.0.31.95",
+                "version": "340.0.0.22.109",
                 "packageName": "com.instagram.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinstaunclone.apk",
                 "safe": true,
-                "sha256": "63107d9dc9ad91de095f37095e0bae832c57934ee4c65d8d2a2ba0f593cd2cd8"
+                "sha256": "a1d7ef9af0b139dec72147d07b2757eece8453fe9e7c08622836bfc72511f36e"
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
@@ -627,7 +627,7 @@
                 "source": "https://5wip-file.ru/download/file/239695.php",
                 "version": "3.2.1",
                 "packageName": "com.williamgjeruldsen.partypalandroid",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/partypal_5mod.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/partypal_5mod.apk",
                 "safe": true,
                 "sha256": "650665dddac47f1baf6a34ff95e15879b5fb37e939e6d350cbaf11a0bd7380cc"
             }
@@ -646,7 +646,7 @@
                 "source": "https://androidrepublic.org/threads/picolo-drinking-game-v3-0-1-mod-apk.104067/",
                 "version": "2.1.8",
                 "packageName": "com.picolo.android",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/picolo_androidrepublic.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picolo_androidrepublic.apk",
                 "safe": true,
                 "sha256": "aff289f9efa8b11117f48fe197db9b00fd603f76ef0a3307b58c8eabcd0cae57"
             }
@@ -1674,19 +1674,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.55.0725",
+                "version": "1.03.57.0805",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/my_diary_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
+                "sha256": "17bbd35542e1ae88e419dc9246e7781dbc0be5f6145452e4770147923a8ad3fe"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.55.0725",
+                "version": "1.03.56.0801",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": true,
-                "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
+                "sha256": "e2bfa57aee74006adf7888583938c4a9124d0b95ec28024803c70803357a6c36"
             }
         }
     },
@@ -1816,7 +1816,7 @@
                 "source": "https://forum.mobilism.me/viewtopic.php?f=428&t=5586766&hilit=Malloc+Privacy+%26+Security+VPN",
                 "version": "2024.02.280",
                 "packageName": "com.mallocprivacy.antistalkerfree",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/malloc_privacy_&_security_vpn_balatan.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/malloc_privacy_._security_vpn_balatan.apk",
                 "safe": true,
                 "sha256": "a73fc323ad8f28e8271e23035386beb21454e308ca5010f135c6aff5153b9a35"
             }
