@@ -239,11 +239,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.60.560",
+                "version": "8.9.62.566",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "b063e57ca0c0d3cd53c7d319281079ca1321ab8d2cd3068d9f15f9ac75828bbc"
+                "sha256": "42b59d4ad882157a0350350c6655b7604da401616c29a0659fab1c21bcaa9a97"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -694,11 +694,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.159.0",
+                "version": "2.160.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
-                "sha256": "9df194f829359af34042cd64ba260f1255a1f6ba998b066cde53b54fea293050"
+                "sha256": "afb5ba37ee7e0a83282176777b442462352ae1ef0e141c27bb9782c144415704"
             }
         }
     },
@@ -982,11 +982,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.2.2",
+                "version": "9.3.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "5f42378931aefab027deffb6201cbb8aebec48c78167a8a6043cf19c508be66c"
+                "sha256": "ac1dca02a86526e47a9ca1c6e15ae36198f5c10801d47d4daffeb0b0e6b1ca03"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1246,11 +1246,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.5.0",
+                "version": "25.5.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "62c626daab77026e61f8d5e74e7b9e88b2d4c322378fa1550bf3aca2ef42cb78"
+                "sha256": "a4a648fbb80d0f2cebc6e814876ee2a9feebc5b208d25115c3fb42289c30bbe0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1396,11 +1396,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.16.7",
+                "version": "14.16.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "d0b37356facd9f30fa65a03a2fee712486738efa2a6d17a45dcf1841945b19ad"
+                "sha256": "0320841f18dd35d12bf510b09bc5a29258f323ff8920b077cbe73448db7199ea"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1500,11 +1500,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.161.2",
+                "version": "5.162.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "7572197dcba693329d966adff7e6ba367c23ad350ace7a75f92dfc2f9d56c1a8"
+                "sha256": "e77f94e3a11988f3b726c57faf84ed30b546a93337dce9cb5e32ef3d43a26434"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1682,11 +1682,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.56.0801",
+                "version": "1.03.55.0725",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": false,
-                "sha256": "e2bfa57aee74006adf7888583938c4a9124d0b95ec28024803c70803357a6c36"
+                "safe": true,
+                "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
             }
         }
     },
