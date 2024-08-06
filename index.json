@@ -1904,5 +1904,49 @@
                 "sha256": "c13313c04cad74b8e8882c32393374fcb9071235a6efdb980645c614beeb60b2"
             }
         }
+    },
+    "VPN - Super Unlimited Proxy": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/VPNSuperUnlimitedProxy.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "All Premium Servers Unlocked",
+            "AOSP Compatible / No Google",
+            "All debug Info Removed"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/vpn-super-unlimited-proxy.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "APKDONE": {
+                "source": "",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "Mixroot": {
+                "source": "https://forum.mobilism.me/viewtopic.php?f=428&t=5685935&hilit=vpn",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
