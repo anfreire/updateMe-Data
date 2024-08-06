@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "7013f0ab07afa41d6a83617310b5cb61c865f6b62e2a5ee1d5b6829bf1827b99"
+                "sha256": "8525099b30c60b6a30b90e4cda8068e23b6c58d679cc7de96a3cbd4ec08dae53"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/revancedapps/revanced.net",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "ca95ccbfb6469144bd12875c1123e60943846026556db58ee895c25e8c28f03b"
+                "sha256": "3b96df6edafe8bb71833f453ea3994fadee738d5c2a02c55ac10b6bfc1f9c748"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -584,11 +584,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.21.1",
+                "version": "1.21.2-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "5627a000c722b7bd5c2122cbf5f419b04dd60e57c070ce72b33d356182f9e64a"
+                "sha256": "804d183007f9218a712b21db74e3db86caf040230f0c15ca0e0f8087d1da0943"
             }
         }
     },
@@ -1472,11 +1472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.36.0-240725",
+                "version": "14.34.0-240711",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "433bed090ef0589089310c492ac615279640c3d196d2528e0f8ac5d3b5520d24"
+                "sha256": "613149001f97e46fbbff9f2e74b3d71bfcb2c508db838df4e8c70e036e1c078e"
             }
         }
     },
@@ -1682,11 +1682,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.55.0725",
+                "version": "1.03.56.0801",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": true,
-                "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
+                "safe": false,
+                "sha256": "e2bfa57aee74006adf7888583938c4a9124d0b95ec28024803c70803357a6c36"
             }
         }
     },
