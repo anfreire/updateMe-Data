@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "347014cba35445c586e22cdceb6145373af109ebc934f401d1d7ded9003301eb"
+                "sha256": "9edfe201beee5b8f832d0c87c8d7bf01b4de876bd7d086c20a0fcf1b4365653a"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -433,11 +433,11 @@
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
-                "version": "328.0.0.42.91",
+                "version": "328.0.0.42.92",
                 "packageName": "cc.honista.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_honinsta.apk",
                 "safe": true,
-                "sha256": "fe90e6c83c19ff396e4d865f97da35c43c1bba8e3b696416bdf80d6e84c4c9c2"
+                "sha256": "d49033fade36fa5a8f55040596e1dc8fb12350e57798079e09111391be8e9ea2"
             },
             "Instander - Clone": {
                 "source": "https://thedise.me/instander/",
