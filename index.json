@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.12.51",
+                "version": "7.13.52",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "0a305a2124be1ba4e64a7ac36ed2f3845bc689d218fc956d8cee1296deb5bf50"
+                "sha256": "347014cba35445c586e22cdceb6145373af109ebc934f401d1d7ded9003301eb"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "b1c4df491fb223dee5b12751d99b4011c5dc0214102d4cc10fce6e74c3299179"
+                "sha256": "6142bdce5cc0f430bac9f04f2f505433670719c03a244fddc4b6dceea241a7d5"
             }
         }
     },
@@ -290,11 +290,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.567.181",
+                "version": "1.566.180",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
                 "safe": true,
-                "sha256": "7e4a8df36bf8e32127d2466f41290f11cc887b7e104d402dad870aa401c5b9f7"
+                "sha256": "bb46eeaa958a10a7a495b491146c19feb3dea8838f7a4e03abeb6194b6fbe3a4"
             }
         }
     },
@@ -520,11 +520,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.5",
+                "version": "1.12.6",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "9282d421db9e286c6b43239402312d28fd138889dd4750c14f9cf8460ac81729"
+                "sha256": "d74629b77cc37f96048c7b224284b9a2b604950ec5cb14651c6b2d8f7484e351"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1220,11 +1220,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.6",
+                "version": "4.7.9",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "3aa499d44a6630807359d584ca02b8aa0a40673289fc95c6aefb35b057c7eeb8"
+                "sha256": "fe23b8080f146f34e4b9e81b4592359c2e1c130487112eaebb7a0ac7231925fb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1262,11 +1262,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.5.2",
+                "version": "25.5.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "a1954b480f026f03c20a1c72ecda65d832908d9a2c817f84993df807c1f89f4b"
+                "sha256": "faee88ccf3b90a90182e2e4c9f0e2d561a877d5f6562125ec7b84cecfd6783c4"
             }
         }
     },
