@@ -290,11 +290,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.566.180",
+                "version": "1.567.181",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
                 "safe": true,
-                "sha256": "bb46eeaa958a10a7a495b491146c19feb3dea8838f7a4e03abeb6194b6fbe3a4"
+                "sha256": "7e4a8df36bf8e32127d2466f41290f11cc887b7e104d402dad870aa401c5b9f7"
             }
         }
     },
@@ -1262,11 +1262,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.5.0",
+                "version": "25.5.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "faee88ccf3b90a90182e2e4c9f0e2d561a877d5f6562125ec7b84cecfd6783c4"
+                "sha256": "a1954b480f026f03c20a1c72ecda65d832908d9a2c817f84993df807c1f89f4b"
             }
         }
     },
@@ -1404,11 +1404,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.16.8",
+                "version": "14.17.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "ec810b396f40daa367ad430040f8f7577fa148beb6b660230ed2db117fd605b6"
+                "sha256": "bdbd63b29c2c9bb01c7a980650db57856cee2c3e63945ed71bd86da2b33ec9c9"
             }
         }
     },
