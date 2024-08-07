@@ -124,8 +124,7 @@
     "VPN": {
         "apps": [
             "VPN.lat",
-            "Malloc Privacy & Security VPN",
-            "VPN - Super Unlimited Proxy"
+            "Malloc Privacy & Security VPN"
         ],
         "icon": "shield-key"
     },
