@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "48ea475a7fcfb572441a9154de1ab8d198e8a0fccc32b5129fc5479ca2f4ce3e"
+                "sha256": "d311f55c3f196689e2f1b8c84f941ee7d69d6d1223ef89ac03ea884cfaf479f1"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "93e2531a19fa9d52426dcc19f359b92abddab21a77da8a9bcc64941a5a692f51"
+                "sha256": "5def9883e042f66eca6092fdc3a6d503a91848004093a7600128d536d36b5c29"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
-                "sha256": "4aec4a847ae542fec91121161da4fd099b5b47ab0994b319092bfae7092a800f"
+                "sha256": "b4e2ea5b83372a41c7f440ec9a9d40b998ad90574d9e6eacffa4520462bcb31d"
             }
         }
     },
@@ -194,7 +194,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "73e534d2f6797a14ba612dfddd4214ae24c27b125ea384beae5435d0e410ad13"
+                "sha256": "6647c3e2b4b2c78d140cb561f427277fa114506bdd365656761d6ea8e3f80005"
             }
         }
     },
@@ -1396,11 +1396,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.16.8",
+                "version": "14.17.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "0320841f18dd35d12bf510b09bc5a29258f323ff8920b077cbe73448db7199ea"
+                "sha256": "bdbd63b29c2c9bb01c7a980650db57856cee2c3e63945ed71bd86da2b33ec9c9"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1682,11 +1682,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.56.0801",
+                "version": "1.03.55.0725",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": true,
-                "sha256": "e2bfa57aee74006adf7888583938c4a9124d0b95ec28024803c70803357a6c36"
+                "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
             }
         }
     },
