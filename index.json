@@ -864,11 +864,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "8.0.7",
+                "version": "8.1.0",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "472ed31729fcded1074cfa68aeef48266fe0d289e22fb838d62036756ea36cb7"
+                "sha256": "e7ac4b4c72d8728c0aacc0825779120971ab07d89e90d0b75a53b09333181bbe"
             }
         }
     },
@@ -1220,11 +1220,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.9",
+                "version": "4.7.10",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "fe23b8080f146f34e4b9e81b4592359c2e1c130487112eaebb7a0ac7231925fb"
+                "sha256": "4f0c3dff6ced900ee3398d7b8abc940378ba8fc8e6a1bd997ee7374759a103e4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
