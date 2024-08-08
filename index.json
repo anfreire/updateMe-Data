@@ -1262,11 +1262,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.5.2",
+                "version": "25.5.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "a1954b480f026f03c20a1c72ecda65d832908d9a2c817f84993df807c1f89f4b"
+                "sha256": "faee88ccf3b90a90182e2e4c9f0e2d561a877d5f6562125ec7b84cecfd6783c4"
             }
         }
     },
