@@ -290,11 +290,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.566.180",
+                "version": "1.567.181",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
                 "safe": true,
-                "sha256": "bb46eeaa958a10a7a495b491146c19feb3dea8838f7a4e03abeb6194b6fbe3a4"
+                "sha256": "7e4a8df36bf8e32127d2466f41290f11cc887b7e104d402dad870aa401c5b9f7"
             }
         }
     },
@@ -325,11 +325,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.0.179",
+                "version": "15.1.188",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "806d06eaececa871c8067d05dd26183b6496b609029d74e98c6e155b0c570be0"
+                "sha256": "7f303910e4502a5ea40b6a3aba8f366fd2d8cac00e81a30cd272917ce582f8b1"
             }
         }
     },
@@ -528,11 +528,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.4",
+                "version": "1.12.6",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
-                "safe": false,
-                "sha256": "007a5d715f7b90480dbf89c3739c95130f93f8c46a5ca162d0d4055f4a478bec"
+                "safe": true,
+                "sha256": "d74629b77cc37f96048c7b224284b9a2b604950ec5cb14651c6b2d8f7484e351"
             }
         }
     },
@@ -837,11 +837,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.05.28-release",
+                "version": "2024.06.25-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": true,
-                "sha256": "0fa11fd52a2d254ce24d23c47b0b948af4ccf5181b2f9c0dc69d7c2c639ad965"
+                "sha256": "03cb1e0ad90eb0011db02feec60513424d0e2d7ec2decfc5e011bd2ce1f931a9"
             }
         }
     },
@@ -998,11 +998,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.2.4",
+                "version": "9.3.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "2bf47f1e6a3f15c88ef048cbb88945b16cb9fc60a2a911dfa820ff72ff18729e"
+                "sha256": "ea6bffe6ecc98bde86e5a8b24bdc95aaaf7d2002c4f06137257db8fb3bf49395"
             }
         }
     },
@@ -1262,11 +1262,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.5.0",
+                "version": "25.5.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "faee88ccf3b90a90182e2e4c9f0e2d561a877d5f6562125ec7b84cecfd6783c4"
+                "sha256": "a1954b480f026f03c20a1c72ecda65d832908d9a2c817f84993df807c1f89f4b"
             }
         }
     },
@@ -1472,11 +1472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.34.0-240711",
+                "version": "14.36.0-240725",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "613149001f97e46fbbff9f2e74b3d71bfcb2c508db838df4e8c70e036e1c078e"
+                "sha256": "433bed090ef0589089310c492ac615279640c3d196d2528e0f8ac5d3b5520d24"
             }
         }
     },
@@ -1508,11 +1508,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.160.7",
+                "version": "5.162.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
-                "safe": true,
-                "sha256": "199c80ba92f2333357eda327cc42edc5bfe92378b47a9472be9dd3123fc366d1"
+                "safe": false,
+                "sha256": "da9f236cc7013a130d18473e83212885a8e5f46fdddb405603578e104a657120"
             }
         }
     },
@@ -1543,11 +1543,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
-                "version": "1.85.7",
+                "version": "1.86.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_apkdone.apk",
-                "safe": true,
-                "sha256": "d85051ddf80deec2734d9085dcb3edd25d165c53c1121d60cea52c5979000d50"
+                "safe": false,
+                "sha256": "7ba9cc590a74f0702f5b2175a81d26209c2ba9cf768cc8f956cddbfd11a08515"
             }
         }
     },
@@ -1682,11 +1682,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.55.0725",
+                "version": "1.03.58.0807",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": true,
-                "sha256": "02228d081061c1bfb39cc23a630635805ee1b8fcd123b01f647ad1a92d7605cd"
+                "sha256": "5019fd9c17cbee667feb427e9305e50785c65c00b657cea002d5ca1942ea730d"
             }
         }
     },
