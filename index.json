@@ -787,11 +787,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.1.1",
+                "version": "6.1.2",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "cc9819a61e741edbd910e7e5b04b22b02bc42a92b3bfdecec2db473aa77c955c"
+                "sha256": "7db5839d2673ead6b05df23220cd5e00aabffe32da6f18f422e11a78ba40e83c"
             }
         }
     },
@@ -1212,19 +1212,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.5",
+                "version": "4.7.11",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "6a524aeff370e481dc9d29ef90f002514b62e8d78688fd6d1f801a37437b3ff6"
+                "sha256": "ea1558579ab85d95e62aae1eb5b45c52767eafceb4d63f1e6ac7b0766c5958ca"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.10",
+                "version": "4.7.11",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "4f0c3dff6ced900ee3398d7b8abc940378ba8fc8e6a1bd997ee7374759a103e4"
+                "sha256": "ea1558579ab85d95e62aae1eb5b45c52767eafceb4d63f1e6ac7b0766c5958ca"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1246,19 +1246,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.5.2",
+                "version": "25.5.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "a4a648fbb80d0f2cebc6e814876ee2a9feebc5b208d25115c3fb42289c30bbe0"
+                "sha256": "e7013a5b7e6cfb47b6f7eb896f1e7acc379a3eb8d327a305dbaa096ce1fbde52"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.5.2",
+                "version": "25.5.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "a4a648fbb80d0f2cebc6e814876ee2a9feebc5b208d25115c3fb42289c30bbe0"
+                "sha256": "e7013a5b7e6cfb47b6f7eb896f1e7acc379a3eb8d327a305dbaa096ce1fbde52"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
