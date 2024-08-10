@@ -1902,11 +1902,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/facebook-arm64-v8a-revanced.apk",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "475.1.0.46.82",
+                "packageName": "com.facebook.katana",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "51eac76d47c5e96ced38bb974b87080ecf7c2eeb877d7c95ec294242ae58a7e9"
             }
         }
     }
