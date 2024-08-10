@@ -197,10 +197,18 @@
         ],
         "providers": {
             "ReVanced": {
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
+                "version": "32.5.3",
+                "packageName": "com.ss.android.ugc.trill",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
+                "safe": true,
+                "sha256": "d7a318f255bd2a655ffd3edeb0ea7707351d5bb024c44dbabe1b163659a55862"
+            },
+            "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "32.5.3",
                 "packageName": "com.zhiliaoapp.musically",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced2.apk",
                 "safe": true,
                 "sha256": "6647c3e2b4b2c78d140cb561f427277fa114506bdd365656761d6ea8e3f80005"
             }
