@@ -1891,5 +1891,23 @@
                 "sha256": "c13313c04cad74b8e8882c32393374fcb9071235a6efdb980645c614beeb60b2"
             }
         }
+    },
+    "Facebook": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/facebook.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Hide story ads"
+        ],
+        "providers": {
+            "ReVanced": {
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/facebook-arm64-v8a-revanced.apk",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            }
+        }
     }
 }
