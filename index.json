@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "3b96df6edafe8bb71833f453ea3994fadee738d5c2a02c55ac10b6bfc1f9c748"
+                "sha256": "0715264652b0e82b04e56fd0111b614c1244acf098a3ef15d59ff5e3453c5a6c"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "9edfe201beee5b8f832d0c87c8d7bf01b4de876bd7d086c20a0fcf1b4365653a"
+                "sha256": "f7d52f35e1bd49d95c7e79c9096b5b8b8903811be322581b3f6bba1eecc7dcb9"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,15 +139,15 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "b5aac2ce322e722c4f1cc675639969aa6a9ef55a08ce83d44107b1efe4abb322"
+                "sha256": "a684f845185fc475e0d8b25b9f5a3d75bf34f12d042d15dbb854ee34cb0a0b13"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2024.17.0",
+                "version": "2024.25.3",
                 "packageName": "com.reddit.frontpage",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "b5aac2ce322e722c4f1cc675639969aa6a9ef55a08ce83d44107b1efe4abb322"
+                "sha256": "05a6f6d15923eb933f3735442cd96feacd4dadb56cbb7afadfe209bfd9f11e59"
             }
         }
     },
@@ -167,11 +167,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "17.1.0",
+                "version": "16.9.1",
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "75b64c3356f758696fa5fd2da8db2d4a2e670393523384a64d3fa8733289fbe3"
+                "sha256": "3437b3a11212b21aef1c325658fd0206e97d7c500e8017e5e2b403feaf57855c"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
