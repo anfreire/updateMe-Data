@@ -2037,5 +2037,39 @@
                 "sha256": "d3d33ad48c55abbb1d3d20bd163084311fb93bd85fb169019acb55c8dff32118"
             }
         }
+    },
+    "XY VPN": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/xyvpn.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "VIP Features Unlocked"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/xy-vpn.html",
+                "version": "4.8.559",
+                "packageName": "com.mate.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
+                "safe": true,
+                "sha256": "962fab47f43c41b8f305c78263cdb957758bcd38828ee0e10bd6e0b3a11a8049"
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/xy-vpn-2.html",
+                "version": "4.8.559",
+                "packageName": "com.mate.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
+                "safe": true,
+                "sha256": "962fab47f43c41b8f305c78263cdb957758bcd38828ee0e10bd6e0b3a11a8049"
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/xy-vpn",
+                "version": "4.8.559",
+                "packageName": "com.mate.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
+                "safe": false,
+                "sha256": "7fe96d569009614a8afd2b69ba8260a33f91e9f7aaf153985357bc2318e9b0e2"
+            }
+        }
     }
 }
