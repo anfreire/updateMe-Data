@@ -1516,11 +1516,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.161.2",
+                "version": "5.163.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "7572197dcba693329d966adff7e6ba367c23ad350ace7a75f92dfc2f9d56c1a8"
+                "sha256": "459164fe2d6c10ee38109ba027f7b58eb626e48d5dcca3fafadc597ea47f1ac5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1901,7 +1901,7 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/facebook-arm64-v8a-revanced.apk",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
                 "version": "475.1.0.46.82",
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
@@ -1922,7 +1922,7 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-revanced.apk",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
                 "version": "439.0.0.29.119",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
@@ -1946,12 +1946,12 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-revanced.apk",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
+                "version": "10.53.0-release.1",
+                "packageName": "com.twitter.android",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "65a157a5f32a1b1d8ddc257301f022b94c54e1aeba210cdb9e5a5b02c85ace31"
             }
         }
     },
@@ -1964,7 +1964,7 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/rar-revanced.apk",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
                 "version": "7.01.build123",
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
