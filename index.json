@@ -1973,37 +1973,37 @@
             }
         }
     },
-    "vpnify": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/vpnify.png",
+    "Secure VPN": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/securevpn.png",
         "depends": [],
         "complements": [],
         "features": [
-            "Paid features unlocked"
+            "VIP Features Unlocked"
         ],
         "providers": {
             "MODYOLO": {
-                "source": "https://modyolo.com/vpnify.html",
-                "version": "2.1.9.8",
-                "packageName": "com.vpn.free.hotspot.secure.vpnify",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnify_modyolo.apk",
-                "safe": false,
-                "sha256": "d85251d85455ef6cdfb64912bb6e5dd56ae7ac1d90b775a554b98ac6027d49f0"
+                "source": "https://modyolo.com/secure-vpn.html",
+                "version": "4.2.10",
+                "packageName": "com.fast.free.unblock.secure.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modyolo.apk",
+                "safe": true,
+                "sha256": "d69c6b747a32b59ea8796eccbee669db37c0ae8009675bf7c1bbaccbc034e55a"
             },
             "LITEAPKS": {
-                "source": "https://liteapks.com/vpnify-unlimited-vpn-proxy-2.html",
-                "version": "2.1.9.8",
-                "packageName": "com.vpn.free.hotspot.secure.vpnify",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnify_liteapks.apk",
-                "safe": false,
-                "sha256": "d85251d85455ef6cdfb64912bb6e5dd56ae7ac1d90b775a554b98ac6027d49f0"
+                "source": "https://liteapks.com/secure-vpn.html",
+                "version": "4.2.10",
+                "packageName": "com.fast.free.unblock.secure.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
+                "safe": true,
+                "sha256": "a3387318a93bc9d76e4f2d4399546bfbddbd445dd72d5a25925c1a89b983f6f7"
             },
             "APKDONE": {
-                "source": "https://apkdone.com/vpnify/",
-                "version": "2.1.9.8",
-                "packageName": "com.vpn.free.hotspot.secure.vpnify",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnify_apkdone.apk",
+                "source": "https://apkdone.com/secure-vpn-apk",
+                "version": "4.2.10",
+                "packageName": "com.fast.free.unblock.secure.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
                 "safe": false,
-                "sha256": "98bb5c0eefc022c832a519f33d04dc19e42b4eb1e7f83a5e8b7b9ff2cba89d32"
+                "sha256": "8e8301ab35af4749e3c3272545adc8c075365f3d0a27d0d88bd04d76785c0293"
             }
         }
     }
