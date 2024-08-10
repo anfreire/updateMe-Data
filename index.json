@@ -1994,7 +1994,7 @@
                 "version": "2.1.9.8",
                 "packageName": "com.vpn.free.hotspot.secure.vpnify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnify_liteapks.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "d85251d85455ef6cdfb64912bb6e5dd56ae7ac1d90b775a554b98ac6027d49f0"
             },
             "APKDONE": {
