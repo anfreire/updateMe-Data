@@ -1430,11 +1430,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "9.4.3",
+                "version": "9.2.2",
                 "packageName": "com.adobe.lrmobile",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "ff301676a10d68f5b9e0c18881e459b3ae4ad331d04c38775cba5c230a12d883"
+                "sha256": "8dd41ad8bc2f112cf083a86cb6cf70ce770197eac191c187a1e986e05ccc5f25"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
