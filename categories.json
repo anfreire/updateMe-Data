@@ -127,7 +127,8 @@
     },
     "VPN": {
         "apps": [
-            "Secure VPN"
+            "Secure VPN",
+            "XY VPN"
         ],
         "icon": "shield-key"
     },
