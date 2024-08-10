@@ -247,11 +247,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.62.566",
+                "version": "8.9.64.548",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "ce3815f5a5bdf94af7067c736e61642a833bf8a496fb45926f912635e8ae8bc7"
+                "sha256": "6bdf80a9045a1c1b97f7b1c741c76600bbc4a8a71c785019711b31d9c8648602"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
