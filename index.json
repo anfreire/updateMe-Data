@@ -1972,5 +1972,39 @@
                 "sha256": "3cda42761ad4bdfbfb73725e2731bc7281da4c59f0827b8fa944829a6ee44a62"
             }
         }
+    },
+    "vpnify": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/vpnify.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Paid features unlocked"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/vpnify.html",
+                "version": "2.1.9.8",
+                "packageName": "com.vpn.free.hotspot.secure.vpnify",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnify_modyolo.apk",
+                "safe": false,
+                "sha256": "d85251d85455ef6cdfb64912bb6e5dd56ae7ac1d90b775a554b98ac6027d49f0"
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/vpnify-unlimited-vpn-proxy-2.html",
+                "version": "2.1.9.8",
+                "packageName": "com.vpn.free.hotspot.secure.vpnify",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnify_liteapks.apk",
+                "safe": true,
+                "sha256": "d85251d85455ef6cdfb64912bb6e5dd56ae7ac1d90b775a554b98ac6027d49f0"
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/vpnify/",
+                "version": "2.1.9.8",
+                "packageName": "com.vpn.free.hotspot.secure.vpnify",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnify_apkdone.apk",
+                "safe": false,
+                "sha256": "98bb5c0eefc022c832a519f33d04dc19e42b4eb1e7f83a5e8b7b9ff2cba89d32"
+            }
+        }
     }
 }
