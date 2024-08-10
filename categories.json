@@ -31,7 +31,8 @@
             "TikTok",
             "Telegram",
             "Snapchat",
-            "Friendly For Twitter/X"
+            "Friendly For Twitter/X",
+            "Messenger"
         ],
         "icon": "account-group"
     },
@@ -122,8 +123,7 @@
         "icon": "briefcase"
     },
     "VPN": {
-        "apps": [
-        ],
+        "apps": [],
         "icon": "shield-key"
     },
     "Navigation": {
