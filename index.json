@@ -2006,5 +2006,36 @@
                 "sha256": "8e8301ab35af4749e3c3272545adc8c075365f3d0a27d0d88bd04d76785c0293"
             }
         }
+    },
+    "KineMaster": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/kinemaster.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Ads/Services, Analytics Disabled",
+            "Pro/Premium Version Unlocked",
+            "Full Subscription Unlocked",
+            "Full Shop/Assets Access Unlocked, Free Buy",
+            "No Watermark, 4K Export Support",
+            "All Functions Unlocked"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/kinemaster-pro.html",
+                "version": "7.4.18.33462.GP",
+                "packageName": "com.nexstreaming.app.kinemasterfree",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
+                "safe": true,
+                "sha256": "d3d33ad48c55abbb1d3d20bd163084311fb93bd85fb169019acb55c8dff32118"
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/kinemaster-app.html",
+                "version": "7.4.18.33462.GP",
+                "packageName": "com.nexstreaming.app.kinemasterfree",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
+                "safe": true,
+                "sha256": "d3d33ad48c55abbb1d3d20bd163084311fb93bd85fb169019acb55c8dff32118"
+            }
+        }
     }
 }
