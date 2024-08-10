@@ -37,20 +37,20 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://github.com/revancedapps/revanced.net",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
                 "version": "19.16.39",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "8525099b30c60b6a30b90e4cda8068e23b6c58d679cc7de96a3cbd4ec08dae53"
+                "sha256": "3d851ea0060d4dc1f5d57cd5a7a7624c00b216f70059deadea6ed0fd63c2bfb9"
             },
             "ReVanced Extended": {
-                "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.25.39",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
+                "version": "19.16.39",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "178202bc43c9ae5290193a1fa7b17b186e79eebb52c1034b8ebb3091f119dc1d"
+                "sha256": "e01b8df4720926e13e3c00b42af8773e848e7b4fc9296488d2c529eb322cab4a"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -134,7 +134,15 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://revanced.net/revanced-reddit-extended",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
+                "version": "2024.17.0",
+                "packageName": "com.reddit.frontpage",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
+                "safe": true,
+                "sha256": "b5aac2ce322e722c4f1cc675639969aa6a9ef55a08ce83d44107b1efe4abb322"
+            },
+            "ReVanced Extended": {
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
                 "version": "2024.17.0",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
@@ -158,7 +166,7 @@
         ],
         "providers": {
             "ReVanced": {
-                "source": "https://revanced.net/revanced-twitch",
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
                 "version": "17.1.0",
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
@@ -1782,43 +1790,6 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": false,
                 "sha256": "18b34447b6c6e620eb59eab29ab1e3c5c813d51e79392867be21663b450aaff9"
-            }
-        }
-    },
-    "VPN.lat": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/vpn.lat.png",
-        "depends": [],
-        "complements": [],
-        "features": [
-            "Paid features unlocked"
-        ],
-        "providers": {
-            "derrin": {
-                "source": "https://forum.mobilism.me/viewtopic.php?f=428&t=5676835&hilit=VPN.lat",
-                "version": "3.8.4.0.3",
-                "packageName": "com.vpn.lat",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vpnlat_derrin.apk",
-                "safe": true,
-                "sha256": "e745ecdea88e943fb8050d39b540fcc9cf6fa4eec55827b64363b003616b0617"
-            }
-        }
-    },
-    "Malloc Privacy & Security VPN": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/malloc_privacy_&_security_vpn.png",
-        "depends": [],
-        "complements": [],
-        "features": [
-            "Premium Unlocked",
-            "Paid features unlocked"
-        ],
-        "providers": {
-            "Balatan": {
-                "source": "https://forum.mobilism.me/viewtopic.php?f=428&t=5586766&hilit=Malloc+Privacy+%26+Security+VPN",
-                "version": "2024.02.280",
-                "packageName": "com.mallocprivacy.antistalkerfree",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/malloc_privacy_._security_vpn_balatan.apk",
-                "safe": true,
-                "sha256": "a73fc323ad8f28e8271e23035386beb21454e308ca5010f135c6aff5153b9a35"
             }
         }
     },
