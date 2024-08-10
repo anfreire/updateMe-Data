@@ -126,7 +126,8 @@
     },
     "VPN": {
         "apps": [
-            "vpnify"
+            "vpnify",
+            "Secure VPN"
         ],
         "icon": "shield-key"
     },
