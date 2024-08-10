@@ -1930,5 +1930,29 @@
                 "sha256": "4fe16db4469e739fe5f1aea903e61d5d33450e263795250cef4c6b56863a4ccb"
             }
         }
+    },
+    "X": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/x.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Hide view count",
+            "Dynamic color",
+            "Hide recommended users",
+            "Hide ads",
+            "Sanitize sharing links",
+            "Open links with app chooser",
+            "Unlock downloads"
+        ],
+        "providers": {
+            "ReVanced": {
+                "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-revanced.apk",
+                "version": "10.53.0-release.1",
+                "packageName": "com.twitter.android",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
+                "safe": true,
+                "sha256": "65a157a5f32a1b1d8ddc257301f022b94c54e1aeba210cdb9e5a5b02c85ace31"
+            }
+        }
     }
 }
