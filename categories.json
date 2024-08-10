@@ -29,12 +29,12 @@
             "Instagram",
             "TikTok",
             "Telegram",
+            "X",
             "Messenger",
             "Snapchat",
             "Reddit",
             "Facebook",
-            "Friendly For Twitter/X",
-            "X"
+            "Friendly For Twitter/X"
         ],
         "icon": "account-group"
     },
@@ -163,7 +163,8 @@
             "Truecaller",
             "SD Maid Pro",
             "SD Maid SE",
-            "ES File Explorer"
+            "ES File Explorer",
+            "RAR"
         ],
         "icon": "tools"
     },
