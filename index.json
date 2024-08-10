@@ -547,19 +547,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 042",
+                "version": "6.4 build 044",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": true,
-                "sha256": "533bf1929228673267c2abc7fb34817085e2fb31cd44f2dc143576bccd7e798e"
+                "sha256": "38eafd9d8ddd9efc5595442f4803529e926d1f231729785bd327da470c997a58"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 041",
+                "version": "6.4 build 044",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "5b7178912d2c782e7373cfcc7de55d4e25fb8405a3a8fd644b2d006fa0126758"
+                "sha256": "4a86b1893cdbae5639fbdb183b3b0fa2936930b2dfb0c6a287a0c46eeecba2eb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1160,11 +1160,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.69.0.2407230000",
+                "version": "6.70.0.2408080000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "199651640794a52023cbb8d235e5b6da004f5fa823e14d5a705a3944d9c369a3"
+                "sha256": "935e8ada2e26b4ce0224acf8734d743dd98c017f429e550c92406eb88b3035e8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1500,11 +1500,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.162.4",
+                "version": "5.163.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "851c6c01412bc668025b03ef329ec61a8066dcfdb75bc6b50db8d4d491c9e481"
+                "sha256": "459164fe2d6c10ee38109ba027f7b58eb626e48d5dcca3fafadc597ea47f1ac5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1621,11 +1621,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.2.2-rc0",
+                "version": "1.2.3-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": true,
-                "sha256": "d04cec513cbb052d668b6a581241799a8d8e6a155590e4b6accc0b3676678b8a"
+                "sha256": "257ef3ec496e1c3cf367aa7fd6e0c0de6b87f3ef352241aae23c6d86760ccd75"
             }
         }
     },
