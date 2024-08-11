@@ -600,11 +600,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.21.2-dev.1",
+                "version": "1.21.2",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "804d183007f9218a712b21db74e3db86caf040230f0c15ca0e0f8087d1da0943"
+                "sha256": "d9096fd601969cd67e192b3da9c06381be5ea8646e057ccf270826fde7e58f45"
             }
         }
     },
@@ -2052,7 +2052,7 @@
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "7fe96d569009614a8afd2b69ba8260a33f91e9f7aaf153985357bc2318e9b0e2"
+                "sha256": "962fab47f43c41b8f305c78263cdb957758bcd38828ee0e10bd6e0b3a11a8049"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
@@ -2060,7 +2060,7 @@
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "7fe96d569009614a8afd2b69ba8260a33f91e9f7aaf153985357bc2318e9b0e2"
+                "sha256": "962fab47f43c41b8f305c78263cdb957758bcd38828ee0e10bd6e0b3a11a8049"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
