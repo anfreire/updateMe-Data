@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "05a6f6d15923eb933f3735442cd96feacd4dadb56cbb7afadfe209bfd9f11e59"
+                "sha256": "3230ee7cccfa8a4164c4f3acfb4d64e37d85f32483904a8b80276fa1883af8c4"
             }
         }
     },
@@ -333,11 +333,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "15.1.188",
+                "version": "15.2.197",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "0f6e61c370190ae32ea5ac8de1b82df782b556c6b643b61d1ce4662f1d29e35f"
+                "sha256": "488b43323299e7eb85d920accbec7258983bc1e7e9d7d8c8b4246d316a323c1b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1360,11 +1360,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.11.1",
+                "version": "18.12",
                 "packageName": "cn.wps.moffice_eng",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wps_office_liteapks.apk",
-                "safe": true,
-                "sha256": "1e203c994a3475c4a95720f1d312dc101c343261d8379c64f4e74283549762b2"
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
+                "safe": false,
+                "sha256": "6ee43bc29c20859ed55ee1be480689b294286d5ebb9fada1055fbc7c71a3801f"
             }
         }
     },
@@ -1382,7 +1382,7 @@
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": true,
-                "sha256": "6da73446ec00ec76a274b13baac7aef19edf35123122defa5accc33b01242360"
+                "sha256": "05bf094f5d7b2ab4fa54fa3e1d38fc1a8add466881a12d8ed8cb171687824363"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -1412,11 +1412,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.17.5",
+                "version": "14.17.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "bdbd63b29c2c9bb01c7a980650db57856cee2c3e63945ed71bd86da2b33ec9c9"
+                "sha256": "55b49d736d9319676af42c0e5fb04bcea2b443fc8f8f3f4a2c034a3b0fe584f7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1698,11 +1698,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.57.0805",
+                "version": "1.03.59.0809",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "17bbd35542e1ae88e419dc9246e7781dbc0be5f6145452e4770147923a8ad3fe"
+                "sha256": "61740f99d9c49f01ff97824655e37177e1771449e6c5533e4327c0dc543ba3bb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
