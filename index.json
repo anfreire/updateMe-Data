@@ -2052,7 +2052,7 @@
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "962fab47f43c41b8f305c78263cdb957758bcd38828ee0e10bd6e0b3a11a8049"
+                "sha256": "7fe96d569009614a8afd2b69ba8260a33f91e9f7aaf153985357bc2318e9b0e2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
@@ -2060,7 +2060,7 @@
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "962fab47f43c41b8f305c78263cdb957758bcd38828ee0e10bd6e0b3a11a8049"
+                "sha256": "7fe96d569009614a8afd2b69ba8260a33f91e9f7aaf153985357bc2318e9b0e2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
