@@ -66,7 +66,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
-                "sha256": "d75d14ceaaa964982d37876279f3c294af9ff4680202a18ed6d2a70e8a481067"
+                "sha256": "200fef370ac098ae33a78d7596dad3943416523ff2ef18325270f1f98ad35c9b"
             }
         }
     },
@@ -113,7 +113,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
-                "sha256": "46b2098c3f8b5fc98d34af3c602597327b76d97f3959c4477c33a386fc41b5c8"
+                "sha256": "d969d95acf766c74f9180d177428bb2e1287598de65b3bfe1706419625537100"
             }
         }
     },
@@ -1394,11 +1394,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.38.30",
+                "version": "4.38.31",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
-                "sha256": "0ec5a89cce4c8da64171d863a31b7521d72022303e3361955f716b1a22684971"
+                "sha256": "dab1ea2666ca58b4cf4bc9391327fce3a1cc97b10c4afb9f5129631f2c80bf1a"
             }
         }
     },
@@ -1524,11 +1524,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.163.1",
+                "version": "5.163.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "459164fe2d6c10ee38109ba027f7b58eb626e48d5dcca3fafadc597ea47f1ac5"
+                "sha256": "1fefe863b9a4a111f0ac43954f2b9493cd79b2ef24dd99e32a14f4612491034b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
