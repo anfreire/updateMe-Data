@@ -1386,11 +1386,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.38.30",
+                "version": "4.38.31",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
-                "sha256": "05bf094f5d7b2ab4fa54fa3e1d38fc1a8add466881a12d8ed8cb171687824363"
+                "sha256": "9c1a5d8a571865c8efc240441237cb26d857db93f5c72381ef28ae0789161ee8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1420,11 +1420,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.17.5",
+                "version": "14.17.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "bdbd63b29c2c9bb01c7a980650db57856cee2c3e63945ed71bd86da2b33ec9c9"
+                "sha256": "55b49d736d9319676af42c0e5fb04bcea2b443fc8f8f3f4a2c034a3b0fe584f7"
             }
         }
     },
@@ -1947,11 +1947,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.53.0-release.1",
+                "version": "10.53.2-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "65a157a5f32a1b1d8ddc257301f022b94c54e1aeba210cdb9e5a5b02c85ace31"
+                "sha256": "bcc6d46ddffd93848f43e7850363a517fa44e177080eef3b45cc4f87d9560f6c"
             }
         }
     },
