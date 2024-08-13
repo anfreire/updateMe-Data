@@ -1394,11 +1394,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.38.31",
+                "version": "4.38.30",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
-                "sha256": "dab1ea2666ca58b4cf4bc9391327fce3a1cc97b10c4afb9f5129631f2c80bf1a"
+                "sha256": "0ec5a89cce4c8da64171d863a31b7521d72022303e3361955f716b1a22684971"
             }
         }
     },
@@ -1412,11 +1412,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.17.7",
+                "version": "14.18.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "55b49d736d9319676af42c0e5fb04bcea2b443fc8f8f3f4a2c034a3b0fe584f7"
+                "sha256": "2b76d96ab4274cab6f2d59e9bb366da2e63331a416763234edb6fe34011df9f2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
