@@ -341,11 +341,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.1.188",
+                "version": "15.2.197",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "7f303910e4502a5ea40b6a3aba8f366fd2d8cac00e81a30cd272917ce582f8b1"
+                "sha256": "5ceb685f9db8e75f7880c820c494d4136da37e1f268d5a6d29c6890cabe2d462"
             }
         }
     },
@@ -1091,11 +1091,11 @@
         "providers": {
             "OnStream": {
                 "source": "https://onstream.so/",
-                "version": "1.1.4",
+                "version": "1.1.5",
                 "packageName": "com.maertsno.m",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onstream_onstream.apk",
                 "safe": true,
-                "sha256": "213d9a347cd0ee1613b4107f8887c9c5c7d86fbbbdaaddb74c66766cb7353675"
+                "sha256": "afdb68ef08519c2b1fd44f1c522869f1177b8f7482157ae1076af50078b083ff"
             }
         }
     },
@@ -1378,19 +1378,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.38.30",
+                "version": "4.38.33",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": true,
-                "sha256": "05bf094f5d7b2ab4fa54fa3e1d38fc1a8add466881a12d8ed8cb171687824363"
+                "sha256": "607d851c3449b2325a941cb69fd43ef2d4e0d124e71e1bce19d7bfc192b9ccb4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.38.31",
+                "version": "4.38.33",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
-                "sha256": "9c1a5d8a571865c8efc240441237cb26d857db93f5c72381ef28ae0789161ee8"
+                "sha256": "607d851c3449b2325a941cb69fd43ef2d4e0d124e71e1bce19d7bfc192b9ccb4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "9.4.3",
+                "version": "9.5.0",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
                 "safe": true,
-                "sha256": "efd80ac3d0dfe9f8dd520a3599e52fc556a72ddb94ab65a80b403ae0f91b379a"
+                "sha256": "796c13e466602ac72adf7a92654c00044e0b51a6092b8ab0f9f93a688877cbd8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
