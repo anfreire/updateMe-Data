@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "6fc455f85e74a209a201bd558aafe1ea019894f7c2aa48679e2204885a1a91b8"
+                "sha256": "bbc4c56fc09935485b4fd2c99269324580d92b332e036f290878fb45be42c1a2"
             }
         }
     },
@@ -1420,11 +1420,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.17.7",
+                "version": "14.18.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "55b49d736d9319676af42c0e5fb04bcea2b443fc8f8f3f4a2c034a3b0fe584f7"
+                "sha256": "2b76d96ab4274cab6f2d59e9bb366da2e63331a416763234edb6fe34011df9f2"
             }
         }
     },
