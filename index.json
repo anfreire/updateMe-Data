@@ -1394,11 +1394,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.38.31",
+                "version": "4.38.30",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
-                "sha256": "dab1ea2666ca58b4cf4bc9391327fce3a1cc97b10c4afb9f5129631f2c80bf1a"
+                "sha256": "0ec5a89cce4c8da64171d863a31b7521d72022303e3361955f716b1a22684971"
             }
         }
     },
