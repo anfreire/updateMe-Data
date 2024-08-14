@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "bbc4c56fc09935485b4fd2c99269324580d92b332e036f290878fb45be42c1a2"
+                "sha256": "1c4374ad8fdf844b63f41989434d25ed8627d4a887af1dc329509cfae9aaa005"
             }
         }
     },
@@ -341,11 +341,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.2.197",
+                "version": "15.1.188",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "5ceb685f9db8e75f7880c820c494d4136da37e1f268d5a6d29c6890cabe2d462"
+                "sha256": "7f303910e4502a5ea40b6a3aba8f366fd2d8cac00e81a30cd272917ce582f8b1"
             }
         }
     },
@@ -1312,11 +1312,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.79.1",
+                "version": "1.80.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
                 "safe": true,
-                "sha256": "461f3966b36bda142cca1b84e39c4e78adb927828b32265ecb26fc28fcf8dd95"
+                "sha256": "f0ccc891de6eeda3c9509a9e0a31100f8a3e06127b75655e9c4427d4299a2324"
             }
         }
     },
@@ -1394,11 +1394,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.38.30",
+                "version": "4.38.33",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
-                "sha256": "0ec5a89cce4c8da64171d863a31b7521d72022303e3361955f716b1a22684971"
+                "sha256": "607d851c3449b2325a941cb69fd43ef2d4e0d124e71e1bce19d7bfc192b9ccb4"
             }
         }
     },
@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.36.0-240725",
+                "version": "14.37.0-240802",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
-                "safe": true,
-                "sha256": "433bed090ef0589089310c492ac615279640c3d196d2528e0f8ac5d3b5520d24"
+                "safe": false,
+                "sha256": "fceb0326f41f45344c897fd0458dcde8758c7b10f2b74a0f135ca38a9185cdb9"
             }
         }
     },
@@ -1706,11 +1706,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.58.0807",
+                "version": "1.03.59.0809",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": true,
-                "sha256": "5019fd9c17cbee667feb427e9305e50785c65c00b657cea002d5ca1942ea730d"
+                "sha256": "718fe524a748a2f230ae97bdc6b4cdf5483fb7074f4afdb9fb94c92c3319a69b"
             }
         }
     },
