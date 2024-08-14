@@ -325,11 +325,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "15.0.174",
+                "version": "15.2.197",
                 "packageName": "com.adobe.psmobile",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshop_express_modyolo.apk",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "18614ce43b5a1a826eddd56bc289691700701202b5c5d69c9fc40359a115e1ba"
+                "sha256": "488b43323299e7eb85d920accbec7258983bc1e7e9d7d8c8b4246d316a323c1b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -341,11 +341,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.1.188",
+                "version": "15.2.197",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "7f303910e4502a5ea40b6a3aba8f366fd2d8cac00e81a30cd272917ce582f8b1"
+                "sha256": "5ceb685f9db8e75f7880c820c494d4136da37e1f268d5a6d29c6890cabe2d462"
             }
         }
     },
@@ -1184,11 +1184,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.69.0.2407230000",
+                "version": "6.70.0.2408080000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": true,
-                "sha256": "64b045f1be5c25ff34342eda792a2d6e20a0d568f1e7daaddf84032a4f3c8de7"
+                "sha256": "c5b6f52bc316afe3f928c2ba828a680e982c8790ab90197f516f8bd138e0c749"
             }
         }
     },
@@ -1244,11 +1244,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.10",
+                "version": "4.7.11",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "f99e0c157f519dc18be3f7fbed66f6bfb77ad8750770b4c5e8f1c1c5143d0d41"
+                "sha256": "2cd7d1d1f171251cb2f1d21c0da105b753581f23901f82b666f9775689194d09"
             }
         }
     },
@@ -1278,11 +1278,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.5.2",
+                "version": "25.5.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "a1954b480f026f03c20a1c72ecda65d832908d9a2c817f84993df807c1f89f4b"
+                "sha256": "1f4e6e9cbce12813b106d48e675d6cf09a462ee3e11ae520c72e62f6bca55a79"
             }
         }
     },
@@ -1296,19 +1296,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.79.1",
+                "version": "1.80.4",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "95cdf2d5559bb6f29d536007ee38d62e51706461309a060831993845a23323d5"
+                "sha256": "a31862fd538d436f1564e3739c678f97689ff0da56954432383c78a86d42f6ee"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.79.1",
+                "version": "1.80.4",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "1bc42c618172ab6a93f51bccc582460152bdb3317aeeca61d5ab17dd00063e3e"
+                "sha256": "a31862fd538d436f1564e3739c678f97689ff0da56954432383c78a86d42f6ee"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
-                "version": "9.4.3",
+                "version": "9.5.0",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_apkdone.apk",
                 "safe": true,
-                "sha256": "aed96c7b695c873f858578b4aded23a4ec4194848efd0b189b6293ec3f28fd0a"
+                "sha256": "9082eb7a6edc3b54af8c6d77cf69718b4d497cd27669ae481bc441f04c1e7991"
             }
         }
     },
