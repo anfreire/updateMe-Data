@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "1c4374ad8fdf844b63f41989434d25ed8627d4a887af1dc329509cfae9aaa005"
+                "sha256": "ad3a85dfa0b5d38d8ee1c8ac9f14058b81c21bdefb502e25c7b2cf56b9a2f2f1"
             }
         }
     },
@@ -1121,11 +1121,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "10.9.7.0",
+                "version": "10.9.8.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "4339b905b32358ace951f8106d8082eba53a5880b27aa9850a8247dad9358291"
+                "sha256": "1eb077f3db05e153390b4602d58310dc62f45c476965ca70cc1a41075d4ac3ac"
             }
         }
     },
@@ -1524,11 +1524,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.163.4",
+                "version": "5.163.6",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "1fefe863b9a4a111f0ac43954f2b9493cd79b2ef24dd99e32a14f4612491034b"
+                "sha256": "881a4167dfb1473a048de4132152a403ebd4dbc5409be6fe305c35f2e290e060"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1947,11 +1947,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.53.2-release.0",
+                "version": "10.54.1-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "bcc6d46ddffd93848f43e7850363a517fa44e177080eef3b45cc4f87d9560f6c"
+                "sha256": "96cf01fb7ab4a063ed8631f29feec56d6980a4eecfdc5b29121ca68c26989d8f"
             }
         }
     },
