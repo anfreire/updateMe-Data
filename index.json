@@ -408,11 +408,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
-                "safe": true,
-                "sha256": ""
+                "version": "12.6.0",
+                "packageName": "com.lemon.lvoverseas",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
+                "safe": false,
+                "sha256": "f62a8b16aa5ddd95428813899dd9155eb57ad2cede8a587994a3a74e4c5369fe"
             }
         }
     },
@@ -964,7 +964,7 @@
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modzoco.apk",
                 "safe": true,
-                "sha256": "143b43fb9782f6345913e479a2f37cfc95771c28e246918af741cc5ff888849b"
+                "sha256": "7370d442dfbb1e6696aa96e5beaeee04b2fa19dc445981728a6cd08e954a571a"
             }
         }
     },
@@ -1731,7 +1731,7 @@
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modzoco.apk",
                 "safe": true,
-                "sha256": "986647136b40cafb0777066126594fdbd33d8d912d0cff0beb7ab7ef81b27917"
+                "sha256": "8de2d41adaa04d39d18d7d806a831914ebd85472d0f5c1a82658d301eb54576a"
             }
         }
     },
