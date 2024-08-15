@@ -2345,5 +2345,47 @@
                 "sha256": "78180ee442e59ca99f676a40225317f2b15176d7b1927f3af1244808d40131af"
             }
         }
+    },
+    "Photomath": {
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/photomath.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Plus Unlocked"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/photomath-microblink.html",
+                "version": "8.37.0",
+                "packageName": "com.microblink.photomath",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modyolo.apk",
+                "safe": true,
+                "sha256": "35a2f96aa9dd0bd7765d7971fc981911d64cd468776f9a4e9b9ab4e112435dfa"
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/photomath.html",
+                "version": "8.38.0",
+                "packageName": "com.microblink.photomath",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_liteapks.apk",
+                "safe": true,
+                "sha256": "dda81bb4e39599cf8de718de404c6b96499a2b04ae9ae8528e872aee21277871"
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/photomath/",
+                "version": "8.39.0",
+                "packageName": "com.microblink.photomath",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_apkdone.apk",
+                "safe": false,
+                "sha256": "1b903dafa11ba100b6ce2ad184b0437b3e00b6687bdef2cf3786c1d2b84c3912"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/photomath.html",
+                "version": "8.38.0",
+                "packageName": "com.microblink.photomath",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modzoco.apk",
+                "safe": false,
+                "sha256": "d3833d2748210108eb3a5cdbb32561ba842e7ab37349ddde8eef811232c49386"
+            }
+        }
     }
 }
