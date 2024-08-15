@@ -2082,27 +2082,27 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
-                "safe": true,
-                "sha256": ""
+                "version": "7.2.5.0",
+                "packageName": "com.ticktick.task",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
+                "safe": false,
+                "sha256": "da6958ce845503d4891e95c9bc106af25d20edeffe7034dd7406af99b3d74454"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "7.3.0.0",
+                "packageName": "com.ticktick.task",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "0177ce7d3970be8917b3050b7ca5304f0bdb1ce4e86621fa86ef2449a4e5498d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "",
-                "packageName": "",
-                "download": "",
-                "safe": true,
-                "sha256": ""
+                "version": "7.3.0.0",
+                "packageName": "com.ticktick.task",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
+                "safe": false,
+                "sha256": "8bd857f5b8527ecd469015af1acf465f6440c1431c74e4283d33dc1335301d4f"
             }
         }
     }
