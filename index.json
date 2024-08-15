@@ -276,6 +276,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
                 "safe": false,
                 "sha256": "1ef5edeff5fc87df4f49dcab3d776d48f5687afead6e615df63ace20b1b68c14"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/spotify-music.html",
+                "version": "8.9.66.543",
+                "packageName": "com.spotify.music",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modzoco.apk",
+                "safe": false,
+                "sha256": "c3b4090b7aa9ea79e3718b0155a5edb832a938d8b72b143ee2ab7edcff17f300"
             }
         }
     },
@@ -311,6 +319,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
                 "safe": true,
                 "sha256": "7e4a8df36bf8e32127d2466f41290f11cc887b7e104d402dad870aa401c5b9f7"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/photo-editor-pro-polish.html",
+                "version": "1.571.183",
+                "packageName": "photo.editor.photoeditor.photoeditorpro",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modzoco.apk",
+                "safe": false,
+                "sha256": "591c84fe16e4ba65e53ca07e3ccb471aa8547a8270fd8f3f31e5ddeab346defd"
             }
         }
     },
@@ -346,6 +362,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
                 "sha256": "5ceb685f9db8e75f7880c820c494d4136da37e1f268d5a6d29c6890cabe2d462"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/photoshop-express-photo-editor.html",
+                "version": "15.2.197",
+                "packageName": "com.adobe.psmobile",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
+                "safe": false,
+                "sha256": "ec76c205db0a443a6cbb313f5cf17e4c0508442b9a8960a78b64716053cffa1f"
             }
         }
     },
@@ -381,6 +405,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": true,
                 "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/capcut-video-editor.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
             }
         }
     },
@@ -416,6 +448,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": true,
                 "sha256": "db88200d2f2b4838c1153907b445b3e155b11b8e910a6536eada2676219f87ac"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/inshot.html",
+                "version": "2.066.1460",
+                "packageName": "com.camerasideas.instashot",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modzoco.apk",
+                "safe": false,
+                "sha256": "c1e41789c2db215d2182d072165fce854461f48dce141c5a7a9e56f1e0c50477"
             }
         }
     },
@@ -549,6 +589,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": true,
                 "sha256": "d74629b77cc37f96048c7b224284b9a2b604950ec5cb14651c6b2d8f7484e351"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/niagara-launcher.html",
+                "version": "1.12.6",
+                "packageName": "bitpit.launcher",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
+                "safe": true,
+                "sha256": "d74629b77cc37f96048c7b224284b9a2b604950ec5cb14651c6b2d8f7484e351"
             }
         }
     },
@@ -584,6 +632,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
                 "safe": true,
                 "sha256": "096017d92ef043aaad94c1b7cc7391b99334735e4455e48f495dc3f20dbbe75f"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/smart-launcher-6.html",
+                "version": "6.4 build 043",
+                "packageName": "ginlemon.flowerfree",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
+                "safe": true,
+                "sha256": "faa229c748459ea701911ec32fbce2ae0324a5b1584a5e0823ea04b0f1373131"
             }
         }
     },
@@ -715,6 +771,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
                 "sha256": "afb5ba37ee7e0a83282176777b442462352ae1ef0e141c27bb9782c144415704"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/borealis-icon-pack.html",
+                "version": "2.160.0",
+                "packageName": "com.unvoid.borealis",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_modzoco.apk",
+                "safe": false,
+                "sha256": "afb5ba37ee7e0a83282176777b442462352ae1ef0e141c27bb9782c144415704"
             }
         }
     },
@@ -808,6 +872,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
                 "sha256": "7db5839d2673ead6b05df23220cd5e00aabffe32da6f18f422e11a78ba40e83c"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/vera-icon-pack.html",
+                "version": "6.1.1",
+                "packageName": "cs14.pixelperfect.iconpack.vera",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modzoco.apk",
+                "safe": false,
+                "sha256": "cc9819a61e741edbd910e7e5b04b22b02bc42a92b3bfdecec2db473aa77c955c"
             }
         }
     },
@@ -885,6 +957,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
                 "sha256": "e7ac4b4c72d8728c0aacc0825779120971ab07d89e90d0b75a53b09333181bbe"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/iptv-pro.html",
+                "version": "8.1.0",
+                "packageName": "ru.iptvremote.android.iptv.pro",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modzoco.apk",
+                "safe": true,
+                "sha256": "143b43fb9782f6345913e479a2f37cfc95771c28e246918af741cc5ff888849b"
             }
         }
     },
@@ -1075,6 +1155,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_apkdone.apk",
                 "safe": true,
                 "sha256": "22af2ba6b27644a432abd68f4f3666dc1aa29a5c714279db388de9ba5345d70f"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/musixmatch-lyrics-finder.html",
+                "version": "7.11.2",
+                "packageName": "com.musixmatch.android.lyrify",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_modzoco.apk",
+                "safe": false,
+                "sha256": "99060c46c9f11e09d06dcc37170d6fa9041191bb981e0fdd8a36e9008d73de9f"
             }
         }
     },
@@ -1155,6 +1243,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
                 "sha256": "f0d7292eba6c6cc52faeceb0f3f9248a4d2826dd4bee96bcbb53891744086af1"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/showly.html",
+                "version": "3.38.0",
+                "packageName": "com.michaldrabik.showly2",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modzoco.apk",
+                "safe": true,
+                "sha256": "9ac9c4274f05effef0b03f4be7f2d51a09a23fce6c5eb79b9d763e680ef60925"
             }
         }
     },
@@ -1189,6 +1285,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": true,
                 "sha256": "c5b6f52bc316afe3f928c2ba828a680e982c8790ab90197f516f8bd138e0c749"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/camscanner.html",
+                "version": "6.69.0.2407230000",
+                "packageName": "com.intsig.camscanner",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
+                "safe": true,
+                "sha256": "64b045f1be5c25ff34342eda792a2d6e20a0d568f1e7daaddf84032a4f3c8de7"
             }
         }
     },
@@ -1247,6 +1351,14 @@
                 "version": "4.7.11",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
+                "safe": true,
+                "sha256": "2cd7d1d1f171251cb2f1d21c0da105b753581f23901f82b666f9775689194d09"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/adguard.html",
+                "version": "4.7.11",
+                "packageName": "com.adguard.android",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
                 "sha256": "2cd7d1d1f171251cb2f1d21c0da105b753581f23901f82b666f9775689194d09"
             }
@@ -1365,6 +1477,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
                 "sha256": "6ee43bc29c20859ed55ee1be480689b294286d5ebb9fada1055fbc7c71a3801f"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/wps-office.html",
+                "version": "18.11.1",
+                "packageName": "cn.wps.moffice_eng",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
+                "safe": false,
+                "sha256": "517383f1a5972f00c670c1a2edd78b8fdff8799370e05273d42e4efe1ac82531"
             }
         }
     },
@@ -1399,6 +1519,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
                 "sha256": "607d851c3449b2325a941cb69fd43ef2d4e0d124e71e1bce19d7bfc192b9ccb4"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/x-plore-file-manager.html",
+                "version": "4.38.33",
+                "packageName": "com.lonelycatgames.Xplore",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modzoco.apk",
+                "safe": true,
+                "sha256": "246004f23c55b71e51df78f374bfb15f773e95e7defef019e561deffab889d5f"
             }
         }
     },
@@ -1467,6 +1595,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_apkdone.apk",
                 "safe": true,
                 "sha256": "9082eb7a6edc3b54af8c6d77cf69718b4d497cd27669ae481bc441f04c1e7991"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/adobe-lightroom.html",
+                "version": "9.5.0",
+                "packageName": "com.adobe.lrmobile",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modzoco.apk",
+                "safe": true,
+                "sha256": "8c238c18f04f9598d2a8deaecee717604e3f3025895c3b4bf969608e7210c4f9"
             }
         }
     },
@@ -1501,6 +1637,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": false,
                 "sha256": "fceb0326f41f45344c897fd0458dcde8758c7b10f2b74a0f135ca38a9185cdb9"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/shazam.html",
+                "version": "14.36.0-240725",
+                "packageName": "com.shazam.android",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
+                "safe": true,
+                "sha256": "433bed090ef0589089310c492ac615279640c3d196d2528e0f8ac5d3b5520d24"
             }
         }
     },
@@ -1537,6 +1681,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": false,
                 "sha256": "da9f236cc7013a130d18473e83212885a8e5f46fdddb405603578e104a657120"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/duolingo.html",
+                "version": "5.163.1",
+                "packageName": "com.duolingo",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
+                "safe": false,
+                "sha256": "3d1f9bdd6104ec507264ea4e555e5c1f387a8a764ebfb0a2a13f258a2204b92b"
             }
         }
     },
@@ -1572,6 +1724,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_apkdone.apk",
                 "safe": false,
                 "sha256": "7ba9cc590a74f0702f5b2175a81d26209c2ba9cf768cc8f956cddbfd11a08515"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/mx-player-pro.html",
+                "version": "1.86.0",
+                "packageName": "com.mxtech.videoplayer.pro",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modzoco.apk",
+                "safe": true,
+                "sha256": "986647136b40cafb0777066126594fdbd33d8d912d0cff0beb7ab7ef81b27917"
             }
         }
     },
@@ -1606,6 +1766,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": true,
                 "sha256": "0e23e3c5a18480ec4da408201a1cd0deae72da40fc5453e300e97797fa9bff9e"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/snow.html",
+                "version": "13.2.16",
+                "packageName": "com.campmobile.snow",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
+                "safe": false,
+                "sha256": "1651e9c6089b170b12c32ba61d098f7666cf06fab91113091275e437cc48a2ee"
             }
         }
     },
@@ -1685,6 +1853,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_apkdone.apk",
                 "safe": true,
                 "sha256": "d5155476d8cedc2c2bf81552c171b00c2681a4dd6c87bd2d7fedea1212486bf2"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/1dm.html",
+                "version": "16",
+                "packageName": "idm.internet.download.manager.plus",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modzoco.apk",
+                "safe": true,
+                "sha256": "7a3f1604e24b353c2a0b6db13918bc2abc38d6f58b3a2c8a3df5f66d2664211b"
             }
         }
     },
@@ -1711,6 +1887,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": true,
                 "sha256": "718fe524a748a2f230ae97bdc6b4cdf5483fb7074f4afdb9fb94c92c3319a69b"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/my-diary.html",
+                "version": "1.03.59.0809",
+                "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
+                "safe": false,
+                "sha256": "acd471165ced7cbbbe20c688ff2c0f8493ef0f0f2e230546b0133344ee0a91e8"
             }
         }
     },
@@ -1780,6 +1964,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_apkdone.apk",
                 "safe": false,
                 "sha256": "08d6e04660cca48dbce32f6b0f94ba6df9ed1c356775bfa0f779e88f9189b06f"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/nova-launcher-prime.html",
+                "version": "8.0.13",
+                "packageName": "com.teslacoilsw.launcher",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_modzoco.apk",
+                "safe": false,
+                "sha256": "03f46627d62f2118376986818d01726b7a93a2fe6afdc1f80e25cfb3df7ce5d2"
             }
         }
     },
@@ -1806,6 +1998,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": false,
                 "sha256": "18b34447b6c6e620eb59eab29ab1e3c5c813d51e79392867be21663b450aaff9"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/waze.html",
+                "version": "4.103.1.2 chuppito release",
+                "packageName": "com.waze",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
+                "safe": false,
+                "sha256": "b5a9180a365a232161a5a75b510ebc3660cbc3234332104129eca764bd515292"
             }
         }
     },
@@ -1840,6 +2040,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_apkdone.apk",
                 "safe": true,
                 "sha256": "2ff6771fd7accbb74c3bb6baad5b103273a80b9030287dd38b6d4572de36065c"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/es-file-explorer.html",
+                "version": "4.4.2.5",
+                "packageName": "com.estrongs.android.pop",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modzoco.apk",
+                "safe": false,
+                "sha256": "4f800843a93eb306a83f10e3eb22db325328259f9cc2b2b7f5c1b43f51689571"
             }
         }
     },
@@ -1970,6 +2178,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
                 "sha256": "3cda42761ad4bdfbfb73725e2731bc7281da4c59f0827b8fa944829a6ee44a62"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/rar.html",
+                "version": "7.00.build122",
+                "packageName": "com.rarlab.rar",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_modzoco.apk",
+                "safe": true,
+                "sha256": "805536d161cc4ba0777d15a54941b6ff60071d11df4234f428e1834f48a777c2"
             }
         }
     },
@@ -2004,6 +2220,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
                 "safe": false,
                 "sha256": "8e8301ab35af4749e3c3272545adc8c075365f3d0a27d0d88bd04d76785c0293"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/secure-vpn.html",
+                "version": "4.2.10",
+                "packageName": "com.fast.free.unblock.secure.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modzoco.apk",
+                "safe": false,
+                "sha256": "5daf1259ef382f3b5eeac75cfee36aad04f72e33e4213f9056a0c8f57b115b44"
             }
         }
     },
@@ -2069,6 +2293,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
                 "sha256": "7fe96d569009614a8afd2b69ba8260a33f91e9f7aaf153985357bc2318e9b0e2"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/xy-vpn.html",
+                "version": "4.8.561",
+                "packageName": "com.mate.vpn",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
+                "safe": false,
+                "sha256": "d8aee84bb5235e0dc40e75300b10355402a442edfae75a79c1ae1a7a255af5ee"
             }
         }
     },
