@@ -2081,7 +2081,7 @@
         }
     },
     "TickTick": {
-        "icon": "/home/anfreire/Documents/UpdateMe/Data/icons/ticktick.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/ticktick.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2111,6 +2111,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
                 "sha256": "8bd857f5b8527ecd469015af1acf465f6440c1431c74e4283d33dc1335301d4f"
+            },
+            "PieMods": {
+                "source": "https://piemods.com/ticktickto-do-list-mod-apk/",
+                "version": "6.5.0.0",
+                "packageName": "com.ticktick.task",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_piemods.apk",
+                "safe": true,
+                "sha256": "b277077a84a22237db779df0a8382b2107f25d315f88558a8030a164000ac429"
             }
         }
     }
