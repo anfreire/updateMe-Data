@@ -2119,6 +2119,14 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_piemods.apk",
                 "safe": false,
                 "sha256": "b277077a84a22237db779df0a8382b2107f25d315f88558a8030a164000ac429"
+            },
+            "MODZOCO": {
+                "source": "https://modzoco.com/ticktick.html",
+                "version": "7.2.5.0",
+                "packageName": "com.ticktick.task",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modzoco.apk",
+                "safe": true,
+                "sha256": "78180ee442e59ca99f676a40225317f2b15176d7b1927f3af1244808d40131af"
             }
         }
     }
