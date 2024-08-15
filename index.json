@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "ad3a85dfa0b5d38d8ee1c8ac9f14058b81c21bdefb502e25c7b2cf56b9a2f2f1"
+                "sha256": "55da3798a3d571a8dae50be6740cf5e0f0ad354fa7da903fdabafe792dededce"
             }
         }
     },
@@ -263,11 +263,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.64.548",
+                "version": "8.9.66.543",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "6bdf80a9045a1c1b97f7b1c741c76600bbc4a8a71c785019711b31d9c8648602"
+                "sha256": "fa305187b38396e789f99a4fbfea94a78ba40ff9e4a5d512722e3841535502a2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -360,11 +360,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "12.2.0",
-                "packageName": "com.lemon.lvoverseat",
+                "version": "12.6.0",
+                "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
+                "sha256": "9240c3f530841f5b585e68881b3ed379616f10897afb715970ad75145d68ee2c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -2069,6 +2069,40 @@
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
                 "sha256": "7fe96d569009614a8afd2b69ba8260a33f91e9f7aaf153985357bc2318e9b0e2"
+            }
+        }
+    },
+    "TickTick": {
+        "icon": "/home/anfreire/Documents/UpdateMe/Data/icons/ticktick.png",
+        "depends": [],
+        "complements": [],
+        "features": [
+            "Premium Unlocked"
+        ],
+        "providers": {
+            "MODYOLO": {
+                "source": "https://modyolo.com/ticktick.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "LITEAPKS": {
+                "source": "https://liteapks.com/ticktick.html",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "APKDONE": {
+                "source": "https://apkdone.com/ticktick/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
             }
         }
     }
