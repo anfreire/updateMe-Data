@@ -2117,7 +2117,7 @@
                 "version": "6.5.0.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_piemods.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "b277077a84a22237db779df0a8382b2107f25d315f88558a8030a164000ac429"
             }
         }
