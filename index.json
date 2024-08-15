@@ -419,11 +419,11 @@
             },
             "PieMods": {
                 "source": "https://piemods.com/inshot-pro-mod-apk/",
-                "version": "",
-                "packageName": "",
-                "download": "",
-                "safe": true,
-                "sha256": ""
+                "version": "1.983.1425",
+                "packageName": "com.camerasideas.instashot",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_piemods.apk",
+                "safe": false,
+                "sha256": "3ad7e9f00609bb51417f48ad3252c53618af860b361d27d7f949cca53e0343d9"
             }
         }
     },
