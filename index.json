@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "d311f55c3f196689e2f1b8c84f941ee7d69d6d1223ef89ac03ea884cfaf479f1"
+                "sha256": "7a7db4500bcadd9454602e0238f3bc597f3118ce87e576b2dcefd938a212e0cb"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "5def9883e042f66eca6092fdc3a6d503a91848004093a7600128d536d36b5c29"
+                "sha256": "54bcff4189d3c75003012b7083108f3ffc8a3261b4767ce0ccc49fef08023aa7"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -179,7 +179,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
-                "sha256": "b4e2ea5b83372a41c7f440ec9a9d40b998ad90574d9e6eacffa4520462bcb31d"
+                "sha256": "dbcc4c08330dbb906aed84442399cf342614e29a2b125bef1caba08a19cd4e6b"
             }
         }
     },
@@ -210,7 +210,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced2.apk",
                 "safe": true,
-                "sha256": "6647c3e2b4b2c78d140cb561f427277fa114506bdd365656761d6ea8e3f80005"
+                "sha256": "c9d6c6e2d845d3374a8a353d37b47bfd23a8dfd545c87d212f02570feb8de7c3"
             }
         }
     },
@@ -1332,19 +1332,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.11",
+                "version": "4.7.19",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "ea1558579ab85d95e62aae1eb5b45c52767eafceb4d63f1e6ac7b0766c5958ca"
+                "sha256": "aaab6751a8970c20f32d5e87051b4bcb452bbbf0df0ab105be8e5cf2c7fcd1d6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.11",
+                "version": "4.7.19",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "ea1558579ab85d95e62aae1eb5b45c52767eafceb4d63f1e6ac7b0766c5958ca"
+                "sha256": "25836ef70f47e33bc45a2fccfa1cddf8230965614e39c34454ee8d89de15a8fe"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1464,11 +1464,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.11.1",
+                "version": "18.12",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
-                "safe": true,
-                "sha256": "1e203c994a3475c4a95720f1d312dc101c343261d8379c64f4e74283549762b2"
+                "safe": false,
+                "sha256": "6ee43bc29c20859ed55ee1be480689b294286d5ebb9fada1055fbc7c71a3801f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1540,11 +1540,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.18.5",
+                "version": "14.18.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "2b76d96ab4274cab6f2d59e9bb366da2e63331a416763234edb6fe34011df9f2"
+                "sha256": "91fca7e576f14b443f2944a3d13a6bcc85c84f425e0ca450fe853c0ae2646288"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1574,11 +1574,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "9.4.3",
+                "version": "9.5.0",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": true,
-                "sha256": "ff301676a10d68f5b9e0c18881e459b3ae4ad331d04c38775cba5c230a12d883"
+                "sha256": "d557ac0abaca5197a5f17992079f9e22f00bebab142dbb25ef15648ec903df86"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
@@ -1616,19 +1616,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.36.0-240725",
+                "version": "14.38.0-240809",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "614d5044c6d410bd50149b4dcecad6e5e67a68aaa4891d4d8a8119603157d2a2"
+                "sha256": "c2aa58d81cfa475c4217f31e71f7b5a3d5f516b77d1584c9c8942104a492bfd8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.36.0-240725",
+                "version": "14.38.0-240809",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "da9738331e71d9a4897b4d33be45f21e27c074e7ffaf0215edcbc3cff478e222"
+                "sha256": "c2aa58d81cfa475c4217f31e71f7b5a3d5f516b77d1584c9c8942104a492bfd8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1660,11 +1660,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.163.6",
+                "version": "5.164.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "881a4167dfb1473a048de4132152a403ebd4dbc5409be6fe305c35f2e290e060"
+                "sha256": "e6bd2d2aff895b791057a53d974d6a1e53c2db952dde39a58cada01e4b3e6b91"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1840,11 +1840,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
-                "version": "16",
+                "version": "17.0",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_liteapks.apk",
                 "safe": true,
-                "sha256": "733858f625f8a3b88bd18650a1695e4e91d948d4a3a4223213235e7c8e0bce57"
+                "sha256": "3aae06efb5a35e56375ac579f54b12bcefb5c69d8365586f45b29b3c1bb3ecb0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
@@ -1909,19 +1909,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "19.1.1",
+                "version": "19.1.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "3a78d1aea7e7c3d89de8e3949d1d8a5182199a3b14ff7efc92bae88271dfff3e"
+                "sha256": "5ee217f9b3181d4d8e63f5b7b9d5b5ea6fd945d931f2b3b12b98b716566481f7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "19.1.1",
+                "version": "19.1.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "de76a714a43ebeb8033197fb48f7a0281d81529239d92dcfd7376fbcaef586be"
+                "sha256": "f8d0767383c8c21e6afc1394d9693989ebff09bdbd235399897231ba3ed8cb04"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
