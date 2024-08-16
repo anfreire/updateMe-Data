@@ -357,11 +357,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.2.197",
+                "version": "15.2.202",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": true,
-                "sha256": "5ceb685f9db8e75f7880c820c494d4136da37e1f268d5a6d29c6890cabe2d462"
+                "safe": false,
+                "sha256": "2a7bbabd544420e49e56eda7435695f36082b5be7f2033ca9c48f093f3abfc71"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -1288,11 +1288,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.69.0.2407230000",
+                "version": "6.70.0.2408080000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "64b045f1be5c25ff34342eda792a2d6e20a0d568f1e7daaddf84032a4f3c8de7"
+                "sha256": "c5b6f52bc316afe3f928c2ba828a680e982c8790ab90197f516f8bd138e0c749"
             }
         }
     },
@@ -1480,11 +1480,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.11.1",
+                "version": "18.12",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
                 "safe": false,
-                "sha256": "517383f1a5972f00c670c1a2edd78b8fdff8799370e05273d42e4efe1ac82531"
+                "sha256": "7c8aa30216a7dc64dc6f5fdc449969a9fb1556e2425487fd3d05c9e7ee91fcee"
             }
         }
     },
@@ -1632,11 +1632,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.37.0-240802",
+                "version": "14.38.0-240809",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": false,
-                "sha256": "fceb0326f41f45344c897fd0458dcde8758c7b10f2b74a0f135ca38a9185cdb9"
+                "sha256": "affac8e59f1786496fcaec48e22952a678344578526cb363a0ea5e997f351096"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1668,11 +1668,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.163.6",
+                "version": "5.164.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "881a4167dfb1473a048de4132152a403ebd4dbc5409be6fe305c35f2e290e060"
+                "sha256": "e6bd2d2aff895b791057a53d974d6a1e53c2db952dde39a58cada01e4b3e6b91"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1684,11 +1684,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "5.163.1",
+                "version": "5.164.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "3d1f9bdd6104ec507264ea4e555e5c1f387a8a764ebfb0a2a13f258a2204b92b"
+                "sha256": "1cfd78d809df59ade98c7c6991b2582778eab46b2974b839531a0b89bf5801b9"
             }
         }
     },
@@ -2001,11 +2001,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "4.103.1.2 chuppito release",
+                "version": "4.105.0.2 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "b5a9180a365a232161a5a75b510ebc3660cbc3234332104129eca764bd515292"
+                "sha256": "18b34447b6c6e620eb59eab29ab1e3c5c813d51e79392867be21663b450aaff9"
             }
         }
     },
@@ -2380,11 +2380,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photomath.html",
-                "version": "8.38.0",
+                "version": "8.39.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modzoco.apk",
                 "safe": false,
-                "sha256": "d3833d2748210108eb3a5cdbb32561ba842e7ab37349ddde8eef811232c49386"
+                "sha256": "b3b97cd34d5a55ccf57b88e6b3db1a28ddc28e76c5c4af17c88b6bb8333de2c7"
             }
         }
     }
