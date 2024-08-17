@@ -1086,11 +1086,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.3.0",
+                "version": "9.4.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "210f85ce9caec29d1d92ab2f5c70feb318e49232c7a0a3087565d27319927b16"
+                "sha256": "c47de58587b4b0824e833ce21fe0a6b795398bcd0afc1b076cf6f4e1343f6fab"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2155,11 +2155,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.54.1-release.0",
+                "version": "10.54.2-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "cd49a9e556319cf290705c252296d66e408c924bf82dba5aff839b48ce92abb5"
+                "sha256": "8aacd658a8186442ff40319e95675b02066cb4579a758b54f0c3ffe3d69e3cc3"
             }
         }
     },
