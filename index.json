@@ -1264,11 +1264,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.69.0.2407230000",
+                "version": "6.70.0.2408080000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "da8ec0e29c195aa56b5e911df0e0c120885f29eee850089e230b34734730a620"
+                "sha256": "23aac53ae9ffa3ad066ac583d70a7a6160da59bf8b65084bb5ad8fb3d9276fde"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
