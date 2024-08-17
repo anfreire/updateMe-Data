@@ -357,11 +357,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.2.202",
+                "version": "15.3.203",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": false,
-                "sha256": "2a7bbabd544420e49e56eda7435695f36082b5be7f2033ca9c48f093f3abfc71"
+                "sha256": "ec0f832760c44cb0fac35dd0655f8e87bb97b70f4446a7c061400e75b26e8df0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -1078,11 +1078,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.3.0",
+                "version": "9.4.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "ac1dca02a86526e47a9ca1c6e15ae36198f5c10801d47d4daffeb0b0e6b1ca03"
+                "sha256": "c47de58587b4b0824e833ce21fe0a6b795398bcd0afc1b076cf6f4e1343f6fab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1094,11 +1094,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.3.0",
+                "version": "9.4.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "ea6bffe6ecc98bde86e5a8b24bdc95aaaf7d2002c4f06137257db8fb3bf49395"
+                "sha256": "58bcf837407a2f9908d1440b65c2ebc0dc68e886f2209f2f730a755e1faccb6f"
             }
         }
     },
@@ -1348,11 +1348,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.11",
+                "version": "4.7.19",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "2cd7d1d1f171251cb2f1d21c0da105b753581f23901f82b666f9775689194d09"
+                "sha256": "1d8740dee67e08d7d6ed29bed59772ebc9a677950eb80153037401cf5dccbdc1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1640,11 +1640,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.36.0-240725",
+                "version": "14.38.0-240809",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "433bed090ef0589089310c492ac615279640c3d196d2528e0f8ac5d3b5520d24"
+                "sha256": "d916942de92c641aba373a972fe0e3c596f033a2fb6d68f0dce73ed544cce8d1"
             }
         }
     },
@@ -1660,11 +1660,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.164.3",
+                "version": "5.164.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "e6bd2d2aff895b791057a53d974d6a1e53c2db952dde39a58cada01e4b3e6b91"
+                "sha256": "90111f68030c108a6f2db8f84a838cf0fd53feca33df44c9fd3005041d7b7c32"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1848,11 +1848,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
-                "version": "16",
+                "version": "17.0",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_apkdone.apk",
-                "safe": true,
-                "sha256": "d5155476d8cedc2c2bf81552c171b00c2681a4dd6c87bd2d7fedea1212486bf2"
+                "safe": false,
+                "sha256": "f060cf7457e7eb11169738ebf12b433ed135a699bd3cbc9ed2ead68cce67e79b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/1dm.html",
@@ -1925,11 +1925,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "19.1.1",
+                "version": "19.1.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": true,
-                "sha256": "b390d5cf22dde19ce13c35625633f05c8cb1f55387b4d23967f88dbd222e4a1a"
+                "sha256": "382390446a8a0ddaf40ea08aa620738b554a374e4154c65355300e5446a49217"
             }
         }
     },
@@ -2322,11 +2322,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.2.5.0",
+                "version": "7.3.0.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
-                "safe": false,
-                "sha256": "da6958ce845503d4891e95c9bc106af25d20edeffe7034dd7406af99b3d74454"
+                "safe": true,
+                "sha256": "0177ce7d3970be8917b3050b7ca5304f0bdb1ce4e86621fa86ef2449a4e5498d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
@@ -2338,11 +2338,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
-                "version": "7.2.5.0",
+                "version": "7.3.0.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modzoco.apk",
                 "safe": true,
-                "sha256": "78180ee442e59ca99f676a40225317f2b15176d7b1927f3af1244808d40131af"
+                "sha256": "e8b8b5a45a8b3742314549b49d19fb10e568f6db8eebd87d943afe4db10b3d65"
             }
         }
     },
