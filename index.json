@@ -253,6 +253,30 @@
             "Disabled Third-Party Ads"
         ],
         "providers": {
+            "xManager": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "xManager (Amoled)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "xManager (Lite)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
                 "version": "8.9.66.543",
