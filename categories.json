@@ -142,7 +142,8 @@
     "Education": {
         "apps": [
             "Brilliant",
-            "Duolingo"
+            "Duolingo",
+            "Photomath"
         ],
         "icon": "school"
     },
