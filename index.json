@@ -306,11 +306,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.567.181",
+                "version": "1.571.183",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
-                "safe": true,
-                "sha256": "161128163dd71252a48a8fb2a891fc736eb8d9dde05ee75a8b07cf6130d6a62d"
+                "safe": false,
+                "sha256": "00adf16811cf2a7937892d0df5a0ff4d37bd198c0648d4c4713a4f5b07025962"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -656,11 +656,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.21.2",
+                "version": "1.21.3-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "d9096fd601969cd67e192b3da9c06381be5ea8646e057ccf270826fde7e58f45"
+                "sha256": "2ab63e12689b480d9fbe670ecd577588da3fb48c6fcc4cbbbe9a90b2fcdcc560"
             }
         }
     },
@@ -1382,11 +1382,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.5.3",
+                "version": "25.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "e7013a5b7e6cfb47b6f7eb896f1e7acc379a3eb8d327a305dbaa096ce1fbde52"
+                "sha256": "83202160c31adf1ee48affa8b3272f4a8c5cc9ae4026a8ce9b50d52c5df0cd0b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1506,11 +1506,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.38.33",
+                "version": "4.38.34",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
-                "sha256": "607d851c3449b2325a941cb69fd43ef2d4e0d124e71e1bce19d7bfc192b9ccb4"
+                "sha256": "6384886c7925b608ec49eb604561220b68f318419b11bd270bcf62f36c837eda"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
