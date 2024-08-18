@@ -263,19 +263,19 @@
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "8.8.74.652",
+                "packageName": "com.spotify.music",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoled.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "084f93eecaa096ae255dcec08940ff5e8581dd1d3e8052cd308d995328e9a88e"
             },
             "xManager (Lite)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "",
-                "packageName": "",
-                "download": "",
+                "version": "1.9.0.42932",
+                "packageName": "com.spotify.lite",
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagerlite.apk",
                 "safe": true,
-                "sha256": ""
+                "sha256": "4b13fc686905215f432aa8df4ed4316fc53181c7c1917824f0ba2653bedefe00"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
