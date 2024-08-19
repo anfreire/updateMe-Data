@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "17748ac6c1f021e25aa90f5e6d7b101d340df99bd7c3a946c9b00b30858078f5"
+                "sha256": "488f0888ccc9081ad9bc6668d82e75d6c5f90ba1a4ae38c2f14cd2d46c85799f"
             }
         }
     },
@@ -1538,11 +1538,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.38.33",
+                "version": "4.38.34",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
-                "sha256": "607d851c3449b2325a941cb69fd43ef2d4e0d124e71e1bce19d7bfc192b9ccb4"
+                "sha256": "6384886c7925b608ec49eb604561220b68f318419b11bd270bcf62f36c837eda"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
