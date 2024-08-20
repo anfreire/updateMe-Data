@@ -322,11 +322,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.567.181",
+                "version": "1.571.183",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": true,
-                "sha256": "c167353b50294e6013cd9f95ef327272707803eaeb5f61363b394179f4f6b6cc"
+                "sha256": "00adf16811cf2a7937892d0df5a0ff4d37bd198c0648d4c4713a4f5b07025962"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -365,11 +365,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "15.2.197",
+                "version": "15.3.203",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "488b43323299e7eb85d920accbec7258983bc1e7e9d7d8c8b4246d316a323c1b"
+                "sha256": "5536c423fe9567cf359ffbeb4b56bbb630a43dd703e6f2d7c7b0ab96298ad210"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -412,7 +412,7 @@
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "9240c3f530841f5b585e68881b3ed379616f10897afb715970ad75145d68ee2c"
+                "sha256": "9a085eb32da3a937176eaa510dd2543babc8079fd99c750de932b71ecea93ec2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1356,19 +1356,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.19",
+                "version": "4.7.20",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "aaab6751a8970c20f32d5e87051b4bcb452bbbf0df0ab105be8e5cf2c7fcd1d6"
+                "sha256": "5d0f63154092e4e9ecefc7c81b662036fbd5c585e6189831f3748b5f75916a9c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.19",
+                "version": "4.7.20",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "25836ef70f47e33bc45a2fccfa1cddf8230965614e39c34454ee8d89de15a8fe"
+                "sha256": "41deb9c04afe5aed059dc1febcc7f1d6073ebbcb26da443baa81f20f0a010007"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1864,11 +1864,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
-                "version": "17.0.1",
+                "version": "17.1",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_liteapks.apk",
-                "safe": false,
-                "sha256": "4d8c14d7da2f7e171ae0696f63d7206dc080abd2a98e82db733918065ca9dc6c"
+                "safe": true,
+                "sha256": "63bc3f9b63383bf8251d06aee07ac33733794c98de58e6a8cd973203df3c712a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
