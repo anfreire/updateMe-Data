@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "488f0888ccc9081ad9bc6668d82e75d6c5f90ba1a4ae38c2f14cd2d46c85799f"
+                "sha256": "7ed6d0a9474ae5e19e51e96dc7a871c8f4b6853b983924940a9e1b681bfaf44e"
             }
         }
     },
@@ -389,11 +389,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "15.2.197",
+                "version": "15.3.203",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": false,
-                "sha256": "ec76c205db0a443a6cbb313f5cf17e4c0508442b9a8960a78b64716053cffa1f"
+                "safe": true,
+                "sha256": "6f99a40bca8a2bfc461a30800adcc8bce05560706bc663742320923521115958"
             }
         }
     },
@@ -1022,11 +1022,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/automate.html",
-                "version": "1.43.1",
+                "version": "1.43.2",
                 "packageName": "com.llamalab.automate",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/automate_liteapks.apk",
                 "safe": true,
-                "sha256": "f0858f4144868be46aa288b68c4e46e52413ec1f6845a910d376c74ffc485cb0"
+                "sha256": "722414ac3fe6a3052df31328c3ae2d0b9a260545d07f6835020132cd80a4ddf8"
             }
         }
     },
@@ -1380,11 +1380,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.19",
+                "version": "4.7.20",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "1d8740dee67e08d7d6ed29bed59772ebc9a677950eb80153037401cf5dccbdc1"
+                "sha256": "1f0a01c64b71b38081fcea3f534012687f367efa2446f20a10723efcb3d70175"
             }
         }
     },
@@ -1546,11 +1546,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
-                "version": "4.38.33",
+                "version": "4.38.34",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modzoco.apk",
                 "safe": true,
-                "sha256": "246004f23c55b71e51df78f374bfb15f773e95e7defef019e561deffab889d5f"
+                "sha256": "629db73ee97292742f0fe7fa6f60ec393b7be94d1deda136e899f564478068df"
             }
         }
     },
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.164.4",
+                "version": "5.164.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "90111f68030c108a6f2db8f84a838cf0fd53feca33df44c9fd3005041d7b7c32"
+                "sha256": "243d4de8a7f536fb9d096ecced909d55818b256143d491f50c14193f27fb26df"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1880,11 +1880,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/1dm.html",
-                "version": "16",
+                "version": "17.1",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modzoco.apk",
                 "safe": true,
-                "sha256": "7a3f1604e24b353c2a0b6db13918bc2abc38d6f58b3a2c8a3df5f66d2664211b"
+                "sha256": "52ff7d7980c1a1b39d4be1a2a2fda78b99025b88ebb3ed4ccfb560e40e4dc83e"
             }
         }
     },
