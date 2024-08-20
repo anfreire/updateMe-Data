@@ -1364,11 +1364,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.20",
+                "version": "4.7.23",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "41deb9c04afe5aed059dc1febcc7f1d6073ebbcb26da443baa81f20f0a010007"
+                "sha256": "8d8bd7cb8e9690dfe575ac63cc303cc6a1cf6556f7e3ab55b9cface7adc9e13e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1380,11 +1380,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.20",
+                "version": "4.7.23",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "1f0a01c64b71b38081fcea3f534012687f367efa2446f20a10723efcb3d70175"
+                "sha256": "0caced0983c35284d299e69b8704acbb0479336326c3aecc78c105bcc435aa07"
             }
         }
     },
@@ -1684,11 +1684,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.164.4",
+                "version": "5.164.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "90111f68030c108a6f2db8f84a838cf0fd53feca33df44c9fd3005041d7b7c32"
+                "sha256": "243d4de8a7f536fb9d096ecced909d55818b256143d491f50c14193f27fb26df"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2231,11 +2231,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
-                "version": "4.2.10",
+                "version": "4.2.11",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
                 "safe": true,
-                "sha256": "a3387318a93bc9d76e4f2d4399546bfbddbd445dd72d5a25925c1a89b983f6f7"
+                "sha256": "95ea9fca526fb3d77c02917b93f46a3fedffe99b5de2a30a288af987545fff75"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
