@@ -424,11 +424,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "12.2.0",
-                "packageName": "com.lemon.lvoverseat",
+                "version": "12.6.0",
+                "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": true,
-                "sha256": "989ababa1cf6acd61cdeee9fa4afeee7eb3cfb79d30b0d6109d752b908441be5"
+                "sha256": "9a085eb32da3a937176eaa510dd2543babc8079fd99c750de932b71ecea93ec2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -1372,11 +1372,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.19",
+                "version": "4.7.20",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "1d8740dee67e08d7d6ed29bed59772ebc9a677950eb80153037401cf5dccbdc1"
+                "sha256": "1f0a01c64b71b38081fcea3f534012687f367efa2446f20a10723efcb3d70175"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1406,11 +1406,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.6",
+                "version": "25.6.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "83202160c31adf1ee48affa8b3272f4a8c5cc9ae4026a8ce9b50d52c5df0cd0b"
+                "sha256": "09260cb7b59c55ab6c8a5d1cf8a7c7c467a8becccb53d52b000065442ebca8cd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1872,11 +1872,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
-                "version": "17.0",
+                "version": "17.1",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_apkdone.apk",
-                "safe": false,
-                "sha256": "f060cf7457e7eb11169738ebf12b433ed135a699bd3cbc9ed2ead68cce67e79b"
+                "safe": true,
+                "sha256": "52ff7d7980c1a1b39d4be1a2a2fda78b99025b88ebb3ed4ccfb560e40e4dc83e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/1dm.html",
