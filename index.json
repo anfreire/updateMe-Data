@@ -976,11 +976,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "8.1.0",
+                "version": "8.1.1",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "e7ac4b4c72d8728c0aacc0825779120971ab07d89e90d0b75a53b09333181bbe"
+                "sha256": "0938ebef46b0a0882c74ede5a6a9400c7e9dbd1db1be3100e51948b50cce262b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1898,11 +1898,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.59.0809",
+                "version": "1.03.60.0820",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "61740f99d9c49f01ff97824655e37177e1771449e6c5533e4327c0dc543ba3bb"
+                "sha256": "ecaf19ff9b74ae9c6effa9b9b7b26cc7aef8c859a9ab53b178e68f98077c6d81"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2223,11 +2223,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/secure-vpn.html",
-                "version": "4.2.10",
+                "version": "4.2.11",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modyolo.apk",
                 "safe": true,
-                "sha256": "d69c6b747a32b59ea8796eccbee669db37c0ae8009675bf7c1bbaccbc034e55a"
+                "sha256": "95ea9fca526fb3d77c02917b93f46a3fedffe99b5de2a30a288af987545fff75"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
@@ -2247,11 +2247,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/secure-vpn.html",
-                "version": "4.2.10",
+                "version": "4.2.11",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modzoco.apk",
                 "safe": false,
-                "sha256": "5daf1259ef382f3b5eeac75cfee36aad04f72e33e4213f9056a0c8f57b115b44"
+                "sha256": "4e242654dda887f30eda9c0bb84e7276e3cdd2c98889d5b3a06bcabe98ebf9c9"
             }
         }
     },
@@ -2380,11 +2380,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photomath-microblink.html",
-                "version": "8.37.0",
+                "version": "8.39.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modyolo.apk",
                 "safe": true,
-                "sha256": "35a2f96aa9dd0bd7765d7971fc981911d64cd468776f9a4e9b9ab4e112435dfa"
+                "sha256": "6fed8f364a783812d732fca71d34c0a61d48bea71b556cbda53f5467e4e48db5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photomath.html",
