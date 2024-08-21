@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "7ed6d0a9474ae5e19e51e96dc7a871c8f4b6853b983924940a9e1b681bfaf44e"
+                "sha256": "f5f6817e24c57c44dcaa2582e20721e5fe67f870cec289524f401055145729a1"
             }
         }
     },
@@ -1414,11 +1414,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.5.3",
+                "version": "25.6.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "1f4e6e9cbce12813b106d48e675d6cf09a462ee3e11ae520c72e62f6bca55a79"
+                "sha256": "c956814ebfdba681a79ddabd29b978758fee98f7fca74f66e0f651c3e39a72e0"
             }
         }
     },
