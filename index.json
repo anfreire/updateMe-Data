@@ -338,11 +338,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.567.181",
+                "version": "1.571.183",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
-                "safe": true,
-                "sha256": "7e4a8df36bf8e32127d2466f41290f11cc887b7e104d402dad870aa401c5b9f7"
+                "safe": false,
+                "sha256": "00adf16811cf2a7937892d0df5a0ff4d37bd198c0648d4c4713a4f5b07025962"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
@@ -1700,11 +1700,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.163.6",
+                "version": "5.164.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "739e22ddc35469c161d8f977bc9211858ef45a651427ea7895bedae5f63960fb"
+                "sha256": "ac47095d15602f55e5fe881d0a4ba5ce1bb5f3b9175551529dff5ef984461db0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1906,11 +1906,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.59.0809",
+                "version": "1.03.60.0820",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": true,
-                "sha256": "718fe524a748a2f230ae97bdc6b4cdf5483fb7074f4afdb9fb94c92c3319a69b"
+                "safe": false,
+                "sha256": "bbce4693a8d66375df7cc2eb672c73eb9888dd3fb8b8643f635a6d410866d805"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -2239,11 +2239,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
-                "version": "4.2.10",
+                "version": "4.2.11",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
                 "safe": false,
-                "sha256": "8e8301ab35af4749e3c3272545adc8c075365f3d0a27d0d88bd04d76785c0293"
+                "sha256": "6d8261b82fd0ad33c330109f4b2f1e9809731ae91ae5d1e1448ad92503ae1e88"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/secure-vpn.html",
@@ -2388,11 +2388,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photomath.html",
-                "version": "8.38.0",
+                "version": "8.39.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_liteapks.apk",
                 "safe": true,
-                "sha256": "dda81bb4e39599cf8de718de404c6b96499a2b04ae9ae8528e872aee21277871"
+                "sha256": "6fed8f364a783812d732fca71d34c0a61d48bea71b556cbda53f5467e4e48db5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photomath/",
