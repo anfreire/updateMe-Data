@@ -416,11 +416,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "12.2.0",
-                "packageName": "com.lemon.lvoverseat",
+                "version": "12.6.0",
+                "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "c54e30147d91913ece05ddba53e6500364697d6f225f69b3b4b96bf26fd1013d"
+                "sha256": "d8f4101b086adb0ca1c5880a8f48f1bb52959c59d58b6dcc3106f9980e9cbeea"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -1572,11 +1572,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.18.6",
+                "version": "14.19.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "55dd770c75e363cba4f65e51ab87ce925b86b8dd1658836b43a9b9755b88c00b"
+                "sha256": "f9b86ca71330e3df9e50700292f614fad60eff6bb5b89a6f92be69f9d3ed0698"
             }
         }
     },
@@ -2179,11 +2179,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.54.2-release.0",
+                "version": "10.55.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "8aacd658a8186442ff40319e95675b02066cb4579a758b54f0c3ffe3d69e3cc3"
+                "sha256": "03c8bddcc49f6b95ce7182aa28245240f14f99f3ad87eb5bde36033fc1279bee"
             }
         }
     },
