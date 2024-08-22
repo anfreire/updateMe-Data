@@ -1708,11 +1708,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "5.164.3",
+                "version": "5.164.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "1cfd78d809df59ade98c7c6991b2582778eab46b2974b839531a0b89bf5801b9"
+                "sha256": "08757af5d2da437fea22ea5091177022bb5d93b329bc5a3ffe2e60d520999ed8"
             }
         }
     },
@@ -1914,11 +1914,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.59.0809",
+                "version": "1.03.60.0820",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "acd471165ced7cbbbe20c688ff2c0f8493ef0f0f2e230546b0133344ee0a91e8"
+                "sha256": "a85cf354a1fb0bb3f84ef6bed7f78a6e7d9c5b3368da78fdf5b5fdee0af65849"
             }
         }
     },
@@ -2408,7 +2408,7 @@
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modzoco.apk",
                 "safe": false,
-                "sha256": "b3b97cd34d5a55ccf57b88e6b3db1a28ddc28e76c5c4af17c88b6bb8333de2c7"
+                "sha256": "61dc1750aca8eb4f70ddce8b172fe9895c88a49f6c85168725101cf3965e4f8b"
             }
         }
     }
