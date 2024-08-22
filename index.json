@@ -1340,9 +1340,9 @@
                 "source": "https://apkdone.com/app-cloner-mod-apk/",
                 "version": "2.17.6",
                 "packageName": "com.applisto.appcloner",
-                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/app_cloner_apkdone.apk",
-                "safe": true,
-                "sha256": "59576115b9a9230fc866ed55c93d5997830f08f44fdf09af090a40c8ad822e47"
+                "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/appcloner_apkdone.apk",
+                "safe": false,
+                "sha256": "396dbbbf0017841d7fcbb9aa812123b7d018ed171bc9d704481c91fd040aa927"
             }
         }
     },
@@ -1372,11 +1372,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.20",
+                "version": "4.7.23",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "1f0a01c64b71b38081fcea3f534012687f367efa2446f20a10723efcb3d70175"
+                "sha256": "2c3a9211b7cdb91c10779ff38d35dab39fc70f14e1f773753365174b881c433e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1785,11 +1785,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.2.17",
+                "version": "13.3.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
-                "safe": true,
-                "sha256": "0e23e3c5a18480ec4da408201a1cd0deae72da40fc5453e300e97797fa9bff9e"
+                "safe": false,
+                "sha256": "227953ba4d03604958466490a8992f69259e5b446401bf9dfd6dffbb82640d79"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
