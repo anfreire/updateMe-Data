@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "f5f6817e24c57c44dcaa2582e20721e5fe67f870cec289524f401055145729a1"
+                "sha256": "d3b333b62421bf66374b4c56779e369b8fda6f56c0d385d109edffaf7b5e1fc4"
             }
         }
     },
@@ -303,11 +303,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
-                "version": "8.9.66.543",
+                "version": "8.9.68.456",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modzoco.apk",
                 "safe": false,
-                "sha256": "c3b4090b7aa9ea79e3718b0155a5edb832a938d8b72b143ee2ab7edcff17f300"
+                "sha256": "314405d9bff3f4d60a509bfa341a5a9235f6e092f3636a7da4564332a59a2dbc"
             }
         }
     },
@@ -435,8 +435,8 @@
                 "version": "12.6.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
-                "safe": false,
-                "sha256": "f62a8b16aa5ddd95428813899dd9155eb57ad2cede8a587994a3a74e4c5369fe"
+                "safe": true,
+                "sha256": "d8f4101b086adb0ca1c5880a8f48f1bb52959c59d58b6dcc3106f9980e9cbeea"
             }
         }
     },
@@ -984,11 +984,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
-                "version": "8.1.0",
+                "version": "8.1.1",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modzoco.apk",
                 "safe": true,
-                "sha256": "7370d442dfbb1e6696aa96e5beaeee04b2fa19dc445981728a6cd08e954a571a"
+                "sha256": "1dc99b036d16a390d917d860cec7a40f8c949a8bab9d63deaa13c3f1a281da24"
             }
         }
     },
@@ -1398,11 +1398,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.5.3",
+                "version": "25.6.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "e7013a5b7e6cfb47b6f7eb896f1e7acc379a3eb8d327a305dbaa096ce1fbde52"
+                "sha256": "09260cb7b59c55ab6c8a5d1cf8a7c7c467a8becccb53d52b000065442ebca8cd"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1793,11 +1793,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.2.16",
+                "version": "13.3.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "1651e9c6089b170b12c32ba61d098f7666cf06fab91113091275e437cc48a2ee"
+                "sha256": "4cd03d5b3a84c896519fb77802eb8b6deb00a4d84422a1a1adcbb62e0c817fe9"
             }
         }
     },
