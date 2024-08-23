@@ -330,11 +330,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.571.183",
+                "version": "1.574.186",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
-                "safe": false,
-                "sha256": "00adf16811cf2a7937892d0df5a0ff4d37bd198c0648d4c4713a4f5b07025962"
+                "safe": true,
+                "sha256": "420b219b6e6ca13f8c595e44ca90b79d06648433e48fab79b307eda7e480ae86"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -389,11 +389,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "15.3.203",
+                "version": "15.4.206",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": true,
-                "sha256": "6f99a40bca8a2bfc461a30800adcc8bce05560706bc663742320923521115958"
+                "safe": false,
+                "sha256": "af23ecc23601d081377e21c89cfd5ae5675274b95ff3e0df694478597583e3fe"
             }
         }
     },
@@ -467,19 +467,19 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.066.1460",
+                "version": "2.070.1461",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": true,
-                "sha256": "db88200d2f2b4838c1153907b445b3e155b11b8e910a6536eada2676219f87ac"
+                "sha256": "de7992abb6ceb8059f054473a0c1e3f3295095f6957bc4e5ab5ec544323d3723"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
-                "version": "2.066.1460",
+                "version": "2.070.1461",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modzoco.apk",
                 "safe": false,
-                "sha256": "c1e41789c2db215d2182d072165fce854461f48dce141c5a7a9e56f1e0c50477"
+                "sha256": "def5ae871113fb8dc07383530e21ee2aef6d8ea7a09d24bc5698ab99f35cb4c3"
             }
         }
     },
@@ -968,11 +968,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "7.1.6",
+                "version": "8.1.1",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
-                "sha256": "93b3b82594db5a48a0e79a6825738973d0ae924cbcb598e4b5542862537dedea"
+                "sha256": "a3125f754c849fba78dd65c5486a552089c5ffd59a5374fb3b34c526602efbba"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1380,11 +1380,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.23",
+                "version": "4.7.27",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "0caced0983c35284d299e69b8704acbb0479336326c3aecc78c105bcc435aa07"
+                "sha256": "ee9d0c2bbf6813385f0a23038b3a8a3cc130e37c51b46c014a3799dcedec8fae"
             }
         }
     },
@@ -1406,11 +1406,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.6.2",
+                "version": "25.6.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "09260cb7b59c55ab6c8a5d1cf8a7c7c467a8becccb53d52b000065442ebca8cd"
+                "sha256": "fe8c6e4f48733c51929dfb494778ea687423f76849efe2eddefbc09531debfd4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -2227,7 +2227,7 @@
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modyolo.apk",
                 "safe": true,
-                "sha256": "95ea9fca526fb3d77c02917b93f46a3fedffe99b5de2a30a288af987545fff75"
+                "sha256": "f5a2f1c28ad1ab1cd6af1dc53474ddef503d8c3a3f0d0cce8d70d15696227b59"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
