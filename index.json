@@ -279,11 +279,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.66.543",
+                "version": "8.9.68.456",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "3cb980095951778543cac7d2641571f0d176e0530bcafb9070ae1abbc9e9cdd9"
+                "sha256": "4c6010497f9d1b286d455db35c5e30c141ee633dff5e2b958ab7a2e237efdefb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -451,11 +451,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.066.1460",
+                "version": "2.070.1461",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "db88200d2f2b4838c1153907b445b3e155b11b8e910a6536eada2676219f87ac"
+                "sha256": "deeb285ea26eb6db118912ccdccb8a5e813cd27542297a200f0068f0a0772012"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
