@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "d3b333b62421bf66374b4c56779e369b8fda6f56c0d385d109edffaf7b5e1fc4"
+                "sha256": "b3cd3ef0ae9c528d3690daccc48758e7c328b36bfb267d99d895a63e73b461e6"
             }
         }
     },
@@ -459,11 +459,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.066.1460",
+                "version": "2.070.1461",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
                 "safe": true,
-                "sha256": "3fea3360ba30aefeecd466d8420c0b4224c133e69d578a1524c0914766355bf1"
+                "sha256": "b126285829c129ef498ed4e946732d7fcf56d66ef6e314cd60df8ae4e9f1743a"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -1372,11 +1372,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.23",
+                "version": "4.7.27",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "2c3a9211b7cdb91c10779ff38d35dab39fc70f14e1f773753365174b881c433e"
+                "sha256": "ee9d0c2bbf6813385f0a23038b3a8a3cc130e37c51b46c014a3799dcedec8fae"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1564,11 +1564,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.18.6",
+                "version": "14.19.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "91fca7e576f14b443f2944a3d13a6bcc85c84f425e0ca450fe853c0ae2646288"
+                "sha256": "423090e0358c38f3eaa9ec56c68b6e2c07ac80101962b4155f28443f2a7e13d4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
