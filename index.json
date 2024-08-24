@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "b3cd3ef0ae9c528d3690daccc48758e7c328b36bfb267d99d895a63e73b461e6"
+                "sha256": "03d04aa3b740ea7b48de111f01448fa2cfee1beb9a61006436bd9450cb44eb52"
             }
         }
     },
@@ -2320,11 +2320,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
-                "version": "4.8.561",
+                "version": "4.8.582",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
                 "safe": false,
-                "sha256": "d8aee84bb5235e0dc40e75300b10355402a442edfae75a79c1ae1a7a255af5ee"
+                "sha256": "150ff0efc8f0fb4c363a2cd7c4f8b4ad53f22888db7d37f20c4a3903e5ed942e"
             }
         }
     },
