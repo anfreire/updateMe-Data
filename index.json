@@ -287,11 +287,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.66.543",
+                "version": "8.9.68.456",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "fa305187b38396e789f99a4fbfea94a78ba40ff9e4a5d512722e3841535502a2"
+                "sha256": "d69eb52d45ad030ac5b937188232e0362782ab6916c496f6f790b902be6aff61"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1398,11 +1398,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.6.2",
+                "version": "25.6.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "09260cb7b59c55ab6c8a5d1cf8a7c7c467a8becccb53d52b000065442ebca8cd"
+                "sha256": "fe8c6e4f48733c51929dfb494778ea687423f76849efe2eddefbc09531debfd4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
