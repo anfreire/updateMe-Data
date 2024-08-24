@@ -1296,11 +1296,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.70.0.2408080000",
+                "version": "6.71.0.2408140000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "935e8ada2e26b4ce0224acf8734d743dd98c017f429e550c92406eb88b3035e8"
+                "sha256": "a77279a53d064e23d73b67f73193bd01bfb705d0f96fff634bd877d5bf991534"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1793,11 +1793,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.3.1",
+                "version": "13.3.2",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "4cd03d5b3a84c896519fb77802eb8b6deb00a4d84422a1a1adcbb62e0c817fe9"
+                "sha256": "8abf99f0fb64756d5babb96a8693fdb7257197a5cad13d3b4c6e0edec7f66064"
             }
         }
     },
