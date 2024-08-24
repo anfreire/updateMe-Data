@@ -346,11 +346,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
-                "version": "1.571.183",
+                "version": "1.573.185",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modzoco.apk",
                 "safe": false,
-                "sha256": "591c84fe16e4ba65e53ca07e3ccb471aa8547a8270fd8f3f31e5ddeab346defd"
+                "sha256": "006dfbd3f533743cf353e70ac0b985b61454d3fb5031539b250ed93a8d5aa4af"
             }
         }
     },
@@ -608,11 +608,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.6",
+                "version": "1.12.8",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": true,
-                "sha256": "d74629b77cc37f96048c7b224284b9a2b604950ec5cb14651c6b2d8f7484e351"
+                "sha256": "c8d3b8bcda5dee89a06f1ba48a685b4687e79f27f20417d45380a8a70efe71f7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
@@ -1406,11 +1406,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.6.4",
+                "version": "25.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "fe8c6e4f48733c51929dfb494778ea687423f76849efe2eddefbc09531debfd4"
+                "sha256": "09896539c597c52c310a9a910ae67877e8d592b0b565a98081ec8c173d8eacca"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -2338,11 +2338,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.3.0.0",
+                "version": "7.3.1.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "0177ce7d3970be8917b3050b7ca5304f0bdb1ce4e86621fa86ef2449a4e5498d"
+                "sha256": "c9b36f4294fd031843103ed9bb9d23052b1419ca9585d58182a6315a9ccd0fb0"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
@@ -2354,11 +2354,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.3.0.0",
+                "version": "7.3.1.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "8bd857f5b8527ecd469015af1acf465f6440c1431c74e4283d33dc1335301d4f"
+                "sha256": "ac58467f30b1b61843cdb85743936d98ab3f0b7f427ce091cb0360b149f3d799"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
