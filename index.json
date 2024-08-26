@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "ca8522b72cbcecbc31d99d45b0776afc69eb73462cf8f43e6921293c474feb0a"
+                "sha256": "3a6ed110a3c2b95a151ce79eb63c869be1cc18021b63508394e2f011aa571c3c"
             }
         }
     },
@@ -1496,11 +1496,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.12",
+                "version": "18.12.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
-                "sha256": "6ee43bc29c20859ed55ee1be480689b294286d5ebb9fada1055fbc7c71a3801f"
+                "sha256": "3cc864c58ab43f86644ee01f0d85f6eca6c88967d8c1f902dd6abe22210c6bd9"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.164.5",
+                "version": "5.165.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "243d4de8a7f536fb9d096ecced909d55818b256143d491f50c14193f27fb26df"
+                "sha256": "9c5476444a2fba93bfb3e8f532ba440ce7713c1c2e3958793581022081661c03"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1735,11 +1735,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.1",
+                "version": "1.86.2",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "3d653d8e221bb427bb5a6e217071c8088ca0f989c4feb5e7695729790370ee85"
+                "sha256": "9e88297cbb75fb47dce1c54e0ed19bb84fa336cbb9a2ce8d3e62dac563d96f5b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1777,11 +1777,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "13.2.17",
+                "version": "13.3.2",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
                 "safe": true,
-                "sha256": "574543a18dfb401d594dea9c9667b003cf9bde14e1c217c1358bd0848447d4cb"
+                "sha256": "eb6cf8870fc3c217e68b99055fbf6aa8b01df81d3d5d559019461dc6990487c1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
