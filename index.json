@@ -381,11 +381,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.3.203",
+                "version": "15.4.206",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": false,
-                "sha256": "ec0f832760c44cb0fac35dd0655f8e87bb97b70f4446a7c061400e75b26e8df0"
+                "safe": true,
+                "sha256": "345eb8a1397eacd43f1d2003d9dc604f7e6b0437a281957f2519472e3baa19c8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -680,11 +680,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.21.3-dev.1",
+                "version": "1.22.0-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "2ab63e12689b480d9fbe670ecd577588da3fb48c6fcc4cbbbe9a90b2fcdcc560"
+                "sha256": "4415bcbc937699e9b841d4c148d6442996a251930f57e87d48faf3a58502f2bf"
             }
         }
     },
@@ -1057,11 +1057,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/clickmate/",
-                "version": "6.0.9",
+                "version": "7.1.2",
                 "packageName": "com.inscode.autoclicker",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_apkdone.apk",
                 "safe": false,
-                "sha256": "cfee9ecdcb07837d3ef74ac280f8997eaea6325b1227ce628df6eca67fb91754"
+                "sha256": "ff6906cdc1b089e4b83ff3d19113de2b6729b7c208aaa0eb0379be32f6d0f313"
             }
         }
     },
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.165.3",
+                "version": "5.165.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "9c5476444a2fba93bfb3e8f532ba440ce7713c1c2e3958793581022081661c03"
+                "sha256": "e4fd747cd11774f2202d690db7ab59be02067c68712a52d7898180059807be3a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1735,11 +1735,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.2",
+                "version": "1.86.3",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "9e88297cbb75fb47dce1c54e0ed19bb84fa336cbb9a2ce8d3e62dac563d96f5b"
+                "sha256": "97465b5c1cd5d267942fedf37f7e905c4b08ac96fb782fdcad1fc0201f37bcda"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2025,11 +2025,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "4.105.0.2 chuppito release",
+                "version": "4.107.5.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "18b34447b6c6e620eb59eab29ab1e3c5c813d51e79392867be21663b450aaff9"
+                "sha256": "e2d20a597de17008cb78066b0d7e45ae2aa57e1ef0df0e9920438f69e8132671"
             }
         }
     },
@@ -2304,11 +2304,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.8.582",
+                "version": "4.8.584",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "68736a6263eaa3f6e63cbcbf7c721d9e0e9da4a37a488683998614d14ca85b5d"
+                "sha256": "ed15e6ed4d476619877dcc4941ef8995ac728455c6eaa0e76746379f126aa42a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
