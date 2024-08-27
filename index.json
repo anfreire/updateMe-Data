@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "3a6ed110a3c2b95a151ce79eb63c869be1cc18021b63508394e2f011aa571c3c"
+                "sha256": "fea19aa9c2935c8ed3ba6c27a5c2f8bc221287976e08dba87712c280ea1ae810"
             }
         }
     },
@@ -373,11 +373,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "15.3.203",
+                "version": "15.4.206",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "5536c423fe9567cf359ffbeb4b56bbb630a43dd703e6f2d7c7b0ab96298ad210"
+                "sha256": "2a22aa5ebff3007b5e5ecd2522ba29e8c8cad4896e6bd2e35fba71f267a60456"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1572,11 +1572,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.19.6",
+                "version": "14.20.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "cdaadf9f9526e64766f44f93b22d66be9a93b3902a523ca6b27c2f1db4102802"
+                "sha256": "2d2d66a1259a9d1857048c75f8bebc502743a4de284f05ee6978971f5647daae"
             }
         }
     },
