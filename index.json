@@ -365,11 +365,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "15.3.203",
+                "version": "15.4.206",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "5536c423fe9567cf359ffbeb4b56bbb630a43dd703e6f2d7c7b0ab96298ad210"
+                "sha256": "3f71693bc68ccce80c8503e4aae90f5a72f426465f7b8608a9a185b0e80fa924"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -1288,11 +1288,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.70.0.2408080000",
+                "version": "6.71.0.2408140000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "23aac53ae9ffa3ad066ac583d70a7a6160da59bf8b65084bb5ad8fb3d9276fde"
+                "sha256": "8f318da826a2690e1bef5593096f395cbaa2060bea24cc82d3a5716be92a51f7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1488,11 +1488,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.12",
+                "version": "18.12.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "6ee43bc29c20859ed55ee1be480689b294286d5ebb9fada1055fbc7c71a3801f"
+                "sha256": "a2fa8d3f2ad0e7a869c8dc5a8797ece8fd1b3da786097093704ad679c8cb0104"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1564,11 +1564,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.19.6",
+                "version": "14.20.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "423090e0358c38f3eaa9ec56c68b6e2c07ac80101962b4155f28443f2a7e13d4"
+                "sha256": "db5cadb97ad0f96d4e4b7efb7f9bb4626cb7f0bd924eb8f6875e9f0cd3793ed6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1684,11 +1684,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.164.5",
+                "version": "5.165.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "243d4de8a7f536fb9d096ecced909d55818b256143d491f50c14193f27fb26df"
+                "sha256": "e4fd747cd11774f2202d690db7ab59be02067c68712a52d7898180059807be3a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1727,11 +1727,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/mx-video-player.html",
-                "version": "1.86.1",
+                "version": "1.86.3",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modyolo.apk",
                 "safe": true,
-                "sha256": "3d653d8e221bb427bb5a6e217071c8088ca0f989c4feb5e7695729790370ee85"
+                "sha256": "97465b5c1cd5d267942fedf37f7e905c4b08ac96fb782fdcad1fc0201f37bcda"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
@@ -2296,11 +2296,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.8.561",
+                "version": "4.8.584",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "7217ede6b00417c2b50b6505448c76f6a0a4f5c378be3ed31396f10384e57853"
+                "sha256": "6c55c268f89c5964d65cb40a08dac00bb77b009f386394df4696efb6f25fe9e1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
