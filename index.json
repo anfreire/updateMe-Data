@@ -346,11 +346,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
-                "version": "1.573.185",
+                "version": "1.574.186",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modzoco.apk",
                 "safe": false,
-                "sha256": "006dfbd3f533743cf353e70ac0b985b61454d3fb5031539b250ed93a8d5aa4af"
+                "sha256": "0a4041df1b2d01197a2cc0326f3999cf47a0afa8c53ce08736cb34277bf111a5"
             }
         }
     },
@@ -1304,19 +1304,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.70.0.2408080000",
+                "version": "6.71.0.2408140000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": true,
-                "sha256": "c5b6f52bc316afe3f928c2ba828a680e982c8790ab90197f516f8bd138e0c749"
+                "sha256": "4643e436da4db70faaa7d407647ffa1d67eee66ac44c3ce74642fc04c96a8a92"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.70.0.2408080000",
+                "version": "6.71.0.2408140000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "c5b6f52bc316afe3f928c2ba828a680e982c8790ab90197f516f8bd138e0c749"
+                "sha256": "4643e436da4db70faaa7d407647ffa1d67eee66ac44c3ce74642fc04c96a8a92"
             }
         }
     },
@@ -1364,11 +1364,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.23",
+                "version": "4.7.27",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "8d8bd7cb8e9690dfe575ac63cc303cc6a1cf6556f7e3ab55b9cface7adc9e13e"
+                "sha256": "8e4ef99b1bdf75fddf0bbeafff61e357a740b34db2b627053ef931ac55767ac4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1504,11 +1504,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.12",
+                "version": "18.12.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
                 "safe": false,
-                "sha256": "7c8aa30216a7dc64dc6f5fdc449969a9fb1556e2425487fd3d05c9e7ee91fcee"
+                "sha256": "fc542f670def2054e34298ee92fb8dc774c5aa2138d2ce86c10d87c58f2d0ad9"
             }
         }
     },
@@ -2009,11 +2009,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "4.105.90.901 chuppito release",
+                "version": "4.107.5.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "e3f69174c042521a34fabbbaca99c0e7d83b8c076485ebfd1ac4b116d51f3056"
+                "sha256": "e2d20a597de17008cb78066b0d7e45ae2aa57e1ef0df0e9920438f69e8132671"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
@@ -2304,11 +2304,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.8.561",
+                "version": "4.8.582",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "7217ede6b00417c2b50b6505448c76f6a0a4f5c378be3ed31396f10384e57853"
+                "sha256": "68736a6263eaa3f6e63cbcbf7c721d9e0e9da4a37a488683998614d14ca85b5d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
