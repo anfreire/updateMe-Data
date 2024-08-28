@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "fea19aa9c2935c8ed3ba6c27a5c2f8bc221287976e08dba87712c280ea1ae810"
+                "sha256": "fc98af5c470ac3753c270fe105be5960416202daa0b43227662a60644b0ad9c3"
             }
         }
     },
@@ -1708,11 +1708,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "5.164.5",
+                "version": "5.165.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "08757af5d2da437fea22ea5091177022bb5d93b329bc5a3ffe2e60d520999ed8"
+                "sha256": "fe3af17b758eb1d2bcd035d0f2705574b552c4395f4dbadbbbb155ead6fa6af0"
             }
         }
     },
@@ -1793,11 +1793,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.3.2",
+                "version": "13.3.3",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "8abf99f0fb64756d5babb96a8693fdb7257197a5cad13d3b4c6e0edec7f66064"
+                "sha256": "e34b1944d861d7309fcba413108a6dc9ef200fa9cf03ca9515f2edbb02d2e88b"
             }
         }
     },
@@ -1837,11 +1837,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.2.3-rc0",
+                "version": "1.2.4-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": true,
-                "sha256": "257ef3ec496e1c3cf367aa7fd6e0c0de6b87f3ef352241aae23c6d86760ccd75"
+                "sha256": "b349aae384f6c52aea83e565d0f3c2100e96a9ff37589a35538cf60858566988"
             }
         }
     },
@@ -1941,11 +1941,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "19.1.2",
+                "version": "19.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "f8d0767383c8c21e6afc1394d9693989ebff09bdbd235399897231ba3ed8cb04"
+                "sha256": "9767c0cfa444780f1a671649df063023922d6521da29269d372f8a7c7427e1cc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
