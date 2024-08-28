@@ -1398,11 +1398,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.6.4",
+                "version": "25.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "fe8c6e4f48733c51929dfb494778ea687423f76849efe2eddefbc09531debfd4"
+                "sha256": "09896539c597c52c310a9a910ae67877e8d592b0b565a98081ec8c173d8eacca"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
