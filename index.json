@@ -1656,11 +1656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.38.0-240809",
+                "version": "14.39.2-240822",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": false,
-                "sha256": "affac8e59f1786496fcaec48e22952a678344578526cb363a0ea5e997f351096"
+                "sha256": "b3866cf64f502c0c633b706f310634715413a88d3c2d5e6dc841a19a8050f125"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1700,11 +1700,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.164.5",
+                "version": "5.165.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "ac47095d15602f55e5fe881d0a4ba5ce1bb5f3b9175551529dff5ef984461db0"
+                "sha256": "0f878ab7913a0e132a7ff23099c134e1d5690dd247c8a01afd8533ca8df37d0f"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1777,19 +1777,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "13.3.2",
+                "version": "13.3.3",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
                 "safe": true,
-                "sha256": "eb6cf8870fc3c217e68b99055fbf6aa8b01df81d3d5d559019461dc6990487c1"
+                "sha256": "597cfbeffb6093a29de8695d6750247aecf5a4f81eaa2b28f4e2463dabc49333"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.3.1",
+                "version": "13.3.3",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "227953ba4d03604958466490a8992f69259e5b446401bf9dfd6dffbb82640d79"
+                "sha256": "8abfef102cfe06ec58f5bf2828e596cc93a6d278257acfb584ba25a9ad7188a7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -1949,11 +1949,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "19.1.2",
+                "version": "19.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": true,
-                "sha256": "382390446a8a0ddaf40ea08aa620738b554a374e4154c65355300e5446a49217"
+                "sha256": "9e2b22528d7aa71eadb15b9cf97944c9eb1928e8040c3a305835f9b6da25e1f0"
             }
         }
     },
