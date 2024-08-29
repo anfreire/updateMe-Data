@@ -451,11 +451,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.071.1462",
+                "version": "2.072.1463",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
-                "safe": false,
-                "sha256": "7dcd0915309e327be439d8074126855d421b1c8b7a20ce38c8e730b4fed215a7"
+                "safe": true,
+                "sha256": "57bcae84e9bd9f3bd64db7d80f3a0e9b5025da63f3515df4ef924c7bc57ad954"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -976,11 +976,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "8.1.1",
+                "version": "8.1.3",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "0938ebef46b0a0882c74ede5a6a9400c7e9dbd1db1be3100e51948b50cce262b"
+                "sha256": "55dc5bd82c3aae31a35aa26012b40b7095d1b3498839ae32c64999cb9359fd49"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1076,11 +1076,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/tasker.html",
-                "version": "6.2.22",
+                "version": "6.3.13",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_liteapks.apk",
                 "safe": true,
-                "sha256": "31848b23eb37001389d177a3a13c44649874e8fa7cc6f22de39d43b47439f0cd"
+                "sha256": "ffef5d8c09dd5376831caf0731c57f8aa9c981e30f91967ac8ed00da1c77beaa"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.165.5",
+                "version": "5.166.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "e4fd747cd11774f2202d690db7ab59be02067c68712a52d7898180059807be3a"
+                "sha256": "7e547110592a9cc2e9592aa251838a4d3a5ca7baf7fc6e2f71e6bd63924c3b63"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1898,11 +1898,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.60.0820",
+                "version": "1.03.61.0826",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "ecaf19ff9b74ae9c6effa9b9b7b26cc7aef8c859a9ab53b178e68f98077c6d81"
+                "sha256": "095677427eaf6b98669cc9434965c3a5eedf8676955217e298dc7138c6445308"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
