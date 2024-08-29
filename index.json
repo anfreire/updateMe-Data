@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "fc98af5c470ac3753c270fe105be5960416202daa0b43227662a60644b0ad9c3"
+                "sha256": "a63768e23c50d3b401da4a1e17c554320b723d079aa5de5b41e761e694a88444"
             }
         }
     },
@@ -424,19 +424,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "12.6.0",
+                "version": "12.7.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
-                "safe": true,
-                "sha256": "9a085eb32da3a937176eaa510dd2543babc8079fd99c750de932b71ecea93ec2"
+                "safe": false,
+                "sha256": "d11355f06ce27f5acefd8d5b08fad6814fac16e40bdfe66657661452811bdce1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
-                "version": "12.6.0",
+                "version": "12.7.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
-                "safe": true,
-                "sha256": "d8f4101b086adb0ca1c5880a8f48f1bb52959c59d58b6dcc3106f9980e9cbeea"
+                "safe": false,
+                "sha256": "955468692c4df46041a329649bbc5b66ece9a98b5a402eed1aed6d3b8a81935a"
             }
         }
     },
@@ -451,19 +451,19 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.070.1461",
+                "version": "2.071.1462",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
-                "safe": true,
-                "sha256": "deeb285ea26eb6db118912ccdccb8a5e813cd27542297a200f0068f0a0772012"
+                "safe": false,
+                "sha256": "7dcd0915309e327be439d8074126855d421b1c8b7a20ce38c8e730b4fed215a7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.070.1461",
+                "version": "2.071.1462",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
-                "safe": true,
-                "sha256": "b126285829c129ef498ed4e946732d7fcf56d66ef6e314cd60df8ae4e9f1743a"
+                "safe": false,
+                "sha256": "365a3fce9d1363cf19b19a0ee7aeec1c1833f2ef058d881fb7609f562b077037"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -475,11 +475,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
-                "version": "2.070.1461",
+                "version": "2.071.1462",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modzoco.apk",
                 "safe": false,
-                "sha256": "def5ae871113fb8dc07383530e21ee2aef6d8ea7a09d24bc5698ab99f35cb4c3"
+                "sha256": "1be047d30df2d89e3ccd167ab8f2781aad415518277685287733f5919a225d0d"
             }
         }
     },
@@ -635,19 +635,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 044",
+                "version": "6.4 build 046",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
-                "safe": true,
-                "sha256": "38eafd9d8ddd9efc5595442f4803529e926d1f231729785bd327da470c997a58"
+                "safe": false,
+                "sha256": "675c2cd2339dda8a5ec5d8443e1ef30618ed0e4fd642e8d8e7bea638051faf97"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 044",
+                "version": "6.4 build 046",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
-                "safe": true,
-                "sha256": "4a86b1893cdbae5639fbdb183b3b0fa2936930b2dfb0c6a287a0c46eeecba2eb"
+                "safe": false,
+                "sha256": "675c2cd2339dda8a5ec5d8443e1ef30618ed0e4fd642e8d8e7bea638051faf97"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -659,11 +659,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.4 build 043",
+                "version": "6.4 build 046",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
-                "safe": true,
-                "sha256": "faa229c748459ea701911ec32fbce2ae0324a5b1584a5e0823ea04b0f1373131"
+                "safe": false,
+                "sha256": "086d8dea28e42971d9cb9561f0f2ab4bad6f43848daaf4a15e2df9fa4d819db1"
             }
         }
     },
@@ -984,11 +984,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
-                "version": "8.1.1",
+                "version": "8.1.2",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modzoco.apk",
                 "safe": true,
-                "sha256": "1dc99b036d16a390d917d860cec7a40f8c949a8bab9d63deaa13c3f1a281da24"
+                "sha256": "a6d20341983da82627e4b7ffb1fd242f59edd7a58a5e7c7c910215f502d0121f"
             }
         }
     },
@@ -1118,11 +1118,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.4.0",
+                "version": "9.4.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "58bcf837407a2f9908d1440b65c2ebc0dc68e886f2209f2f730a755e1faccb6f"
+                "sha256": "0f77029b36e02dec59796cdad103f2850edf9894ea997d04107cd7e27c6a87c0"
             }
         }
     },
@@ -1448,11 +1448,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.80.2",
+                "version": "1.80.4",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
-                "safe": true,
-                "sha256": "f0ccc891de6eeda3c9509a9e0a31100f8a3e06127b75655e9c4427d4299a2324"
+                "safe": false,
+                "sha256": "7a4c8d81f0ca21a73b6d1a645950532d29de02cd6d935bbba60ee78d3734e91d"
             }
         }
     },
@@ -1530,27 +1530,27 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.38.34",
+                "version": "4.38.37",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
-                "safe": true,
-                "sha256": "6384886c7925b608ec49eb604561220b68f318419b11bd270bcf62f36c837eda"
+                "safe": false,
+                "sha256": "d1878b15954a09cb1c4a95dc57d3f8b3a5e7348968a965b43ea36a8482f1dde1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.38.34",
+                "version": "4.38.37",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
-                "safe": true,
-                "sha256": "6384886c7925b608ec49eb604561220b68f318419b11bd270bcf62f36c837eda"
+                "safe": false,
+                "sha256": "d1878b15954a09cb1c4a95dc57d3f8b3a5e7348968a965b43ea36a8482f1dde1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
-                "version": "4.38.34",
+                "version": "4.38.37",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modzoco.apk",
-                "safe": true,
-                "sha256": "629db73ee97292742f0fe7fa6f60ec393b7be94d1deda136e899f564478068df"
+                "safe": false,
+                "sha256": "d1878b15954a09cb1c4a95dc57d3f8b3a5e7348968a965b43ea36a8482f1dde1"
             }
         }
     },
@@ -1572,11 +1572,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.20.5",
+                "version": "14.20.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": true,
-                "sha256": "2d2d66a1259a9d1857048c75f8bebc502743a4de284f05ee6978971f5647daae"
+                "safe": false,
+                "sha256": "98e7d8011cc6d8d06e9045b912c3fdad3741368cfbcdc57e730ce59929d686b2"
             }
         }
     },
@@ -1648,11 +1648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.38.0-240809",
+                "version": "14.39.2-240822",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "c2aa58d81cfa475c4217f31e71f7b5a3d5f516b77d1584c9c8942104a492bfd8"
+                "sha256": "d4c96db66760a10f99c711a8285c37f157ff1215c6e819dff914bb55cd5570bc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1664,11 +1664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.38.0-240809",
+                "version": "14.39.2-240822",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "d916942de92c641aba373a972fe0e3c596f033a2fb6d68f0dce73ed544cce8d1"
+                "sha256": "5d215f2dca8f925fd2dff6c56b3d51f4406ea3225a7083d9b7939cdb7eecb472"
             }
         }
     },
@@ -1785,19 +1785,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.3.3",
+                "version": "13.3.4",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "8abfef102cfe06ec58f5bf2828e596cc93a6d278257acfb584ba25a9ad7188a7"
+                "sha256": "05d74144ea6d2a3070671ce642b029d2aab23bced8325f9f59873687d4d044de"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.3.3",
+                "version": "13.3.4",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "e34b1944d861d7309fcba413108a6dc9ef200fa9cf03ca9515f2edbb02d2e88b"
+                "sha256": "8cab3cc56af76ce90de159bfd202c2a34faf6f3f618484754b1a2163168dda75"
             }
         }
     },
@@ -1906,19 +1906,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.60.0820",
+                "version": "1.03.61.0826",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "bbce4693a8d66375df7cc2eb672c73eb9888dd3fb8b8643f635a6d410866d805"
+                "sha256": "97a3715b9543da91aec5dc4f2997defe8d4f9ab929a1f2101c953399d21cbb59"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.60.0820",
+                "version": "1.03.61.0826",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "a85cf354a1fb0bb3f84ef6bed7f78a6e7d9c5b3368da78fdf5b5fdee0af65849"
+                "sha256": "05e08c1d9e8b00f690ae085587b542523b47e128d90cc8b9511097abca2d6fea"
             }
         }
     },
@@ -2312,19 +2312,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.8.561",
+                "version": "4.8.584",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "74a3eb0107b8fb12fbf0b4261aa09a3ae8f838bddb51971ef23116275bb8ae2e"
+                "sha256": "a34785d3bcc2dfbd2806a3dd82c20aebcc320d92df1ac9ca71941d703e669807"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
-                "version": "4.8.582",
+                "version": "4.8.584",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
                 "safe": false,
-                "sha256": "150ff0efc8f0fb4c363a2cd7c4f8b4ad53f22888db7d37f20c4a3903e5ed942e"
+                "sha256": "9220d098200e543279617a8e05b93f803c9238928d18123c262a429effbc5cbe"
             }
         }
     },
@@ -2354,11 +2354,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.3.1.0",
+                "version": "7.3.1.2",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "ac58467f30b1b61843cdb85743936d98ab3f0b7f427ce091cb0360b149f3d799"
+                "sha256": "1c1139b8924ffa2fefa0614aa557a4f5e11d9cf6b175268aa5aade8d108bb228"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
