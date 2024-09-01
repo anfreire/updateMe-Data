@@ -1406,11 +1406,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.7.1",
+                "version": "25.7.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "b71ad2311b4ab4c78bd213934ea310205cdb10e24e70b24132b95331f07923fa"
+                "sha256": "82a9321792dc690108367bf2b22b43c50a19b2a80ff8524f64a8d31cb2d175a1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1684,11 +1684,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.166.1",
+                "version": "5.166.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "58eea60f57a754b1ebed601fb29a16a9c4079b0af5e7100dc58a1291ff35a70e"
+                "sha256": "6749317bd842aee9470c2d477f7fe7de572c4186ca49f8b2624c1259ce5166ed"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2017,11 +2017,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "4.105.0.2 chuppito release",
+                "version": "4.107.1.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": false,
-                "sha256": "18b34447b6c6e620eb59eab29ab1e3c5c813d51e79392867be21663b450aaff9"
+                "sha256": "5ae3876ed5178080fda34d92483fa6a1145cbd981d9a875479ea9ce1f605eeb4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
