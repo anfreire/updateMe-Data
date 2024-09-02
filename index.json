@@ -702,11 +702,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.7.9",
+                "version": "1.7.9.1",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "d6b6ef0d6c27d8b7aa87354d6244a85df8dfa51cc60ffaaf40da22332e248652"
+                "sha256": "5d143de18dbe91c6e085f0288ec043aed8183dc625f9efde994b55f3f26905eb"
             }
         }
     },
@@ -1158,11 +1158,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/musixmatch.html",
-                "version": "7.12.0",
+                "version": "7.12.1",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_modyolo.apk",
                 "safe": true,
-                "sha256": "a71c9b317b958ee8d901179e563c690f606f4f77bcdcc84be3bf1448570024ea"
+                "sha256": "94a025563d74624d529d763c0d3b523fc35de72c8bc6e49273c3662703841c91"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
@@ -1398,11 +1398,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.7.1",
+                "version": "25.7.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "b71ad2311b4ab4c78bd213934ea310205cdb10e24e70b24132b95331f07923fa"
+                "sha256": "82a9321792dc690108367bf2b22b43c50a19b2a80ff8524f64a8d31cb2d175a1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1432,19 +1432,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.80.4",
+                "version": "1.82.0",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "a31862fd538d436f1564e3739c678f97689ff0da56954432383c78a86d42f6ee"
+                "sha256": "7778da70834be04490dca84e16cdcbf3686fbbe2af92c7becb704cf6c5476b81"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.80.4",
+                "version": "1.82.0",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "a31862fd538d436f1564e3739c678f97689ff0da56954432383c78a86d42f6ee"
+                "sha256": "620ca64820acdafbc21197d185ef9f2f1d7eb7b52b243ab2a5dd1b91cf5f3c16"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1640,11 +1640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.38.0-240809",
+                "version": "14.40.0-240823",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "c2aa58d81cfa475c4217f31e71f7b5a3d5f516b77d1584c9c8942104a492bfd8"
+                "sha256": "a43838698158a641c37f511d835735e6d3039d15bb323068ae21ddc4cf374c7c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
