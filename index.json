@@ -702,11 +702,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.7.9.1",
+                "version": "1.7.9.2",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "5d143de18dbe91c6e085f0288ec043aed8183dc625f9efde994b55f3f26905eb"
+                "sha256": "67cf613b033c480a12cd6fb25100abe69faccf10fbdf33ed675f6cc99f364ac4"
             }
         }
     },
@@ -829,11 +829,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "10.4",
+                "version": "10.5",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": false,
-                "sha256": "29e1c1e498d8bde9b3979a9c81b6c07e01610081c060b596669fc676987465dc"
+                "sha256": "a8fa3f6172f260e1a340a29116036977067d2a9ed79a6b3ba8d2936778cc2316"
             }
         }
     },
