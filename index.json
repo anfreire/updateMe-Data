@@ -1898,11 +1898,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.61.0826",
+                "version": "1.03.62.0901",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "095677427eaf6b98669cc9434965c3a5eedf8676955217e298dc7138c6445308"
+                "sha256": "14c31d419582ec455f79f624b9d6325f27e4a96f095a3b502390dc5fc3d1f7be"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2025,11 +2025,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "4.107.5.0 chuppito release",
+                "version": "4.107.90.900 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "e2d20a597de17008cb78066b0d7e45ae2aa57e1ef0df0e9920438f69e8132671"
+                "sha256": "cad744f803e38df2e9e557da75f9e6437064697ae14037dca544c5d29f1942a7"
             }
         }
     },
