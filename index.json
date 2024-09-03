@@ -381,11 +381,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.4.206",
+                "version": "15.5.207",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": true,
-                "sha256": "345eb8a1397eacd43f1d2003d9dc604f7e6b0437a281957f2519472e3baa19c8"
+                "safe": false,
+                "sha256": "1dd2c9f9ffce9039c842c3b98a160f0abee755bc695342e7dcec1b6f5129a232"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -1174,11 +1174,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
-                "version": "7.12.0",
+                "version": "7.12.1",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_apkdone.apk",
                 "safe": true,
-                "sha256": "22af2ba6b27644a432abd68f4f3666dc1aa29a5c714279db388de9ba5345d70f"
+                "sha256": "6d32afa2dc5bb6f3eedba04783ca6913957f036a7c20fb2f0dc5c0752e393bc6"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/musixmatch-lyrics-finder.html",
@@ -1414,11 +1414,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.6.2",
+                "version": "25.7.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "c956814ebfdba681a79ddabd29b978758fee98f7fca74f66e0f651c3e39a72e0"
+                "sha256": "b71ad2311b4ab4c78bd213934ea310205cdb10e24e70b24132b95331f07923fa"
             }
         }
     },
@@ -1448,11 +1448,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.80.4",
+                "version": "1.82.0",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
                 "safe": false,
-                "sha256": "7a4c8d81f0ca21a73b6d1a645950532d29de02cd6d935bbba60ee78d3734e91d"
+                "sha256": "b0f669937a082a16c011879311fa33477aab6c112bbb7bfa54e79199e0468893"
             }
         }
     },
@@ -1572,11 +1572,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.20.6",
+                "version": "14.21.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": false,
-                "sha256": "98e7d8011cc6d8d06e9045b912c3fdad3741368cfbcdc57e730ce59929d686b2"
+                "safe": true,
+                "sha256": "98349993cc980c49c583a58b17de643b21e513761aa026746987d98947507ae9"
             }
         }
     },
@@ -1700,11 +1700,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.165.6",
+                "version": "5.166.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
-                "safe": false,
-                "sha256": "e6513b025c672f0c50f8fc3e4fa5637a27147838e1bbeb8e001fa88beb492b5d"
+                "safe": true,
+                "sha256": "44e284e4015e2285132f9463b6fc915842ad5098b34fd578f8fffcc125e431c0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1906,19 +1906,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.61.0826",
+                "version": "1.03.62.0901",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "97a3715b9543da91aec5dc4f2997defe8d4f9ab929a1f2101c953399d21cbb59"
+                "sha256": "8d4edc31e4f41a12333b7a1db5cdcc118e0b573ddff2ed42d53455bc70a398d7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.62.0830",
+                "version": "1.03.62.0901",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "77708b2d8e1c39251a4fa2b85933c40733144e92cd2a401286d28db652c873c8"
+                "sha256": "48398986feb94e1d0434dd8f7e8467ee300d6ac554a3a9c02dc5dcbda9dd2141"
             }
         }
     },
