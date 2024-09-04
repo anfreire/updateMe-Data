@@ -1564,11 +1564,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.20.6",
+                "version": "14.21.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "ebf3c11291cebb073ee033fe8de6f1c182a39480fc862d1a08d7192be0190458"
+                "sha256": "98349993cc980c49c583a58b17de643b21e513761aa026746987d98947507ae9"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1684,11 +1684,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.166.2",
+                "version": "5.166.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "6749317bd842aee9470c2d477f7fe7de572c4186ca49f8b2624c1259ce5166ed"
+                "sha256": "c68c2fe4904471079dfc08e4e0ba34f494b928dacf3b87065ab487020766eb30"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
