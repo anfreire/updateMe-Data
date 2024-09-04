@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "19e6493f8cd3ac650655ad7f288503a5124240fc91669ad668de2982d51336d2"
+                "sha256": "c74f58107f8eba079290c0e7dc81f40f491cddcc2e20c5f508e4fe75ce49859c"
             }
         }
     },
@@ -616,11 +616,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.6",
+                "version": "1.12.8",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
-                "safe": true,
-                "sha256": "d74629b77cc37f96048c7b224284b9a2b604950ec5cb14651c6b2d8f7484e351"
+                "safe": false,
+                "sha256": "c8d3b8bcda5dee89a06f1ba48a685b4687e79f27f20417d45380a8a70efe71f7"
             }
         }
     },
@@ -1414,11 +1414,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.7.1",
+                "version": "25.7.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "b71ad2311b4ab4c78bd213934ea310205cdb10e24e70b24132b95331f07923fa"
+                "sha256": "66806dacdd21623769da11b3130ca78c549a5e81c67cad65da289a49f930cd11"
             }
         }
     },
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.166.2",
+                "version": "5.166.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "6749317bd842aee9470c2d477f7fe7de572c4186ca49f8b2624c1259ce5166ed"
+                "sha256": "c68c2fe4904471079dfc08e4e0ba34f494b928dacf3b87065ab487020766eb30"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
