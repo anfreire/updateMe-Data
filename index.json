@@ -643,11 +643,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 046",
+                "version": "6.4 build 048",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
-                "safe": false,
-                "sha256": "675c2cd2339dda8a5ec5d8443e1ef30618ed0e4fd642e8d8e7bea638051faf97"
+                "safe": true,
+                "sha256": "922d29f0a4f7ab63e2628b75a73fe6975c88240baa6f10f86bc2a75ed8ffefda"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -759,11 +759,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/download/never-have-i-ever-194362",
-                "version": "7.1.9",
+                "version": "8.1.5",
                 "packageName": "com.nixgames.neverdid",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/neverhaveiever_liteapks.apk",
                 "safe": true,
-                "sha256": "78e0d32e69c4fe7281b369300aeaa488bc1e40a26729052caae3b5e7b0122071"
+                "sha256": "54a96528e0712450bfa20659f5d64bbcd6b59ba271999a1068ee7767cd833e18"
             }
         }
     },
@@ -1364,11 +1364,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.30",
+                "version": "4.7.32",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "1f854fde6001660b75016ede305199423f371e41e00826b1b17aeeb4742eeb5b"
+                "sha256": "b22760048aa3443d851d7ac3b7d0d218770201bf2284acb4f46f9ce688a739c0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1572,11 +1572,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.21.5",
+                "version": "14.21.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "98349993cc980c49c583a58b17de643b21e513761aa026746987d98947507ae9"
+                "sha256": "bac9557d8a317a5e1e34675a8e43512e3eaa2c02bcd6dcef2c5706111ab4d89a"
             }
         }
     },
