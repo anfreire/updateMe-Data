@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "c74f58107f8eba079290c0e7dc81f40f491cddcc2e20c5f508e4fe75ce49859c"
+                "sha256": "d28d4c4f570628a1b54bc324057c7a8c7c0b28a8e3cd575a92243d6533b42aeb"
             }
         }
     },
@@ -1080,7 +1080,7 @@
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_liteapks.apk",
                 "safe": true,
-                "sha256": "ffef5d8c09dd5376831caf0731c57f8aa9c981e30f91967ac8ed00da1c77beaa"
+                "sha256": "ea558dcc3b4ca49b6c0510faad6808b48674f856bb829a845af377f2964bdebe"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
