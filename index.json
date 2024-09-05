@@ -279,19 +279,19 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.68.456",
+                "version": "8.9.70.556",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "4c6010497f9d1b286d455db35c5e30c141ee633dff5e2b958ab7a2e237efdefb"
+                "sha256": "27131d0aedd09f4eb02b144e6824273ea53cd74637251d02763a4394bf2612bc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.68.456",
+                "version": "8.9.70.556",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "d69eb52d45ad030ac5b937188232e0362782ab6916c496f6f790b902be6aff61"
+                "sha256": "adef1633c9f8c0698d98c8290a3f3e01eec6c5331b16a77ae5aca4e438787dd4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
