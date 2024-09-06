@@ -373,11 +373,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "15.4.206",
+                "version": "15.6.211",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "2a22aa5ebff3007b5e5ecd2522ba29e8c8cad4896e6bd2e35fba71f267a60456"
+                "sha256": "18f9243f4acd1e5bb6b24cd5234118dbc25e475288f3a61c4b577004cdfed89b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -451,19 +451,19 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.072.1463",
+                "version": "2.073.1464",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "57bcae84e9bd9f3bd64db7d80f3a0e9b5025da63f3515df4ef924c7bc57ad954"
+                "sha256": "37312e1de4873925ba608d390e1c80db4818eb788315ad20ea7b4c883bc80ebd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.072.1463",
+                "version": "2.073.1464",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
-                "safe": true,
-                "sha256": "1c573258fabbe128d6571040780928da12e2f7341bb263a9c158077619936627"
+                "safe": false,
+                "sha256": "154b4507852b9a4b57b12ca513e11f4689f5ea9d784e7353a8e2b2393d6434d0"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -1372,11 +1372,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.27",
+                "version": "4.7.32",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "ee9d0c2bbf6813385f0a23038b3a8a3cc130e37c51b46c014a3799dcedec8fae"
+                "sha256": "c4ed897318b9f32abb93f1dea6630c5dc2d4e39a58b90ae9f5b876ee32055b7e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1406,19 +1406,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.7.4",
+                "version": "25.8.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "3e2062905fa5e4001d28471d64dfba52e55398778215101f0a0b0197febf29dc"
+                "sha256": "e7e282ef8e2624debcab4e5390e94be9680e950315bd4941f05665e3382735b7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.7.2",
+                "version": "25.7.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "66806dacdd21623769da11b3130ca78c549a5e81c67cad65da289a49f930cd11"
+                "sha256": "8a137a6fb38ec84d080ebe6e986cbd3d734b3eda4f79eff4214aa4265cf86da6"
             }
         }
     },
@@ -1538,11 +1538,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.38.40",
+                "version": "4.39.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
-                "sha256": "b5b2bc2c42149ef18fcea99d6ce276b1d4f8edf5c1855a221d111fab55c0487b"
+                "sha256": "9aa9f9e01c4b9a0696e5596de47b9ef852690f74c8b30a8916ac315b0b804853"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
