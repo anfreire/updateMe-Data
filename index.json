@@ -365,11 +365,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "15.4.206",
+                "version": "15.6.211",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "3f71693bc68ccce80c8503e4aae90f5a72f426465f7b8608a9a185b0e80fa924"
+                "sha256": "aec18dd05c71d09ecf378227781736cb424425bdc4d870a4d9ef03c5e1a5e2b8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -467,11 +467,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.072.1463",
+                "version": "2.073.1464",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": true,
-                "sha256": "57bcae84e9bd9f3bd64db7d80f3a0e9b5025da63f3515df4ef924c7bc57ad954"
+                "sha256": "37312e1de4873925ba608d390e1c80db4818eb788315ad20ea7b4c883bc80ebd"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -680,11 +680,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.22.0-dev.1",
+                "version": "1.22.0-dev.2",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "4415bcbc937699e9b841d4c148d6442996a251930f57e87d48faf3a58502f2bf"
+                "sha256": "a91ee79018bd6220612447166e45deb6bd373fe92a0f2b66e1b3e58d81ba8c0f"
             }
         }
     },
@@ -968,11 +968,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "8.1.3",
+                "version": "8.1.4",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
-                "sha256": "43797ed19b78b216659e36beb04e785c1473534d7f45e63d3084be0f72a8944f"
+                "sha256": "6ee0c3098fc8d86c2f008497140bd5eb3be5da8b30ad9d18013efcb44b3da776"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1262,11 +1262,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.38.0",
+                "version": "3.39.1",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "f0d7292eba6c6cc52faeceb0f3f9248a4d2826dd4bee96bcbb53891744086af1"
+                "sha256": "b0b45d1bbcd07c68fc0536f88215b9c4f03597cebc950e68796c01299d1cac37"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1356,11 +1356,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.30",
+                "version": "4.7.32",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "6441cf7f877d1f2b344c37e5f28d208e54e820ddf83180ee35a819f282c103e4"
+                "sha256": "f411c6e0171a395e1e4ef3067d83a0603f86898b37e53fffc54b08abe7c0364b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1398,11 +1398,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.7.2",
+                "version": "25.8.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "82a9321792dc690108367bf2b22b43c50a19b2a80ff8524f64a8d31cb2d175a1"
+                "sha256": "e7e282ef8e2624debcab4e5390e94be9680e950315bd4941f05665e3382735b7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1530,11 +1530,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.38.40",
+                "version": "4.39.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
-                "sha256": "0eb0b4258ccb68f58b5a867c22b2722f3fdb52117d6101650dcbd932a13a50ce"
+                "sha256": "85aa25f552298a9f8b4e97eb2881761ee01463b444d7e52462555dcaee94a3ff"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1564,11 +1564,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.21.5",
+                "version": "14.21.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "98349993cc980c49c583a58b17de643b21e513761aa026746987d98947507ae9"
+                "sha256": "bac9557d8a317a5e1e34675a8e43512e3eaa2c02bcd6dcef2c5706111ab4d89a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1684,11 +1684,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.166.3",
+                "version": "5.167.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "c68c2fe4904471079dfc08e4e0ba34f494b928dacf3b87065ab487020766eb30"
+                "sha256": "d11fff74ad3e8d94d09583942927bef5747f7408d232b98bdfb674a3dd2e60be"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1837,11 +1837,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.2.4-rc0",
+                "version": "1.2.5-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": true,
-                "sha256": "b349aae384f6c52aea83e565d0f3c2100e96a9ff37589a35538cf60858566988"
+                "sha256": "22bb32cbdd1c5fb69b7a8cf0a620b69bcc99222b0c95d841b64b3d1122f0c8e4"
             }
         }
     },
