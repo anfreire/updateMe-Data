@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "d28d4c4f570628a1b54bc324057c7a8c7c0b28a8e3cd575a92243d6533b42aeb"
+                "sha256": "9d5b15dc02493fb51a2b24966f766da89bdbcafca63274a605db29a6f8f7c64f"
             }
         }
     },
@@ -1700,11 +1700,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.166.3",
+                "version": "5.167.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "d38849fb35aca22b632bfb19ed79b1a0bd6347c2f007f243e62294104b2cd667"
+                "sha256": "4195bd742d0e7deb4f332110cc44be01a0a356d3fa0e944c6b56feac0974dc4e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
