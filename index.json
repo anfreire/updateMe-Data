@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "5567ecbf8d1137644a3ed3adf2aae4a9b30a2c5ef0be85d043baf8749e198b38"
+                "sha256": "15327d97f8cd1d67ede890c89f81c18c26afdc34bcae71d1983fc79abb9f5b68"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.13.52",
+                "version": "7.17.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "68290e054574d2047c29452af41b646dafd870ee0ddfcd82e89a5a7d38ccc551"
+                "sha256": "16d376224f609a419df663b95f7381f6ade45fe01eb27a56be5a76e5f681a38e"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "9d5b15dc02493fb51a2b24966f766da89bdbcafca63274a605db29a6f8f7c64f"
+                "sha256": "1f26196b34d6420d56eef73dc1f75c6bcc7c94b56b61636614c2ad4073212b47"
             }
         }
     },
@@ -680,11 +680,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.22.0-dev.2",
+                "version": "1.22.0-dev.3",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "a91ee79018bd6220612447166e45deb6bd373fe92a0f2b66e1b3e58d81ba8c0f"
+                "sha256": "5c055b19dab0a907a979188180e405ba1c9c58e1e56420cdc384d3a64c01cb57"
             }
         }
     },
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.167.0",
+                "version": "5.167.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "d11fff74ad3e8d94d09583942927bef5747f7408d232b98bdfb674a3dd2e60be"
+                "sha256": "283800018832491037acf847ae005b9364bcc61a5b57f1e4da72ab8de2dad7bc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2338,11 +2338,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.3.1.0",
+                "version": "7.3.1.2",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "c9b36f4294fd031843103ed9bb9d23052b1419ca9585d58182a6315a9ccd0fb0"
+                "sha256": "559623956d27873c98594d23542afb513278a34f3446e90de4f71c5368ffc37e"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
