@@ -66,7 +66,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
-                "sha256": "200fef370ac098ae33a78d7596dad3943416523ff2ef18325270f1f98ad35c9b"
+                "sha256": "732451da4cd81d57969961e3abdfd5c2b46910843ad15fccba3fc1cf5bdf8e2b"
             }
         }
     },
@@ -109,11 +109,11 @@
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.13.52",
+                "version": "7.17.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
-                "sha256": "d969d95acf766c74f9180d177428bb2e1287598de65b3bfe1706419625537100"
+                "sha256": "c4d3b3eab2a666caa41b0e0593cc5dfcce4a3b569238f982603cdd971dedfccf"
             }
         }
     },
@@ -1296,11 +1296,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.71.0.2408140000",
+                "version": "6.72.0.2408290000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "a77279a53d064e23d73b67f73193bd01bfb705d0f96fff634bd877d5bf991534"
+                "sha256": "ff46cf8cc3a4e9e17ad344c0c91afa806e2a370d4bb41dd73e8279a80be2c3b3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1572,11 +1572,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.21.7",
+                "version": "14.21.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "bac9557d8a317a5e1e34675a8e43512e3eaa2c02bcd6dcef2c5706111ab4d89a"
+                "sha256": "7cebc77ec86f68ce0d3e464a101a2ed9b029897b95e904a935764fe8157a8575"
             }
         }
     },
@@ -2346,11 +2346,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.3.0.0",
+                "version": "7.3.1.2",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "0177ce7d3970be8917b3050b7ca5304f0bdb1ce4e86621fa86ef2449a4e5498d"
+                "sha256": "559623956d27873c98594d23542afb513278a34f3446e90de4f71c5368ffc37e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
