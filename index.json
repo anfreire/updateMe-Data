@@ -782,11 +782,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/borealis-1.html",
-                "version": "2.159.0",
+                "version": "2.161.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_modyolo.apk",
                 "safe": false,
-                "sha256": "9df194f829359af34042cd64ba260f1255a1f6ba998b066cde53b54fea293050"
+                "sha256": "a673b2089f9c39cb9400f6d24956aa907c609313f1321ae1a1535bc6a4c396c0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
