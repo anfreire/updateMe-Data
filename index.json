@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "59cf0b9b2862ea78bfbc7f0da0be9519c64bf0b79ab39ddba3a9dab57c1d00c0"
+                "sha256": "8b49492c5afa65728a15efd79bd5dbe69e90e2524bfeeaa9c93fdb799471b76f"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "d383fe4b3bade9843310d30f54b7bd7f63b716c13ba44918b217703f7189adfc"
+                "sha256": "f3553edfcf8a31dce1f63acc4381b0865ecfa0df3b773f7a7b72f34302ff1c19"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "1bdc1fc159789a6d0abe2983ff221508c0834f0c46cef5ed443007fadbfc0d8d"
+                "sha256": "f37a815c2f800a2b9f588176946b80e3687ca33c666fb97f2bfa18d845f49c04"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "d9b9abd9c9fb396f2b47e169f8fb9ab949081df30f61e773f5361ad1d7a2b078"
+                "sha256": "fe3882c9867d054d5be8e545c0777e8d1cd7c1b069feca834ab11dfc16552128"
             }
         }
     },
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "0a05286a6a4d946a2e05584e5f0dd18c8e078786f44527b405e3164dd22c3d66"
+                "sha256": "8198b9fcf27937715ae7ef2f33c57211a271c4307c82cee7f20d1c05bbc2d14b"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.ss.android.ugc.trill",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "f8995b3c85ff7de32abc1cdfbad103bf7688a088c2d3218ae8605f1d65172da4"
+                "sha256": "9ec5461d54a8ecce0b01c6fd86374e05843b433e0911c847566f8ee6d3b8cc44"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -680,11 +680,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.22.0-dev.3",
+                "version": "1.22.0",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "5c055b19dab0a907a979188180e405ba1c9c58e1e56420cdc384d3a64c01cb57"
+                "sha256": "0743a19dff7cb9ecc37f7cbd5039205ff01a7a977112fe23b175465c788e4c65"
             }
         }
     },
@@ -860,11 +860,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
-                "version": "1.42.0",
+                "version": "1.43.0",
                 "packageName": "com.unvoid.australis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/australis_liteapks.apk",
                 "safe": true,
-                "sha256": "2216c5e621aa0e6bee6e6b0ac111400bb140200bbc7360631fe9de39d316eb92"
+                "sha256": "82bcc085f459ce4bcf97a22182ee46756e565543c5f830ad3b3e94facd7d912d"
             }
         }
     },
@@ -891,11 +891,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.1.3",
+                "version": "6.1.4",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "35a65330d5bc212a4d6878eae8dc3beb074a3237d9070dbe7f06f55f3976e320"
+                "sha256": "163ef09767eed1900b714c1781d1d9906735fee80bf6e47864881506f4e9886e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -1364,27 +1364,27 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.32",
+                "version": "4.7.34",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "b22760048aa3443d851d7ac3b7d0d218770201bf2284acb4f46f9ce688a739c0"
+                "sha256": "ccab657cacd4a9e9b517372ae1bc13e62a0a49f751c2f202428637141ed014e3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.32",
+                "version": "4.7.34",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "c4ed897318b9f32abb93f1dea6630c5dc2d4e39a58b90ae9f5b876ee32055b7e"
+                "sha256": "02662b165e588c6c8bf6ffd67864cc6ce9858551e5bdb57dcf76859c14e39f00"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.30",
+                "version": "4.7.34",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "0413620acc1dab75d1fb18315f3d8a0be7049afec4a5d68fc85175e14d032a4a"
+                "sha256": "02662b165e588c6c8bf6ffd67864cc6ce9858551e5bdb57dcf76859c14e39f00"
             }
         }
     },
@@ -1538,11 +1538,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.39.00",
+                "version": "4.39.01",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": true,
-                "sha256": "9aa9f9e01c4b9a0696e5596de47b9ef852690f74c8b30a8916ac315b0b804853"
+                "sha256": "1e98f948110c92b952fd4bafb1ac039e92ea54a002d13bcd07deb014e742a29d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1656,11 +1656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.40.0-240823",
+                "version": "14.41.0-240829",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
-                "safe": false,
-                "sha256": "1230ac68b67b43a56778c990f11a2c4005b10db90d0ebf06394100fa2f26a980"
+                "safe": true,
+                "sha256": "0f52c3275e3bc983fb87299cb7ebcf50855fd20c1741a29e34946c398da56937"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1864,11 +1864,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
-                "version": "17.1",
+                "version": "17.2",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_liteapks.apk",
                 "safe": true,
-                "sha256": "63bc3f9b63383bf8251d06aee07ac33733794c98de58e6a8cd973203df3c712a"
+                "sha256": "7a321cf2211dd467a0fc0010e04ddeee4d5da39db361d4bc74a91c6a048fc5b3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
@@ -2116,11 +2116,11 @@
         "providers": {
             "FouadMODS": {
                 "source": "https://fmmods.com/fouad-snapchat/",
-                "version": "12.96.0.42",
+                "version": "13.5.0.41",
                 "packageName": "com.snapchat.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snapchat_fouadmods.apk",
                 "safe": true,
-                "sha256": "c13313c04cad74b8e8882c32393374fcb9071235a6efdb980645c614beeb60b2"
+                "sha256": "7bd59501788238c97440e2a334a99f47dd2cdb0289d924af3ef575afebf33026"
             }
         }
     },
@@ -2134,11 +2134,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "476.0.0.49.74",
+                "version": "480.0.0.54.88",
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "bfbbf591a2751d7db799ff85ecaa89e74491a1d552b137eb257766c88c58c7aa"
+                "sha256": "9faa19a9bf0e22c20218d8ff0448f7442226f6e7a8dbf29c142158a92ccdd15b"
             }
         }
     },
@@ -2159,7 +2159,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "08ac92dda3c04912460560d910a4e9a8d366489a01964ce45cf3d77bf010eadf"
+                "sha256": "c3e88314027cb75f2a23c3b2fda638acb6598ead764fb25cbf58b8e3ce78cd88"
             }
         }
     },
@@ -2179,11 +2179,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.56.0-release.0",
+                "version": "10.57.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "17e89e3c79e458479bd7c31f56000285bae5e238db1cacae9e74786e97a60331"
+                "sha256": "612f0336d29c3ae5f9d9ce28823ae44f256580a247d05dd4e400d6ee1571be72"
             }
         }
     },
@@ -2239,19 +2239,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
-                "version": "4.2.11",
+                "version": "4.2.12",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
-                "safe": false,
-                "sha256": "6d8261b82fd0ad33c330109f4b2f1e9809731ae91ae5d1e1448ad92503ae1e88"
+                "safe": true,
+                "sha256": "0b3bb8e9910687a6d5a5c30be2d112aed203ba3831901d56222ecd13fe5dabf4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/secure-vpn.html",
-                "version": "4.2.11",
+                "version": "4.2.12",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modzoco.apk",
                 "safe": false,
-                "sha256": "4e242654dda887f30eda9c0bb84e7276e3cdd2c98889d5b3a06bcabe98ebf9c9"
+                "sha256": "ae4a475470a0dda1acc068ab3fd5fe02cf9d758a11e42f13854fb9b91eaeacfc"
             }
         }
     },
