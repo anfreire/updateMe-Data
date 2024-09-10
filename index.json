@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "fe3882c9867d054d5be8e545c0777e8d1cd7c1b069feca834ab11dfc16552128"
+                "sha256": "2ef60107dd5d1a54397d088b5fbee81c0c382218d1d786b368cc628c1d909fe7"
             }
         }
     },
@@ -1664,11 +1664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.40.0-240823",
+                "version": "14.41.0-240829",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "2bb7abff6343985413b481c1e5e894bfcc2c2f90762b0290959c45b5bfb532dc"
+                "sha256": "0f52c3275e3bc983fb87299cb7ebcf50855fd20c1741a29e34946c398da56937"
             }
         }
     },
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.167.2",
+                "version": "5.167.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "283800018832491037acf847ae005b9364bcc61a5b57f1e4da72ab8de2dad7bc"
+                "sha256": "e160d9a2574f245de436d2c1c096823541d8015793ffd8546bcbd8847f1a5115"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
