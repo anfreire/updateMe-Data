@@ -1440,11 +1440,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.82.0",
+                "version": "1.82.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "620ca64820acdafbc21197d185ef9f2f1d7eb7b52b243ab2a5dd1b91cf5f3c16"
+                "sha256": "4ec63a585348c29f38cf464b839457dda9a35c64e444b021d3bd58662dd959cf"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1941,11 +1941,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "19.2",
+                "version": "19.2.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "9767c0cfa444780f1a671649df063023922d6521da29269d372f8a7c7427e1cc"
+                "sha256": "e67afa4ed056fec5fe37144e6beff90f1eff6c3a4d6a05ee4583d4c916ec3361"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
