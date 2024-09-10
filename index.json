@@ -1304,11 +1304,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.71.0.2408140000",
+                "version": "6.72.0.2408290000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": true,
-                "sha256": "4643e436da4db70faaa7d407647ffa1d67eee66ac44c3ce74642fc04c96a8a92"
+                "sha256": "a49d17c7642cd564e01b1cabdbf0af341a37253f8b6ddd5bd4ba379907d28c52"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
@@ -1872,19 +1872,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
-                "version": "17.1",
+                "version": "17.2",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_apkdone.apk",
-                "safe": true,
-                "sha256": "52ff7d7980c1a1b39d4be1a2a2fda78b99025b88ebb3ed4ccfb560e40e4dc83e"
+                "safe": false,
+                "sha256": "6b95a3e0df3db27c8635cb0c532976bec47507ed307f398c5c8248f7c4810d41"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/1dm.html",
-                "version": "17.1",
+                "version": "17.2",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modzoco.apk",
                 "safe": true,
-                "sha256": "52ff7d7980c1a1b39d4be1a2a2fda78b99025b88ebb3ed4ccfb560e40e4dc83e"
+                "sha256": "8ce661247f709238556ba3c238f99894a9b2db0ff10142512c19f095f6b99b1e"
             }
         }
     },
