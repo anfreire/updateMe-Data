@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "911b29617dc608bdec26fbe49306c009484b8e0fb189506b73db53412858dfb8"
+                "sha256": "8f9f98c84703eb9fa608119daf312673d396c6cf289d07a2eac3085a5160a715"
             }
         }
     },
@@ -1448,11 +1448,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.82.0",
+                "version": "1.82.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
                 "safe": false,
-                "sha256": "b0f669937a082a16c011879311fa33477aab6c112bbb7bfa54e79199e0468893"
+                "sha256": "ce340720de4a94e59ff3b53d1bf3888dd1a76e9dd7dacef64ec3e6d856c12ef9"
             }
         }
     },
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.167.3",
+                "version": "5.167.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "e160d9a2574f245de436d2c1c096823541d8015793ffd8546bcbd8847f1a5115"
+                "sha256": "2b84d9a2422eaafd15ffd52cc68f6d9ade7f951f2e8de97636654a41486d3466"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1906,11 +1906,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.63.0904",
+                "version": "1.03.64.0909",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": true,
-                "sha256": "27d73d1742a56248ada3d09b74e3e2664890c50b905be5e84607519325f158b6"
+                "safe": false,
+                "sha256": "dcb2825f7c28aca8be5c0eb32c669b66dc6d6e4ab959f14af10722974e7738f7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -2354,11 +2354,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.3.1.2",
+                "version": "7.3.2.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "1c1139b8924ffa2fefa0614aa557a4f5e11d9cf6b175268aa5aade8d108bb228"
+                "sha256": "1880ebf92c6d4aba11faccca5a7fe8b4c0f37300d9549495189e1516286f1de2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
