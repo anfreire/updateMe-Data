@@ -1288,11 +1288,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.71.0.2408140000",
+                "version": "6.72.0.2408290000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "8f318da826a2690e1bef5593096f395cbaa2060bea24cc82d3a5716be92a51f7"
+                "sha256": "a49d17c7642cd564e01b1cabdbf0af341a37253f8b6ddd5bd4ba379907d28c52"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1708,11 +1708,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "5.166.1",
+                "version": "5.167.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "315c54e08c77975c9a71ca956a523921f17286ad94bca40d29036285f3318ec5"
+                "sha256": "7c213d0022360b8dc644f63365db1b2c676af1f9c5be0150b17abf405da68caa"
             }
         }
     },
@@ -1933,11 +1933,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "19.2",
+                "version": "19.2.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "8906880b67da14b799a8f95f35319eb8bc35aa9f36607983a177e147f0a46af4"
+                "sha256": "d478873c9d3affaf3debc15771e1dcf44c1a0a109cc77ea6b4bc2b88e679ecdd"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
@@ -2362,11 +2362,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
-                "version": "7.3.0.0",
+                "version": "7.3.1.2",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modzoco.apk",
                 "safe": true,
-                "sha256": "e8b8b5a45a8b3742314549b49d19fb10e568f6db8eebd87d943afe4db10b3d65"
+                "sha256": "1ef22dd133a506905fdd058dadc248ff0c2552e091abf538ce5a84607b9b1a03"
             }
         }
     },
