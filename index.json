@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "2ef60107dd5d1a54397d088b5fbee81c0c382218d1d786b368cc628c1d909fe7"
+                "sha256": "911b29617dc608bdec26fbe49306c009484b8e0fb189506b73db53412858dfb8"
             }
         }
     },
@@ -1182,11 +1182,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/musixmatch-lyrics-finder.html",
-                "version": "7.11.2",
+                "version": "7.12.1",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_modzoco.apk",
                 "safe": false,
-                "sha256": "99060c46c9f11e09d06dcc37170d6fa9041191bb981e0fdd8a36e9008d73de9f"
+                "sha256": "5df743036cda4795b53d5cdeda8e09429213cc33f9dfe5c4855b1ccd00cc89c5"
             }
         }
     },
@@ -1414,11 +1414,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.7.5",
+                "version": "25.8.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "8a137a6fb38ec84d080ebe6e986cbd3d734b3eda4f79eff4214aa4265cf86da6"
+                "sha256": "e7e282ef8e2624debcab4e5390e94be9680e950315bd4941f05665e3382735b7"
             }
         }
     },
@@ -1530,11 +1530,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.39.00",
+                "version": "4.39.01",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
-                "sha256": "85aa25f552298a9f8b4e97eb2881761ee01463b444d7e52462555dcaee94a3ff"
+                "sha256": "5fef7bf2c8da220d66c2f363bc5542820b475901077160171a50fc7cebe2d820"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1777,27 +1777,27 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "13.3.3",
+                "version": "13.3.10",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
                 "safe": true,
-                "sha256": "597cfbeffb6093a29de8695d6750247aecf5a4f81eaa2b28f4e2463dabc49333"
+                "sha256": "5cd802861bc965c4ba9f3d0a28e9a79b34582e258dd150190929bf4a27460b58"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.3.4",
+                "version": "13.3.10",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "05d74144ea6d2a3070671ce642b029d2aab23bced8325f9f59873687d4d044de"
+                "sha256": "3bd1ce95e47a9184b50728e71b1d9ae1f74761cb8c814a6d578e7a15b9d58378"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.3.4",
+                "version": "13.3.10",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "8cab3cc56af76ce90de159bfd202c2a34faf6f3f618484754b1a2163168dda75"
+                "sha256": "5c76ce3807356c92ac57a5d83ae3a66e2f3f51998ecaed7acd5b3f47c6540ca2"
             }
         }
     },
@@ -1949,11 +1949,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "19.2",
+                "version": "19.2.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": true,
-                "sha256": "9e2b22528d7aa71eadb15b9cf97944c9eb1928e8040c3a305835f9b6da25e1f0"
+                "sha256": "d478873c9d3affaf3debc15771e1dcf44c1a0a109cc77ea6b4bc2b88e679ecdd"
             }
         }
     },
@@ -2338,11 +2338,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.3.1.2",
+                "version": "7.3.2.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "559623956d27873c98594d23542afb513278a34f3446e90de4f71c5368ffc37e"
+                "sha256": "78fcabf3b572ddacf951e815e73efc42739088453f270b66dc9834901c73d2d2"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
