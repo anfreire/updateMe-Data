@@ -930,11 +930,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/linebit-icon-pack.html",
-                "version": "1.9.9",
+                "version": "2.0.0",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_liteapks.apk",
                 "safe": false,
-                "sha256": "5b4027d8c8498868f7c2a1412828b176c89a3dbfab4e0e969882f08752080f4a"
+                "sha256": "abb03ac99d54cdf29fb6c6ecea32866a40ce2c3207dcbc1fb4cbcedd89e657c4"
             }
         }
     },
@@ -1364,11 +1364,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.34",
+                "version": "4.7.37",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "ccab657cacd4a9e9b517372ae1bc13e62a0a49f751c2f202428637141ed014e3"
+                "sha256": "4465141bcb8b9bf883bb1cb2974162bdf452a5cffb5cb593ba0cc149f3099c1f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1406,11 +1406,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.8.0",
+                "version": "25.8.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "e7e282ef8e2624debcab4e5390e94be9680e950315bd4941f05665e3382735b7"
+                "sha256": "be45057b9de335602eb2a824675031327a464f34531008633c8edb710c1b4449"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -2017,11 +2017,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "4.107.1.0 chuppito release",
+                "version": "4.108.0.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": false,
-                "sha256": "5ae3876ed5178080fda34d92483fa6a1145cbd981d9a875479ea9ce1f605eeb4"
+                "sha256": "ace21ddf947f44c3a889c9e86cf9bb5f56e18ac5129eeaedc6c3cd78fc0d92fa"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
