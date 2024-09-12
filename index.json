@@ -2179,11 +2179,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.57.0-release.0",
+                "version": "10.58.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "612f0336d29c3ae5f9d9ce28823ae44f256580a247d05dd4e400d6ee1571be72"
+                "sha256": "6ba61179c3e567b796334e66d90f377b0efcba24b8d08e04d8290a291434b891"
             }
         }
     },
