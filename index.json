@@ -277,6 +277,54 @@
                 "safe": true,
                 "sha256": "4b13fc686905215f432aa8df4ed4316fc53181c7c1917824f0ba2653bedefe00"
             },
+            "xManager (Cloned)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "xManager (Amoled Cloned)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "xManager (Experimental)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "xManager (Amoled Experimental)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "xManager (Experimental Cloned)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
+            "xManager (Amoled Experimental Cloned)": {
+                "source": "https://www.xmanagerapp.com/",
+                "version": "",
+                "packageName": "",
+                "download": "",
+                "safe": true,
+                "sha256": ""
+            },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
                 "version": "8.9.70.556",
