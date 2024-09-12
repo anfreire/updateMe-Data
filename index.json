@@ -475,11 +475,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
-                "version": "2.072.1463",
+                "version": "2.073.1464",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modzoco.apk",
                 "safe": false,
-                "sha256": "cdf4e6c9e940ef807d90edfc2072b25fd98a4ec9c5149773e6fc03249d25547c"
+                "sha256": "867e76e301124a22b916d0c3b7f9892eb5da179c28ad70c011f93cef085a8944"
             }
         }
     },
