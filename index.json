@@ -255,11 +255,11 @@
         "providers": {
             "xManager": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.8.74.652",
+                "version": "8.9.18.512",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanager.apk",
-                "safe": true,
-                "sha256": "084f93eecaa096ae255dcec08940ff5e8581dd1d3e8052cd308d995328e9a88e"
+                "safe": false,
+                "sha256": "0c804093ff6314d95a700d49efe150caf2f49cce626f934a825e31eb13916a9d"
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
