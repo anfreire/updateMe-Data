@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "8f9f98c84703eb9fa608119daf312673d396c6cf289d07a2eac3085a5160a715"
+                "sha256": "8bd56cb871b5d83a5d1a82847fa9f4689439f44d0c9620266cad42c88ee5697e"
             }
         }
     },
@@ -1312,11 +1312,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.71.0.2408140000",
+                "version": "6.72.0.2408290000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "4643e436da4db70faaa7d407647ffa1d67eee66ac44c3ce74642fc04c96a8a92"
+                "sha256": "e0f3cb0170beb932a8d40886fee03cea08cee212fd3f57789ddd7630cbcc6592"
             }
         }
     },
@@ -1572,11 +1572,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.21.8",
+                "version": "14.21.10",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "7cebc77ec86f68ce0d3e464a101a2ed9b029897b95e904a935764fe8157a8575"
+                "sha256": "fef97288f6e35620b343c3a9a755c9334d6e38545f0f56458573a5d16fda5264"
             }
         }
     },
@@ -1692,11 +1692,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.167.4",
+                "version": "5.168.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "2b84d9a2422eaafd15ffd52cc68f6d9ade7f951f2e8de97636654a41486d3466"
+                "sha256": "f0df61fda4bb0827c07146787b289e10e364fa4ba0fcb8aeee0910a295f0b14c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
