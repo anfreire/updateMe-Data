@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "f3553edfcf8a31dce1f63acc4381b0865ecfa0df3b773f7a7b72f34302ff1c19"
+                "sha256": "2027a7636267ecadae2586de11a2bebecae6b279a4e1e618128fc8341a7c48ee"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "f37a815c2f800a2b9f588176946b80e3687ca33c666fb97f2bfa18d845f49c04"
+                "sha256": "b51c9355964bbd011cc1accf186ea8307add9e7fcc2241a7530151c758ebb725"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "8198b9fcf27937715ae7ef2f33c57211a271c4307c82cee7f20d1c05bbc2d14b"
+                "sha256": "4689007420363ba4976917a650999236488958bada6d53d884c581016857f2d5"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.ss.android.ugc.trill",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "9ec5461d54a8ecce0b01c6fd86374e05843b433e0911c847566f8ee6d3b8cc44"
+                "sha256": "74ae6e66289c9cc93afce300e149c4f2ba6e1626ad1f73a0284d0ec5ed206af8"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "10.9.8.0",
+                "version": "10.9.9.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "1eb077f3db05e153390b4602d58310dc62f45c476965ca70cc1a41075d4ac3ac"
+                "sha256": "139bd52f51698f22c821a98d3922feb930c53707f3035ef0430fed8fb66d0aa4"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.34",
+                "version": "4.7.37",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "02662b165e588c6c8bf6ffd67864cc6ce9858551e5bdb57dcf76859c14e39f00"
+                "sha256": "c691811135b4c545e6f6b2bd7c5278403d448356056af4d2f43c4a69ee6451e2"
             }
         }
     },
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "9faa19a9bf0e22c20218d8ff0448f7442226f6e7a8dbf29c142158a92ccdd15b"
+                "sha256": "192ca3655e5389d82980cbff481ef4307945a5c5e8068929abdeb77676a34377"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "972747596a0d1580eb39873463e56d9941a259650019124d8cc1778c34427572"
+                "sha256": "3506d95edc44d5107170ddeea7eaff8817446d9c7050a44d9585369d74b91803"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
