@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.70.556",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "adef1633c9f8c0698d98c8290a3f3e01eec6c5331b16a77ae5aca4e438787dd4"
+                "sha256": "92c993fc5562ce467272c3ca5dc4ffb1b82873a6b8a48a1f802b8ef93277e907"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "10.9.9.0",
+                "version": "11.1.3.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "139bd52f51698f22c821a98d3922feb930c53707f3035ef0430fed8fb66d0aa4"
+                "sha256": "bf24687084bf192814a21294e331d6ee4936652642a0c1d6dda30f7d4b8dd924"
             }
         }
     },
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.34",
+                "version": "4.7.37",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "02662b165e588c6c8bf6ffd67864cc6ce9858551e5bdb57dcf76859c14e39f00"
+                "sha256": "c691811135b4c545e6f6b2bd7c5278403d448356056af4d2f43c4a69ee6451e2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.8.0",
+                "version": "25.8.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": true,
-                "sha256": "e7e282ef8e2624debcab4e5390e94be9680e950315bd4941f05665e3382735b7"
+                "safe": false,
+                "sha256": "a0ae67e69ca300476bd0f1c77866f6a2025f6481c1840bae2547d1826201d54d"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.21.10",
+                "version": "14.22.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "fef97288f6e35620b343c3a9a755c9334d6e38545f0f56458573a5d16fda5264"
+                "sha256": "51c9025679902823617c251648898c826c94f94f39c1b7f05c84e5dd8ac61ca2"
             }
         }
     },
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.41.0-240829",
+                "version": "14.42.0-240905",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "0f52c3275e3bc983fb87299cb7ebcf50855fd20c1741a29e34946c398da56937"
+                "sha256": "538d89143251b0e472eed1223f7853c27bd8c2eeb9aa9800b9851f6893981ee2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.167.0",
+                "version": "5.168.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "4195bd742d0e7deb4f332110cc44be01a0a356d3fa0e944c6b56feac0974dc4e"
+                "sha256": "2035c2ae4ed94f2bd59474bc7c0033a54c593d6febf72fc29a83c929e62a965d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
