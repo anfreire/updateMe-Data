@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "15.6.211",
+                "version": "15.7.218",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "18f9243f4acd1e5bb6b24cd5234118dbc25e475288f3a61c4b577004cdfed89b"
+                "sha256": "ccd52193f3bf57c0491d67e8b484e8ae543b6581abf2179ae4f1ca19556f3867"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.4.0",
+                "version": "9.4.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
-                "safe": true,
-                "sha256": "c47de58587b4b0824e833ce21fe0a6b795398bcd0afc1b076cf6f4e1343f6fab"
+                "safe": false,
+                "sha256": "6ca025cdee933e2ec30ad9a99887c2eb7bfcba79040fe7d2bf1721c780f307be"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.72.0.2408290000",
+                "version": "6.72.5.2409050000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "ff46cf8cc3a4e9e17ad344c0c91afa806e2a370d4bb41dd73e8279a80be2c3b3"
+                "sha256": "bb0651185d4766b227174098b6f04c13ab6f00ebffc9bdac2020a2ba03545184"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.32",
+                "version": "4.7.37",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "f411c6e0171a395e1e4ef3067d83a0603f86898b37e53fffc54b08abe7c0364b"
+                "sha256": "ae4e51ac80bf7749b8212343ad76848935f414bc814ad663cc44bcbfaea094c0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
