@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "15.5.207",
+                "version": "15.7.219",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
                 "safe": false,
-                "sha256": "2030fb5917d1659ec54044f9b377d5936d70f181b989b2515dc67d8da645303c"
+                "sha256": "81e47365d83b1febaf2887576d64e28bcfd35486329663b9b7f18434df46a925"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.22.6",
+                "version": "14.22.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": true,
-                "sha256": "51c9025679902823617c251648898c826c94f94f39c1b7f05c84e5dd8ac61ca2"
+                "safe": false,
+                "sha256": "472c57fac620f26b898f311c2befedc5babbd9f0c699cee374885fc4503fc93d"
             }
         }
     },
