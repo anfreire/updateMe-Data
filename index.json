@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "57b76a5303d928fa3fcc8462957f3320de215724d971701cf9da1bb4ec9ab1e6"
+                "sha256": "ec87cf4e83f92b0f92946e9c5bbc6404539a3001a1fd589e8dba947cd1806627"
             }
         }
     },
@@ -421,19 +421,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "15.7.218",
+                "version": "15.7.219",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "ccd52193f3bf57c0491d67e8b484e8ae543b6581abf2179ae4f1ca19556f3867"
+                "sha256": "076eb763e2b0a1f4e8ebe05704575cd6db22da1224056915eee3a044e8c71828"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.6.211",
+                "version": "15.7.218",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "5ceec88174df6bdd536b5fbb63a41b78ce88fffb7d619778bd20283828b534fd"
+                "sha256": "391529faf50702fe2a01bc4c9b334a9718595010e131d01504a92ebb1af6dfb5"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -656,11 +656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.8",
+                "version": "1.12.9",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": true,
-                "sha256": "c8d3b8bcda5dee89a06f1ba48a685b4687e79f27f20417d45380a8a70efe71f7"
+                "sha256": "385bc8c4e69e708c3186fb73b8225f9c039a97d031331da4212086adf6d4b1f8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.4.1",
+                "version": "9.4.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "0f77029b36e02dec59796cdad103f2850edf9894ea997d04107cd7e27c6a87c0"
+                "sha256": "1d8e6d0766ebc5c2ef696e9436b2c5c8cced89e6be0dca561d5a8a97f1ef94d1"
             }
         }
     },
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.72.0.2408290000",
+                "version": "6.72.5.2409050000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "a49d17c7642cd564e01b1cabdbf0af341a37253f8b6ddd5bd4ba379907d28c52"
+                "sha256": "ad5798f2ddd10efb9c5a693e992d60ca82b83a2abb610a189b98beda4b87cbb9"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1352,11 +1352,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.72.0.2408290000",
+                "version": "6.72.5.2409050000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": true,
-                "sha256": "a49d17c7642cd564e01b1cabdbf0af341a37253f8b6ddd5bd4ba379907d28c52"
+                "sha256": "ad5798f2ddd10efb9c5a693e992d60ca82b83a2abb610a189b98beda4b87cbb9"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
@@ -1454,19 +1454,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.8.2",
+                "version": "25.8.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "be45057b9de335602eb2a824675031327a464f34531008633c8edb710c1b4449"
+                "sha256": "3efbe7f611f2beb46521566ca7446b5479b65437a79d9687a20093c27dc5a1a9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.8.2",
+                "version": "25.8.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": false,
-                "sha256": "a0ae67e69ca300476bd0f1c77866f6a2025f6481c1840bae2547d1826201d54d"
+                "sha256": "e7c02bb57a0fba95d44b977d05bbc7b838ea85375cdb2b65ca7a0cef7446106f"
             }
         }
     },
