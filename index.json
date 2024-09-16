@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "ec87cf4e83f92b0f92946e9c5bbc6404539a3001a1fd589e8dba947cd1806627"
+                "sha256": "964e88cfb4de4d9af96bb4dba02a47f7288e3ff4a3a46dc202a1f96a2cabc09e"
             }
         }
     },
@@ -202,7 +202,7 @@
                 "packageName": "com.ss.android.ugc.trill",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "5df8c01e619614eaa4cc4a64b81705ecb4b32670337d50a7f9b2c0656500a08b"
+                "sha256": "ce1e4673a725198e0b49523f25cc1a5a473441bfc50c214fe97504a5f49b23a7"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "12.7.0",
+                "version": "12.8.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "d11355f06ce27f5acefd8d5b08fad6814fac16e40bdfe66657661452811bdce1"
+                "sha256": "90b848da91e26f235b9514a987e0d6776086825d29fc4231c15ba6c6ebda67a6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "7a0dd3137530fd65d9b2a3124c8989f83fb215402c4f9bc217478fab4c1d412c"
+                "sha256": "fc3971ecc2f280776866152cf10c11a77640b6bdf9a3754fd7347e6d97e44ac6"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
