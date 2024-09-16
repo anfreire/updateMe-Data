@@ -1404,19 +1404,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.37",
+                "version": "4.7.38",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "ae4e51ac80bf7749b8212343ad76848935f414bc814ad663cc44bcbfaea094c0"
+                "sha256": "edf5437e79c6d6c1c075ab45f0dd54ad0db442b209de8f4e6e6de15758b04b9b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.37",
+                "version": "4.7.38",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "4465141bcb8b9bf883bb1cb2974162bdf452a5cffb5cb593ba0cc149f3099c1f"
+                "sha256": "1a72a6e5b23b244383e8956f61c235a3aab44b43247204a5c98ae1c405205366"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.38.34",
+                "version": "4.39.02",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": true,
-                "sha256": "6384886c7925b608ec49eb604561220b68f318419b11bd270bcf62f36c837eda"
+                "sha256": "5ae4f5a7a240ff154ca8ba8176fc98149b27385d20c061e25346fcd793346641"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.21.7",
+                "version": "14.21.10",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "bac9557d8a317a5e1e34675a8e43512e3eaa2c02bcd6dcef2c5706111ab4d89a"
+                "sha256": "a14b73eac0d29ed40009443f2dd156412e269061ad438554d3e1bcb6c1e14605"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "315c61157520f5422fcf6e0321e3068eb9ff48be9b2e6724c40240e24bb3eb17"
+                "sha256": "a4544a19c73cdb2f478c0fc3e17bde780f4041e382560f1851385a7c35bf3efc"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1841,11 +1841,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.3.10",
+                "version": "13.3.20",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "5c76ce3807356c92ac57a5d83ae3a66e2f3f51998ecaed7acd5b3f47c6540ca2"
+                "sha256": "e415bd991a00a2a0db919b06f2a11497547012ca016abff678f3f5c322c15ace"
             }
         }
     },
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "bf02790bbb626588b915ee672b3e81e9f07ab989f99f3b29b2fee0f282da657c"
+                "sha256": "490157fb0f562d060e7fc2f6df63eb1c7e1eff46d8e7af704d788d6c6f10d187"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "70e7fbfcc9935ee550b4aa0b5b4b2532a85b04f1927e7610de1b038fe3feda66"
+                "sha256": "2c0668543d07871647d5877d9e904784840587c28097c51a5462e62ddd1f554f"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "d9cc0cbf04b0addea88e0411380a89379ea266617afeadde709024a01eeab30a"
+                "sha256": "ce66791cfe3b1a92cd510242dddc71862e8b8de6bac33b1c28bc1424578785d4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
