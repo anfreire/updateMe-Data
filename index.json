@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.22.0",
+                "version": "1.22.1-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "0743a19dff7cb9ecc37f7cbd5039205ff01a7a977112fe23b175465c788e4c65"
+                "sha256": "c60af128f547cbd0aa19d11fbf8459472686d383cddaf29c7876fa4278816d3b"
             }
         }
     },
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.38",
+                "version": "4.7.40",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "1a72a6e5b23b244383e8956f61c235a3aab44b43247204a5c98ae1c405205366"
+                "sha256": "5b12c431878d9040a92a5d8b22c96c4ac5f48eaf1ab3f975ecc10b09ee079c96"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.38",
+                "version": "4.7.40",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "f9f255244c42a5cf1fc13bf028e1c0255c8f2f076c5c70db17c55e121e2c735b"
+                "sha256": "5df77546c39cc3f98d0e700f4ff1b97bb02fbdb831ae536c3061fa0a268f3e93"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.21.10",
+                "version": "14.23.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": true,
-                "sha256": "a14b73eac0d29ed40009443f2dd156412e269061ad438554d3e1bcb6c1e14605"
+                "sha256": "7ce6861aa6e89407933287e8d4837bf31fef6beda40da766ea63861b6cc8ddf4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.167.0",
+                "version": "5.168.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "d11fff74ad3e8d94d09583942927bef5747f7408d232b98bdfb674a3dd2e60be"
+                "sha256": "77c60295b8d263de376d7266fa6eaccdb427d429b24ea8b4aec3cf35291ab94e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.2.17",
+                "version": "13.3.20",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
-                "safe": true,
-                "sha256": "72fdc7e1ff1c5f04931da5be9d0aae669cdf74aa1a652414c87803cfb9ad594f"
+                "safe": false,
+                "sha256": "1f6351eadc6ecfa2e82151b1ccc2cf97c44592e91f32b86b94bb046b3199ad4d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
