@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "15.6.211",
+                "version": "15.7.219",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "aec18dd05c71d09ecf378227781736cb424425bdc4d870a4d9ef03c5e1a5e2b8"
+                "sha256": "076eb763e2b0a1f4e8ebe05704575cd6db22da1224056915eee3a044e8c71828"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.7.218",
+                "version": "15.7.219",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "391529faf50702fe2a01bc4c9b334a9718595010e131d01504a92ebb1af6dfb5"
+                "sha256": "076eb763e2b0a1f4e8ebe05704575cd6db22da1224056915eee3a044e8c71828"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.4.2",
+                "version": "9.4.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": false,
-                "sha256": "6ca025cdee933e2ec30ad9a99887c2eb7bfcba79040fe7d2bf1721c780f307be"
+                "sha256": "3f4c3b052d2f148319af59738d40ca2198ee9eae2fb04acd7235f3e76b8f46a2"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.8.3",
+                "version": "25.8.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "3efbe7f611f2beb46521566ca7446b5479b65437a79d9687a20093c27dc5a1a9"
+                "sha256": "99fb21c4d2daaa752605207c4cb2370301bb8f9f2ac2f5709554014eb0fcc415"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.22.8",
+                "version": "14.23.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": false,
-                "sha256": "472c57fac620f26b898f311c2befedc5babbd9f0c699cee374885fc4503fc93d"
+                "safe": true,
+                "sha256": "7ce6861aa6e89407933287e8d4837bf31fef6beda40da766ea63861b6cc8ddf4"
             }
         }
     },
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.168.0",
+                "version": "5.168.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "2035c2ae4ed94f2bd59474bc7c0033a54c593d6febf72fc29a83c929e62a965d"
+                "sha256": "de67abe988430b3c9ff16a7c89896d79531f7fc7d8c688e6e9033a72290626f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
