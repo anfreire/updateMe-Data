@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "7c1e560c0fb4f525ebf96c0f9b73c92e5e9185395f56744c84301df4a3ed081b"
+                "sha256": "f6c68df7ac1b7df105ffa5840e42a3803572d6494aaa14696f9592ec22ce8bca"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "0d669f6b13506dc65804cc1c801f0be1b16a5a81493cc8c06e7a61145fd4a567"
+                "sha256": "4ec1ad7ca7317152acb3f6499885a06129c2cf0cccb679de1caaaeefe3043593"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -139,7 +139,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "046a19a0dd06791a104dce9edd2af1431f5018567e67d60fb4381a6b83fb01e0"
+                "sha256": "0aef41194b2a61d5c00cda0e9e68071744931dd877da72fe091534f530b3a577"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "f4c1e422b556cf46f2cd480379d2e0fe48a6fc1d0e9ae09d2f52755ea9812f56"
+                "sha256": "619252ef4dc348313b569db79b0c6cb1a534e125938f119906bd490a9d60ea80"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.ss.android.ugc.trill",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "5ad3d410ce6e3e1a8a5c83b7762946696edf9afcd8d8a19601d44f236917e476"
+                "sha256": "ae366b020dda1e710d462eab175ff18699dce36de4607ee6ab93f4453f91610e"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "12.7.0",
+                "version": "12.8.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "d11355f06ce27f5acefd8d5b08fad6814fac16e40bdfe66657661452811bdce1"
+                "sha256": "8e8a63e43a5487e0a930c9bce4dc1702c04c24b796f70ef134241dec64c6b38e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.37",
+                "version": "4.7.38",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "c691811135b4c545e6f6b2bd7c5278403d448356056af4d2f43c4a69ee6451e2"
+                "sha256": "f9f255244c42a5cf1fc13bf028e1c0255c8f2f076c5c70db17c55e121e2c735b"
             }
         }
     },
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.40.0-240823",
+                "version": "14.42.0-240905",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "a43838698158a641c37f511d835735e6d3039d15bb323068ae21ddc4cf374c7c"
+                "sha256": "548c24381868603519756781187022677b694de55db0fef3d82eed0c86f794b5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
