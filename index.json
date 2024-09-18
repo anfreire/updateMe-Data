@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "b85ae64308f26f41d6ddb632cb0f08979fc745a4ce3caa92a04b80d440fe6422"
+                "sha256": "a37784e3aedffddde64eb04fb2d81e387d6f7c793fb663735c963323c75cc0ad"
             }
         }
     },
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.4.2",
+                "version": "9.4.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": true,
-                "sha256": "1d8e6d0766ebc5c2ef696e9436b2c5c8cced89e6be0dca561d5a8a97f1ef94d1"
+                "safe": false,
+                "sha256": "7d1b4d38242361ce7ac7da445ef433b2fb7b06bb7229e450e2ee288f88173463"
             }
         }
     },
@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.39.01",
+                "version": "4.39.02",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
-                "sha256": "5fef7bf2c8da220d66c2f363bc5542820b475901077160171a50fc7cebe2d820"
+                "sha256": "f8efabecc259fb58d265924e30f2088927ecfc15ff2269397c23e57661622682"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "490157fb0f562d060e7fc2f6df63eb1c7e1eff46d8e7af704d788d6c6f10d187"
+                "sha256": "6d0bb9284cf77b2cb5613b3407c9e4ad1c07464a96b2968c01e733c32a0fb168"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "439.0.0.29.119",
+                "version": "475.0.0.60.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "2c0668543d07871647d5877d9e904784840587c28097c51a5462e62ddd1f554f"
+                "sha256": "97b31d6e9f9c208adcc4f90fa7e8a3bd2d1ce3bac060c0bf20478cd4c1b5236a"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "ce66791cfe3b1a92cd510242dddc71862e8b8de6bac33b1c28bc1424578785d4"
+                "sha256": "f30544f36f432e6278ecd0c80899fbcc6f28a90e52b5d69ec214f34918821e95"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
