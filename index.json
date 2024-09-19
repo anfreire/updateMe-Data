@@ -255,19 +255,19 @@
         "providers": {
             "xManager": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.18.512",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanager.apk",
                 "safe": false,
-                "sha256": "0c804093ff6314d95a700d49efe150caf2f49cce626f934a825e31eb13916a9d"
+                "sha256": "3e38180af480290c09caf3036b53a6574670971b9c6ff5d7824b57ec3a548342"
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.18.512",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoled.apk",
                 "safe": false,
-                "sha256": "c18eb968bcda690b5e4f3699d8a2f6e7785f4c01f01a121548de12d402ab5299"
+                "sha256": "cade2df3caacb9cf13195b7e42a6ba2b3d840734c54f10b6a043ac703ef0bce7"
             },
             "xManager (Lite)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -279,19 +279,19 @@
             },
             "xManager (Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.18.512",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagercloned.apk",
                 "safe": true,
-                "sha256": "9da30377b6fb736c78d347499c6466893cc71a7c634608c87dba394b5f06b522"
+                "sha256": "d0c3de8d6cd70c9b84b53a5f1cb8d3ed6a084fe5a96b47c7a1e051571794dd36"
             },
             "xManager (Amoled Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.18.512",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledcloned.apk",
                 "safe": true,
-                "sha256": "f4028ac6568d8e123621ece0c7ced4dc7424044923a094c2a576e65501062b79"
+                "sha256": "f067ad371cf706aa1a72ed3ac23fc1f552b8de65a128cd95ad6074baeab6bc73"
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.70.556",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "27131d0aedd09f4eb02b144e6824273ea53cd74637251d02763a4394bf2612bc"
+                "sha256": "e3ae1d1fce1e9c6e5e568c3cbb8e64f751e9def32fded3d2795c43836925231e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.40",
+                "version": "4.7.41",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "5df77546c39cc3f98d0e700f4ff1b97bb02fbdb831ae536c3061fa0a268f3e93"
+                "sha256": "560a9238c5d946221a756da969ca3252f2b192303417a4daf6f14ed6fa2d0928"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1446,19 +1446,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "25.8.3",
+                "version": "25.8.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "3efbe7f611f2beb46521566ca7446b5479b65437a79d9687a20093c27dc5a1a9"
+                "sha256": "70b336f8dded0f5d3669b36a7b30e84ec09d4bef2652bfda93e7d6616cc687cc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.8.5",
+                "version": "25.8.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "99fb21c4d2daaa752605207c4cb2370301bb8f9f2ac2f5709554014eb0fcc415"
+                "sha256": "70b336f8dded0f5d3669b36a7b30e84ec09d4bef2652bfda93e7d6616cc687cc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.168.2",
+                "version": "5.168.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "77c60295b8d263de376d7266fa6eaccdb427d429b24ea8b4aec3cf35291ab94e"
+                "sha256": "14c5088bef09de67080ea0df5e77176f3e3544d94b535485ffe3a2c771c87db4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.8.584",
+                "version": "4.8.586",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "a34785d3bcc2dfbd2806a3dd82c20aebcc320d92df1ac9ca71941d703e669807"
+                "sha256": "0dc2c89275ccb52803a020dfe8609e864509029bad96aca0bbf8678b7489b205"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
