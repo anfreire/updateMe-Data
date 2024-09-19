@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "e80a6659aa513d6dcb70b4db349a5449aed45f4b75ca7fd61e894d6ae9020405"
+                "sha256": "61bdbfc2a424cc8c8e5634814ee37aabb5ba6e6a1febe43fe9c4967b29749cd0"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "c0f0c80c5b2d52b04742ca465494f6f7ac3067ad8bdef4bcaf4244963e71fdaf"
+                "sha256": "28a6cf12fc2a7ed543b5cae50bb7f1d51b7f6b150d14543d22ef308c73ee4c9d"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "a37784e3aedffddde64eb04fb2d81e387d6f7c793fb663735c963323c75cc0ad"
+                "sha256": "38129e3cc72f4a2fa7d91bf8040b176d7441591527da8751feb8e518a9e41ea6"
             }
         }
     },
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.38",
+                "version": "4.7.41",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "edf5437e79c6d6c1c075ab45f0dd54ad0db442b209de8f4e6e6de15758b04b9b"
+                "sha256": "f95d00e31bbca69729bd90b181b1d6ab665cef57b5dd62b57cbb9b1f40725f6c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.23.5",
+                "version": "14.23.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "7ce6861aa6e89407933287e8d4837bf31fef6beda40da766ea63861b6cc8ddf4"
+                "sha256": "4e01a71d1f8fc170ff72d692ab9193053a000b12630de199517861b180a490fa"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.168.2",
+                "version": "5.168.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "77c60295b8d263de376d7266fa6eaccdb427d429b24ea8b4aec3cf35291ab94e"
+                "sha256": "14c5088bef09de67080ea0df5e77176f3e3544d94b535485ffe3a2c771c87db4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
