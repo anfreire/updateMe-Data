@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "7a7db4500bcadd9454602e0238f3bc597f3118ce87e576b2dcefd938a212e0cb"
+                "sha256": "9a4138389b617f234f4c12adb166ac8164fd2ee11f93e744b4060cd7f72347ab"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.03.52",
+                "version": "7.19.51",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "54bcff4189d3c75003012b7083108f3ffc8a3261b4767ce0ccc49fef08023aa7"
+                "sha256": "32ab83dc27171613598476ef149d270e4750a2df61539b920311a5e4e21127f2"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -179,7 +179,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
-                "sha256": "dbcc4c08330dbb906aed84442399cf342614e29a2b125bef1caba08a19cd4e6b"
+                "sha256": "d357360314f5b28d6f9c16d3f742287feee7fb6a8fe5c80e4d006f0a46885ff9"
             }
         }
     },
@@ -210,7 +210,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced2.apk",
                 "safe": true,
-                "sha256": "c9d6c6e2d845d3374a8a353d37b47bfd23a8dfd545c87d212f02570feb8de7c3"
+                "sha256": "e9bc00ba53ef2b29aa0f14bcbb06d2a1732f96c31ab753529ba74effd973557c"
             }
         }
     },
@@ -295,43 +295,43 @@
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.56.618",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagerexperimental.apk",
                 "safe": true,
-                "sha256": "7c34f3369c462f20c2fbc645dc1c5b174292c1ec3a582ae61b25d52c5863c5b6"
+                "sha256": "f8257b66ad2cc1e8808e40e13e9cafe9d7fdd386468630f777ca40183747049d"
             },
             "xManager (Amoled Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.56.618",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledexperimental.apk",
                 "safe": true,
-                "sha256": "72f2e301f8434c98e6aa2a3c9756af2533af53fbe82921b359f294f54c63436c"
+                "sha256": "63cc914a636272b1282a298331dc2870144fbdd1ad40a6281d9378419716a5f9"
             },
             "xManager (Experimental Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.56.618",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagerexperimentalcloned.apk",
                 "safe": true,
-                "sha256": "9a33c02c1116ae6fc5437b38234dc98e1695a1e916595d126a70e3346f50d6fb"
+                "sha256": "1c789691def78d5eb6a68195a0d687e6b61eb8a06a7f86df7389106ab8f9117a"
             },
             "xManager (Amoled Experimental Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "8.9.56.618",
+                "version": "8.9.74.568",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledexperimentalcloned.apk",
                 "safe": true,
-                "sha256": "4c46424c5b8824950efa75c1de46650b1c27fa2072f8b8357d10b00470a1e124"
+                "sha256": "63e98edb4cf8cb0b8dd4122cd31220ea9687d77f347fdc5860a1a1fc8dcfbbf0"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
                 "version": "8.9.74.568",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "e3ae1d1fce1e9c6e5e568c3cbb8e64f751e9def32fded3d2795c43836925231e"
+                "safe": false,
+                "sha256": "3c1878ef3de9b41a2da8e70b4532b6187d888e83a7613b0b1a94ee90b071d34a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.22.1-dev.1",
+                "version": "1.22.1-dev.2",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "c60af128f547cbd0aa19d11fbf8459472686d383cddaf29c7876fa4278816d3b"
+                "sha256": "c23f1c5fd413cf8eae95728939641a841b5b1d172f5cc01344f57e5fcbda4bcb"
             }
         }
     },
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.41",
+                "version": "4.7.44",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "f647dc07653819a87c4b3c362e1a89f6ce5422062d7ba8c3d14f5da0b62c3cb1"
+                "sha256": "e55024bcec21f09015c720f72b706117579b973fbc8f29085ec8183ce594ca57"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.41",
+                "version": "4.7.44",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "560a9238c5d946221a756da969ca3252f2b192303417a4daf6f14ed6fa2d0928"
+                "sha256": "f302d1b797eb8841fd04ac6a0a3c7dcfe78d5265986219b3fa0a738ccc6b7222"
             }
         }
     },
