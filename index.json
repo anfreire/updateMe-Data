@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "38129e3cc72f4a2fa7d91bf8040b176d7441591527da8751feb8e518a9e41ea6"
+                "sha256": "7a57a48ef041b84950b94aae50de8702a01ecb770e52c521afb895cab20359a4"
             }
         }
     },
@@ -1450,7 +1450,7 @@
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "70b336f8dded0f5d3669b36a7b30e84ec09d4bef2652bfda93e7d6616cc687cc"
+                "sha256": "b66bad37d66d6b92d6a99969c4c3d9dbe3df2f8562fc59cba7ff50b91ae32a59"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
