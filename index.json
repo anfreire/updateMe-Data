@@ -1070,11 +1070,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/automate.html",
-                "version": "1.43.2",
+                "version": "1.44.1",
                 "packageName": "com.llamalab.automate",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/automate_liteapks.apk",
                 "safe": true,
-                "sha256": "722414ac3fe6a3052df31328c3ae2d0b9a260545d07f6835020132cd80a4ddf8"
+                "sha256": "f75101d8fb5a45d1e9bbbf4eaa05ddf8544bbc219995d001a868c1f4c1cc4bb7"
             }
         }
     },
@@ -1097,11 +1097,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/auto-clicker-macro-clickmate.html",
-                "version": "6.0.9",
+                "version": "7.1.2",
                 "packageName": "com.inscode.autoclicker",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_liteapks.apk",
-                "safe": true,
-                "sha256": "95c606011aa790e17b65c8721db74c95c1239de44b871fff8ed5f7c32196cf33"
+                "safe": false,
+                "sha256": "090bba8a712b3546f67b53cd0d71d4aa017c8f113b1557fe214166382b4d2cdf"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/clickmate/",
