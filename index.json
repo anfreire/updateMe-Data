@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.12.1",
+                "version": "18.13",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
-                "safe": false,
-                "sha256": "a2fa8d3f2ad0e7a869c8dc5a8797ece8fd1b3da786097093704ad679c8cb0104"
+                "safe": true,
+                "sha256": "914fed7c7cb5d81d94f6bb554f8b86876687f7a8a0d1f69232deaedbdf6d23d6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.3.20",
+                "version": "13.3.5",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "1f6351eadc6ecfa2e82151b1ccc2cf97c44592e91f32b86b94bb046b3199ad4d"
+                "sha256": "4ae1ca4377a8bd02e9dae3b88d24a95e40a2a5c76abbfeaf41172a3eddb72dd3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.4.18.33462.GP",
+                "version": "7.4.18.33489.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
                 "safe": true,
-                "sha256": "d3d33ad48c55abbb1d3d20bd163084311fb93bd85fb169019acb55c8dff32118"
+                "sha256": "5e300dde0be1e3c0be6cc049364802b02de4db0b528f44e6064ba80dd9a61271"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
