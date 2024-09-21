@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "7a57a48ef041b84950b94aae50de8702a01ecb770e52c521afb895cab20359a4"
+                "sha256": "c7fd2690223fca98049b1f2909d132fde201622911fd1409a187eeeb8b4162f2"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.23.6",
+                "version": "14.23.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "4e01a71d1f8fc170ff72d692ab9193053a000b12630de199517861b180a490fa"
+                "sha256": "66b1c88beaa1fb0b51b142c5e832dba7306ee27b3ec28501b722dbd8075f607a"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "5.168.3",
+                "version": "6.0.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "14c5088bef09de67080ea0df5e77176f3e3544d94b535485ffe3a2c771c87db4"
+                "sha256": "19f3131178299a42815ca2e97a9b31acea9ffe7d28ef7d2d146d55dfc5f199ec"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.3",
+                "version": "1.86.4",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "97465b5c1cd5d267942fedf37f7e905c4b08ac96fb782fdcad1fc0201f37bcda"
+                "sha256": "2d233044c96d0a12d9023848a921d5b1e70fc7101dfdaf7161402d99c8f66bd1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
