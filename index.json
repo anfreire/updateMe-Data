@@ -683,11 +683,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 048",
+                "version": "6.4 build 049",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": true,
-                "sha256": "922d29f0a4f7ab63e2628b75a73fe6975c88240baa6f10f86bc2a75ed8ffefda"
+                "sha256": "9a62c06a4f3ef0bdd5b6520178b15b822e03e6a2d300fece118da04c89883153"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.82.0",
+                "version": "1.83.0",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "7778da70834be04490dca84e16cdcbf3686fbbe2af92c7becb704cf6c5476b81"
+                "sha256": "87952be67cf84b2262466a854db8c683122e404d519f5c9f98beed0a249f8bfb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.42.0-240905",
+                "version": "14.43.0-240913",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "548c24381868603519756781187022677b694de55db0fef3d82eed0c86f794b5"
+                "sha256": "57fa7069f98b460a228450c19961614ba3f5d0fe96f3ad6f09004010c21b3dba"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1736,7 +1736,7 @@
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "14c5088bef09de67080ea0df5e77176f3e3544d94b535485ffe3a2c771c87db4"
+                "sha256": "4f5376f265a71ca27589cecf7f514b337f3d6d708c2d65cee252258e07af8743"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "4.108.0.0 chuppito release",
+                "version": "4.108.0.1 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": false,
-                "sha256": "ace21ddf947f44c3a889c9e86cf9bb5f56e18ac5129eeaedc6c3cd78fc0d92fa"
+                "sha256": "5b31497b89fac9b801135b5937395dc2498ac42f42b864045a8f020a98def130"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.8.586",
+                "version": "4.8.588",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
-                "safe": true,
-                "sha256": "127b7143083faf6cec5f16b45ac85af20075ae94ec5283d2bf2785705dae14e7"
+                "safe": false,
+                "sha256": "ce7cba043394ac2463848434313a44c3f3963c498eefc457eb8200506018cbee"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
