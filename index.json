@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "c7fd2690223fca98049b1f2909d132fde201622911fd1409a187eeeb8b4162f2"
+                "sha256": "85d0cbd61be443b8d871c06c317e5fe9569d030e6a43e368933e19ad9abea0c8"
             }
         }
     },
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.42.0-240905",
+                "version": "14.43.0-240913",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "548c24381868603519756781187022677b694de55db0fef3d82eed0c86f794b5"
+                "sha256": "6d600766d9ecf5cb145eed8925e8aba3c763933ec55bedad241f47b3d87e98fd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.62.0901",
+                "version": "1.03.66.0920",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
-                "safe": true,
-                "sha256": "14c31d419582ec455f79f624b9d6325f27e4a96f095a3b502390dc5fc3d1f7be"
+                "safe": false,
+                "sha256": "fdfcdb1e96ce299ff7015398b8664f8b515132df3c912a30339bf580ff32555d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "4.107.5.0 chuppito release",
+                "version": "4.108.0.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "e2d20a597de17008cb78066b0d7e45ae2aa57e1ef0df0e9920438f69e8132671"
+                "sha256": "ace21ddf947f44c3a889c9e86cf9bb5f56e18ac5129eeaedc6c3cd78fc0d92fa"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
