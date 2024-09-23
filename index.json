@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "85d0cbd61be443b8d871c06c317e5fe9569d030e6a43e368933e19ad9abea0c8"
+                "sha256": "41a7338a9c4e51fe6e834b3a55be47ec49a828b20c6b9248cac5082a6b209c55"
             }
         }
     },
@@ -707,11 +707,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.4 build 046",
+                "version": "6.4 build 049",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
                 "safe": false,
-                "sha256": "086d8dea28e42971d9cb9561f0f2ab4bad6f43848daaf4a15e2df9fa4d819db1"
+                "sha256": "9a62c06a4f3ef0bdd5b6520178b15b822e03e6a2d300fece118da04c89883153"
             }
         }
     },
@@ -939,11 +939,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.1.4",
+                "version": "6.1.5",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "163ef09767eed1900b714c1781d1d9906735fee80bf6e47864881506f4e9886e"
+                "sha256": "23521d1e02762da43bd5b20f12ccac66ed712d338e2dea11b60e138cd5e1eb5c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.41.0-240829",
+                "version": "14.43.0-240913",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "0f52c3275e3bc983fb87299cb7ebcf50855fd20c1741a29e34946c398da56937"
+                "sha256": "57fa7069f98b460a228450c19961614ba3f5d0fe96f3ad6f09004010c21b3dba"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "5.167.4",
+                "version": "5.168.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "7c213d0022360b8dc644f63365db1b2c676af1f9c5be0150b17abf405da68caa"
+                "sha256": "4f5376f265a71ca27589cecf7f514b337f3d6d708c2d65cee252258e07af8743"
             }
         }
     },
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "4.107.90.900 chuppito release",
+                "version": "4.108.0.1 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "cad744f803e38df2e9e557da75f9e6437064697ae14037dca544c5d29f1942a7"
+                "sha256": "5b31497b89fac9b801135b5937395dc2498ac42f42b864045a8f020a98def130"
             }
         }
     },
