@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.4.3",
+                "version": "9.4.4",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": false,
-                "sha256": "7d1b4d38242361ce7ac7da445ef433b2fb7b06bb7229e450e2ee288f88173463"
+                "safe": true,
+                "sha256": "b7e4e51e1643ea16ad9522686dc02590bc2ff60ca919600ea14e0507d239fd1d"
             }
         }
     },
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.72.5.2409050000",
+                "version": "6.73.0.2409260000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "bb0651185d4766b227174098b6f04c13ab6f00ebffc9bdac2020a2ba03545184"
+                "sha256": "83b5e82c7eb218d634bad717d9151813244ecccb39b061fabd5589e5181f113a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.44",
+                "version": "4.7.50",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "f302d1b797eb8841fd04ac6a0a3c7dcfe78d5265986219b3fa0a738ccc6b7222"
+                "sha256": "f1aa4e63783d526cffad408326d3588361b1dd100a95036da0434c2ba0986381"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.12.1",
+                "version": "18.13",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": true,
-                "sha256": "3cc864c58ab43f86644ee01f0d85f6eca6c88967d8c1f902dd6abe22210c6bd9"
+                "sha256": "97c405c9bcdb8173e6d677aa7873b3b4d9a4bf9273508f2addbe86c515121151"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.39.02",
+                "version": "4.39.04",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
-                "safe": false,
-                "sha256": "7812e33adcf42c3899d61e081c91efa6d915ba9b870e0a0f0a9a09032ff9da64"
+                "safe": true,
+                "sha256": "5e0aee9902c0ca1139d558fad456c0416160c36f40200fd65bc34db4cfc63501"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1740,19 +1740,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.0.3",
+                "version": "6.1.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "89eac9283e4199cc4e9132be435bb5f5f575d3fa96198d7f98a2b1485b866f97"
+                "sha256": "496a619e9f717a880c56b0fdd751585d33e80ee7d4b9f283cf9d87b8a9ad90b2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "5.168.3",
+                "version": "6.0.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "53ff876aaeee21872a86812b19ac7363065e3e64050452405324faa9b41bf70a"
+                "sha256": "13dda6a270695073f0315a457272e8197e0961432ded6cfd805ef717c4a1e558"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.3.10",
+                "version": "13.3.22",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "3bd1ce95e47a9184b50728e71b1d9ae1f74761cb8c814a6d578e7a15b9d58378"
+                "sha256": "a98057ce644f46de697dfb449072d0c273d2505a6d90ec05b8754f6a84c9d51d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -2444,11 +2444,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photomath/",
-                "version": "8.39.0",
+                "version": "8.40.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_apkdone.apk",
                 "safe": false,
-                "sha256": "1b903dafa11ba100b6ce2ad184b0437b3e00b6687bdef2cf3786c1d2b84c3912"
+                "sha256": "f39825595633a2471ee543866e0869304223e61d829d9f05958d1b8f5bd6bf80"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photomath.html",
