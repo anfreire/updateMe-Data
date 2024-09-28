@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "15.8.225",
+                "version": "15.9.230",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": false,
-                "sha256": "a3beec1002aa766d1bb208e3169598d3962e736b35414481b8097f74fe6b9c59"
+                "safe": true,
+                "sha256": "cbcf9f4322fb46b9392f68077007edeb7ee1d5f91e26d47c8a4e0c2144f18dc3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.50",
+                "version": "4.7.52",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "62a6ef221e16f8b165e2f60de67332514543e14a201da4da212b4865eb194cbe"
+                "sha256": "2a207d0ce6a15136c2ee5137828e01aa456ea926051d204ff57ea6b2b59f5ae0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,19 +1454,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "25.9.1",
+                "version": "25.9.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "ba3ee61226f8d0926f20509d5be92b03ba6d25aa8b79f06eecbf0296414eec5e"
+                "sha256": "9cf28d6ebf27ff7183590011950b5dda856a44cb45f91ef6eafedf5e625e52c8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.9.0",
+                "version": "25.9.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "1a780b20f0bfb83c78a22a2c18ba232ba7a4fc6b05e46f6a8e0615edd9d165fc"
+                "sha256": "e45c73308a5b5765b8d70fc189d9a399371465397e90fe121eb6a5ad718cffb9"
             }
         }
     },
@@ -1696,19 +1696,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.43.0-240913",
+                "version": "14.44.1-240924",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "6d600766d9ecf5cb145eed8925e8aba3c763933ec55bedad241f47b3d87e98fd"
+                "sha256": "bbdad869cae00878c4ab2fd8731816d8a9aca60435a8576a64ead32e82d04991"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.43.0-240913",
+                "version": "14.44.1-240924",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "57fa7069f98b460a228450c19961614ba3f5d0fe96f3ad6f09004010c21b3dba"
+                "sha256": "4e64101ecbb5dbf8a61ecf777db1f312988cddd18941abae82cd7b37cc7f14ab"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1740,19 +1740,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.1.2",
+                "version": "6.1.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "c22e80a1321dd56a74b86c076029ac42814b185c11a0e48eb74c56375a0ec5ed"
+                "sha256": "fb31c31f1956333ee2e969b6ddbb94b70a70dd637e1f8bef870b4ffdf0f7513b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.0.3",
+                "version": "6.0.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "13dda6a270695073f0315a457272e8197e0961432ded6cfd805ef717c4a1e558"
+                "sha256": "6ad90def37900d840693e1b35e3f1a5438757ddda964856df60fa1947597f86d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
