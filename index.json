@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "1a1b51ddc00fd2badcbee1cad5a4d5b7e2b558f845a6a8bae3854d339a57adf5"
+                "sha256": "ca5ff575aea0784bc49ea21b4a8c35b1902ee3d55e0cd460eb85ebabbaf38202"
             }
         }
     },
@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "15.8.225",
+                "version": "15.9.230",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
-                "safe": true,
-                "sha256": "e9004bcdfbda87c85b2b378ec04ea3c9c3f70dbc78aa9889c312eca5393d0886"
+                "safe": false,
+                "sha256": "b86498b4695d9290c1a5ca9fe1f37123fa19e78dab80b3dafba2c234aa2de7b8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1449,7 +1449,7 @@
                 "version": "25.9.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "d6ab249399d3821877937434b31b6cf27eab7149a12911c5b6af055508e26200"
             },
             "LITEAPKS": {
@@ -1552,11 +1552,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.12.1",
+                "version": "18.13",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
                 "safe": true,
-                "sha256": "fc542f670def2054e34298ee92fb8dc774c5aa2138d2ce86c10d87c58f2d0ad9"
+                "sha256": "b28c3405fda3998ad63f41760abbcac57144500ebfcf8e1c2383e7336173fa47"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.23.9",
+                "version": "14.24.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": true,
-                "sha256": "12bc51c9825f2a6c6d7a58c1472d47ceeda56e82f1e00a9f2afb9eacd24109d2"
+                "safe": false,
+                "sha256": "a28159a1570150ce23443c46d60d599e4cfe58dc820672b453d4c61efca02cd7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.43.0-240913",
+                "version": "14.44.1-240924",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "57fa7069f98b460a228450c19961614ba3f5d0fe96f3ad6f09004010c21b3dba"
+                "sha256": "4e64101ecbb5dbf8a61ecf777db1f312988cddd18941abae82cd7b37cc7f14ab"
             }
         }
     },
@@ -1732,19 +1732,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "5.168.3",
+                "version": "6.1.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "4f5376f265a71ca27589cecf7f514b337f3d6d708c2d65cee252258e07af8743"
+                "sha256": "496a619e9f717a880c56b0fdd751585d33e80ee7d4b9f283cf9d87b8a9ad90b2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.1.1",
+                "version": "6.1.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "496a619e9f717a880c56b0fdd751585d33e80ee7d4b9f283cf9d87b8a9ad90b2"
+                "sha256": "c22e80a1321dd56a74b86c076029ac42814b185c11a0e48eb74c56375a0ec5ed"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "5.168.3",
+                "version": "6.0.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": true,
-                "sha256": "4f5376f265a71ca27589cecf7f514b337f3d6d708c2d65cee252258e07af8743"
+                "sha256": "1af85a1b81e8a978b45bcff02d9d71255b448fb5f44995f6b7e0eac4a5c9b5f6"
             }
         }
     },
