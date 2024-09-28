@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "15327d97f8cd1d67ede890c89f81c18c26afdc34bcae71d1983fc79abb9f5b68"
+                "sha256": "d2c75e77edb73e424e457d0cb1f0f1f64ad88c7698a74550f07950642303ca36"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -66,7 +66,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
-                "sha256": "732451da4cd81d57969961e3abdfd5c2b46910843ad15fccba3fc1cf5bdf8e2b"
+                "sha256": "e1692f682265baff0da6b40431f7baa84fec36df52d9379f99a526e6bdb344b3"
             }
         }
     },
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.17.51",
+                "version": "7.16.53",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "16d376224f609a419df663b95f7381f6ade45fe01eb27a56be5a76e5f681a38e"
+                "sha256": "9ad2b079adf15b6814d67ccc24a06e18d6fdc598cc048dd33727feb9826e164f"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -109,11 +109,11 @@
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.17.51",
+                "version": "7.16.53",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
-                "sha256": "c4d3b3eab2a666caa41b0e0593cc5dfcce4a3b569238f982603cdd971dedfccf"
+                "sha256": "0d0d6f7b25a2c52cbfdc82cbcb8c623a563fc7c8691ad3d93254bf4a5962453a"
             }
         }
     },
@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "15.8.225",
+                "version": "15.9.230",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
                 "safe": false,
-                "sha256": "e2bbbf42d101d1088253965105d3f96ac3210b13a6c4244e7c0b9291987e7e9d"
+                "sha256": "278e9190906c4bf2adc4d08f0653a198c8117986c39fa81a5e2602a55b81ef3f"
             }
         }
     },
