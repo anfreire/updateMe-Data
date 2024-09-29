@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "ca5ff575aea0784bc49ea21b4a8c35b1902ee3d55e0cd460eb85ebabbaf38202"
+                "sha256": "e8f38b3ce8bc7f43891d1389b37a8950abceea1b165c64b2a07ab97d17c76c87"
             }
         }
     },
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.4.3",
+                "version": "9.4.4",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "462c280df95fc8c1bf9a71e8874e62ac10baf9b734d040448dd8b4605df32811"
+                "sha256": "570f431282b626d2bcda5bd9be302d891161e4691a0a0bbfc0d0f39eb966d83d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.43.0-240913",
+                "version": "14.44.1-240924",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "57fa7069f98b460a228450c19961614ba3f5d0fe96f3ad6f09004010c21b3dba"
+                "sha256": "4e64101ecbb5dbf8a61ecf777db1f312988cddd18941abae82cd7b37cc7f14ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.0.3",
+                "version": "6.1.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
-                "safe": true,
-                "sha256": "1af85a1b81e8a978b45bcff02d9d71255b448fb5f44995f6b7e0eac4a5c9b5f6"
+                "safe": false,
+                "sha256": "1b99c4d5fa041ae0a9beedd884ed404ef2155eff6e61626a43c474db3dc8e8c9"
             }
         }
     },
