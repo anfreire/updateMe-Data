@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "e8f38b3ce8bc7f43891d1389b37a8950abceea1b165c64b2a07ab97d17c76c87"
+                "sha256": "7a66221e7f7fa7796120d401ea522c7d897d86867f6dfd5ba75153431f82fe03"
             }
         }
     },
@@ -459,7 +459,7 @@
                 "version": "12.9.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "50127674b69dfc55cd0a317928c6cb35f74817423ef6b93e1c48cf30d140e9c3"
             },
             "LITEAPKS": {
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "25.9.1",
+                "version": "25.9.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": true,
-                "sha256": "e45c73308a5b5765b8d70fc189d9a399371465397e90fe121eb6a5ad718cffb9"
+                "safe": false,
+                "sha256": "dae19f8b459475e252502841139e8244aa2d8f6aeeee282959d112c4903072e8"
             }
         }
     },
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.83.0",
+                "version": "1.83.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "6d048f091a90423db3e1fc1ebe9bfb6c3d5ee85b467a23a632c5038df983d203"
+                "sha256": "aa9b7da3bd2daf60eeaa538d0e770148d59b90cb1301f2e1da931008f56c4e96"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.39.02",
+                "version": "4.39.04",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": true,
-                "sha256": "5ae4f5a7a240ff154ca8ba8176fc98149b27385d20c061e25346fcd793346641"
+                "sha256": "898eab4740e15ef01861abc0909414747a8b53b840b2836a11436126d08efd66"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
