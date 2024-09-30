@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.74.568",
+                "version": "8.9.78.513",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "3c1878ef3de9b41a2da8e70b4532b6187d888e83a7613b0b1a94ee90b071d34a"
+                "safe": true,
+                "sha256": "4a8172970c234b3820d6aec1f2f7c8b8ec66716d2d54ec4f728e1ebb2d71364b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.1.1",
+                "version": "6.1.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "496a619e9f717a880c56b0fdd751585d33e80ee7d4b9f283cf9d87b8a9ad90b2"
+                "sha256": "fb31c31f1956333ee2e969b6ddbb94b70a70dd637e1f8bef870b4ffdf0f7513b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
