@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "12.8.0",
+                "version": "12.9.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
-                "safe": true,
-                "sha256": "90b848da91e26f235b9514a987e0d6776086825d29fc4231c15ba6c6ebda67a6"
+                "safe": false,
+                "sha256": "c67f430174fa29d27c37fd0ad77e4aa76fbbaf3e3d9b3c6d3e2f83e2f041b9a4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.83.0",
+                "version": "1.83.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
-                "safe": false,
-                "sha256": "e31ebdac2210cac765b60576c504560f73096d06d124c05a06e06be42e57a9ef"
+                "safe": true,
+                "sha256": "2448450e38dec9b26add053354a66d4ec5a012986f17a6f692f986417d6ae28e"
             }
         }
     },
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.4",
+                "version": "1.86.5",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "2d233044c96d0a12d9023848a921d5b1e70fc7101dfdaf7161402d99c8f66bd1"
+                "sha256": "a5dc29786cf180fbb499314a154e90686ecd7072bf9e60efd8355c851f202885"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "4.108.0.1 chuppito release",
+                "version": "4.109.90.900 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "5b31497b89fac9b801135b5937395dc2498ac42f42b864045a8f020a98def130"
+                "sha256": "929e849136f3c041faa228a30fe9f04bde85909a228be7141738ee9006d13b90"
             }
         }
     },
@@ -2397,7 +2397,7 @@
                 "version": "7.3.1.2",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "559623956d27873c98594d23542afb513278a34f3446e90de4f71c5368ffc37e"
             },
             "APKDONE": {
