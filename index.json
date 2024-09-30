@@ -480,11 +480,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
-                "version": "12.8.0",
+                "version": "12.9.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
                 "safe": false,
-                "sha256": "f6e17212ded37e022d69ff779ca9c0de93d46c0231d159fe7e0439c59b41ca9c"
+                "sha256": "846ca99bcb566aa3e9ec8a37db07d7a81f04b22abf9b7150e5068f8f7f0c3679"
             }
         }
     },
@@ -1692,7 +1692,7 @@
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "4e64101ecbb5dbf8a61ecf777db1f312988cddd18941abae82cd7b37cc7f14ab"
+                "sha256": "bbdad869cae00878c4ab2fd8731816d8a9aca60435a8576a64ead32e82d04991"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
