@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "d0e074749cd995089eb154b5901b91f7dc45a835afb3e2dfd81771bbfb52812f"
+                "sha256": "dedb5a7f4a3f565ba8e0eef66cc833e2fbed4f904685c12f0ed0ec4391056e1d"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "6ba4838878f6eec264854898620ca29be9abf8e95820cc655c31aa0f71ed1320"
+                "sha256": "2bf40a3ad003a3d2f71b42aa6923682e027d483f05cf0efa07fe4b7c1c93513e"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -138,8 +138,8 @@
                 "version": "2024.17.0",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revanced.apk",
-                "safe": false,
-                "sha256": "bb8047c97aaaf2758c2d113c71fe5279b13b8dfd81bb8779836dd4873ab308bf"
+                "safe": true,
+                "sha256": "fbb7e0bfc7f35f15e6aa19ebbd30c855c19f39035655aa8403c8c6d14bb4264e"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -170,8 +170,8 @@
                 "version": "16.9.1",
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
-                "safe": false,
-                "sha256": "7c66b27000b5aacae54bff5eb697aa7ae0e893c38057a11c12cc91209373cf6b"
+                "safe": true,
+                "sha256": "65bf1d71b147bbaeb33c1a2c55ba4c69622a62c33c2b7d0f94b4f382dd337435"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "56c3c90d212b857e4b63d7c4f800a2dbd660a905a53aa2dda1877e57378b78d6"
+                "sha256": "817f4012be412d63a6975c8fefe3eaaf9e04a7c2c59451b15320be39beb4957e"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.76.538",
+                "version": "8.9.78.513",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "f6ed6d952a29bfbba356b1f25360eff94c7b532de082b06c5ef7abc4c0112fc2"
+                "sha256": "4a8172970c234b3820d6aec1f2f7c8b8ec66716d2d54ec4f728e1ebb2d71364b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -468,7 +468,7 @@
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "80d6e083e040c09ab26e119109dc13610bcf36d1e2d3393376da9edc197f7ce3"
+                "sha256": "5e11a41024762b932428f253c2c2bd714174c040e45f2bcb5ab543b8690bce8f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
