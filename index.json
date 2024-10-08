@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.83.2",
+                "version": "1.84.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
-                "safe": true,
-                "sha256": "2448450e38dec9b26add053354a66d4ec5a012986f17a6f692f986417d6ae28e"
+                "safe": false,
+                "sha256": "04959aabbc8b0067d9350c4bac07773c2b650b3a4f5cee8d16a8e5e311aad081"
             }
         }
     },
@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "19.2.1",
+                "version": "19.2.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
-                "safe": true,
-                "sha256": "d478873c9d3affaf3debc15771e1dcf44c1a0a109cc77ea6b4bc2b88e679ecdd"
+                "safe": false,
+                "sha256": "c12befb7386648836339ef1e064efff50c12f1a79038b95a860b1f160fb7e816"
             }
         }
     },
