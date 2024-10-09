@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.571.183",
+                "version": "1.584.191",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": false,
-                "sha256": "00adf16811cf2a7937892d0df5a0ff4d37bd198c0648d4c4713a4f5b07025962"
+                "sha256": "571a335cb4c78f22ad3cb5d6b1c47d06857adb0618d5ba8b95016e1abbb3f051"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.4.5",
+                "version": "9.5.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "c7adab245870af8063cefbd04e47597b45700e2708d82ed1dbe7cb54cc73beff"
+                "sha256": "004efca5cc7421a09478a3f8692cd88bcbd910f42bea82aad1151e287202bbcc"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.25.6",
+                "version": "14.26.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": false,
-                "sha256": "08eff866a35a04afae77b0543cf8818b10571526f7020637fc9acc73d4e376b4"
+                "safe": true,
+                "sha256": "cae19836952707712cf66487a4c6e7b83a64f0b4d5ae0160a811333b3188d2ea"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.2.3",
+                "version": "6.2.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "03a137fb27d45bd5257693e020b255e24f8fc70ea14dae7e9e1488e589331f4e"
+                "sha256": "6a083f1c4929fe1c8be4c8c3305c479e3bd71bf4ae2c57a756614b25df5645da"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
