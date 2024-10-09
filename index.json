@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.57",
+                "version": "4.7.59",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "2c4fedf70904450ff2b7bc2e9b0d104396125ed2c1ed4d562a7eeb4e6bd09061"
+                "sha256": "41c2d21cd7ae21264e91c7103ec28f9d7045bf617fa9c0cfdc6a6f691b0b2a62"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.0.0",
+                "version": "26.0.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": false,
-                "sha256": "a421a4650dc7c9fd31cadeae218b24527bd3de9ea2a5f60518850b4843546418"
+                "safe": true,
+                "sha256": "f8dfa273d3fe16eb0307e74cc9056f4c0cba0f4ff439ad3c0c2782abd96ae768"
             }
         }
     },
@@ -1499,8 +1499,8 @@
                 "version": "1.84.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
-                "safe": false,
-                "sha256": "04959aabbc8b0067d9350c4bac07773c2b650b3a4f5cee8d16a8e5e311aad081"
+                "safe": true,
+                "sha256": "207b86418944078e01c562083b99794040f9f7a83eaa40157920c04a9e66e815"
             }
         }
     },
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.13",
+                "version": "18.13.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": true,
-                "sha256": "97c405c9bcdb8173e6d677aa7873b3b4d9a4bf9273508f2addbe86c515121151"
+                "sha256": "3bf164748f856b6a3cba253f43da52eb153fcc2bf18c04898f80922d10211a70"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.4.0",
+                "version": "13.4.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "c67ceeb1755df899895ba2b8222560a6f82921f99c7c774103343ce695cedda6"
+                "sha256": "ac95932b0d1db136ad49bba43729ef3ef3a953dabd71f21f023dddeda7a471bf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -2000,8 +2000,8 @@
                 "version": "19.2.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
-                "safe": false,
-                "sha256": "c12befb7386648836339ef1e064efff50c12f1a79038b95a860b1f160fb7e816"
+                "safe": true,
+                "sha256": "523a6be7059a5d21bae6e2d02c608579aa66bc0235a278f760f23bb7b5ce828d"
             }
         }
     },
