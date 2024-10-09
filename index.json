@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.574.186",
+                "version": "1.584.191",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
-                "safe": true,
-                "sha256": "420b219b6e6ca13f8c595e44ca90b79d06648433e48fab79b307eda7e480ae86"
+                "safe": false,
+                "sha256": "67783c666e141c18f64020ac8af03f92ea5841522328bb331e5a782c8b890e32"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.5.0",
+                "version": "9.5.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "2f681e7610ee965057713d6f70b509135446bec8ebf41625e3407366db45c9ef"
+                "sha256": "e9901b324d8e1e63b6d31cd40239f7992d344376afefba096b87d33a50b14878"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "4.108.0.1 chuppito release",
+                "version": "5.0.0.1 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": false,
-                "sha256": "5b31497b89fac9b801135b5937395dc2498ac42f42b864045a8f020a98def130"
+                "sha256": "2f2746d507bdd8452037c76641713d791b9e996b8b97c97f816812deeb3e39b5"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
