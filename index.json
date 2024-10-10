@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.5.0",
+                "version": "9.5.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "004efca5cc7421a09478a3f8692cd88bcbd910f42bea82aad1151e287202bbcc"
+                "sha256": "987239a3d9468681e53f9375b59908eb9f8bdb3c8810a7fcbd3f037742bf6c11"
             }
         }
     },
@@ -2287,11 +2287,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
-                "version": "4.2.12",
+                "version": "4.3.0",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
-                "safe": true,
-                "sha256": "0b3bb8e9910687a6d5a5c30be2d112aed203ba3831901d56222ecd13fe5dabf4"
+                "safe": false,
+                "sha256": "c0e0b6cbddfd8b04c3d272e17769658052d8d42ddc9a4be53dda48fb05a8a323"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/secure-vpn.html",
