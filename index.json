@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "8.1.3",
+                "version": "8.2.0",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "55dc5bd82c3aae31a35aa26012b40b7095d1b3498839ae32c64999cb9359fd49"
+                "sha256": "a318d5149ee6a1dc0ad36ac78c56ad393841fb0c85ccd86f1ad0d0b62922f475"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.13",
+                "version": "18.13.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": true,
-                "sha256": "914fed7c7cb5d81d94f6bb554f8b86876687f7a8a0d1f69232deaedbdf6d23d6"
+                "sha256": "32faae0d5892407d1d7bfe14fa8e087905cfd8c29021ad000c281133899e9c38"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.2.1",
+                "version": "6.2.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "9b5b68c5eb7e532b33ac1934837fe6ec4e8fd3eccaa505e0a918bff5f2f13994"
+                "sha256": "91a319bbfb9d7d23969e7664065e60821fcb7204fe8d183b1bb8c0c5323afaf5"
             }
         }
     },
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.4.0",
+                "version": "13.4.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
-                "safe": false,
-                "sha256": "cca6d60b69e9b41cd43fc8b02fa320fcc1df855f5728060b3ab062843783cd61"
+                "safe": true,
+                "sha256": "705435563d21afe95a856223d1aaf23efc3b7b6dbd6783431d0823d634618f6d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.2.12",
+                "version": "4.4.2.14",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
-                "safe": false,
-                "sha256": "6aac354da51f09d2ca861236aa183e4a7039a0989eaa961b2204acc25dfb4f30"
+                "safe": true,
+                "sha256": "f54fdaf4bdac603f41cb1a5af89a8c3c17c621e392ce53cdd9ccdbaba6069bd6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
