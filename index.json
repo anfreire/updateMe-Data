@@ -378,19 +378,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.584.191",
+                "version": "1.585.192",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "67783c666e141c18f64020ac8af03f92ea5841522328bb331e5a782c8b890e32"
+                "sha256": "a3bf7a8f99ec953c1787c238b7fdaa3b195dfaf85b8face05ebc9d676c0092fc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.571.183",
+                "version": "1.585.192",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
-                "safe": false,
-                "sha256": "00adf16811cf2a7937892d0df5a0ff4d37bd198c0648d4c4713a4f5b07025962"
+                "safe": true,
+                "sha256": "3ed53f69504611a9695695f18034dc07e726c858732630d59ceb6df9843ea30e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.26.5",
+                "version": "14.26.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "bbcac1236a293a447c6e1f963fff269a04fd14f3e457318550276c989cade03e"
+                "sha256": "d4827327af3ccb45432fee57427fcc9c003ee17148410c4821a69fd95e9c7560"
             }
         }
     },
@@ -1696,19 +1696,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.45.0-240926",
+                "version": "14.46.0-241003",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "d88f1afcefea9e8a784c4247b793d229fb5edfd1e06dbe9233499c94c81af6ff"
+                "sha256": "23dea2f05791f584a1859ff55df538e431dbd2ad27307fd5f2e0ac6dc19ebce5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.45.0-240926",
+                "version": "14.46.0-241003",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
-                "safe": false,
-                "sha256": "27a4789c8d0341e16402969d05eac7e3b874b7f4fe60470a85e76ce7339ad34d"
+                "safe": true,
+                "sha256": "f8a955ea570587e4ce03d5473c9895fb65c1c1b394043f2d26eabec00ce50605"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1825,11 +1825,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "13.4.0",
+                "version": "13.4.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
                 "safe": false,
-                "sha256": "cca6d60b69e9b41cd43fc8b02fa320fcc1df855f5728060b3ab062843783cd61"
+                "sha256": "f77a0c7d9fae05b715c9aceb83190fcc9b6bc2d1d52a21fc064dde7501931711"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.0.0 beta2",
+                "version": "7.4.0.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "c0779c68c837e6c0a4ffccae81e1f89455d09ef0a25fcf5e3bdf424c85b378e2"
+                "sha256": "eaea0dee5a7a917c986c038127ceea1a974fec9a3b1a44501ee43c8907eeadf9"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.4.0.0 beta2",
+                "version": "7.4.0.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": true,
-                "sha256": "c0779c68c837e6c0a4ffccae81e1f89455d09ef0a25fcf5e3bdf424c85b378e2"
+                "sha256": "e30ccae8c2f24851a32737eca2642b8819b9551da95e3aa1c6898d0f535faad8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
