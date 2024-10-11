@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.584.191",
+                "version": "1.585.192",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
-                "safe": false,
-                "sha256": "571a335cb4c78f22ad3cb5d6b1c47d06857adb0618d5ba8b95016e1abbb3f051"
+                "safe": true,
+                "sha256": "0e4a96fcdae5af578ce643c3223da50bc7f59a8c56bae9fa515efa736662d8d8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -1016,11 +1016,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "8.1.4",
+                "version": "8.2.1",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
-                "sha256": "6ee0c3098fc8d86c2f008497140bd5eb3be5da8b30ad9d18013efcb44b3da776"
+                "sha256": "d213d7638a6315d36fcc2a55f57976bf8874d4cf5fc53d48a2acc4bcec799d14"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.5.0",
+                "version": "9.5.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "004efca5cc7421a09478a3f8692cd88bcbd910f42bea82aad1151e287202bbcc"
+                "sha256": "b12bc97cdf445a0f4517cc2cc617a80c6b092a3a0d39b28f9ed770a5b58ad869"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.26.5",
+                "version": "14.26.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": true,
-                "sha256": "cae19836952707712cf66487a4c6e7b83a64f0b4d5ae0160a811333b3188d2ea"
+                "safe": false,
+                "sha256": "adc7e2fdce8850b61896581dd0353738e5552845417c2e78a07e471ef50758c0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.45.0-240926",
+                "version": "14.46.0-241003",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "003ce9c05db8c9848c41cb1f162797cd834d1b87e936974a1241c5275d809c04"
+                "sha256": "f8a955ea570587e4ce03d5473c9895fb65c1c1b394043f2d26eabec00ce50605"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.3.1.2",
+                "version": "7.4.0.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "559623956d27873c98594d23542afb513278a34f3446e90de4f71c5368ffc37e"
+                "sha256": "e30ccae8c2f24851a32737eca2642b8819b9551da95e3aa1c6898d0f535faad8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
