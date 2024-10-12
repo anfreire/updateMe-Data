@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.40.1",
+                "version": "3.40.2",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
                 "safe": true,
-                "sha256": "8f34420ef93e3e9ca1e55ceb7986c64f441f49a0e1d7e86e9123bbb4cc0cfb74"
+                "sha256": "f1d390ecd10b91cfc7915936f507de18da56f2628d7672b18cf20be6b1779114"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1318,11 +1318,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
-                "version": "3.40.1",
+                "version": "3.40.2",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modzoco.apk",
                 "safe": true,
-                "sha256": "8f34420ef93e3e9ca1e55ceb7986c64f441f49a0e1d7e86e9123bbb4cc0cfb74"
+                "sha256": "f1d390ecd10b91cfc7915936f507de18da56f2628d7672b18cf20be6b1779114"
             }
         }
     },
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "26.0.1",
+                "version": "26.0.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
-                "safe": true,
-                "sha256": "23056e6b0f2bdf5e7ac36126d7160ffe17ad509955135b2141c12d895759268a"
+                "safe": false,
+                "sha256": "5470fc9e721fd3baeda95c1a644026fec65cb95945df380c58f326d0632d02c1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.66.0920",
+                "version": "1.03.68.1012",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
-                "safe": false,
-                "sha256": "fdfcdb1e96ce299ff7015398b8664f8b515132df3c912a30339bf580ff32555d"
+                "safe": true,
+                "sha256": "0707210ece4c970a1dee6b3de756f3064aa1aeb2c0a719312cc1415948d8974d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.66.0920",
+                "version": "1.03.68.1012",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "49b114d5939ead783b55a1343271ee6fed9a4a960fca41d7df6bece1fd2b632e"
+                "sha256": "c267fa60c600cdf6aa7acb8ef2fea2c9caeb284befdd6660c725410302fb08d2"
             }
         }
     },
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "4.108.0.0 chuppito release",
+                "version": "5.0.0.1 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "ace21ddf947f44c3a889c9e86cf9bb5f56e18ac5129eeaedc6c3cd78fc0d92fa"
+                "sha256": "2f2746d507bdd8452037c76641713d791b9e996b8b97c97f816812deeb3e39b5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
