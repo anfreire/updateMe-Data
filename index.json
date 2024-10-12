@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.80.581",
+                "version": "8.9.82.620",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "c82dbe00599eb32d970883e9aa271b358c09389e52fdab955eaf7c8c5422c5c6"
+                "sha256": "93121ba706fa4c015dad31e1ed7306c7f0b05aff6e8efa6415353feb7b4d2fe0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.0.1",
+                "version": "26.0.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "23056e6b0f2bdf5e7ac36126d7160ffe17ad509955135b2141c12d895759268a"
+                "sha256": "15c5872ae1166e70da54674485a6f09a659f472588ad6de55724c56607d563ce"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.2.4",
+                "version": "6.3.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "d8e8bca1f959e876cd25242fa79164640db74c3c32e038a5daade2d09bf28cbc"
+                "sha256": "397293be83372389c334f5c2df0dabda78cda81d30dfe319cf4ed6ee1d8028b0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.5",
+                "version": "1.86.6",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "a5dc29786cf180fbb499314a154e90686ecd7072bf9e60efd8355c851f202885"
+                "sha256": "3f12bf82183e0fa759c34217233ef490158af2d7fcd1312584cf9edfebb2e435"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.62.0901",
+                "version": "1.03.66.0920",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "48398986feb94e1d0434dd8f7e8467ee300d6ac554a3a9c02dc5dcbda9dd2141"
+                "sha256": "49b114d5939ead783b55a1343271ee6fed9a4a960fca41d7df6bece1fd2b632e"
             }
         }
     },
@@ -2107,11 +2107,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
-                "version": "4.4.2.12",
+                "version": "4.4.2.14",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_apkdone.apk",
                 "safe": false,
-                "sha256": "2ff6771fd7accbb74c3bb6baad5b103273a80b9030287dd38b6d4572de36065c"
+                "sha256": "e7c4af21deb6372cba3d038f0b13b463949055a18aec72629752de1326832529"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/es-file-explorer.html",
