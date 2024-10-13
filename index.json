@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "d2c75e77edb73e424e457d0cb1f0f1f64ad88c7698a74550f07950642303ca36"
+                "sha256": "917aa356df9470b74ce63c64084b5932b91bb0648628427b79a17f167dbecced"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "9ad2b079adf15b6814d67ccc24a06e18d6fdc598cc048dd33727feb9826e164f"
+                "sha256": "48dfb06cb352526de926728fcd2a4f3baf65805ea7330b16e3906ae566b91ddf"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -664,11 +664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.8",
+                "version": "1.12.9",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
                 "safe": false,
-                "sha256": "c8d3b8bcda5dee89a06f1ba48a685b4687e79f27f20417d45380a8a70efe71f7"
+                "sha256": "385bc8c4e69e708c3186fb73b8225f9c039a97d031331da4212086adf6d4b1f8"
             }
         }
     },
@@ -1555,8 +1555,8 @@
                 "version": "18.13.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
-                "safe": true,
-                "sha256": "e05baa32ae4aaf456cd7cf53a3b326d989b15d9e568f40561d6a16a8e93bba01"
+                "safe": false,
+                "sha256": "b9dcf6478a97cb4d6d15d170f23341c4c5a6921fce1128e492e9d5c568380ef5"
             }
         }
     },
