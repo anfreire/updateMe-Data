@@ -66,7 +66,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
-                "sha256": "e1692f682265baff0da6b40431f7baa84fec36df52d9379f99a526e6bdb344b3"
+                "sha256": "6c134c52636238ce8d023399fb11335ffb880d54ba49494049b4b528378a2d8c"
             }
         }
     },
@@ -113,7 +113,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
-                "sha256": "0d0d6f7b25a2c52cbfdc82cbcb8c623a563fc7c8691ad3d93254bf4a5962453a"
+                "sha256": "8820f7c9d1d39668deaa036453a8c2c7112281c2463026a47003ff8eb88ff50b"
             }
         }
     },
@@ -413,19 +413,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.0.237",
+                "version": "16.1.239",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
-                "safe": true,
-                "sha256": "512b0d2af784fe62437528170bd9b9f11b45fb5bc86f77288adfe60f6b02e932"
+                "safe": false,
+                "sha256": "454e1de97f7edfc70626212be8676ce452cdf8b85e4b26cbe64077a7a429a64b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.0.237",
+                "version": "16.1.239",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "2569cfc68d769d0ac06d758e183c7d755efb0ecb1d6a07bbaf773be021487cee"
+                "sha256": "9ce19011a358eccd28d25c4b106d133b23a45910197e57059151209790ecdaa3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.0.237",
+                "version": "16.1.239",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": true,
-                "sha256": "512b0d2af784fe62437528170bd9b9f11b45fb5bc86f77288adfe60f6b02e932"
+                "safe": false,
+                "sha256": "c2a5398e69fb67c68cc92cff4dcbdae0f0523dd54f890b5c02299cbebe33fb2f"
             }
         }
     },
@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "12.9.0",
+                "version": "13.0.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "5e11a41024762b932428f253c2c2bd714174c040e45f2bcb5ab543b8690bce8f"
+                "sha256": "673f81ed799bf525bb1f30d746dd7e9e900220c7c3b785c0217b12c9fd773d40"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -480,11 +480,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
-                "version": "12.9.0",
+                "version": "13.0.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
                 "safe": false,
-                "sha256": "846ca99bcb566aa3e9ec8a37db07d7a81f04b22abf9b7150e5068f8f7f0c3679"
+                "sha256": "7734c743541e4f4ec5d1f5b0448d1d7cead737ea6c6c476c0d14ef6da31cc7e2"
             }
         }
     },
@@ -1150,19 +1150,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.5.1",
+                "version": "9.5.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "b12bc97cdf445a0f4517cc2cc617a80c6b092a3a0d39b28f9ed770a5b58ad869"
+                "sha256": "a78e19477f5d0656583e584eaa775f8d53273f5300b30d93a8966260f051042c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.5.1",
+                "version": "9.5.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "e9901b324d8e1e63b6d31cd40239f7992d344376afefba096b87d33a50b14878"
+                "sha256": "df8c4cfbd9b72a2781a39c55c8e64cb33487d82f86dac7c605c00dd62325cf0b"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.40.1",
+                "version": "3.40.2",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": false,
-                "sha256": "821e115ab451759e89d3e60238c6fc3c88ac3de14424241cab1d9f1ae294f4c6"
+                "sha256": "0aa6e83c64b403b4d45b12da22f649916573228ef9d87548288bce10e38535cc"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.3.1",
+                "version": "6.3.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "9338fc5cc8b77bf24c211798c35cc8e79690d7366480c3175b0c9f112fe15277"
+                "sha256": "66b7b706bc9ce153f6179bbe4e71b6be2c9225577bab7f476c491c482910fc5a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.3.1",
+                "version": "6.3.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "187a28e2f2c77cef219cfa179cee767d96e583303f661f81196c29a9b6b5b7d7"
+                "sha256": "4a0ca454c6f3a1f304b6afaf8046ca496348eb83e66f31fc848cd50dde5b3d82"
             }
         }
     },
