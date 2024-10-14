@@ -416,8 +416,8 @@
                 "version": "16.1.239",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
-                "safe": false,
-                "sha256": "454e1de97f7edfc70626212be8676ce452cdf8b85e4b26cbe64077a7a429a64b"
+                "safe": true,
+                "sha256": "9ce19011a358eccd28d25c4b106d133b23a45910197e57059151209790ecdaa3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "4.109.90.900 chuppito release",
+                "version": "5.0.0.1 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "929e849136f3c041faa228a30fe9f04bde85909a228be7141738ee9006d13b90"
+                "sha256": "2f2746d507bdd8452037c76641713d791b9e996b8b97c97f816812deeb3e39b5"
             }
         }
     },
