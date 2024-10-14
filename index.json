@@ -846,11 +846,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
-                "version": "2.160.0",
+                "version": "2.162.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_modzoco.apk",
                 "safe": false,
-                "sha256": "afb5ba37ee7e0a83282176777b442462352ae1ef0e141c27bb9782c144415704"
+                "sha256": "0cc78cc3ea9a11baa0ac7897fa2e072f544a5c70e84971ff331d6fe4e1ff406e"
             }
         }
     },
@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "9.5.0",
+                "version": "10.0.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
-                "safe": true,
-                "sha256": "796c13e466602ac72adf7a92654c00044e0b51a6092b8ab0f9f93a688877cbd8"
+                "safe": false,
+                "sha256": "24c6f293375b7afde2a253adbe7a2171b253b8f228cafe9e5333696f043ad2a3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
