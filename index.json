@@ -1016,11 +1016,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "8.2.1",
+                "version": "8.2.2",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
-                "sha256": "d213d7638a6315d36fcc2a55f57976bf8874d4cf5fc53d48a2acc4bcec799d14"
+                "sha256": "75d86c4bb2a9b1727961e14dc1404ca9a0c455a8ca9d3f1e324277472a67c362"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.3.1",
+                "version": "6.3.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9338fc5cc8b77bf24c211798c35cc8e79690d7366480c3175b0c9f112fe15277"
+                "sha256": "66b7b706bc9ce153f6179bbe4e71b6be2c9225577bab7f476c491c482910fc5a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1775,11 +1775,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/mx-video-player.html",
-                "version": "1.86.4",
+                "version": "1.86.6",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modyolo.apk",
                 "safe": true,
-                "sha256": "2d233044c96d0a12d9023848a921d5b1e70fc7101dfdaf7161402d99c8f66bd1"
+                "sha256": "3f12bf82183e0fa759c34217233ef490158af2d7fcd1312584cf9edfebb2e435"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
