@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.161.0",
+                "version": "2.162.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
-                "sha256": "a673b2089f9c39cb9400f6d24956aa907c609313f1321ae1a1535bc6a4c396c0"
+                "sha256": "0cc78cc3ea9a11baa0ac7897fa2e072f544a5c70e84971ff331d6fe4e1ff406e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.3.2",
+                "version": "6.3.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "66b7b706bc9ce153f6179bbe4e71b6be2c9225577bab7f476c491c482910fc5a"
+                "sha256": "1b3c5887952d79bc5969ed42f7029afbf5ca07bb18f09fd1ef72a15628fae3e7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
