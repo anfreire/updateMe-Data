@@ -440,8 +440,8 @@
                 "version": "16.1.239",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": false,
-                "sha256": "c2a5398e69fb67c68cc92cff4dcbdae0f0523dd54f890b5c02299cbebe33fb2f"
+                "safe": true,
+                "sha256": "14b0b6fb594f6edabfad9aacb85a991446a4a7e2f6c68bb093a4762ea8a1baf6"
             }
         }
     },
@@ -1310,19 +1310,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.40.2",
+                "version": "3.40.5",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": false,
-                "sha256": "0aa6e83c64b403b4d45b12da22f649916573228ef9d87548288bce10e38535cc"
+                "sha256": "80faabd961f40f6dcf2224085f8d9cc98f035971e10f4584398426672d3ffdcf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
-                "version": "3.40.2",
+                "version": "3.40.5",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modzoco.apk",
                 "safe": true,
-                "sha256": "f1d390ecd10b91cfc7915936f507de18da56f2628d7672b18cf20be6b1779114"
+                "sha256": "5b5d62f57a80967e5179f5f6062a8172ca49b06f70b06c39da0367348ea3e501"
             }
         }
     },
