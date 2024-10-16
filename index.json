@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "16.0.237",
+                "version": "16.1.239",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": true,
-                "sha256": "e8d359a41a0cdf94b4b6a4dfb9377f7f1680331c6e00eb176641a1ac3620dda4"
+                "safe": false,
+                "sha256": "454e1de97f7edfc70626212be8676ce452cdf8b85e4b26cbe64077a7a429a64b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "12.9.0",
+                "version": "13.0.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "c197569ab494a4b2d5e1ba66a532f0d464771acc2a4bfbfaebbd9d8f6c560b32"
+                "sha256": "673f81ed799bf525bb1f30d746dd7e9e900220c7c3b785c0217b12c9fd773d40"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "12.9.0",
+                "version": "13.0.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
-                "safe": false,
-                "sha256": "c67f430174fa29d27c37fd0ad77e4aa76fbbaf3e3d9b3c6d3e2f83e2f041b9a4"
+                "safe": true,
+                "sha256": "673f81ed799bf525bb1f30d746dd7e9e900220c7c3b785c0217b12c9fd773d40"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.09.20-release",
+                "version": "2024.09.30-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": false,
-                "sha256": "8485ec4f577bbe31250d0d7469b92af4b89271aa1cb06b599cc98b3af6dacfff"
+                "sha256": "dd89ac2671fd391871a436877ca8546cb6210267bf8366e165ae6d4a840fc6e9"
             }
         }
     },
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.5.1",
+                "version": "9.5.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": true,
-                "sha256": "987239a3d9468681e53f9375b59908eb9f8bdb3c8810a7fcbd3f037742bf6c11"
+                "safe": false,
+                "sha256": "523de70396774db5dc02ded80d519294231130f50b080c09a6d0fee3fe16a3b9"
             }
         }
     },
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.59",
+                "version": "4.7.61",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
-                "safe": true,
-                "sha256": "41c2d21cd7ae21264e91c7103ec28f9d7045bf617fa9c0cfdc6a6f691b0b2a62"
+                "safe": false,
+                "sha256": "b6039c1bb9450357a97d5da13c123c3c9b0354eeea6931271caa4314cda889ea"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1662,11 +1662,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
-                "version": "9.5.0",
+                "version": "10.0.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_apkdone.apk",
                 "safe": true,
-                "sha256": "9082eb7a6edc3b54af8c6d77cf69718b4d497cd27669ae481bc441f04c1e7991"
+                "sha256": "da952d60b8af20b5030e42bfd3e6e2777f10b1368ebe9bad274f7cd3713fec69"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adobe-lightroom.html",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.66.0920",
+                "version": "1.03.68.1012",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": true,
-                "sha256": "6dc0234006686155e88dbe82c461774dc5371ad76dc38935ab61f8c87b72075e"
+                "sha256": "0707210ece4c970a1dee6b3de756f3064aa1aeb2c0a719312cc1415948d8974d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -2164,11 +2164,11 @@
         "providers": {
             "FouadMODS": {
                 "source": "https://fmmods.com/fouad-snapchat/",
-                "version": "13.5.0.41",
+                "version": "13.11.0.42",
                 "packageName": "com.snapchat.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snapchat_fouadmods.apk",
                 "safe": true,
-                "sha256": "7bd59501788238c97440e2a334a99f47dd2cdb0289d924af3ef575afebf33026"
+                "sha256": "6f408b1b2087c02f7f85715150d914e9137c923f3080e8b36697155dd7492cb0"
             }
         }
     },
@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.4.18.33489.GP",
+                "version": "7.5.2.33832.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
                 "safe": true,
-                "sha256": "5e300dde0be1e3c0be6cc049364802b02de4db0b528f44e6064ba80dd9a61271"
+                "sha256": "786b8e3960af89504239f68282d5134533646725291cbcae823eb40e2bac2210"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
