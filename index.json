@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.82.620",
-                "packageName": "com.spotify.musix",
+                "version": "8.10.9.932",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": false,
-                "sha256": "0151dc2940a72ac9dd280d5e5ca483d2809687a74356ee9f3a740a989c55d90d"
+                "sha256": "479a3bd70033069b326f3bed14e593e5f60f156e93f8ade7b865c7da12fdf563"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.40.2",
+                "version": "3.40.5",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
                 "safe": true,
-                "sha256": "f1d390ecd10b91cfc7915936f507de18da56f2628d7672b18cf20be6b1779114"
+                "sha256": "5b5d62f57a80967e5179f5f6062a8172ca49b06f70b06c39da0367348ea3e501"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.59",
+                "version": "4.7.61",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
-                "safe": true,
-                "sha256": "41c2d21cd7ae21264e91c7103ec28f9d7045bf617fa9c0cfdc6a6f691b0b2a62"
+                "safe": false,
+                "sha256": "b6039c1bb9450357a97d5da13c123c3c9b0354eeea6931271caa4314cda889ea"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.57",
+                "version": "4.7.61",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": true,
-                "sha256": "2c4fedf70904450ff2b7bc2e9b0d104396125ed2c1ed4d562a7eeb4e6bd09061"
+                "safe": false,
+                "sha256": "b6039c1bb9450357a97d5da13c123c3c9b0354eeea6931271caa4314cda889ea"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.26.6",
+                "version": "14.26.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "adc7e2fdce8850b61896581dd0353738e5552845417c2e78a07e471ef50758c0"
+                "sha256": "80d057f9f746855a1dba1381302927f0d920a2d7f3a10db650216c6cafc145f3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "9.5.0",
+                "version": "10.0.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
-                "safe": true,
-                "sha256": "d557ac0abaca5197a5f17992079f9e22f00bebab142dbb25ef15648ec903df86"
+                "safe": false,
+                "sha256": "24c6f293375b7afde2a253adbe7a2171b253b8f228cafe9e5333696f043ad2a3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.3.2",
+                "version": "6.3.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "66b7b706bc9ce153f6179bbe4e71b6be2c9225577bab7f476c491c482910fc5a"
+                "sha256": "1b3c5887952d79bc5969ed42f7029afbf5ca07bb18f09fd1ef72a15628fae3e7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.0.0.1 chuppito release",
+                "version": "5.0.0.3 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "2f2746d507bdd8452037c76641713d791b9e996b8b97c97f816812deeb3e39b5"
+                "sha256": "b47cdff0bdfc98cf1464a3bbd01097702a63a9ff1d5d9764a340b48f408c9e2c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.0.0.1 chuppito release",
+                "version": "5.0.0.3 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "2f2746d507bdd8452037c76641713d791b9e996b8b97c97f816812deeb3e39b5"
+                "sha256": "b47cdff0bdfc98cf1464a3bbd01097702a63a9ff1d5d9764a340b48f408c9e2c"
             }
         }
     },
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.61.0-release.0",
+                "version": "10.62.1-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "d1588a1fd9c27e28252821bd1af0adf857b143b052c683c785926d4e8264fffe"
+                "sha256": "099aa0d4bfbc16a16889600a431ca18003476763fa44d53aff64a713ab79fc74"
             }
         }
     },
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.4.18.33462.GP",
+                "version": "7.5.2.33832.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "d3d33ad48c55abbb1d3d20bd163084311fb93bd85fb169019acb55c8dff32118"
+                "sha256": "bfd650466c760a018cfd688d88dc74223be6a8e05d03328044a8743f21b2d381"
             }
         }
     },
