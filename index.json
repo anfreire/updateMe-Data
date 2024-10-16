@@ -621,11 +621,11 @@
         "providers": {
             "JunkFood02": {
                 "source": "https://github.com/JunkFood02/Seal",
-                "version": "2.0.0-alpha.4",
-                "packageName": "com.junkfood.seal.preview",
+                "version": "1.13.1",
+                "packageName": "com.junkfood.seal",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/seal_junkfood02.apk",
                 "safe": true,
-                "sha256": "8693092992233c7548098eb3090c86c5891ed9248c0d77e83c4ef1ee0dd1080c"
+                "sha256": "17b9670bc381396eecbf86d229cc37f7d9abf3bb17afba59f4df2c2d2e1aa25a"
             }
         }
     },
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.59",
+                "version": "4.7.61",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "91a763de068cd94eba65e73d7689dcbbedeb11fc961015f1bd5c9b6da292174e"
+                "sha256": "451ccad64e759ccf0008b41774de1f27207b2a95572345e3c7f0ae1eb4215d00"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
