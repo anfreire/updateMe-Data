@@ -686,7 +686,7 @@
                 "version": "6.4 build 055",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "1c70c4eb07869e6ec06fb2a1de0e2591a4ec901e198d76ca288cf4b73725df8e"
             },
             "LITEAPKS": {
@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "8.2.1",
+                "version": "8.2.2",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "7a731b571a5cdadad76fec600e37f59003950c8d2a9fd0ea7cdfb1880943cf64"
+                "sha256": "20cb479f91ff08fe893ad65121a4102fb507f2da5ea8385d6f2fdb8df80719e5"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.5.2",
+                "version": "9.5.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "523de70396774db5dc02ded80d519294231130f50b080c09a6d0fee3fe16a3b9"
+                "sha256": "2514d40cce3040127b8ea7144158b855f957d998f09e8a71bbd7bc3467d86df7"
             }
         }
     },
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.0.2",
+                "version": "26.0.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "92ace015dcfbac9c38f6695bf7c7d5c53e9c06309e676499f44a1fe2e4cc7c9c"
+                "sha256": "0b648bc43dce4d35e451fb08bc4f7fa7e42762a659a7bfc44c1197b461a4d1e3"
             }
         }
     },
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.13.1",
+                "version": "18.13.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": true,
-                "sha256": "3bf164748f856b6a3cba253f43da52eb153fcc2bf18c04898f80922d10211a70"
+                "sha256": "90b3612c4465253e3043e58b2b14c6ccbaba3b625a45135d1eaaf72ca274b0dc"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.26.6",
+                "version": "14.27.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "d4827327af3ccb45432fee57427fcc9c003ee17148410c4821a69fd95e9c7560"
+                "sha256": "febc501009f593bc3f967324aba9ef6bf5ac26ac6da149ab7d9a82fd11d65be2"
             }
         }
     },
