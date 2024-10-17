@@ -561,11 +561,11 @@
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
-                "version": "328.0.0.42.92",
+                "version": "347.3.0.41.104",
                 "packageName": "cc.honista.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_honinsta.apk",
                 "safe": true,
-                "sha256": "d49033fade36fa5a8f55040596e1dc8fb12350e57798079e09111391be8e9ea2"
+                "sha256": "1eef3e8e9e1cfeebc76096780ab99637b910170661198c3fa72e8f1b874c073a"
             },
             "Instander - Clone": {
                 "source": "https://thedise.me/instander/",
@@ -625,7 +625,7 @@
                 "packageName": "com.junkfood.seal",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/seal_junkfood02.apk",
                 "safe": true,
-                "sha256": "17b9670bc381396eecbf86d229cc37f7d9abf3bb17afba59f4df2c2d2e1aa25a"
+                "sha256": "e52c2657fe8fd5a6a970e505171399f1b674c6a7015c15557879e4672e7fa85c"
             }
         }
     },
@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.12.9",
+                "version": "1.12.10",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "385bc8c4e69e708c3186fb73b8225f9c039a97d031331da4212086adf6d4b1f8"
+                "sha256": "16a583f171fe06069f5dfac8c17e2dfd22c486bc36b48d90c2196459c54a36af"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1032,11 +1032,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
-                "version": "8.2.1",
+                "version": "8.2.2",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modzoco.apk",
                 "safe": true,
-                "sha256": "889c447f2a9d41744617512a5b992203c5fa5863ea15b0fcef6cfb383c9a8b0d"
+                "sha256": "a8c7d67e6556cac14b4a1e0ed85a799dfa802f05ca29ae353090d6bf0fbec425"
             }
         }
     },
@@ -1150,19 +1150,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.5.2",
+                "version": "9.5.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "a78e19477f5d0656583e584eaa775f8d53273f5300b30d93a8966260f051042c"
+                "sha256": "66f50fff8bd4776955f90551108f08a1433e6546bdb9d7c7026fdbad78cbae27"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.5.2",
+                "version": "9.5.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "df8c4cfbd9b72a2781a39c55c8e64cb33487d82f86dac7c605c00dd62325cf0b"
+                "sha256": "527273b203e38c48114f19806019f6d6074621e86b8a1f553501f6006a76bd09"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1446,19 +1446,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "26.0.3",
+                "version": "26.1.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": false,
-                "sha256": "5470fc9e721fd3baeda95c1a644026fec65cb95945df380c58f326d0632d02c1"
+                "sha256": "31ddea4f0413481f9bbf939ad855eef604c4651fd1d1b8f4dafba0855cee54ff"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.0.3",
+                "version": "26.0.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "15c5872ae1166e70da54674485a6f09a659f472588ad6de55724c56607d563ce"
+                "sha256": "2254f24a77e9b6b2ad101e788745cb8a99cad9b26678678dd28fc8809ba985bc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1552,11 +1552,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.13.1",
+                "version": "18.13.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
-                "safe": false,
-                "sha256": "b9dcf6478a97cb4d6d15d170f23341c4c5a6921fce1128e492e9d5c568380ef5"
+                "safe": true,
+                "sha256": "532d639efcf37e1c07d468d47261b4754bcced4ea27ecee073fd8477f598770d"
             }
         }
     },
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.3.3",
+                "version": "6.3.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": true,
-                "sha256": "1b3c5887952d79bc5969ed42f7029afbf5ca07bb18f09fd1ef72a15628fae3e7"
+                "safe": false,
+                "sha256": "e4ee3dcb10dcd35d6ad3ff74a51d66ba64703bb6694e1acc7880bcc2e3196b3c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2091,11 +2091,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
-                "version": "4.4.2.12",
+                "version": "4.4.2.14",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modyolo.apk",
-                "safe": false,
-                "sha256": "6aac354da51f09d2ca861236aa183e4a7039a0989eaa961b2204acc25dfb4f30"
+                "safe": true,
+                "sha256": "e3c7e65db5d46daea8ffd85475f266f229247c47b2e2ee2188d7f31e29c9f7f4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
