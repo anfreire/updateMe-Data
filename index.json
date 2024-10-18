@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.1.239",
+                "version": "16.1.245",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
-                "safe": true,
-                "sha256": "9ce19011a358eccd28d25c4b106d133b23a45910197e57059151209790ecdaa3"
+                "safe": false,
+                "sha256": "58c19d92d6a7eabbb9538470dfb98559e8327361010c557b5882a81caeb635b7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.12.10",
+                "version": "1.12.11",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "16a583f171fe06069f5dfac8c17e2dfd22c486bc36b48d90c2196459c54a36af"
+                "sha256": "03073eedc788ed455e1febbef9a774a957e1f487c762e99c813cfc70243e8855"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -908,11 +908,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
-                "version": "1.43.0",
+                "version": "1.44.0",
                 "packageName": "com.unvoid.australis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/australis_liteapks.apk",
                 "safe": true,
-                "sha256": "82bcc085f459ce4bcf97a22182ee46756e565543c5f830ad3b3e94facd7d912d"
+                "sha256": "8d95c0759ef4ccb03f8837a8101a969fe1f453b905b85e7b7e3c823406c83b7e"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.26.9",
+                "version": "14.27.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": false,
-                "sha256": "80d057f9f746855a1dba1381302927f0d920a2d7f3a10db650216c6cafc145f3"
+                "safe": true,
+                "sha256": "febc501009f593bc3f967324aba9ef6bf5ac26ac6da149ab7d9a82fd11d65be2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.3.4",
+                "version": "6.4.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": false,
-                "sha256": "e4ee3dcb10dcd35d6ad3ff74a51d66ba64703bb6694e1acc7880bcc2e3196b3c"
+                "safe": true,
+                "sha256": "16f9b06f83401856366e98c4ea19c6c13dfa4be2c9787b6151fb0eb18e7f9d7c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
