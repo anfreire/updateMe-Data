@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 050",
+                "version": "6.4 build 051",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "c5e34f14326405606e9ceabe60ccb5c56d4fe56d5d9190ab5a0fd8549f69850b"
+                "sha256": "6c304fb13c6e89edd96ea87e5d27d86b680fbc627d5f8bc041b271624d73e44b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -707,11 +707,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.4 build 050",
+                "version": "6.4 build 051",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
                 "safe": true,
-                "sha256": "698a620ed68caa90b025a5e2ea2e905f88aa1c96978106314db751de9149beda"
+                "sha256": "abb910988f36f284f7427c902d6e4fbe92484a1b59f0227e952742e7291e0d5f"
             }
         }
     },
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.1.3.0",
+                "version": "11.2.3.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "bf24687084bf192814a21294e331d6ee4936652642a0c1d6dda30f7d4b8dd924"
+                "sha256": "e3cb282a1f95cd576e6c160c9c2635465e5f67f864a63c49261e941963dc5487"
             }
         }
     },
@@ -1404,19 +1404,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.61",
+                "version": "4.7.63",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
-                "safe": false,
-                "sha256": "b6039c1bb9450357a97d5da13c123c3c9b0354eeea6931271caa4314cda889ea"
+                "safe": true,
+                "sha256": "9485f9dab3d1c6541ae8faf606f9fa3e5e55fe013731517cb19bb2165567005c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.61",
+                "version": "4.7.63",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "451ccad64e759ccf0008b41774de1f27207b2a95572345e3c7f0ae1eb4215d00"
+                "sha256": "9798dbff017551c73575dda8c87ddf621e21bcde29f450f76e0685b70296cd2a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.61",
+                "version": "4.7.63",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": false,
-                "sha256": "b6039c1bb9450357a97d5da13c123c3c9b0354eeea6931271caa4314cda889ea"
+                "safe": true,
+                "sha256": "0e29b4d5d8b5a76dac8b5e60175e807f0322efd07e188da279fea56d64f01471"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.27.6",
+                "version": "14.27.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "febc501009f593bc3f967324aba9ef6bf5ac26ac6da149ab7d9a82fd11d65be2"
+                "sha256": "b235ca32b2854df41f56b24a9a9ba8fd756f1c1797f901e08e17259529b9f9e5"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.4.0",
+                "version": "6.4.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "16f9b06f83401856366e98c4ea19c6c13dfa4be2c9787b6151fb0eb18e7f9d7c"
+                "sha256": "c647c88620c5e0f458e7704fecd1aeeb13a2dc07c096bba2135e3386c86953a3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.3.3",
+                "version": "6.4.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
-                "safe": true,
-                "sha256": "f02b563aadee61285aa78b33144d9e3357eb681d724719ee8f1175eaf9e59eeb"
+                "safe": false,
+                "sha256": "14a77568e66d02bed2a2723b65e419ce006a0d0efc9b07c64b7b2642ff071294"
             }
         }
     },
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.68.1012",
+                "version": "1.03.69.1016",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "c267fa60c600cdf6aa7acb8ef2fea2c9caeb284befdd6660c725410302fb08d2"
+                "sha256": "9617c5d07dfaaaa63eefc5adc76c6d5c17c08ff37380df7d31084e03b149badb"
             }
         }
     },
