@@ -1594,11 +1594,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
-                "version": "4.40.01",
+                "version": "4.40.03",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modzoco.apk",
                 "safe": true,
-                "sha256": "7412cdccbfc8522534a71bd0de289cc9f1832370b733100d3d8acee7f6a88d91"
+                "sha256": "38a5bc336d91a3676a4fe337f20b00378086c5f0b6c0bd949421f985bf7cd684"
             }
         }
     },
