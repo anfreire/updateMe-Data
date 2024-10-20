@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.13.1",
+                "version": "18.13.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": true,
-                "sha256": "32faae0d5892407d1d7bfe14fa8e087905cfd8c29021ad000c281133899e9c38"
+                "sha256": "532d639efcf37e1c07d468d47261b4754bcced4ea27ecee073fd8477f598770d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.4.0",
+                "version": "6.4.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "16f9b06f83401856366e98c4ea19c6c13dfa4be2c9787b6151fb0eb18e7f9d7c"
+                "sha256": "c647c88620c5e0f458e7704fecd1aeeb13a2dc07c096bba2135e3386c86953a3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
