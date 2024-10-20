@@ -38,11 +38,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "19.16.39",
+                "version": "19.34.42",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "dedb5a7f4a3f565ba8e0eef66cc833e2fbed4f904685c12f0ed0ec4391056e1d"
+                "sha256": "1f42949f64248db58ad4e409a09ca0868e720794ec4b7cf0f565170b13c04e87"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "2bf40a3ad003a3d2f71b42aa6923682e027d483f05cf0efa07fe4b7c1c93513e"
+                "sha256": "0a9708c643a88054ece45cee2ded9b94e520164ce03e72c3877a151e7a0cd522"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "65bf1d71b147bbaeb33c1a2c55ba4c69622a62c33c2b7d0f94b4f382dd337435"
+                "sha256": "bb138dc724f506df075116dbc9e0ed60a17e1601bf29c46b56a134c6da26f77a"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "817f4012be412d63a6975c8fefe3eaaf9e04a7c2c59451b15320be39beb4957e"
+                "sha256": "fd32c5092b8260131fab5b7905dcb1442c447c49b39947d5689f836c21053f96"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.1.239",
+                "version": "16.2.243",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
-                "safe": true,
-                "sha256": "9ce19011a358eccd28d25c4b106d133b23a45910197e57059151209790ecdaa3"
+                "safe": false,
+                "sha256": "da80637c599515743160ba7308323177d7a8874a1f7abf6a84f29647b2b7b715"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.84.1",
+                "version": "1.84.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "8a805e4e12cae031dc0b5bc54f8fd644d06f7f25a962a82999097d9b46209788"
+                "sha256": "c66430571b3cc13d685f20994481d5f6dcc07533761eaa8ad200544b09ae96b3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "65d78977dfbc0e70b982492037a9ddecffb482cf6c40c9798f341848e5cb2e4e"
+                "sha256": "2f3235d97c9c594a95a6926edec221009d6aa26960ba6dd0c6badf5a0ad97657"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -2182,11 +2182,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "483.0.0.51.72",
+                "version": "485.0.0.70.77",
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "078be21c22e2a264789447bcfbdc494475d534c08b4072072488677156174def"
+                "sha256": "91448e988961d145f556e3f5b8aa9a0bb906c414b550a4ac46e2561b07cd689f"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "477.0.0.50.99",
+                "version": "479.1.0.76.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "31f675e4f1b4c73dcedd4c4c9ef6402ef7b31dddc4f77a578c75b2948a7e4a66"
+                "sha256": "76db29b7392b83e74ebd6a71805fd24983865558e0d71d940a81337d957e8d30"
             }
         }
     },
@@ -2248,8 +2248,8 @@
                 "version": "7.01.build123",
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
-                "safe": true,
-                "sha256": "ff63502f7a3d787f5ffab7073051c8e1b11bfedd2ea82f2b5dc8bd9373cdf94c"
+                "safe": false,
+                "sha256": "a8887f473ed791b7036a27171435fcdc761b7ee1b43380b26576470f8528d329"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2279,11 +2279,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
-                "version": "4.2.11",
+                "version": "4.3.0",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
                 "safe": true,
-                "sha256": "95ea9fca526fb3d77c02917b93f46a3fedffe99b5de2a30a288af987545fff75"
+                "sha256": "cd4b9a4a3d750fc1dbbe5f1f5ba1ddb80ed00fa78d5443565cf755079729cc78"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
