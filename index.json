@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.2.243",
+                "version": "16.2.245",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
-                "safe": false,
-                "sha256": "da80637c599515743160ba7308323177d7a8874a1f7abf6a84f29647b2b7b715"
+                "safe": true,
+                "sha256": "bccb7172cedbe79a3cfdd1f6391284229db1456e3b64310527567e487a2ce905"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1352,11 +1352,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.72.5.2409050000",
+                "version": "6.74.0.2410100000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
-                "safe": true,
-                "sha256": "ad5798f2ddd10efb9c5a693e992d60ca82b83a2abb610a189b98beda4b87cbb9"
+                "safe": false,
+                "sha256": "bf29687eb64b7dcc3cbc42888fc29c09072c109435890bbd850cb229fc9b4656"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.63",
+                "version": "4.7.67",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "9485f9dab3d1c6541ae8faf606f9fa3e5e55fe013731517cb19bb2165567005c"
+                "sha256": "accc3efebfeec0a48fc160489701c0a1207b0d7f989d04acdb67e6011f22a3cb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.68.1012",
+                "version": "1.03.69.1016",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "0707210ece4c970a1dee6b3de756f3064aa1aeb2c0a719312cc1415948d8974d"
+                "sha256": "f324b12e11c2eab7a127cfb7e4b77d001b7d7e2a114cee86d3d4ed50b2412321"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
