@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.1.245",
+                "version": "16.2.245",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": false,
-                "sha256": "58c19d92d6a7eabbb9538470dfb98559e8327361010c557b5882a81caeb635b7"
+                "sha256": "ff79d43fa0903becfa69b3d1fbed20415385da9c0eb48b37981c1a2b0316cab4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.2.243",
+                "version": "16.2.245",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": true,
-                "sha256": "d872b1438778f4540d1dfa5e7b232b9950fb30a2d04368901e343430836e25f0"
+                "safe": false,
+                "sha256": "7063c047efcb5355fb9d5743496dfa70c2f94c48cbc805aeaac1904c17faf348"
             }
         }
     },
