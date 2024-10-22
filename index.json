@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.10.9.935",
+                "version": "8.9.84.594",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "3c7c9d6a08d288f1260d9d222fecd9175b4860a7cdfc4fd67435354c629b3a65"
+                "safe": true,
+                "sha256": "c02c3e1e2305bf15d1c46023d4ea312414a9e6772c1e333e13db372b374ef5df"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "16.1.239",
+                "version": "16.2.245",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": false,
-                "sha256": "454e1de97f7edfc70626212be8676ce452cdf8b85e4b26cbe64077a7a429a64b"
+                "safe": true,
+                "sha256": "8019d305ac40e4ade846ddc723ed3e1ee07e010714c768e48dab17ce37249665"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "13.0.0",
+                "version": "13.1.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
-                "safe": true,
-                "sha256": "673f81ed799bf525bb1f30d746dd7e9e900220c7c3b785c0217b12c9fd773d40"
+                "safe": false,
+                "sha256": "f2c86c46ea12184c1c4b6de60bd2be7a0af786bc9cb31fba27639140d43878ad"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.22.1-dev.2",
-                "packageName": "app.revanced.manager.flutter",
+                "version": "1.23.0-dev.3",
+                "packageName": "app.revanced.manager.flutter.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "c23f1c5fd413cf8eae95728939641a841b5b1d172f5cc01344f57e5fcbda4bcb"
+                "sha256": "27983833e9530f3323685a3e1c032259645c2afb7c3d830ca7036aaea6bc8e33"
             }
         }
     },
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.61",
+                "version": "4.7.67",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": false,
-                "sha256": "b6039c1bb9450357a97d5da13c123c3c9b0354eeea6931271caa4314cda889ea"
+                "sha256": "6594ed32787993c2bc39c0537d0bd76c5d5e71758194efa53a3a929e09ae2e1d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.0.4",
+                "version": "26.0.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "0b648bc43dce4d35e451fb08bc4f7fa7e42762a659a7bfc44c1197b461a4d1e3"
+                "sha256": "0adb5164d953a9e812185c858b4b7f1157bc994167ebba1b31b05eb966c08643"
             }
         }
     },
@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.84.2",
+                "version": "1.85.3",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
-                "safe": false,
-                "sha256": "0201365245f35c65e6e0197fcf3b9c5a636623d78ee1c9eb467072d4d2724e22"
+                "safe": true,
+                "sha256": "ac48a44726691255a94a7cceaae29392b35d2aeab9c7096bbf58a51be2e6dacb"
             }
         }
     },
