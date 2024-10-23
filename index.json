@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.5.3",
+                "version": "9.6.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "527273b203e38c48114f19806019f6d6074621e86b8a1f553501f6006a76bd09"
+                "sha256": "8128914ec3341a400a4e91bab6bf3412572a1e773dfa4ed2ef314b97cfddd01f"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
