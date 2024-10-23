@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.074.1465",
+                "version": "2.075.1466",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "03455d154314ac75214872bd5c275c39400fd00eaf2521ee78685d18983a2aaf"
+                "sha256": "c73c70f59e8cf8cdff549b089f369109760385ffe0c946629f696fb4bbd7f172"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.5.3",
+                "version": "9.6.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "66f50fff8bd4776955f90551108f08a1433e6546bdb9d7c7026fdbad78cbae27"
+                "sha256": "cad18e81d825c3a154ff0257a40fedc7fabfbf8bdafd91f66580604797927a2c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1404,19 +1404,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.67",
+                "version": "4.7.69",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "accc3efebfeec0a48fc160489701c0a1207b0d7f989d04acdb67e6011f22a3cb"
+                "sha256": "89828d5fc60ad5a371b5ade948749169a15b20f8eb0ed71a46e5461d10c4b59a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.63",
+                "version": "4.7.69",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
-                "safe": false,
-                "sha256": "9798dbff017551c73575dda8c87ddf621e21bcde29f450f76e0685b70296cd2a"
+                "safe": true,
+                "sha256": "89828d5fc60ad5a371b5ade948749169a15b20f8eb0ed71a46e5461d10c4b59a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.27.7",
+                "version": "14.28.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": false,
-                "sha256": "826f59055d4e5e3f7773c1583076587767e405853c945467167a6d564851a42a"
+                "safe": true,
+                "sha256": "051cf10b829495581330e017d747779a6b8b2f72029dc6ae719ffbb31b2813ad"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.6",
+                "version": "1.86.7",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "3f12bf82183e0fa759c34217233ef490158af2d7fcd1312584cf9edfebb2e435"
+                "sha256": "0a228845d6239df2c9ccd6919639362caf115a6d911b8cafddfb14485239105e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.2.7-rc0",
+                "version": "1.2.8-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": true,
-                "sha256": "d0535ff60863bc39a643e8459ec72ad9c78674f14ff7be7464547b3b1679b569"
+                "sha256": "534916c4bab20cc4f1b39b8c1612b78cf3245853892840be4ef3f4bbed6d44fc"
             }
         }
     },
@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.5.2.33832.GP",
+                "version": "7.5.3.33840.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
                 "safe": true,
-                "sha256": "786b8e3960af89504239f68282d5134533646725291cbcae823eb40e2bac2210"
+                "sha256": "573f463ab0fcbba389a663170cea2fafbd4062dd7e453ede3fa77569a6ea49f5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
