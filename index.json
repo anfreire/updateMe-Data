@@ -1032,11 +1032,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
-                "version": "8.2.2",
+                "version": "8.2.3",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modzoco.apk",
                 "safe": true,
-                "sha256": "a8c7d67e6556cac14b4a1e0ed85a799dfa802f05ca29ae353090d6bf0fbec425"
+                "sha256": "aaadaccd0457561a2a64b349d8dfd334bb979ff08895d1a9c80d0f6eb365453b"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.67",
+                "version": "4.7.69",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "6594ed32787993c2bc39c0537d0bd76c5d5e71758194efa53a3a929e09ae2e1d"
+                "sha256": "b8f3b1a6cc12a010c1297e6929cd41b5afd6c1bf43873bc997f5294230f337a9"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.3.5",
+                "version": "6.4.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
-                "safe": true,
-                "sha256": "ae96e65232d7b3de0f2712c42160f17c104625b56fc2997fbabf698e282445b8"
+                "safe": false,
+                "sha256": "656048f9c1fbdf206cd6b3db6d95141bb6803d8b960813cbcaddd9f20eebe050"
             }
         }
     },
