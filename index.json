@@ -440,8 +440,8 @@
                 "version": "16.2.245",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": false,
-                "sha256": "7063c047efcb5355fb9d5743496dfa70c2f94c48cbc805aeaac1904c17faf348"
+                "safe": true,
+                "sha256": "dcca809aa7a7d074dfbe02244c29db54b4227de5f5525d4812ffc0b73dde398a"
             }
         }
     },
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.6",
+                "version": "1.12.11",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": false,
-                "sha256": "d74629b77cc37f96048c7b224284b9a2b604950ec5cb14651c6b2d8f7484e351"
+                "sha256": "30a4cbd116d80a44a9d7dc9378ae108f1913573d55ccab7016637995a6011b03"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -664,11 +664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.9",
+                "version": "1.12.11",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
                 "safe": false,
-                "sha256": "385bc8c4e69e708c3186fb73b8225f9c039a97d031331da4212086adf6d4b1f8"
+                "sha256": "5a4f11a0695c724550cc3c7b12b6b41ef94b22ae951d998672cb693d263b1c20"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.69",
+                "version": "4.7.70",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": false,
-                "sha256": "b8f3b1a6cc12a010c1297e6929cd41b5afd6c1bf43873bc997f5294230f337a9"
+                "safe": true,
+                "sha256": "a45d4e1c20e486df24922acaf84fa9be67a9a9ac403c4aaaa0a9ceb3c4e6fb38"
             }
         }
     },
