@@ -656,11 +656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.9",
+                "version": "1.12.11",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": false,
-                "sha256": "385bc8c4e69e708c3186fb73b8225f9c039a97d031331da4212086adf6d4b1f8"
+                "sha256": "30a4cbd116d80a44a9d7dc9378ae108f1913573d55ccab7016637995a6011b03"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
