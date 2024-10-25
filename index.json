@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.70",
+                "version": "4.7.73",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": true,
-                "sha256": "a45d4e1c20e486df24922acaf84fa9be67a9a9ac403c4aaaa0a9ceb3c4e6fb38"
+                "safe": false,
+                "sha256": "b7e23c8d6d6faebae7a4781e813a7af07c1a7c7362455958ab81f1dc0173b38c"
             }
         }
     },
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.46.0-241003",
+                "version": "14.48.0-241017",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
-                "safe": true,
-                "sha256": "f8a955ea570587e4ce03d5473c9895fb65c1c1b394043f2d26eabec00ce50605"
+                "safe": false,
+                "sha256": "99e488e9a053702c968f9afb070d1ffbd22e6dbc1721b79619d20af69308cab4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.4.5",
+                "version": "6.5.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "c36668df1d74a9ebd47baf188621b8cf9ec8a8e3a3d9dbb64992e67d54f84088"
+                "sha256": "3b225fec53e7a293ab4a9e9a04190dabccb315d90e9ce7634b76d8e969105a4f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
