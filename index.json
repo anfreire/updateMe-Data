@@ -1412,19 +1412,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.69",
+                "version": "4.7.70",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "89828d5fc60ad5a371b5ade948749169a15b20f8eb0ed71a46e5461d10c4b59a"
+                "sha256": "976f67ee9da92c2bcac68a5334314721d492291d3dae3f017fa09907cc781fed"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.69",
+                "version": "4.7.70",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "071e9d1673427a31893ab90829f4fdf753df2616775d70991356b98b5cf9955a"
+                "sha256": "a45d4e1c20e486df24922acaf84fa9be67a9a9ac403c4aaaa0a9ceb3c4e6fb38"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.28.6",
+                "version": "14.28.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "9f161a0f44ca1d9b836362d2550ded8ed471191d344c72a6932bda67f7960a80"
+                "sha256": "2373e055ccb7dfffa4f1c7738128b888fd6e03d80370c011873b25b3c64fac2a"
             }
         }
     },
@@ -1704,19 +1704,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.46.0-241003",
+                "version": "14.48.0-241017",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
-                "safe": false,
-                "sha256": "32e7249c4d7a2d9b36cad4a728973aa85ebf0a71b9ed35818f3e167dbab191f4"
+                "safe": true,
+                "sha256": "cd3ae6812bb2a406ad11b40c6707eb591ca2a94ad3a7243c7e6bafd9bddb70d9"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.46.0-241003",
+                "version": "14.48.0-241017",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "f8a955ea570587e4ce03d5473c9895fb65c1c1b394043f2d26eabec00ce50605"
+                "sha256": "cd3ae6812bb2a406ad11b40c6707eb591ca2a94ad3a7243c7e6bafd9bddb70d9"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.4.5",
+                "version": "6.5.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "c36668df1d74a9ebd47baf188621b8cf9ec8a8e3a3d9dbb64992e67d54f84088"
+                "sha256": "3b225fec53e7a293ab4a9e9a04190dabccb315d90e9ce7634b76d8e969105a4f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
