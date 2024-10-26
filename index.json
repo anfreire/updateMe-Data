@@ -499,19 +499,19 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.074.1465",
+                "version": "2.080.1466",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "03455d154314ac75214872bd5c275c39400fd00eaf2521ee78685d18983a2aaf"
+                "sha256": "a0f359145b7bb28bf9c7d2577465c8a7bd506094d27d2953a8eb0de3c8499caa"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.074.1465",
+                "version": "2.080.1466",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
-                "safe": false,
-                "sha256": "522de3ddee7b4eebd8dbe3822d629097b57521bb93ce083835051f1211ff9847"
+                "safe": true,
+                "sha256": "01d52f4d08dc2211afe4d0de6ec21f82ec635b4e39a3571c5aa89cf8a1d6165f"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -648,19 +648,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.11",
+                "version": "1.12.12",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
-                "safe": false,
-                "sha256": "30a4cbd116d80a44a9d7dc9378ae108f1913573d55ccab7016637995a6011b03"
+                "safe": true,
+                "sha256": "82599e68b4008cb894483f9eecbb96f0d4ead36b89cbe4b3a0a079fe8380a9d4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.11",
+                "version": "1.12.12",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": false,
-                "sha256": "30a4cbd116d80a44a9d7dc9378ae108f1913573d55ccab7016637995a6011b03"
+                "sha256": "0268f8e8b8e0fafcdb32418408d03f6f11bf62521dba4387c01e4cb0a10ceb8e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.70",
+                "version": "4.7.73",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "a45d4e1c20e486df24922acaf84fa9be67a9a9ac403c4aaaa0a9ceb3c4e6fb38"
+                "sha256": "735831b2fe0834e3ac7f6c52360292115c29bb24f93c2bf03fd1235c1260b0b8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.0.5",
+                "version": "26.1.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "0adb5164d953a9e812185c858b4b7f1157bc994167ebba1b31b05eb966c08643"
+                "sha256": "fce9be5d70f4b0606a35a14555c9115416e74a766f003aaebbc3a17f1941394a"
             }
         }
     },
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.4.1",
+                "version": "13.4.5",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
-                "safe": true,
-                "sha256": "705435563d21afe95a856223d1aaf23efc3b7b6dbd6783431d0823d634618f6d"
+                "safe": false,
+                "sha256": "f78cb83c2bb115443e07ed1e4bc01e39abf16be495872f0ba7f1da88967918a7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.4.1",
+                "version": "13.4.5",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "ac95932b0d1db136ad49bba43729ef3ef3a953dabd71f21f023dddeda7a471bf"
+                "sha256": "f78cb83c2bb115443e07ed1e4bc01e39abf16be495872f0ba7f1da88967918a7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.8.588",
+                "version": "4.8.852",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "75b8e83da7f6d0d523ec9083feb3ed9c5986f563b5cafe6b343f1093ace7ec01"
+                "sha256": "38ea3564e882ce94d9134832b77047c45601c4af7dcd46ba90539cd774161dd2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
