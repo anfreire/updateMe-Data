@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.70",
+                "version": "4.7.73",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "976f67ee9da92c2bcac68a5334314721d492291d3dae3f017fa09907cc781fed"
+                "sha256": "02c606c699a9c0c512720d932be84f3f53425bdf562736375b8cdc79f87ffaae"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.1.0",
+                "version": "26.1.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "e6a0cf544a6ab93d3bb836e78428e39a579477f189ca853491b51afa6debc5e3"
+                "sha256": "c31e43173ec5571646026c51a27c9bd153d12ae7279da573d8094aac7e3f06ea"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.46.0-241003",
+                "version": "14.48.0-241017",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "23dea2f05791f584a1859ff55df538e431dbd2ad27307fd5f2e0ac6dc19ebce5"
+                "sha256": "870669987ba630fd4763883584203d993ec6962447ac63876c641e3848224102"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
