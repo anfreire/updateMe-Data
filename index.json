@@ -523,11 +523,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
-                "version": "2.074.1465",
+                "version": "2.080.1466",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modzoco.apk",
                 "safe": false,
-                "sha256": "5095a098b490bbd3deb5f7b1147052af8a0cf919cf215b0a53416a5b14a210e7"
+                "sha256": "c923db3df86f20850456a556c7422ff9c3ff564d9a1ba04da4cbbbeba1aabdd8"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.28.5",
+                "version": "14.29.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": true,
-                "sha256": "051cf10b829495581330e017d747779a6b8b2f72029dc6ae719ffbb31b2813ad"
+                "safe": false,
+                "sha256": "494bc2f5625d12c2ea2810cb62c29fecfedcf66127f4cccfbe3667165487d8bc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
