@@ -664,11 +664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.11",
+                "version": "1.12.12",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
                 "safe": false,
-                "sha256": "5a4f11a0695c724550cc3c7b12b6b41ef94b22ae951d998672cb693d263b1c20"
+                "sha256": "11c6e32674d8ab1c321110d0fb1175c9cae611359e65aa005b9e165affda9255"
             }
         }
     },
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.23.0-dev.3",
+                "version": "1.23.0-dev.4",
                 "packageName": "app.revanced.manager.flutter.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "27983833e9530f3323685a3e1c032259645c2afb7c3d830ca7036aaea6bc8e33"
+                "sha256": "85766dc3e7fcdf431cce8c7ca8a893001b9286f2adf972610b422d0b7952e7b6"
             }
         }
     },
