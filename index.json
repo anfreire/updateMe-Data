@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.74.0.2410100000",
+                "version": "6.74.0.2410250000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "35d3cfee0ac2df3494d6eb28ac73cd857f7a064f8d15516423ebcc96c756f707"
+                "sha256": "ec8d287b8acb12503a88f4275901dd26c9c1c43173b7fa73a078157dd4d3defe"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1360,11 +1360,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.74.0.2410100000",
+                "version": "6.74.0.2410250000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "f654d94d7aff9dd1d611caec29fc7ebb2fd0ccd2af1273609d0f288fa9489a38"
+                "sha256": "210ece2c146934f2c8d7a8cac75dd7ebdfb3f04e82c9926e910fbb4dac1ce759"
             }
         }
     },
