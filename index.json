@@ -1352,11 +1352,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.74.0.2410100000",
+                "version": "6.74.0.2410250000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": false,
-                "sha256": "bf29687eb64b7dcc3cbc42888fc29c09072c109435890bbd850cb229fc9b4656"
+                "sha256": "bfb8380a054a9f8f5179606e1deab69626af09728ef0c974dd1aa49ecd0c2524"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.69.1016",
+                "version": "1.03.70.1025",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": false,
-                "sha256": "d8ea8c9352e7c6ecabb928a2b373c70436a71ada2183e48f88b0da60c872d72c"
+                "safe": true,
+                "sha256": "95490c25cb36f34ee42d4b9269c1e27a10927edd5d87d2ebe6467adcac471ac3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
