@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.2.245",
+                "version": "16.3.250",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "bccb7172cedbe79a3cfdd1f6391284229db1456e3b64310527567e487a2ce905"
+                "sha256": "74076b9793deb9bd6551c57c3672c87e1341439184f760fefe620a0388abb298"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.12.12",
+                "version": "1.12.16",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "1fca63cbbca83d5efa61f29d35cf7fab4087cc98ba43a187a9719e1454b2f8f6"
+                "sha256": "9dc220aa6f1417fb0a4d04c325ed75fcdb7bee72f3d11edf39bb78fc77ee8617"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.74.0.2410250000",
+                "version": "6.75.0.2410280000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
-                "safe": true,
-                "sha256": "210ece2c146934f2c8d7a8cac75dd7ebdfb3f04e82c9926e910fbb4dac1ce759"
+                "safe": false,
+                "sha256": "ca19facad3e32327b1227b7ee0d1b7a6f247c6f13badb68805ea91691e97f990"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.28.7",
+                "version": "14.28.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "2373e055ccb7dfffa4f1c7738128b888fd6e03d80370c011873b25b3c64fac2a"
+                "sha256": "2119e90dee636d16ca06294ce45c68c7d5b009be10282095ec3942a0177f8c7c"
             }
         }
     },
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.0.1",
+                "version": "10.0.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": false,
-                "sha256": "24c6f293375b7afde2a253adbe7a2171b253b8f228cafe9e5333696f043ad2a3"
+                "sha256": "7033ee28962047e99364dcabc7e06987bc6d599fc7417e7e78d8be6f98d82952"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.5.2",
+                "version": "6.5.6",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "4c0cb868c7a05e6e282de3271744fa292348b6d3748af629570f6bd833ee0032"
+                "sha256": "20cfac0fda0691d0d8a0335dea3f70d988c289aeebb7cb48272e069411530c10"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
