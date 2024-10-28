@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "10.0.1",
+                "version": "10.0.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
                 "safe": false,
-                "sha256": "24c6f293375b7afde2a253adbe7a2171b253b8f228cafe9e5333696f043ad2a3"
+                "sha256": "7033ee28962047e99364dcabc7e06987bc6d599fc7417e7e78d8be6f98d82952"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.5.0",
+                "version": "6.5.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "3b225fec53e7a293ab4a9e9a04190dabccb315d90e9ce7634b76d8e969105a4f"
+                "sha256": "55f711f72cf57c716d4c546c5d35ef34e5d87e5034a8f8f38058e2f95dc02d94"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1825,11 +1825,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "13.4.1",
+                "version": "13.4.5",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
-                "safe": false,
-                "sha256": "f77a0c7d9fae05b715c9aceb83190fcc9b6bc2d1d52a21fc064dde7501931711"
+                "safe": true,
+                "sha256": "bdfb6ff16a18d032b9bdf0ecef47f1b24794d24b463c74267fdbf27fbab36ce3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
