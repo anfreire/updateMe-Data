@@ -707,11 +707,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.4 build 051",
+                "version": "6.4 build 052",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
                 "safe": true,
-                "sha256": "abb910988f36f284f7427c902d6e4fbe92484a1b59f0227e952742e7291e0d5f"
+                "sha256": "fdd341d5d28ec08de577d6221afacd26b697198d601cb7df0ef701e6dde24167"
             }
         }
     },
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.73",
+                "version": "4.7.76",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "02c606c699a9c0c512720d932be84f3f53425bdf562736375b8cdc79f87ffaae"
+                "sha256": "ca347ae2867ab78aebf94bf60def932071f8f26d68bf823f9e4d9cc196e4d0ab"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.73",
+                "version": "4.7.76",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": false,
-                "sha256": "b7e23c8d6d6faebae7a4781e813a7af07c1a7c7362455958ab81f1dc0173b38c"
+                "safe": true,
+                "sha256": "87b606c054040e96aebc7b4d0a3a1f7edb6b90f5a2a9fc44276b2fd5c9f89da0"
             }
         }
     },
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.13.2",
+                "version": "18.14.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
-                "safe": true,
-                "sha256": "532d639efcf37e1c07d468d47261b4754bcced4ea27ecee073fd8477f598770d"
+                "safe": false,
+                "sha256": "4ab8bafd6acbe55a761c4cd112db00c09440dab714137c374332a69472cff220"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1670,11 +1670,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adobe-lightroom.html",
-                "version": "9.5.0",
+                "version": "10.0.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modzoco.apk",
-                "safe": true,
-                "sha256": "8c238c18f04f9598d2a8deaecee717604e3f3025895c3b4bf969608e7210c4f9"
+                "safe": false,
+                "sha256": "c9f7eee73634548d5f35eab320826f02b0689ad406cab886eafa8b514dede934"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.5.0",
+                "version": "6.5.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "393f3394936ed5f498d9f3495088fae5b9c8652c41b0d4192ccbd77306789a18"
+                "sha256": "6148f2c3b0cebb5094ddc2d442905b208a1b7dea22b6661a51d211bdc153839b"
             }
         }
     },
@@ -1841,11 +1841,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.4.1",
+                "version": "13.4.5",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "e4bd75d1a18bb8c8149b9a36ce2206cf93e30519bc16f4909d9612951fd271c5"
+                "sha256": "ab45b7c6b8984fe9031cc965e87c801b93accb9394c5a6bf5dd461899434d39f"
             }
         }
     },
@@ -2410,11 +2410,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
-                "version": "7.4.0.1",
+                "version": "7.4.1.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modzoco.apk",
                 "safe": true,
-                "sha256": "e30ccae8c2f24851a32737eca2642b8819b9551da95e3aa1c6898d0f535faad8"
+                "sha256": "31b5b61d532aea1f06ba4873f7b04a5941ff2858f91affc8c314b269cc5b394e"
             }
         }
     },
