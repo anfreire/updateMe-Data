@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "16.2.245",
+                "version": "16.3.250",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": true,
-                "sha256": "8019d305ac40e4ade846ddc723ed3e1ee07e010714c768e48dab17ce37249665"
+                "safe": false,
+                "sha256": "f514ed67c0ff6b0a79e9f463e4a8015e9fa48f0596ae0700340ac70a8bc6134d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.4.5",
+                "version": "6.5.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "3260bcc71f7cbc61c9cc3746bed4d996ce3afdc4f462a658e2d6f1637c4b66fc"
+                "sha256": "26dbbc819e21986d2131aef40c30987023e416aaf4c21ca2716afa4efcca35d0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
