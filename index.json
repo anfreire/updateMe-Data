@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 051",
+                "version": "6.4 build 052",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "6c304fb13c6e89edd96ea87e5d27d86b680fbc627d5f8bc041b271624d73e44b"
+                "sha256": "77184dac5b5456a18c059521a86433eab269cb380b8806f05c1e2a8f9aa4ff8b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.73",
+                "version": "4.7.74",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "735831b2fe0834e3ac7f6c52360292115c29bb24f93c2bf03fd1235c1260b0b8"
+                "sha256": "c13f68d11a0eeef28d8c3669cf983fa5653570ec028ec7bf9acab53d3b38a69a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.1.2",
+                "version": "26.1.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": true,
-                "sha256": "fce9be5d70f4b0606a35a14555c9115416e74a766f003aaebbc3a17f1941394a"
+                "safe": false,
+                "sha256": "222cc0bea67772e56033841a402a2b4ccb7798c8f27e2b5c467909049aa3d295"
             }
         }
     },
@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "19.2.2",
+                "version": "19.3",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": true,
-                "sha256": "523a6be7059a5d21bae6e2d02c608579aa66bc0235a278f760f23bb7b5ce828d"
+                "sha256": "47e99c9b93bb1a4343bf0c8679a480658f6b9e2553b0ae82ccde483997ba46d3"
             }
         }
     },
