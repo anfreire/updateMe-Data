@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.080.1466",
+                "version": "2.081.1467",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "a0f359145b7bb28bf9c7d2577465c8a7bd506094d27d2953a8eb0de3c8499caa"
+                "sha256": "9bd98387e9c3b204147d20a9e94e8523c64bd5f50d301faa5a67f1c394788b61"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.080.1466",
+                "version": "2.081.1467",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "a0f359145b7bb28bf9c7d2577465c8a7bd506094d27d2953a8eb0de3c8499caa"
+                "sha256": "20c282466785a2d4b7380524f07e46df50211c2cd854f52eff7b608cbd5c46cb"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
