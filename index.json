@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.73",
+                "version": "4.7.76",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "02c606c699a9c0c512720d932be84f3f53425bdf562736375b8cdc79f87ffaae"
+                "sha256": "639f59a9ad740b67f39ac1709f44bdc4e4fc94d7ba386157f70e824c1e909aa6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.1.2",
+                "version": "26.1.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "c31e43173ec5571646026c51a27c9bd153d12ae7279da573d8094aac7e3f06ea"
+                "sha256": "6883e8597a8517a92285f9a38051a8c1547a666c789f1967c399484c19f2da2e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "19.2.2",
+                "version": "19.3",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "6ff2b88d6bb632c7997d04622d2bc3c44400e8565f678ede863ce147d52b31f6"
+                "sha256": "47e99c9b93bb1a4343bf0c8679a480658f6b9e2553b0ae82ccde483997ba46d3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.64.0-release.0",
+                "version": "10.64.2-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "2d0f6b197a595e0508666c4b2520378774e2b6cedefbe651466ef1b5f9c434f9"
+                "sha256": "724bc6b9a99dbb7ac768da91f0cac4ba0aa09c957b939141ba7400123f3c62a1"
             }
         }
     },
