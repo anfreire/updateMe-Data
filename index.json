@@ -507,11 +507,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.080.1466",
+                "version": "2.081.1467",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
-                "safe": true,
-                "sha256": "01d52f4d08dc2211afe4d0de6ec21f82ec635b4e39a3571c5aa89cf8a1d6165f"
+                "safe": false,
+                "sha256": "20c282466785a2d4b7380524f07e46df50211c2cd854f52eff7b608cbd5c46cb"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.4.0.1",
+                "version": "7.4.1.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "e30ccae8c2f24851a32737eca2642b8819b9551da95e3aa1c6898d0f535faad8"
+                "sha256": "31b5b61d532aea1f06ba4873f7b04a5941ff2858f91affc8c314b269cc5b394e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
