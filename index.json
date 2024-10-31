@@ -869,19 +869,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/layers-icon-pack.html",
-                "version": "10.6",
+                "version": "10.7",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_modyolo.apk",
                 "safe": false,
-                "sha256": "ccc32c9fe3dba4de871152a61b9a50dab51ed6c1b9c145fe0ec3625ab017eb74"
+                "sha256": "c97827db610bd75f66abd169376f27e63759bee90b9860cdcf203575407f2dd6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "10.6",
+                "version": "10.7",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": false,
-                "sha256": "ccc32c9fe3dba4de871152a61b9a50dab51ed6c1b9c145fe0ec3625ab017eb74"
+                "sha256": "c97827db610bd75f66abd169376f27e63759bee90b9860cdcf203575407f2dd6"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.28.8",
+                "version": "14.29.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": true,
-                "sha256": "2119e90dee636d16ca06294ce45c68c7d5b009be10282095ec3942a0177f8c7c"
+                "safe": false,
+                "sha256": "0df1ae8a3d2529a71e02df694d55b46a9afa03c6672c0fe8fa1a8df4915a071c"
             }
         }
     },
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.4.1.0",
+                "version": "7.4.1.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "c4df8a8bc07a81712b7ca43840dbc46d3ef5b9270ee14da550c4b2d607a64d62"
+                "sha256": "942423750a7a04f66ef1b3e1348c39a4ba941a5903ced13d4c027353bbe91bff"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
