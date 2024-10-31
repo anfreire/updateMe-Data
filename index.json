@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "13.0.0",
+                "version": "13.1.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "673f81ed799bf525bb1f30d746dd7e9e900220c7c3b785c0217b12c9fd773d40"
+                "sha256": "49315ddca4505896c6d1bda3fda479dc29892abfd11dae02f3c073e00535b53f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -511,7 +511,7 @@
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
                 "safe": false,
-                "sha256": "20c282466785a2d4b7380524f07e46df50211c2cd854f52eff7b608cbd5c46cb"
+                "sha256": "b1bfa9a118a34b35f860532d4668f9630c0ba64520798d335b60066ebfc37517"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
