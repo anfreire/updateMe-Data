@@ -561,11 +561,11 @@
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
-                "version": "347.3.0.41.104",
+                "version": "347.3.0.41.105",
                 "packageName": "cc.honista.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_honinsta.apk",
                 "safe": true,
-                "sha256": "1eef3e8e9e1cfeebc76096780ab99637b910170661198c3fa72e8f1b874c073a"
+                "sha256": "6f77140c07116573833ab85cd496eba830df0877535bca28d11a2d539add1cf3"
             },
             "Instander - Clone": {
                 "source": "https://thedise.me/instander/",
