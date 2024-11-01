@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.76",
+                "version": "4.7.78",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "ca347ae2867ab78aebf94bf60def932071f8f26d68bf823f9e4d9cc196e4d0ab"
+                "sha256": "67a7bc00418b59ce104a6f7ca46285e6b418a0e684ec15e63a32d24de3e34818"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.29.5",
+                "version": "14.29.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": false,
-                "sha256": "0df1ae8a3d2529a71e02df694d55b46a9afa03c6672c0fe8fa1a8df4915a071c"
+                "safe": true,
+                "sha256": "eb016cc31ff640153f10ffefccbb460dd19d42beea42374f8d0b6f2e75c042db"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.5.3",
+                "version": "6.6.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "d65a1381c5f747e7d3c1d41217ca65b4723215aa161aacd8e0519345598c12ef"
+                "sha256": "43cbf6637e9a09099ab89abfb217adc5fe9341423f07ed424e800ad0681afb86"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
