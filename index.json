@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.74",
+                "version": "4.7.78",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
-                "safe": true,
-                "sha256": "c13f68d11a0eeef28d8c3669cf983fa5653570ec028ec7bf9acab53d3b38a69a"
+                "safe": false,
+                "sha256": "49bad3a13644062d6c5a8ea320cfa6eaa2ab9923d18e6093e3d9d8175ba73101"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
