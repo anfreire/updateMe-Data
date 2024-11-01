@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.84.594",
+                "version": "8.10.9.995",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "c02c3e1e2305bf15d1c46023d4ea312414a9e6772c1e333e13db372b374ef5df"
+                "safe": false,
+                "sha256": "3566cf8cda36cfb66bfddfedfe9c22ca994648740e8ead306f4fb9cb93533d82"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "13.1.0",
+                "version": "13.2.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": false,
-                "sha256": "f2c86c46ea12184c1c4b6de60bd2be7a0af786bc9cb31fba27639140d43878ad"
+                "sha256": "443644060bf0635c5e1db25b1fdd9422787652eacbcccb079adf34376c795811"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.29.6",
+                "version": "14.30.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "494bc2f5625d12c2ea2810cb62c29fecfedcf66127f4cccfbe3667165487d8bc"
+                "sha256": "fac9c0f06128c44fac23a8b0c8d3a873245330023c0587ad0988005a43070792"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.5.6",
+                "version": "6.9.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "20cfac0fda0691d0d8a0335dea3f70d988c289aeebb7cb48272e069411530c10"
+                "sha256": "580357728622bde4e4447aa978c98b2be162caceece37fd50ae68363104d9041"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
