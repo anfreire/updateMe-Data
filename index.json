@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.09.30-release",
+                "version": "2024.10.21-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": false,
-                "sha256": "dd89ac2671fd391871a436877ca8546cb6210267bf8366e165ae6d4a840fc6e9"
+                "safe": true,
+                "sha256": "2235af94b10f29dbd34474c185478e2ac300aa3cecaf9050cb0cf82bfb604dfb"
             }
         }
     },
@@ -1454,19 +1454,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.1.5",
+                "version": "26.1.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "6883e8597a8517a92285f9a38051a8c1547a666c789f1967c399484c19f2da2e"
+                "sha256": "8aed60563753a2e44f6a0f707f270806ab359ee69bdcd9039aaf4e5ea0aed8f9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.1.5",
+                "version": "26.1.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": false,
-                "sha256": "222cc0bea67772e56033841a402a2b4ccb7798c8f27e2b5c467909049aa3d295"
+                "safe": true,
+                "sha256": "bda4aa5feff1beaed68d2f92008a0671da7fa3ea124519485ef24442a3799da2"
             }
         }
     },
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.85.3",
+                "version": "1.86.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "1b95459a90311d6ea4fe9b4c349dfb78039d659597cab8934b882e02858b36eb"
+                "sha256": "9916407049f07313939e36b58249a177858c1fc46b412c9f3a5da3eaf22c77bc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.48.0-241017",
+                "version": "14.49.1-241028",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "870669987ba630fd4763883584203d993ec6962447ac63876c641e3848224102"
+                "sha256": "b2a22bc9ec26088804ddf3d31019e2ce28f1c6a780b4ddd28dfd6c7d5764b205"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.1.0",
+                "version": "7.4.1.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "31b5b61d532aea1f06ba4873f7b04a5941ff2858f91affc8c314b269cc5b394e"
+                "sha256": "00c21fe8084cb6bfb216e631318f4b5e98c5d220dc807ff5e0d4401870d198a8"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
