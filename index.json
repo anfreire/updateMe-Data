@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.48.0-241017",
+                "version": "14.49.1-241028",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
-                "safe": false,
-                "sha256": "99e488e9a053702c968f9afb070d1ffbd22e6dbc1721b79619d20af69308cab4"
+                "safe": true,
+                "sha256": "707e3cf3772dcf64c7202fe44e2ba0f9454a17bb841b90dc68ce57904ddf88d1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
