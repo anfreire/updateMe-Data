@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.76",
+                "version": "4.7.78",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
-                "safe": true,
-                "sha256": "639f59a9ad740b67f39ac1709f44bdc4e4fc94d7ba386157f70e824c1e909aa6"
+                "safe": false,
+                "sha256": "49bad3a13644062d6c5a8ea320cfa6eaa2ab9923d18e6093e3d9d8175ba73101"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
