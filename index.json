@@ -1000,8 +1000,8 @@
                 "version": "2024.10.21-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": true,
-                "sha256": "2235af94b10f29dbd34474c185478e2ac300aa3cecaf9050cb0cf82bfb604dfb"
+                "safe": false,
+                "sha256": "12577a3626bcc325dc2ec3daf44fbcec45d8fcd8077811ee4c4cb2120630061b"
             }
         }
     },
@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.85.3",
+                "version": "1.86.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
-                "safe": true,
-                "sha256": "ac48a44726691255a94a7cceaae29392b35d2aeab9c7096bbf58a51be2e6dacb"
+                "safe": false,
+                "sha256": "8d7ad5776948e838efa73fa134bc4a3d33715f079f3640952053fe9bfb167982"
             }
         }
     },
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.48.0-241017",
+                "version": "14.49.1-241028",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
-                "safe": true,
-                "sha256": "cd3ae6812bb2a406ad11b40c6707eb591ca2a94ad3a7243c7e6bafd9bddb70d9"
+                "safe": false,
+                "sha256": "5ac8945b12812d906d3622e1f24333854b912ac89bbe76225a0cbf6b522e8165"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
