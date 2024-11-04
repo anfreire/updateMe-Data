@@ -480,11 +480,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
-                "version": "13.0.0",
+                "version": "13.1.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
                 "safe": false,
-                "sha256": "7734c743541e4f4ec5d1f5b0448d1d7cead737ea6c6c476c0d14ef6da31cc7e2"
+                "sha256": "77016bddaa79fd5b22b4136096f28f8d49b95720e8fda5e3b7e03c44c204349f"
             }
         }
     },
@@ -507,11 +507,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.081.1467",
+                "version": "2.083.1469",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
                 "safe": false,
-                "sha256": "b1bfa9a118a34b35f860532d4668f9630c0ba64520798d335b60066ebfc37517"
+                "sha256": "1a9cdfb13050bb63a819b1189dc9cb2381b28df3e37e9b89e3bdb0c062a670bf"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.5.2",
+                "version": "6.6.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "6148f2c3b0cebb5094ddc2d442905b208a1b7dea22b6661a51d211bdc153839b"
+                "sha256": "062e6cebd185fc9f5bf75686c7424306b3b3af923262d4fa103ae3daa373e102"
             }
         }
     },
