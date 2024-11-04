@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "13.0.0",
+                "version": "13.1.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
-                "safe": true,
-                "sha256": "673f81ed799bf525bb1f30d746dd7e9e900220c7c3b785c0217b12c9fd773d40"
+                "safe": false,
+                "sha256": "11f86fbe34f6aa01f46275fba8a6c7f313255fc624de3b8a7e9fbafe7f07578f"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.081.1467",
+                "version": "2.083.1469",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "20c282466785a2d4b7380524f07e46df50211c2cd854f52eff7b608cbd5c46cb"
+                "sha256": "3adb5bd89888b7c5a136786d954be6d6a1b8229c388b11bff361f7e27e6c3843"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.75.0.2410280000",
+                "version": "6.75.0.2411020000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": false,
-                "sha256": "ca19facad3e32327b1227b7ee0d1b7a6f247c6f13badb68805ea91691e97f990"
+                "sha256": "b635e770688bd9dd55e1321f8ca7f26b9a5c4966c7164be643f2637563826c93"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.6.0",
+                "version": "6.6.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "43cbf6637e9a09099ab89abfb217adc5fe9341423f07ed424e800ad0681afb86"
+                "sha256": "7f3523bba32630ef0a0b7cba0943250ee4041e3a3f3e1e84545133cfda9985a7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.4.1.0",
+                "version": "7.4.1.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "31b5b61d532aea1f06ba4873f7b04a5941ff2858f91affc8c314b269cc5b394e"
+                "sha256": "00c21fe8084cb6bfb216e631318f4b5e98c5d220dc807ff5e0d4401870d198a8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
