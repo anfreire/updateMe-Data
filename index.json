@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.10.9.995",
+                "version": "8.9.84.594",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "3566cf8cda36cfb66bfddfedfe9c22ca994648740e8ead306f4fb9cb93533d82"
+                "safe": true,
+                "sha256": "8acf26308158fd05dbaa42858dfb42ece2ff4b26db6a24787187ebfe92ed1b96"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.78",
+                "version": "4.7.83",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "67a7bc00418b59ce104a6f7ca46285e6b418a0e684ec15e63a32d24de3e34818"
+                "sha256": "b9736e63ff826fc4a8f88dc4fd4766e15256490617a73c4a0e9d510a3ca0500e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.6.0",
+                "version": "6.6.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "062e6cebd185fc9f5bf75686c7424306b3b3af923262d4fa103ae3daa373e102"
+                "sha256": "778c7c61426a8f8c7f4aaa436135a98d5d221bcfe20d8798f5fc95aae31f4a0e"
             }
         }
     },
