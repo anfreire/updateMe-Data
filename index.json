@@ -947,11 +947,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
-                "version": "6.1.8",
+                "version": "6.1.9",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modzoco.apk",
                 "safe": false,
-                "sha256": "039984a00e3e3ad1ce827cae7e24e2d3075442c25d055e25f5c550938a7b4e35"
+                "sha256": "4ebbff5ae1fb1bbeea724aa8aec4aba8fc320c19545089d3d8a0a59096c02a5a"
             }
         }
     },
