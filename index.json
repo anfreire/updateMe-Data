@@ -683,11 +683,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 055",
+                "version": "6.5 build 002",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": false,
-                "sha256": "1c70c4eb07869e6ec06fb2a1de0e2591a4ec901e198d76ca288cf4b73725df8e"
+                "sha256": "9b8a9fd032cce16a2609d2238e7db03318544f4678d4ec63c025b04bfad7d252"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.23.0-dev.4",
+                "version": "1.23.0-dev.5",
                 "packageName": "app.revanced.manager.flutter.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "85766dc3e7fcdf431cce8c7ca8a893001b9286f2adf972610b422d0b7952e7b6"
+                "sha256": "1a461e17ee982822b768c7903b3dfe6b74a8d18987d7d323740f578d2e01e51f"
             }
         }
     },
