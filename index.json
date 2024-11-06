@@ -507,11 +507,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.083.1469",
+                "version": "2.084.1470",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
-                "safe": false,
-                "sha256": "1a9cdfb13050bb63a819b1189dc9cb2381b28df3e37e9b89e3bdb0c062a670bf"
+                "safe": true,
+                "sha256": "a3a2b9588379c124c3af16fb35e8645d3cd9498b542d7175c282baea93f84031"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -1638,11 +1638,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "10.0.1",
+                "version": "10.0.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "f4a3a826cb4cd375664afaded20f8c026489240eaf0a8530d9d2232a8db767a7"
+                "sha256": "a83cc94e8ed8fb0c6e7a0dbfa767352717e01fd2ee55e3abd2e49a38fc8b9f37"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.6.0",
+                "version": "6.6.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "4d61100bfb8dcc44cdbab5c149c7f9a36f2d91a47bbe28a46d97952248a11261"
+                "sha256": "a09d8baf02675a237540279e9c1a179d190d7307bafb8a867f5339862463e46a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "80ea3ee67e9dd24d58dd52e364e92d1e9e03aa5ff1d42cba7b756866911818a1"
+                "sha256": "85f8709bd52ebcc79b445bbbabcfd24c9a11ab4c1dfb80e9fac9f9b94b1138e2"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "481.1.0.74.109",
+                "version": "484.0.0.0.64",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "4126a81f675c5bb2f057f7f71736be51d5613fd9cfe732a081ec26a95ff4d0c7"
+                "sha256": "2d4cb5251789c68f83be632b3c3f94dd557329149c0c3bf2fada2dabed712bdf"
             }
         }
     },
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.64.2-release.0",
+                "version": "10.65.1-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "724bc6b9a99dbb7ac768da91f0cac4ba0aa09c957b939141ba7400123f3c62a1"
+                "sha256": "fb792752acd33ee862ecbdf7b647e7cc3dd7caad3beb9c71cac8390ac344c761"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "b36127dc67e8c3de145db3649fdd21c94d19a03ef6ffad60ccb180dffdd92e9e"
+                "sha256": "3ec113c2e9fbead23ba67a8149e089b87e84bf800063128b5e013c38e684ee5d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
