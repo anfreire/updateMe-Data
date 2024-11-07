@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "8.2.3",
+                "version": "8.2.4",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "7115610975fd6daebbc6c158757faf5b17f950e150f5808e17ae43d00282537c"
+                "sha256": "1000a0fc6e2ad2514da1033dd88cacceaec23eeaf62fe68ee45c540b01d69e4b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.6.2",
+                "version": "6.7.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "7f3523bba32630ef0a0b7cba0943250ee4041e3a3f3e1e84545133cfda9985a7"
+                "sha256": "d80f6018d9c54716e4f0dce2ac7770d36f3ff3105e131079c86490767b836295"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
