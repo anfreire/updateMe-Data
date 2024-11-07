@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.6.0",
+                "version": "9.7.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": true,
-                "sha256": "d5baf65d395286d2ed1f0584de8abee6b9763055825eb01885aaec6bd7a4902b"
+                "safe": false,
+                "sha256": "db3fa43abb8ad421cbb311cce36b6b7b60014c387fdc6a832ae03d8205b21a32"
             }
         }
     },
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.84",
+                "version": "4.7.88",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "9a666d8b47ac5c719b3b3a12075d5289437255a42d0b54f21643883d4ebc4367"
+                "sha256": "c2c9b0cf919746f10120343ff4b9b6a8ed8eb729299946ef44055a702f47ad48"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.30.5",
+                "version": "14.30.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "1151fa98ef6c03fc7e89c773d48b1c7e6d0b0dfd8edde9e7a908f83d60f5a438"
+                "sha256": "b19d72ad4ca1da932694ab4136b17111af77161c81e5a47d9817ff7926cdf1ea"
             }
         }
     },
