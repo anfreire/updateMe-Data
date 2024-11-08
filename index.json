@@ -1032,11 +1032,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
-                "version": "8.2.3",
+                "version": "8.2.4",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modzoco.apk",
                 "safe": true,
-                "sha256": "aaadaccd0457561a2a64b349d8dfd334bb979ff08895d1a9c80d0f6eb365453b"
+                "sha256": "62ca77b1c78e9299a4a0eb929fd415abf8ad137c4a2e17c695f816b088950a6a"
             }
         }
     },
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.74.0.2410250000",
+                "version": "6.75.0.2411050000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "ec8d287b8acb12503a88f4275901dd26c9c1c43173b7fa73a078157dd4d3defe"
+                "sha256": "6d15d76e170c801e2a408fb1e53f76b1e645647d1af3107b5f37ad4d84d5691f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1360,11 +1360,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.74.0.2410250000",
+                "version": "6.75.0.2411050000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "210ece2c146934f2c8d7a8cac75dd7ebdfb3f04e82c9926e910fbb4dac1ce759"
+                "sha256": "9838f22b149b76bfd5b0c3a82bc6eb60a57d06e6b3a57e7cc9392fd7fd970678"
             }
         }
     },
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.78",
+                "version": "4.7.99",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": false,
-                "sha256": "49bad3a13644062d6c5a8ea320cfa6eaa2ab9923d18e6093e3d9d8175ba73101"
+                "sha256": "12e51ed5e9be40984f8aaf60d7550fb474f4331593910f248e64be218b24febc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.84",
+                "version": "4.7.88",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "b08cef5f24f8f71c55d0ee6a9cde7075a6883a7d35cc12264be0648c5249e7b7"
+                "sha256": "3a9da6247636aaa9ef0a0942bcfb71f5412daa9a8a07622efd4e0bc1040441b3"
             }
         }
     },
