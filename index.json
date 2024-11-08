@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.6.0",
+                "version": "9.7.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "8128914ec3341a400a4e91bab6bf3412572a1e773dfa4ed2ef314b97cfddd01f"
+                "sha256": "25fc3cddb3fad7559f467f26694147aa391c5da8d57c8bf3af9d8ca968142dbf"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.88",
+                "version": "4.7.89",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "3a9da6247636aaa9ef0a0942bcfb71f5412daa9a8a07622efd4e0bc1040441b3"
+                "sha256": "c529e2ea50dd02ea1a84b5bb9fd5a5d8ef6fba46efa35d16b5bcbfb21710a74f"
             }
         }
     },
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.48.0-241017",
+                "version": "14.50.0-241031",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "cd3ae6812bb2a406ad11b40c6707eb591ca2a94ad3a7243c7e6bafd9bddb70d9"
+                "sha256": "d2224180c84958d73b3f305a2afaef081f0b8ed3e2dc6518d4e7ad561ea379d9"
             }
         }
     },
@@ -1748,19 +1748,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.6.4",
+                "version": "6.7.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "a09d8baf02675a237540279e9c1a179d190d7307bafb8a867f5339862463e46a"
+                "sha256": "bbf90f9bd981fd78dcde4c9a2692975460a3ded16e0d0a7e24672a4b40d2e2b1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.6.4",
+                "version": "6.7.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "778c7c61426a8f8c7f4aaa436135a98d5d221bcfe20d8798f5fc95aae31f4a0e"
+                "sha256": "8fac4817a55b74a69b96a08d8baeebb1d9238c60a901cfec4e9aa602ab2e0d89"
             }
         }
     },
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.5.2.33832.GP",
+                "version": "7.5.5.33994.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "bfd650466c760a018cfd688d88dc74223be6a8e05d03328044a8743f21b2d381"
+                "sha256": "1f94622990825535b633535a32705df665517dca5e6be8a21cbf339ea49ca0c8"
             }
         }
     },
