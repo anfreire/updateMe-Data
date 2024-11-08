@@ -1028,7 +1028,7 @@
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "1000a0fc6e2ad2514da1033dd88cacceaec23eeaf62fe68ee45c540b01d69e4b"
+                "sha256": "db9761a2a50f29267763113d3dc4d8a3bf136b171b151597923f12bc70925c15"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1352,11 +1352,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.74.0.2410250000",
+                "version": "6.75.0.2411050000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": false,
-                "sha256": "bfb8380a054a9f8f5179606e1deab69626af09728ef0c974dd1aa49ecd0c2524"
+                "sha256": "9cc1ce8d38cbcf2980e8f7db6f95d7deb29197162fe4ae9c8ee970405c508478"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
