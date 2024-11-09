@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.10.21-release",
+                "version": "2024.11.06-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": false,
-                "sha256": "12577a3626bcc325dc2ec3daf44fbcec45d8fcd8077811ee4c4cb2120630061b"
+                "safe": true,
+                "sha256": "d0bb309a05155be95154e65045480c8078ce9bdccae21064c0c81b233631f4e6"
             }
         }
     },
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.40.01",
+                "version": "4.40.08",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
-                "safe": true,
-                "sha256": "7412cdccbfc8522534a71bd0de289cc9f1832370b733100d3d8acee7f6a88d91"
+                "safe": false,
+                "sha256": "890af3a17c4712cad2453c4d29143df7d5ca03d71a82f122568873fd2e49f3f2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.7.0",
+                "version": "6.7.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "d80f6018d9c54716e4f0dce2ac7770d36f3ff3105e131079c86490767b836295"
+                "sha256": "dae9c35f08a59ae5f894801a62494ce1e7870a9c6fb258f07c3b5d3befca11fb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.70.1025",
+                "version": "1.03.71.1106",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": true,
-                "sha256": "95490c25cb36f34ee42d4b9269c1e27a10927edd5d87d2ebe6467adcac471ac3"
+                "safe": false,
+                "sha256": "a15f282ead9b6e1a4da6aba35c16a5bffcffa601db02f5659546f2fd1e385679"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
