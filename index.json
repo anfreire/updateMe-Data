@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "2c639f591753a7e4e3b752016061a9e86cb7fc13f5b7713a2b693efeed5af301"
+                "sha256": "13700845348726721c70d6b1418e347ed3ae1d0fe60505484b742c4c7c4108e1"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -66,7 +66,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
-                "sha256": "6342f57c8e13882a5f88aa209cf74306fa03e350e17d94b09f80a46016c5610f"
+                "sha256": "83886999ec956feda99f78c6d333a246d74fbb8f847e445366023d29ede01aa7"
             }
         }
     },
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "073d8ca797313a29a064c3c071648119b166355e2a8783253af0ef8686df252e"
+                "sha256": "09935e9f639316aca77e4a625e109f3b598ee7a30a290217b9c4a9f5b567b399"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -113,7 +113,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
-                "sha256": "92500ce2daa45eed372180c3ac67aaaaf5f9d88cf698656520c1e9562e09b072"
+                "sha256": "7c6041a7e1d5a4a55ceab3381af4cd41e01e608f90eaaa07f88f5856cc20d384"
             }
         }
     },
@@ -143,11 +143,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2024.42.0",
+                "version": "2024.45.0",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "580a2910e5098356d10f85e6dc51bf53f4dcfb4ac5d26c5d0b1cc73a56bc1599"
+                "sha256": "3db8333336b3f88d8467458376741a9dee7076b89f63b41f830bde024990b915"
             }
         }
     },
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.23.0-dev.5",
+                "version": "1.23.0-dev.6",
                 "packageName": "app.revanced.manager.flutter.debug",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "1a461e17ee982822b768c7903b3dfe6b74a8d18987d7d323740f578d2e01e51f"
+                "sha256": "1af3ff92ceff62754bb9e4b1017c631f8d75d6dddc2ce63ea08122d6060bac37"
             }
         }
     },
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.88",
+                "version": "4.7.91",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "c2c9b0cf919746f10120343ff4b9b6a8ed8eb729299946ef44055a702f47ad48"
+                "sha256": "5382e6cd97e39ce5a5d5360d647845d733e8fefff3dea4231a36b14e0c03b8a6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.89",
+                "version": "4.7.91",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "c529e2ea50dd02ea1a84b5bb9fd5a5d8ef6fba46efa35d16b5bcbfb21710a74f"
+                "sha256": "4d78946e8e7845e83c4093ebe4adb36bdac75018f37eca8c65739814a01debd1"
             }
         }
     },
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.49.1-241028",
+                "version": "14.50.0-241031",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "b2a22bc9ec26088804ddf3d31019e2ce28f1c6a780b4ddd28dfd6c7d5764b205"
+                "sha256": "4f73425da617535d88de70937f7b84c9628cf4360b1309b8b3c03cb6b871901d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.2.8-rc0",
+                "version": "1.3.0-beta0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": true,
-                "sha256": "534916c4bab20cc4f1b39b8c1612b78cf3245853892840be4ef3f4bbed6d44fc"
+                "safe": false,
+                "sha256": "bbee376758c2eae619fd48e117b6ef3e88e32b8820d26795ffe02919f44a4a85"
             }
         }
     },
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "19.3",
+                "version": "19.3.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "6d3a3a315237b220aa3b611dea9c70252f14351a464bd09c7f0fa6189104ec86"
+                "sha256": "0f083ee9ea5336258da8c1e6130fbe0bf0a95a40946e4632fed5fc991d860a0b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
