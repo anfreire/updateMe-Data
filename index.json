@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.84.594",
+                "version": "8.9.90.127",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "8acf26308158fd05dbaa42858dfb42ece2ff4b26db6a24787187ebfe92ed1b96"
+                "sha256": "7c5aa8d2c7fbe07f36edb9ab571c489d1e80fc5b68fe034fd2af6a29dbde1e31"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 052",
+                "version": "6.4 build 053",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "77184dac5b5456a18c059521a86433eab269cb380b8806f05c1e2a8f9aa4ff8b"
+                "sha256": "3e2a94206e40f0eb871014d44b869de9ec0af28646a618fabc7e8175e8d2f2be"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.78",
+                "version": "4.7.91",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": false,
-                "sha256": "49bad3a13644062d6c5a8ea320cfa6eaa2ab9923d18e6093e3d9d8175ba73101"
+                "sha256": "4d78946e8e7845e83c4093ebe4adb36bdac75018f37eca8c65739814a01debd1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.30.7",
+                "version": "14.30.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "b19d72ad4ca1da932694ab4136b17111af77161c81e5a47d9817ff7926cdf1ea"
+                "sha256": "5fed341caf2b71e03e1d1fc6038f5abb128a66d4341067d37767d36406ed8c4b"
             }
         }
     },
@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "19.3",
+                "version": "19.3.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": true,
-                "sha256": "47e99c9b93bb1a4343bf0c8679a480658f6b9e2553b0ae82ccde483997ba46d3"
+                "sha256": "55e0a3ce2e57d5e619839e276f387ec401c013a3e6d8d908d5796f43486946b9"
             }
         }
     },
