@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "16.3.250",
+                "version": "16.5.255",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": false,
-                "sha256": "f514ed67c0ff6b0a79e9f463e4a8015e9fa48f0596ae0700340ac70a8bc6134d"
+                "safe": true,
+                "sha256": "0383152db05c64f82d3da12a9f2616feffa4409449165e52d86baf64ec54d3da"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
