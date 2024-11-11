@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "dc697b2ead238d191f28be47a086067348a934b896d3b5a5080172d9ea8031b0"
+                "sha256": "72318e1d36fed7c0bc10243297e4411d6d2c6cbf44368deee08d62436c85d417"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "2843c634c98f2735833a1205796cb63906e97fb5cd6727c37d1be0713ed16bdf"
+                "sha256": "951e717323dbe01d86576ab7622011ca6f205f4c4e67ea7d5da6880a83851075"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "f724f29d4b049d83bf6c455daf77b0c2325d1ed341568e0c91cfe5e929cb65fe"
+                "sha256": "e8b84cf2f9b328aab8a3eaee2eaae4124eb2994befc3fe39dd8eb76b90b59bee"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "f71f778c936fb042eb4fb70eee849263c47a6e00e396c34c4404666e8ec33254"
+                "sha256": "e366ebee4ededa46753f959670e5e0838ead577a29c60f5aac78cfcd5312e096"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -351,11 +351,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
-                "version": "8.9.84.594",
+                "version": "8.9.90.127",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modzoco.apk",
                 "safe": false,
-                "sha256": "7525a234c0f11863113ae877ce13f05df46eee31b959c4b55c18022158a557bf"
+                "sha256": "99b92d84b6f316f87fbab99b66a95a6750baff0c889de7d2e64a6f5319263b58"
             }
         }
     },
@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.585.192",
+                "version": "1.591.194",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "a3bf7a8f99ec953c1787c238b7fdaa3b195dfaf85b8face05ebc9d676c0092fc"
+                "sha256": "f89342110d7bce88b4cfbe2a1fdc23eb3894df899769a894d8aed82ed57baff1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.3.250",
+                "version": "16.5.255",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "74076b9793deb9bd6551c57c3672c87e1341439184f760fefe620a0388abb298"
+                "sha256": "7270e3e02f8b115dcfaeb01cfd0f443317f2149cdf387c4ad64114334427ff97"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.11.06-release",
+                "version": "2024.11.07-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": true,
-                "sha256": "d0bb309a05155be95154e65045480c8078ce9bdccae21064c0c81b233631f4e6"
+                "sha256": "a74ad4cf512b2c27360a2d80a4ce225fa3c81339cf1e32a1b8c86008dcd5253a"
             }
         }
     },
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.7.0",
+                "version": "9.7.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "db3fa43abb8ad421cbb311cce36b6b7b60014c387fdc6a832ae03d8205b21a32"
+                "sha256": "fc374939ad55339bcf7d5eac95d38f022485b1bc2c2873459ff088e9229eec47"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.1.6",
+                "version": "26.2.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "8aed60563753a2e44f6a0f707f270806ab359ee69bdcd9039aaf4e5ea0aed8f9"
+                "sha256": "75a2cda59ddf7160aca70122c47f644260d760c673b767d07ee7d14555f6b76e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "bcc61515a34d735bb49d1f4cd2e83907a31d76226eb02ab78133169efb9db120"
+                "sha256": "ae37bae9b7f02692959583972a028658cc1fae1b16b1797209484b6c27324d08"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.7.1",
+                "version": "6.7.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "dae9c35f08a59ae5f894801a62494ce1e7870a9c6fb258f07c3b5d3befca11fb"
+                "sha256": "3b525124f153332bc6d692dcad7e84642e81e64842d185fc99e17b2f2a4513fc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.4.1.1",
+                "version": "7.4.2.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "942423750a7a04f66ef1b3e1348c39a4ba941a5903ced13d4c027353bbe91bff"
+                "sha256": "71a6331a5e647e3a20bd86d75aac52ff106916f6cce2b8acbc61df138a079f9a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
