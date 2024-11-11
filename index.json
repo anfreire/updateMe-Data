@@ -1993,7 +1993,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "0f083ee9ea5336258da8c1e6130fbe0bf0a95a40946e4632fed5fc991d860a0b"
+                "sha256": "6a6cdaf44dc7c28f940fb693712e7e64b4212155870cc767af9f3cc1d7cc7b31"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
