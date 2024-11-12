@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "13.1.0",
+                "version": "13.2.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "49315ddca4505896c6d1bda3fda479dc29892abfd11dae02f3c073e00535b53f"
+                "sha256": "27d7e2781d3517a80590944a9af95b49a6642f3f8276adc8af8a4c70f97e38a0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "9517bef209dff82bd7e49b5a362835b74100389efc1ad62c181f0ef206075608"
+                "sha256": "7b47aba68d8aedb17ea359d788a841634b5621ce9b76d21a30830c9008834a60"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "aacea15dc5c59b3db2be1b110ad98d69be8c070be9a489820a6a32c0305b9b5e"
+                "sha256": "9585eba2d3ea90bd74631794bcab52addfafead292217a2a5900532a7651ad51"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "e6c6c83dffe280709747113788f9b29971567efc636eb928306c99f17dce058d"
+                "sha256": "07414365815b0288a7da24448ebd846b592b6d0ccf2fa2f29ae9a362522ac9d1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.4.2.0",
+                "version": "7.4.2.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
-                "safe": false,
-                "sha256": "71a6331a5e647e3a20bd86d75aac52ff106916f6cce2b8acbc61df138a079f9a"
+                "safe": true,
+                "sha256": "f94d84ffd7e80a142fdaa9d1ec42836b7bf34f9281e62e7ed79a1368be50f968"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
