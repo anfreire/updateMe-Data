@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "72318e1d36fed7c0bc10243297e4411d6d2c6cbf44368deee08d62436c85d417"
+                "sha256": "64a079f8dcfa1265d0b6b5a54757eefd185b2b7462139a4a3cfb238a7d394f7a"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "951e717323dbe01d86576ab7622011ca6f205f4c4e67ea7d5da6880a83851075"
+                "sha256": "991040a0f875ee33e54aa34aa51c0ddf75bfb280e773474a8d166f8552d986ac"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "e8b84cf2f9b328aab8a3eaee2eaae4124eb2994befc3fe39dd8eb76b90b59bee"
+                "sha256": "8404904740cd275ff3bda2d5002c4c2b36e6f9e6aaaf672d93025731aa16f2cd"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "e366ebee4ededa46753f959670e5e0838ead577a29c60f5aac78cfcd5312e096"
+                "sha256": "047382835823232082a6177c65d558d70672a6868fdb06bdbb9f7e10b47b0dc2"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.84.594",
+                "version": "8.10.10.85",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "8acf26308158fd05dbaa42858dfb42ece2ff4b26db6a24787187ebfe92ed1b96"
+                "safe": false,
+                "sha256": "ac3b06d1edafe126d15acddac270787ce7a66ad076c05238a22e49c37e3217bd"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.30.7",
+                "version": "14.31.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "fac9c0f06128c44fac23a8b0c8d3a873245330023c0587ad0988005a43070792"
+                "sha256": "3d0073be8a1423d2dee7fcf2e93529132a3e93f8387d8169056ef6ffbc314b7d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "ae37bae9b7f02692959583972a028658cc1fae1b16b1797209484b6c27324d08"
+                "sha256": "80eb38925600a3cf291e563129b41c6db2209784272efbdb62dcfc919254a59e"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.9.1",
+                "version": "6.9.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "580357728622bde4e4447aa978c98b2be162caceece37fd50ae68363104d9041"
+                "sha256": "4770641cdab23da840503121f83bdc79ce0077fb3563d5ba019d57f0ec3bfc4d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "b10a287399b09446cbb701cf97d98b26fc5cb3f38027043d3d52933a5bf7baaf"
+                "sha256": "9517bef209dff82bd7e49b5a362835b74100389efc1ad62c181f0ef206075608"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "044e9c954bfb35579b6234c319033afdc29e366b03ea99a65389ebe879c88471"
+                "sha256": "aacea15dc5c59b3db2be1b110ad98d69be8c070be9a489820a6a32c0305b9b5e"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "afff03b43bffdaa81c91226ddc8be15a21172180bc0364216d90d4d0f49b84ec"
+                "sha256": "e6c6c83dffe280709747113788f9b29971567efc636eb928306c99f17dce058d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
