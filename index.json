@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "64a079f8dcfa1265d0b6b5a54757eefd185b2b7462139a4a3cfb238a7d394f7a"
+                "sha256": "bd7771626bce8f92b7b571ba8e4cc912c0c3e07786e84e5e9b278071c7762d27"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "015c18b554a75e19b0bb3636f14c0b0cc39c9dfd05793e6d788ab9148693c561"
+                "sha256": "a8d54e088617434852545c848d3f7fbd1ec553cd036ed6780d1344ad9c16cecc"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "e6ed5c773a69fdd599538626494270c1a82483bc9babdb68e59136c1547dd697"
+                "sha256": "b55a8fb4d341b6b1e22e43450f245e9cecddab89cb9d86568b6f15f5dc230229"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "8a3f17cec5f25d907f3415f9cb6cb533853437e41f417a7a4c3e67ce7906082e"
+                "sha256": "ae3f28356fdf581c7bfd7c67762e663350cbe01fe6f14a2c70f55a0b392a6497"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.3.250",
+                "version": "16.5.255",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "3f53cb3248fa2bf1729f4141ba8003e8f3323d70ba0b020cb7969022abf2b2fe"
+                "sha256": "7270e3e02f8b115dcfaeb01cfd0f443317f2149cdf387c4ad64114334427ff97"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.91",
+                "version": "4.7.100",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "4d78946e8e7845e83c4093ebe4adb36bdac75018f37eca8c65739814a01debd1"
+                "sha256": "2af4b016828d1edfd78d2687b641ac164148f436f4f1154690e5d96da843376d"
             }
         }
     },
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "45882a487aa79648801fcd9700222cabc294aad78c0d95b494f28c53b3534b03"
+                "sha256": "a388ad76f0c32d33f8e47cda67f3132969eac2b202887e346b70ae594526810b"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.7.1",
+                "version": "6.7.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "876dcf4894ffa740e1cf39c3edf29cd6af2161baad1ccd83ba3017364b4310b9"
+                "sha256": "7ea5f45f04d85af3a7f35b7b47c2f9c9f232671c442eeb0254cdd3b8a5de5e3a"
             }
         }
     },
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "7b47aba68d8aedb17ea359d788a841634b5621ce9b76d21a30830c9008834a60"
+                "sha256": "ea7719068ddac14043188dfa13797a344fce6a1ba2c147ce950bcf9787f7a9f2"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "9585eba2d3ea90bd74631794bcab52addfafead292217a2a5900532a7651ad51"
+                "sha256": "ed802dd4347adcb740ada65f8e6c37ea955547a7e19da36aecd04d2846707928"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "07414365815b0288a7da24448ebd846b592b6d0ccf2fa2f29ae9a362522ac9d1"
+                "sha256": "9125062b20724954f0a43abc9d13f6e3146b1e82b56b87a061a9a148ad1f6c7c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
