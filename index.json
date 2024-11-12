@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "991040a0f875ee33e54aa34aa51c0ddf75bfb280e773474a8d166f8552d986ac"
+                "sha256": "015c18b554a75e19b0bb3636f14c0b0cc39c9dfd05793e6d788ab9148693c561"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "8404904740cd275ff3bda2d5002c4c2b36e6f9e6aaaf672d93025731aa16f2cd"
+                "sha256": "e6ed5c773a69fdd599538626494270c1a82483bc9babdb68e59136c1547dd697"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "047382835823232082a6177c65d558d70672a6868fdb06bdbb9f7e10b47b0dc2"
+                "sha256": "8a3f17cec5f25d907f3415f9cb6cb533853437e41f417a7a4c3e67ce7906082e"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.2.1",
+                "version": "26.2.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "75a2cda59ddf7160aca70122c47f644260d760c673b767d07ee7d14555f6b76e"
+                "sha256": "267dfe8324eb85a09cbd556e63235e078604aaf2ad5ce4235230d647e47875c3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "80eb38925600a3cf291e563129b41c6db2209784272efbdb62dcfc919254a59e"
+                "sha256": "45882a487aa79648801fcd9700222cabc294aad78c0d95b494f28c53b3534b03"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1740,19 +1740,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.7.2",
+                "version": "6.7.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "3b525124f153332bc6d692dcad7e84642e81e64842d185fc99e17b2f2a4513fc"
+                "sha256": "ef1aa11969fae4d7f92ef00f7b3d78ba79cafb6d67858be1bdca3bfcf32b732a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.7.0",
+                "version": "6.7.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "bbf90f9bd981fd78dcde4c9a2692975460a3ded16e0d0a7e24672a4b40d2e2b1"
+                "sha256": "9666e966966203ae124227d7c85a95811d9d53e2369ea002328a6e8599c7bc87"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
