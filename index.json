@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.91",
+                "version": "4.7.100",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "5382e6cd97e39ce5a5d5360d647845d733e8fefff3dea4231a36b14e0c03b8a6"
+                "sha256": "551975869b84f46a65eaf824bfd2cc0c8318f823d1fc8ec9aa2dd2b7a0aaccc7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.30.8",
+                "version": "14.30.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "5fed341caf2b71e03e1d1fc6038f5abb128a66d4341067d37767d36406ed8c4b"
+                "sha256": "c1662ee367677ad14d01c02dab68ebd15ce2594db7f0b1c42855865b46cb627d"
             }
         }
     },
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.5.5.33994.GP",
+                "version": "7.5.7.34030.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "1f94622990825535b633535a32705df665517dca5e6be8a21cbf339ea49ca0c8"
+                "sha256": "5d43e4b743351ca403f8f38ab14f6f6f0a27d8329c8b81f46fcb7ed1c550d711"
             }
         }
     },
