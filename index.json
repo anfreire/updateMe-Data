@@ -54,11 +54,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.34.42",
+                "version": "19.43.41",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "341c3a07ed5f8e04566d528d2cf6f7989e10a0807f33687265aab8f76aa1219a"
+                "sha256": "4ef0b9eabe2e920a25ca1c85d4c4ece146276f14004c7cdf695fdcc81b9c51e1"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.23.51",
+                "version": "7.27.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "d679c6db29fb190d1bea8cc1426320d921d5d48d8dd795f61744bf8c38582e06"
+                "sha256": "ff93dbdd326119d96db8808e25188142eff21d7106bde1e351378e32608d1e99"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -178,8 +178,8 @@
                 "version": "16.9.1",
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
-                "safe": false,
-                "sha256": "997c19ecd840723f506169667ce85cd7af393b63ebbdf7693e842b4ba0be84df"
+                "safe": true,
+                "sha256": "e037597f746cc0b45c82b6d494e33d74cd4e6327611dc0b6b0ca2d88a8d772ab"
             }
         }
     },
@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.585.192",
+                "version": "1.591.194",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
-                "safe": true,
-                "sha256": "0e4a96fcdae5af578ce643c3223da50bc7f59a8c56bae9fa515efa736662d8d8"
+                "safe": false,
+                "sha256": "f89342110d7bce88b4cfbe2a1fdc23eb3894df899769a894d8aed82ed57baff1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.23.1",
+                "version": "1.23.2",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "8f1a418e6d152b81ddef0085f434c36fe1f020b09ce9dd750d66e397801fd352"
+                "sha256": "858080c29cd295142f391925b0301c043b67aac5c1b3ad6e5651220698f8b912"
             }
         }
     },
