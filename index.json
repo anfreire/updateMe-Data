@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.90.127",
+                "version": "8.9.92.408",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "7c5aa8d2c7fbe07f36edb9ab571c489d1e80fc5b68fe034fd2af6a29dbde1e31"
+                "sha256": "4b6664e21fa34e2bb50e2791f683cd636630913f2ca2fc8e930e30c88406ae71"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -351,11 +351,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
-                "version": "8.9.90.127",
+                "version": "8.9.92.408",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modzoco.apk",
                 "safe": false,
-                "sha256": "99b92d84b6f316f87fbab99b66a95a6750baff0c889de7d2e64a6f5319263b58"
+                "sha256": "e495f94ef89c220e29e86a42f905376d467534c3bcbec349ffe5b9f30405d85b"
             }
         }
     },
@@ -480,11 +480,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
-                "version": "13.1.0",
+                "version": "13.2.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
                 "safe": false,
-                "sha256": "77016bddaa79fd5b22b4136096f28f8d49b95720e8fda5e3b7e03c44c204349f"
+                "sha256": "81363e74ed33babdede02e11ae04d0bca44c596948c10c5569989b9953449219"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.100",
+                "version": "4.7.104",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "2af4b016828d1edfd78d2687b641ac164148f436f4f1154690e5d96da843376d"
+                "sha256": "377a04e7d53c2d04b4ee3a93c556407f1faccb5f406d939d3c8a20634f66c6fe"
             }
         }
     },
@@ -1594,11 +1594,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
-                "version": "4.40.03",
+                "version": "4.40.08",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modzoco.apk",
-                "safe": true,
-                "sha256": "38a5bc336d91a3676a4fe337f20b00378086c5f0b6c0bd949421f985bf7cd684"
+                "safe": false,
+                "sha256": "cce3f2d6d5262287ff6b4f863fabb9acf41f93ade048bb45201a41ff5c440174"
             }
         }
     },
@@ -2115,11 +2115,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/es-file-explorer.html",
-                "version": "4.4.2.14",
+                "version": "4.4.2.17",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modzoco.apk",
-                "safe": true,
-                "sha256": "e3c7e65db5d46daea8ffd85475f266f229247c47b2e2ee2188d7f31e29c9f7f4"
+                "safe": false,
+                "sha256": "e7aee1c76a03747e6022d4d009eb9257b40ea8d7e9c10a1c6fa3525bb7b4d4a0"
             }
         }
     },
