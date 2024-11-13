@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.7.2",
+                "version": "6.7.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "9666e966966203ae124227d7c85a95811d9d53e2369ea002328a6e8599c7bc87"
+                "sha256": "937e2efe21eef5a6dca5edc1ce09d633e142a138a8f7ed3991fd43bd60246b5d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
