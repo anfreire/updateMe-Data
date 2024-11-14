@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.100",
+                "version": "4.7.104",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "551975869b84f46a65eaf824bfd2cc0c8318f823d1fc8ec9aa2dd2b7a0aaccc7"
+                "sha256": "5ad1e50811843fae3c348e2c1d478aee0897c7205bb274f720feee5a0894612b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,19 +1454,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.2.2",
+                "version": "26.2.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "267dfe8324eb85a09cbd556e63235e078604aaf2ad5ce4235230d647e47875c3"
+                "sha256": "9993d0b511639598cc49a5629201e858b2d29c2b0cc2f396c4b84e8a3f357723"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.1.6",
+                "version": "26.2.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": false,
-                "sha256": "f16be97f6bd5d35fae8ccbde00938205c443d860e904b0a345ee73595b190dc1"
+                "sha256": "8e27dddb5fa5fc719981693037883401d9bd92339dafa122f0f2b860da9234a5"
             }
         }
     },
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.86.1",
+                "version": "1.87.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "9916407049f07313939e36b58249a177858c1fc46b412c9f3a5da3eaf22c77bc"
+                "sha256": "3f1a06400518f49d158605de04167e8954ca7da740668d7fbd854c865722ed3b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.30.9",
+                "version": "14.31.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "c1662ee367677ad14d01c02dab68ebd15ce2594db7f0b1c42855865b46cb627d"
+                "sha256": "bb830f1de0bf70cc1e5ca29136b76942012bc6cda08706a99295a0395c926b61"
             }
         }
     },
@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.2.14",
+                "version": "4.4.2.17",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
                 "safe": true,
-                "sha256": "f54fdaf4bdac603f41cb1a5af89a8c3c17c621e392ce53cdd9ccdbaba6069bd6"
+                "sha256": "ba6e7a7458d38bf6ec9d6af637d80b47feb3062252d882e4d8e9b7367f6b200e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
@@ -2318,19 +2318,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.5.3.33840.GP",
+                "version": "7.5.7.34030.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
                 "safe": true,
-                "sha256": "573f463ab0fcbba389a663170cea2fafbd4062dd7e453ede3fa77569a6ea49f5"
+                "sha256": "5d43e4b743351ca403f8f38ab14f6f6f0a27d8329c8b81f46fcb7ed1c550d711"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.5.7.34030.GP",
+                "version": "7.5.9.34034.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "5d43e4b743351ca403f8f38ab14f6f6f0a27d8329c8b81f46fcb7ed1c550d711"
+                "sha256": "f9271bf6064a12585d266170ba16a9cbe8dd800b9e6024a2cbd900c3e31012ab"
             }
         }
     },
