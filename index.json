@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.99",
+                "version": "4.7.100",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
-                "safe": false,
-                "sha256": "12e51ed5e9be40984f8aaf60d7550fb474f4331593910f248e64be218b24febc"
+                "safe": true,
+                "sha256": "551975869b84f46a65eaf824bfd2cc0c8318f823d1fc8ec9aa2dd2b7a0aaccc7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.4.1.1",
+                "version": "7.5.0.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
-                "safe": true,
-                "sha256": "00c21fe8084cb6bfb216e631318f4b5e98c5d220dc807ff5e0d4401870d198a8"
+                "safe": false,
+                "sha256": "9ddba3deb610e4e243be0f06cba0c1fdbcc4df4ab255223b83d1aada6fa6e715"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
@@ -2428,11 +2428,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photomath-microblink.html",
-                "version": "8.41.0",
+                "version": "8.42.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modyolo.apk",
                 "safe": false,
-                "sha256": "80ed25c6ecb60324e82637b590289610fa24069c79b5aade0d5e2af19730510c"
+                "sha256": "49e752d6cad91fbb5cdf121678f6c3094da09b5e1aed6021897c023a36e9882c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photomath.html",
