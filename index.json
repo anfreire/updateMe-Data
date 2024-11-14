@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.104",
+                "version": "4.7.108",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "5ad1e50811843fae3c348e2c1d478aee0897c7205bb274f720feee5a0894612b"
+                "sha256": "ebe1c4f5a6f1b192e3d86c0d790bc63aecece3403a16763bd03ffae21f6983c2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.104",
+                "version": "4.7.108",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "377a04e7d53c2d04b4ee3a93c556407f1faccb5f406d939d3c8a20634f66c6fe"
+                "sha256": "8cab38229cf85a80d310a5054d9bae0c2d33b35c9ef1e738377e50be8259ef1f"
             }
         }
     },
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "14.50.0-241031",
+                "version": "15.0.0-241107",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "d2224180c84958d73b3f305a2afaef081f0b8ed3e2dc6518d4e7ad561ea379d9"
+                "sha256": "72fca0b8ee2220a0045072a2a6204d3111adaa05692fefff34610e9415f2ebf3"
             }
         }
     },
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.1.1",
+                "version": "7.4.2.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "00c21fe8084cb6bfb216e631318f4b5e98c5d220dc807ff5e0d4401870d198a8"
+                "sha256": "96af76fadf9828d5fdc97bbf9ed145175e5005d6a89ce278de82a476beb8470a"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
