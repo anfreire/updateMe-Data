@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.5.255",
+                "version": "16.6.245",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
-                "safe": true,
-                "sha256": "7270e3e02f8b115dcfaeb01cfd0f443317f2149cdf387c4ad64114334427ff97"
+                "safe": false,
+                "sha256": "1115dcc72bfffdf6e86b98e6a11906cd95824b314e61bd686ce3a0e82f0ed765"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.083.1469",
+                "version": "2.086.1472",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "3adb5bd89888b7c5a136786d954be6d6a1b8229c388b11bff361f7e27e6c3843"
+                "sha256": "03b0f1a2f3e886c7bb98df635072eb6b1525014b77bf7a81181953e9c9e2b1a2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
