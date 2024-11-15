@@ -1360,11 +1360,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.75.0.2411050000",
+                "version": "6.76.0.2411500000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "9838f22b149b76bfd5b0c3a82bc6eb60a57d06e6b3a57e7cc9392fd7fd970678"
+                "sha256": "d043809374665bb72bf9de84d0e5418376fa7e5cf951d80d4b431d4170cfe5e9"
             }
         }
     },
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.7.100",
+                "version": "4.7.108",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "551975869b84f46a65eaf824bfd2cc0c8318f823d1fc8ec9aa2dd2b7a0aaccc7"
+                "sha256": "da8c8789206d2246c903a0c913299d9ccdfb3472f7262e0713995d99133adede"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "14.50.0-241031",
+                "version": "15.0.0-241107",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "4f73425da617535d88de70937f7b84c9628cf4360b1309b8b3c03cb6b871901d"
+                "sha256": "020d5fcc89dd8929975261d635f62b50badfbd0527bc0946158ec6e66cd32d20"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.7.3",
+                "version": "6.8.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "ef1aa11969fae4d7f92ef00f7b3d78ba79cafb6d67858be1bdca3bfcf32b732a"
+                "sha256": "803444f1c797129b1de6cbdf905fa20b9bb8323b68c4243cdfe4036c841864d5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.7.3",
+                "version": "6.8.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "7ea5f45f04d85af3a7f35b7b47c2f9c9f232671c442eeb0254cdd3b8a5de5e3a"
+                "sha256": "f82021325c69ed4b0ac0da2c2f3ca9def64fb5eb54d8bf94d4113872c7eafc42"
             }
         }
     },
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.0.90.902 chuppito release",
+                "version": "5.1.0.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "33a5df9ddd9cd236f760e3f563ea790d8e36f013491ab5de41fa5718c6d5a266"
+                "sha256": "d84774c000abb33e12377d6edefb2f263f2ebd3b41f483fb7f7fbeb6fdea813f"
             }
         }
     },
@@ -2119,7 +2119,7 @@
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modzoco.apk",
                 "safe": false,
-                "sha256": "e7aee1c76a03747e6022d4d009eb9257b40ea8d7e9c10a1c6fa3525bb7b4d4a0"
+                "sha256": "3bcdb830247a0a9e73a6c619aa8d1e5dd656393e53d9b5b59cebe75bb8b578c6"
             }
         }
     },
