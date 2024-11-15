@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.108",
+                "version": "4.7.113",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "8cab38229cf85a80d310a5054d9bae0c2d33b35c9ef1e738377e50be8259ef1f"
+                "sha256": "8e7a18cdfbd29969443179a7c04662f83f708fa3b7622a358d123ced0171cd46"
             }
         }
     },
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "26.1.2",
+                "version": "27.2.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": false,
-                "sha256": "31ddea4f0413481f9bbf939ad855eef604c4651fd1d1b8f4dafba0855cee54ff"
+                "sha256": "4d84428dae2b0fb948a594fb8c272edc6f624a3397582beec683501116da8b5a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.84.2",
+                "version": "1.87.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "f2cf7c4f3210fe24359edeeff2591a7b065932caa46f9072f663dd32aa3c36bd"
+                "sha256": "e088eb54e4afeb0d597bbb13d0ab3f7ae929e9f02cb3eada130b8f60a495c453"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.5.7.34030.GP",
+                "version": "7.5.8.34032.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
                 "safe": true,
-                "sha256": "5d43e4b743351ca403f8f38ab14f6f6f0a27d8329c8b81f46fcb7ed1c550d711"
+                "sha256": "25745d9b76f594981a87516a3738b01e8a59844fc14a7a827c5cd104fa84a3da"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
