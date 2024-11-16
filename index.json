@@ -1352,11 +1352,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.75.0.2411050000",
+                "version": "6.76.0.2411500000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
-                "safe": false,
-                "sha256": "9cc1ce8d38cbcf2980e8f7db6f95d7deb29197162fe4ae9c8ee970405c508478"
+                "safe": true,
+                "sha256": "497597954a87a9b1590566fdfd9dac52703da6ec5ade6c8658284e6267263c26"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.7.3",
+                "version": "6.8.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "937e2efe21eef5a6dca5edc1ce09d633e142a138a8f7ed3991fd43bd60246b5d"
+                "sha256": "362da9e21e51fc2bf89c3d45dce4d7694e94c838b146607fb615927ec3dae61b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
