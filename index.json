@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.75.0.2411050000",
+                "version": "6.76.0.2411500000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "6d15d76e170c801e2a408fb1e53f76b1e645647d1af3107b5f37ad4d84d5691f"
+                "sha256": "0473860600908120e737c3811f13cec07b1e201dd39b04dfd52ac49072209f92"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
