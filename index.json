@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.3.250",
+                "version": "16.6.262",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": true,
-                "sha256": "e8ddfa5cd964323467b5f93cae24cee26bb068c3f28d2dbd1933c62e995c2e25"
+                "safe": false,
+                "sha256": "8ab5497d763dab89ccebeba0fdbf438f6a74ef1c8e30970fdfc24f363e0f9282"
             }
         }
     },
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.2.2",
+                "version": "26.2.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": false,
-                "sha256": "8e27dddb5fa5fc719981693037883401d9bd92339dafa122f0f2b860da9234a5"
+                "safe": true,
+                "sha256": "84dc50baac12b1d114f816c1de31df5857859489540d677377560192fa65642b"
             }
         }
     },
@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.86.1",
+                "version": "1.87.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
-                "safe": false,
-                "sha256": "8d7ad5776948e838efa73fa134bc4a3d33715f079f3640952053fe9bfb167982"
+                "safe": true,
+                "sha256": "58882c2d80a299b04c11b8981d6618898641c571f9397e38d2a74cd2fa1bfa09"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.8.1",
+                "version": "6.8.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "803444f1c797129b1de6cbdf905fa20b9bb8323b68c4243cdfe4036c841864d5"
+                "sha256": "e33b2e1f0e07ada83a569e11f3a7fff61a93f2caa92ea86cca1fc71787724617"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.8.1",
+                "version": "6.8.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "f82021325c69ed4b0ac0da2c2f3ca9def64fb5eb54d8bf94d4113872c7eafc42"
+                "sha256": "54ef92a7701ff6dc22f587110a9ca75d38edc0d0f154e4c9b0a9c30749ad4264"
             }
         }
     },
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.69.1016",
+                "version": "1.03.72.1113",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "9617c5d07dfaaaa63eefc5adc76c6d5c17c08ff37380df7d31084e03b149badb"
+                "sha256": "f2dd70aaabf7162cf7567e72b7251dbbeab3adb544afd28f6f07a6b72f62f177"
             }
         }
     },
