@@ -143,11 +143,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2024.45.0",
+                "version": "2024.46.0",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "3db8333336b3f88d8467458376741a9dee7076b89f63b41f830bde024990b915"
+                "sha256": "aebb71c2e3543ea1540d27c944eea3568d5006f1c32b080a9bd15a422b6e059f"
             }
         }
     },
