@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.92.408",
+                "version": "8.9.94.470",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "4b6664e21fa34e2bb50e2791f683cd636630913f2ca2fc8e930e30c88406ae71"
+                "sha256": "d27502a8cc6b2f650782e16b7585cefa8b5fb6945ab05df139929cec22008e56"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -351,11 +351,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
-                "version": "8.9.92.408",
+                "version": "8.9.94.470",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modzoco.apk",
                 "safe": false,
-                "sha256": "e495f94ef89c220e29e86a42f905376d467534c3bcbec349ffe5b9f30405d85b"
+                "sha256": "942555a774178e7756aafe3714aedfe4be86e1f86046408816fb6d4b8065edf9"
             }
         }
     },
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.75.0.2411050000",
+                "version": "6.76.0.24111600000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "9838f22b149b76bfd5b0c3a82bc6eb60a57d06e6b3a57e7cc9392fd7fd970678"
+                "sha256": "b4b6df516a520eb4d5fe19fda9e7a232d2777c97da0a118859fe9b67081abe43"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.127",
+                "version": "4.7.129",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": false,
-                "sha256": "594e6ee23526aa1114b8c5b33273150bc307ffa9cc5b0292589c48d6e733170a"
+                "safe": true,
+                "sha256": "235b3e860cfa5788f95fd3a2a1f2e9c40a1b693e2bc8f3cb2f0a6baae60b6286"
             }
         }
     },
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "14.50.0-241031",
+                "version": "15.0.0-241107",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
-                "safe": false,
-                "sha256": "8d39d6bb3feb36533015ed2e9a44c8ebc74d86db3f389dcac50564aa51feb191"
+                "safe": true,
+                "sha256": "020d5fcc89dd8929975261d635f62b50badfbd0527bc0946158ec6e66cd32d20"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
