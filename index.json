@@ -939,19 +939,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.1.9",
+                "version": "6.2.0",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "4ebbff5ae1fb1bbeea724aa8aec4aba8fc320c19545089d3d8a0a59096c02a5a"
+                "sha256": "db1e41f6fe2768e68f788e6451ecfef626fd802a3605c168a667ffe1720b82d3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
-                "version": "6.1.9",
+                "version": "6.2.0",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modzoco.apk",
                 "safe": false,
-                "sha256": "4ebbff5ae1fb1bbeea724aa8aec4aba8fc320c19545089d3d8a0a59096c02a5a"
+                "sha256": "db1e41f6fe2768e68f788e6451ecfef626fd802a3605c168a667ffe1720b82d3"
             }
         }
     },
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.2.3.0",
+                "version": "11.4.2.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "e3cb282a1f95cd576e6c160c9c2635465e5f67f864a63c49261e941963dc5487"
+                "sha256": "e9c8402e6be39e3dd6265080ee37a9f93239337e3dd6ec6415a959b7d76724b3"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.129",
+                "version": "4.7.136",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": true,
-                "sha256": "235b3e860cfa5788f95fd3a2a1f2e9c40a1b693e2bc8f3cb2f0a6baae60b6286"
+                "safe": false,
+                "sha256": "e0a350f6f01045422eb746aba0155983284a2a85ae4e9f0bae7234f010554bf1"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.3.0",
+                "version": "26.3.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "c0f599cd86587204e30b77dd4a20540543a9a4fc7415f6452d5b3cefb77effa9"
+                "sha256": "6fb1784c32cabbf6d1dafaebdfb65886fb85c65cd20635c7020b62db6aec7826"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.32.5",
+                "version": "14.32.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "04b736f3b046a1f13288e62d76b665cdeca0fd35337ba235a65d197f06da609b"
+                "sha256": "e54bb902fe210062ca2adb398abe76953587c9b740b6f6fa7c4d6e246d1682e6"
             }
         }
     },
@@ -1841,11 +1841,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
-                "version": "13.4.5",
+                "version": "13.5.0",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modzoco.apk",
                 "safe": false,
-                "sha256": "ab45b7c6b8984fe9031cc965e87c801b93accb9394c5a6bf5dd461899434d39f"
+                "sha256": "48787d9746d1612d19d7ea9fa662426c41ce805378d86c1a8fe4e447dbd49ae7"
             }
         }
     },
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.5.9.34034.GP",
+                "version": "7.5.11.34060.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "f9271bf6064a12585d266170ba16a9cbe8dd800b9e6024a2cbd900c3e31012ab"
+                "sha256": "817e1c22847ffbb09a2d268173a3aca67484ebc5aad2dcb63ab5597253fe69ef"
             }
         }
     },
