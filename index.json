@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "14.49.1-241028",
+                "version": "15.0.0-241107",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "707e3cf3772dcf64c7202fe44e2ba0f9454a17bb841b90dc68ce57904ddf88d1"
+                "sha256": "72fca0b8ee2220a0045072a2a6204d3111adaa05692fefff34610e9415f2ebf3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.4.5",
+                "version": "13.5.4",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "f78cb83c2bb115443e07ed1e4bc01e39abf16be495872f0ba7f1da88967918a7"
+                "sha256": "736cda09318e48bfbcab0189945a21c8c16b23e9286224eaee0de500e77af61e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -2091,11 +2091,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
-                "version": "4.4.2.14",
+                "version": "4.4.2.17",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modyolo.apk",
-                "safe": true,
-                "sha256": "e3c7e65db5d46daea8ffd85475f266f229247c47b2e2ee2188d7f31e29c9f7f4"
+                "safe": false,
+                "sha256": "3bcdb830247a0a9e73a6c619aa8d1e5dd656393e53d9b5b59cebe75bb8b578c6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "ea7719068ddac14043188dfa13797a344fce6a1ba2c147ce950bcf9787f7a9f2"
+                "sha256": "7120b049e2e67d8bd9830ce64061e158fd6c585880879dbf2d9508531f8999b4"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "485.0.0.0.51",
+                "version": "484.0.0.68.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "ed802dd4347adcb740ada65f8e6c37ea955547a7e19da36aecd04d2846707928"
+                "sha256": "192b2c83bbc3b0e8ae2c4740b2c762b6e6b5afa23e7cad818b7cb0e084f02e45"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "9125062b20724954f0a43abc9d13f6e3146b1e82b56b87a061a9a148ad1f6c7c"
+                "sha256": "766f9e987b79fbcdf010a465bc7bb0ad25c6ffb9407831f643d0716b6b903ea8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
