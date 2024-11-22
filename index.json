@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.139",
+                "version": "4.7.142",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "1ee0e22b6d01b0dd52d3448e81ffe94790a6d5d253e955ce68a1be8161db511f"
+                "sha256": "71e631423c35c86332dab81e71b52aace9e15054a4e21291d9a00d286d58b2fb"
             }
         }
     },
