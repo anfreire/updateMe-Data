@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "13.2.0",
+                "version": "13.3.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": false,
-                "sha256": "443644060bf0635c5e1db25b1fdd9422787652eacbcccb079adf34376c795811"
+                "sha256": "2753733e19cc2e474fb6bd285707676833f6c60675c45f36ad05cc014b8dbfcb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.12.16",
+                "version": "1.12.17",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "9dc220aa6f1417fb0a4d04c325ed75fcdb7bee72f3d11edf39bb78fc77ee8617"
+                "sha256": "be99a3ea691057390adcb639e9ea8bc33558d06da00eb2b17c2f80e668bc298a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.32.0",
+                "version": "14.32.1",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "86b42d76f1ce69bf063fbd63876370d9a9a637ecd37e6d46115f1ae08313b512"
+                "sha256": "58cbb100c9f10aca621cce3a5f5193b049c7838ecccedde25ae25edd304cbb43"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.8.2",
+                "version": "6.8.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "e33b2e1f0e07ada83a569e11f3a7fff61a93f2caa92ea86cca1fc71787724617"
+                "sha256": "a85c5d6053b566029129362ce1853d277b27d053c2c368daf44b4373c3bed558"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1775,11 +1775,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/mx-video-player.html",
-                "version": "1.86.7",
-                "packageName": "com.mxtech.videoplayer.pro",
+                "version": "1.88.0",
+                "packageName": "com.mxtech.videoplayer.ad",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modyolo.apk",
-                "safe": true,
-                "sha256": "0a228845d6239df2c9ccd6919639362caf115a6d911b8cafddfb14485239105e"
+                "safe": false,
+                "sha256": "6ab12632a643ff97e9486d09648185bae3f43a262b3e929b577eaf33463460ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
@@ -2164,11 +2164,11 @@
         "providers": {
             "FouadMODS": {
                 "source": "https://fmmods.com/fouad-snapchat/",
-                "version": "13.11.0.42",
+                "version": "13.17.0.42",
                 "packageName": "com.snapchat.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snapchat_fouadmods.apk",
                 "safe": true,
-                "sha256": "6f408b1b2087c02f7f85715150d914e9137c923f3080e8b36697155dd7492cb0"
+                "sha256": "9712d13d483b04601b972dbcea33b70d12c3babb4cf3034d5807c8b7f5eedfcb"
             }
         }
     },
