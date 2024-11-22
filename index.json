@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.129",
+                "version": "4.7.136",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
-                "safe": true,
-                "sha256": "235b3e860cfa5788f95fd3a2a1f2e9c40a1b693e2bc8f3cb2f0a6baae60b6286"
+                "safe": false,
+                "sha256": "e0a350f6f01045422eb746aba0155983284a2a85ae4e9f0bae7234f010554bf1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.3.0",
+                "version": "26.3.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "7bfca4f90252d046b3308fabafb9725ab2ac3f4772c5307d2e68507854beed61"
+                "sha256": "7993d019acfc6fe47d1f963ea8d1f99e8a8d1b6243bb010c9c7b78b8d4412b29"
             }
         }
     },
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.8.2",
+                "version": "6.8.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "3f567625f2eaf6945fdc85bc7426a8ea80021960dca41fb6703d5eb3db334e7d"
+                "sha256": "12e4c5363fca50bb9c5fc097b148c625eba9df51136f28845cf3c6c1df140ce9"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1825,11 +1825,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "13.4.5",
+                "version": "13.5.0",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
                 "safe": true,
-                "sha256": "bdfb6ff16a18d032b9bdf0ecef47f1b24794d24b463c74267fdbf27fbab36ce3"
+                "sha256": "d75764f1c531fd851f37b400cdf508481bb4b0eb53c7ad0c816c346fcbaed22b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
