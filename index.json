@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.9.3",
+                "version": "6.9.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "a654dd51fe82214c41f4457250c56cfb586d4c3bcea16293411c2859a50037b4"
+                "sha256": "2b29b594ebee9ffb50a90707e3b7a6507f009381b10901bf3cb7cdb6144cb09a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.8.588",
+                "version": "4.8.869",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "ce7cba043394ac2463848434313a44c3f3963c498eefc457eb8200506018cbee"
+                "sha256": "91425b9669d9fdf63b550cf20122c13dfdb0f690011816471444ddb1dd3c1186"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
