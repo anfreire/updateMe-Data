@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.6.262",
+                "version": "16.6.267",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
                 "safe": false,
-                "sha256": "8ab5497d763dab89ccebeba0fdbf438f6a74ef1c8e30970fdfc24f363e0f9282"
+                "sha256": "33b8a0530b2550fe26bbea3e05f05a9c1c9d3d92d83a5a979c6cea27f9e290d6"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.32.7",
+                "version": "14.32.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "e54bb902fe210062ca2adb398abe76953587c9b740b6f6fa7c4d6e246d1682e6"
+                "sha256": "3baabb21913d5738d4f5476ee323ae01de611984374f5e3ac3d192261aa173f0"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.8.3",
+                "version": "6.9.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "d7c767f82cd3176a63a7d567f8fd509fb93a4ae9434682bb22a67fbd37882b1f"
+                "sha256": "91f507869fbdc9943efc64ace9bc986a28b1a42c6c5475a098e67002d12d82fa"
             }
         }
     },
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.72.1113",
+                "version": "1.03.73.1119",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "f2dd70aaabf7162cf7567e72b7251dbbeab3adb544afd28f6f07a6b72f62f177"
+                "sha256": "4575f9140350c92c7c0ffdc85bf8b834b374dcb34d306a96f1d90c18967e1369"
             }
         }
     },
@@ -2360,19 +2360,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.8.852",
+                "version": "4.8.869",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "38ea3564e882ce94d9134832b77047c45601c4af7dcd46ba90539cd774161dd2"
+                "sha256": "91425b9669d9fdf63b550cf20122c13dfdb0f690011816471444ddb1dd3c1186"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
-                "version": "4.8.588",
+                "version": "4.8.869",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
                 "safe": false,
-                "sha256": "472e2e6bb0f0e05572d61f49fe09014892009a16ebc0af082ecca24b7fb6a784"
+                "sha256": "f1c7428511c93a0c089c47bcfbcf96afba12354ec1a3fca04f6504e4d31f7d96"
             }
         }
     },
