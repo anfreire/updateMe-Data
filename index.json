@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.7.1",
+                "version": "9.8.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "fc374939ad55339bcf7d5eac95d38f022485b1bc2c2873459ff088e9229eec47"
+                "sha256": "6aff58c034ce58c455d97d58e0c791c1b205717a07d8dd7209d812e433ebe06c"
             }
         }
     },
@@ -1412,19 +1412,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.139",
+                "version": "4.7.142",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "726de0730c3071ae2d607fdbcec2a042a1f514c0295828f842bfb1fac43803de"
+                "sha256": "9bb197d3e35a6fbd912f0e744f2d753529cb67c8df518b04718d1b630cac44de"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.136",
+                "version": "4.7.142",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": false,
-                "sha256": "e0a350f6f01045422eb746aba0155983284a2a85ae4e9f0bae7234f010554bf1"
+                "sha256": "71e631423c35c86332dab81e71b52aace9e15054a4e21291d9a00d286d58b2fb"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.72.1113",
+                "version": "1.03.73.1119",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "caf72e96b358065a708a8fd8765d679e0ff9298e0062d18ee5057f783f5cfa46"
+                "sha256": "ff0babc8001b25b8e7311a3727c2eb1d7103ce62d872fd45bd0351a31fdcc3ea"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
