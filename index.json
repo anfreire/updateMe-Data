@@ -38,11 +38,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "19.43.41",
+                "version": "19.45.38",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "dd0acb1afb8c621a81ecd1cd17b6f1b87c54465a01558e4f669882955fb8ca53"
+                "sha256": "b3beb4bda2e8b8e032a50b38fce1bfab1b5a54190affde3b887da37172c70260"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "4261ae9205d1ea5613a10d6ff4fa1b64914f7c230523e45da61f502d85700d33"
+                "sha256": "ec1cf2cab07a3bea91c5ec919d3c70140ffecdb89be188b05537efe2a40edc7a"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "052138b23864bf7d77f92cf44c11b662d01a5c2937c268b5113712c277315ca5"
+                "sha256": "4d3ab8673f026b98fc4c457ae176665005c159fb8a97c74e3eb9c87f579ad2a7"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "628af0b14fdcf5486009bd0f940d0900b38360723b7e296d940e374f61c5b346"
+                "sha256": "26b872a2be3b5f00645a5b5da042684a2afc04ba9a5c09e08fb3bdcb5d117dd2"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.6.262",
+                "version": "16.6.267",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "93f45c883bd1ab3c35d5f4eb28c80722b474b1bd9b191ad1d52f171c74fc0bcc"
+                "sha256": "2d09ef05de8f5c4c7b599be5b3094d9c50f4cd3648bd41edc9bef0f6d296cc3f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "3b581d6fc9abaf7e728b01becf35fbb13bf1566e59af627b348f606f2e07a92f"
+                "sha256": "72480d9c7c7be46f0177729a5f7c655907f97405be985e0013868ba560aeab34"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.86.7",
+                "version": "1.87.2",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "0a228845d6239df2c9ccd6919639362caf115a6d911b8cafddfb14485239105e"
+                "sha256": "3d45676232fb458358594f263343247a3be6ac37db24d18f2008bfb7b6275071"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "7120b049e2e67d8bd9830ce64061e158fd6c585880879dbf2d9508531f8999b4"
+                "sha256": "fa15308182f605afc40eb9aa9d4e78e9727f8c30e85e221682db11e0639b3d31"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "192b2c83bbc3b0e8ae2c4740b2c762b6e6b5afa23e7cad818b7cb0e084f02e45"
+                "sha256": "2fdf8269479a9c6b1d5cf7bf9711d72d3799d4c37f997d1d1473498786249c34"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "766f9e987b79fbcdf010a465bc7bb0ad25c6ffb9407831f643d0716b6b903ea8"
+                "sha256": "5cea366c01ae0398afe432f4792f0fa879696bfc564ae9c6fb3c2607b98b697a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.3.0",
+                "version": "7.4.3.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
-                "safe": true,
-                "sha256": "ba3744f7bacc773863b4aa10d7e0bd7367682314ee54ea300c3a64b90910c92b"
+                "safe": false,
+                "sha256": "518abc454abc9f2cf1f73ddb9e47734e4e69979c50ee92fdcde43da667b7ed32"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
