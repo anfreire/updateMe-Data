@@ -54,11 +54,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.43.41",
+                "version": "19.45.38",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "4ef0b9eabe2e920a25ca1c85d4c4ece146276f14004c7cdf695fdcc81b9c51e1"
+                "sha256": "fcd093ada58ea3d9a124f627d3ff68e3b3c4e2fb8b25a6c1463dd792951206a5"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.27.52",
+                "version": "7.28.51",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "ff93dbdd326119d96db8808e25188142eff21d7106bde1e351378e32608d1e99"
+                "sha256": "b4eee43c58116424b5eebcc34ac9890702805123aa2da57c7cf5627ed7a7a5d7"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -179,7 +179,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
-                "sha256": "e037597f746cc0b45c82b6d494e33d74cd4e6327611dc0b6b0ca2d88a8d772ab"
+                "sha256": "08659ceb2e51460fe457ab637ddae3db62ccf02ecbbdd4946d2fbfa3846c0514"
             }
         }
     },
@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.6.262",
+                "version": "16.6.267",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
-                "safe": false,
-                "sha256": "d62907a562216d1e7594221d7263a3f6cae3bdf9440a2ac36ed736212add2487"
+                "safe": true,
+                "sha256": "5abcebde881c00e0017db3947e4f1dc9d33d9c1e8bb19f54709b87180d36ba46"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.9.0",
+                "version": "6.9.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "1fb6d6ae84a6a8952d7e51f8f89024b61ee031dba361613ee0e094f742a382d9"
+                "sha256": "339ef8f2e7e12a6d32c67eee7f4474d00ce506c3bf5b187c22aa0ec06e69a880"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
