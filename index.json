@@ -1708,7 +1708,7 @@
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "f043a37c26c5f55ba08c1424a4af5d82cf9833aad584461f37115efd231aab92"
+                "sha256": "1d81624704cd6bc74fd72f1d0ea3cb1ed606fb7b8b80840a2b4e12a94ed43706"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.9.0",
+                "version": "6.9.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "4d568ac71b8897bfc7ed72a46dfd16a63ea98572d585e0d027ace2e687f69b95"
+                "sha256": "3dfcae3c6b43d84b11ad055edf036d4fd0eeb4f57a56112d5871ee3ffd8417f2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1791,11 +1791,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
-                "version": "1.86.7",
+                "version": "1.87.2",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_apkdone.apk",
                 "safe": true,
-                "sha256": "ba282a988f56acf1364c3f3886d844ef707553e0b2b604ef6d5e57d3835a0ad8"
+                "sha256": "e87bd98c06396df09e2dab8362db286438749c4ce391a2e2f9d05e64075dae87"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/mx-player-pro.html",
