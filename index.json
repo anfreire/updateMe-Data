@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "16.6.262",
+                "version": "16.6.267",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "4b31fb7cf9c6b4c862a9958b91ea399c049e653d9369cee436d57c769bc9cada"
+                "sha256": "5abcebde881c00e0017db3947e4f1dc9d33d9c1e8bb19f54709b87180d36ba46"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.142",
+                "version": "4.7.144",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "9bb197d3e35a6fbd912f0e744f2d753529cb67c8df518b04718d1b630cac44de"
+                "sha256": "310421dec5ac33e38353aa38f21a750820b13db76f0e8945addbcdf97202d395"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
