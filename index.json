@@ -417,7 +417,7 @@
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "5abcebde881c00e0017db3947e4f1dc9d33d9c1e8bb19f54709b87180d36ba46"
+                "sha256": "2d09ef05de8f5c4c7b599be5b3094d9c50f4cd3648bd41edc9bef0f6d296cc3f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.6.0",
+                "version": "9.8.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "cad18e81d825c3a154ff0257a40fedc7fabfbf8bdafd91f66580604797927a2c"
+                "sha256": "1c7b4caa53f961546b5bd80d961a7b49c606f154902c31dd79386361ac62cdd0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.8.10",
+                "version": "4.8.15",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": false,
-                "sha256": "7ce71bdf0aaba59b23cada9cd3988866dc8edb30543b5c718ed24ef89dca50a5"
+                "sha256": "eff43a377c419d0e86bac0b553abe735ed08fd4be0dce1cdf4fd23d927b6733a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1612,19 +1612,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.32.1",
+                "version": "14.32.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": false,
-                "sha256": "58cbb100c9f10aca621cce3a5f5193b049c7838ecccedde25ae25edd304cbb43"
+                "safe": true,
+                "sha256": "3baabb21913d5738d4f5476ee323ae01de611984374f5e3ac3d192261aa173f0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.32.8",
+                "version": "14.33.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "3baabb21913d5738d4f5476ee323ae01de611984374f5e3ac3d192261aa173f0"
+                "sha256": "47abbfcb76593c33b1ff09fdc1ed51eb7bf5998e14566572873a38b070ef40f5"
             }
         }
     },
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.0.0-241107",
+                "version": "15.1.0-241115",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "72fca0b8ee2220a0045072a2a6204d3111adaa05692fefff34610e9415f2ebf3"
+                "sha256": "1d81624704cd6bc74fd72f1d0ea3cb1ed606fb7b8b80840a2b4e12a94ed43706"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.9.4",
+                "version": "6.9.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "2b29b594ebee9ffb50a90707e3b7a6507f009381b10901bf3cb7cdb6144cb09a"
+                "sha256": "6512a72b1cb5dbb20269578ade4557fb2d46a89c831a23cc428c1f4e3cb35b79"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.69.1016",
+                "version": "1.03.73.1119",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
-                "safe": true,
-                "sha256": "f324b12e11c2eab7a127cfb7e4b77d001b7d7e2a114cee86d3d4ed50b2412321"
+                "safe": false,
+                "sha256": "8f031de2b6e7671af12413846840aec9107a024098d72fd0ecd549b59d1a3417"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2015,11 +2015,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nova-launcher-prime.html",
-                "version": "7.0.57",
+                "version": "8.1.3",
                 "packageName": "com.teslacoilsw.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "d762b053d4b1047540e023eae220df72b67607727868e375664a2236b2b7afea"
+                "sha256": "1d214c3fc4bf56c987fc8083aaacd406792faa71531bd29b794dd5ef7ea5ff3b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nova-launcher-prime.html",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.4.2.2",
+                "version": "7.4.3.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
-                "safe": false,
-                "sha256": "c80ca6530bd4d5d225bb61d2b31761df2da97a9690ee787a5d74fd201dac22ee"
+                "safe": true,
+                "sha256": "ba3744f7bacc773863b4aa10d7e0bd7367682314ee54ea300c3a64b90910c92b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
