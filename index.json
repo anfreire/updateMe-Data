@@ -425,7 +425,7 @@
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "43a2ae0a1e406c7179109dd17313e9952cc068640fbf1eb9771f477fe282eb1b"
+                "sha256": "f4379744fcee1de8b7a30fb3876646a38468df25f3740e7bcfc9303e4ae5da75"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -947,11 +947,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
-                "version": "6.2.0",
+                "version": "6.2.1",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modzoco.apk",
                 "safe": false,
-                "sha256": "db1e41f6fe2768e68f788e6451ecfef626fd802a3605c168a667ffe1720b82d3"
+                "sha256": "1ae69fea243ebaf77db646a874eb5c6aa43d9024ed92f76431e6c540eb1cbea0"
             }
         }
     },
@@ -1420,19 +1420,19 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.142",
+                "version": "4.7.144",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": false,
-                "sha256": "71e631423c35c86332dab81e71b52aace9e15054a4e21291d9a00d286d58b2fb"
+                "sha256": "da369fd4979330cf3ec7054286e28a8b718b3a5ab4a866ea1d130ed80c459dd1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.142",
+                "version": "4.7.147",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": false,
-                "sha256": "71e631423c35c86332dab81e71b52aace9e15054a4e21291d9a00d286d58b2fb"
+                "safe": true,
+                "sha256": "b3a407b4bdf1d8bdaec430d5ce41d655343a46cf606d731f4c6e18ea46c7faf5"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.32.8",
+                "version": "14.32.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": true,
-                "sha256": "3baabb21913d5738d4f5476ee323ae01de611984374f5e3ac3d192261aa173f0"
+                "safe": false,
+                "sha256": "061165d1122d060e6ccedddd2cddbde5dcadf6568e0fda18b3c18c7164c1771f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.9.0",
+                "version": "6.8.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
-                "safe": false,
-                "sha256": "91f507869fbdc9943efc64ace9bc986a28b1a42c6c5475a098e67002d12d82fa"
+                "safe": true,
+                "sha256": "ec6166fd16faeb23d42ab1fb51b8a6efc157fbbd36c7d09fb4b41009524d8663"
             }
         }
     },
