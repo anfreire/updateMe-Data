@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.11.07-release",
+                "version": "2024.11.13-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": true,
-                "sha256": "a74ad4cf512b2c27360a2d80a4ce225fa3c81339cf1e32a1b8c86008dcd5253a"
+                "sha256": "f76b05d5a2b6280c40ebf426c4f76093c332253dcf76b524bf2745fae344cb67"
             }
         }
     },
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.1.0.0 chuppito release",
+                "version": "5.1.0.1 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "d84774c000abb33e12377d6edefb2f263f2ebd3b41f483fb7f7fbeb6fdea813f"
+                "sha256": "70c3ac97734111ce28308fdc79d894e34ea37173e9fb6795a6ed6bcb8a63c7dd"
             }
         }
     },
@@ -2410,11 +2410,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
-                "version": "7.4.2.2",
+                "version": "7.4.3.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modzoco.apk",
-                "safe": false,
-                "sha256": "88e2de3068df68ebfbacde746b4282a8b50b1df0a81192b555f438d6e4103002"
+                "safe": true,
+                "sha256": "fd8211df260e7b364785236a08947f32b14224da84f8c5eeee5ea9c0853c94f7"
             }
         }
     },
