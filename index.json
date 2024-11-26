@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.6.267",
+                "version": "16.7.268",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "2d09ef05de8f5c4c7b599be5b3094d9c50f4cd3648bd41edc9bef0f6d296cc3f"
+                "sha256": "43a2ae0a1e406c7179109dd17313e9952cc068640fbf1eb9771f477fe282eb1b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.6.267",
+                "version": "16.7.268",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": false,
-                "sha256": "33b8a0530b2550fe26bbea3e05f05a9c1c9d3d92d83a5a979c6cea27f9e290d6"
+                "safe": true,
+                "sha256": "c311da57d03883121457493b205e9378294789d2dd9ea282f298a18c11d4e52b"
             }
         }
     },
@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "13.2.0",
+                "version": "13.3.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "27d7e2781d3517a80590944a9af95b49a6642f3f8276adc8af8a4c70f97e38a0"
+                "sha256": "9e1d1d04609ef7ade705ae6b716dddb40df59ed3cc310d9fe5a07140cdbafce4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.3.0-beta0",
+                "version": "1.3.0-beta1",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": false,
-                "sha256": "bbee376758c2eae619fd48e117b6ef3e88e32b8820d26795ffe02919f44a4a85"
+                "sha256": "f445c5547992dcd2405664d44e04a1bbcf3f98b73811ca75ce2f0fb8c7c32d5c"
             }
         }
     },
