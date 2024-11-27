@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.3.1",
+                "version": "26.3.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "6fb1784c32cabbf6d1dafaebdfb65886fb85c65cd20635c7020b62db6aec7826"
+                "sha256": "06237d170b776dc422ebdffe1ad5d4379d68689c84b1cb6a026f3d11ac35d875"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.9.2",
+                "version": "6.9.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "339ef8f2e7e12a6d32c67eee7f4474d00ce506c3bf5b187c22aa0ec06e69a880"
+                "sha256": "b57ea40630ac25d08f766a905606422e9d8698ed7d3f9e7955a2aedb4d65efc6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
