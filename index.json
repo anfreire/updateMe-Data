@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.10.11.96",
-                "packageName": "com.spotify.music",
+                "version": "8.9.80.2",
+                "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "286f810e53c47fa9d22e82305c8111b643839ef5e38c6c00175c54b72506a194"
+                "safe": true,
+                "sha256": "67c977a3aa0895053076f7f5f5278245b8337d3a966b2a987249deed568fcfd7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.591.194",
+                "version": "1.593.196",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "f89342110d7bce88b4cfbe2a1fdc23eb3894df899769a894d8aed82ed57baff1"
+                "sha256": "ec688adfe83c668df43558c61d2c1df9b5f35f5c653344f0c01a106ad2977151"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "13.1.0",
+                "version": "13.2.6",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": false,
-                "sha256": "11f86fbe34f6aa01f46275fba8a6c7f313255fc624de3b8a7e9fbafe7f07578f"
+                "sha256": "88d847e10e23ddecfed75ee86eccee8b86b825dbd0b40f7ac6aadac98495357c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.144",
+                "version": "4.7.147",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "310421dec5ac33e38353aa38f21a750820b13db76f0e8945addbcdf97202d395"
+                "sha256": "2b7640a01c23e0c00e608d558f071e485042c577baf4cf97f5d3556eac42cec6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.3.1",
+                "version": "26.3.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "7993d019acfc6fe47d1f963ea8d1f99e8a8d1b6243bb010c9c7b78b8d4412b29"
+                "sha256": "2261a4f15357b07f17e55713e88db05143ef30d9e6fcce7b95fb0659d9f89946"
             }
         }
     },
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.73.1119",
+                "version": "1.03.74.1125",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": false,
-                "sha256": "ff0babc8001b25b8e7311a3727c2eb1d7103ce62d872fd45bd0351a31fdcc3ea"
+                "safe": true,
+                "sha256": "e1db4e0a3fbaaca24d0262ae191083b86ce0ab7ad13235cfee8f0c1e818757e2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
