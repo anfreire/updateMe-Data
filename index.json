@@ -394,11 +394,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
-                "version": "1.585.192",
+                "version": "1.593.196",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modzoco.apk",
                 "safe": false,
-                "sha256": "7ad96d279a024ae6356991da9b040c02086ea8911ef56998b7c802f3bb7f129d"
+                "sha256": "4a0f288797c934ee7a72c58b3e535f394b5a984d9a04a4a04e2ee6fa26e3dded"
             }
         }
     },
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 053",
+                "version": "6.5 build 000",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "3e2a94206e40f0eb871014d44b869de9ec0af28646a618fabc7e8175e8d2f2be"
+                "sha256": "2728c50e4336003557e17b8830d0625937d1e2768fba7ab542115db68467b2dd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -707,11 +707,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.4 build 052",
+                "version": "6.5 build 000",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
                 "safe": true,
-                "sha256": "fdd341d5d28ec08de577d6221afacd26b697198d601cb7df0ef701e6dde24167"
+                "sha256": "2d44c35e1cd62c608b81de56f56194fc1128061728240eec4fd80e48d0e3f29b"
             }
         }
     },
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.144",
+                "version": "4.7.150",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": false,
-                "sha256": "da369fd4979330cf3ec7054286e28a8b718b3a5ab4a866ea1d130ed80c459dd1"
+                "sha256": "6aa91f16f32363487ae2da588b2f947acb6f9aa687a884de5003790b14c1f823"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.3.3",
+                "version": "26.3.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "2261a4f15357b07f17e55713e88db05143ef30d9e6fcce7b95fb0659d9f89946"
+                "sha256": "45bb8db3ff28e60920eec3e0cbbe1b5cc6efc5bd10a83a06e2c4a5fba4e4d178"
             }
         }
     },
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.9.2",
+                "version": "6.9.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "3dfcae3c6b43d84b11ad055edf036d4fd0eeb4f57a56112d5871ee3ffd8417f2"
+                "sha256": "30ebbc8c9b5cf4813af16f03644e0ffaf6b55d0b732b367c4c0a36064e3d614d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.3.0-beta1",
+                "version": "1.3.1-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": false,
-                "sha256": "f445c5547992dcd2405664d44e04a1bbcf3f98b73811ca75ce2f0fb8c7c32d5c"
+                "sha256": "4c528b460ad8a9ace33b9449c3556ed8104f93e3d40888f702bf3aa637db702a"
             }
         }
     },
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.73.1119",
+                "version": "1.03.74.1125",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "4575f9140350c92c7c0ffdc85bf8b834b374dcb34d306a96f1d90c18967e1369"
+                "sha256": "1238510978fc2da646a72540d0f8616457c69e4e427f29347946f141e1f71553"
             }
         }
     },
