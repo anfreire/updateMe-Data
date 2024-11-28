@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.7.268",
+                "version": "16.7.269",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
                 "safe": true,
-                "sha256": "c311da57d03883121457493b205e9378294789d2dd9ea282f298a18c11d4e52b"
+                "sha256": "da371bf70286dd92d23d302b751e1b901777c21ed50fc42d4c6b35e1b9fb82db"
             }
         }
     },
@@ -939,11 +939,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.2.0",
+                "version": "6.2.1",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "db1e41f6fe2768e68f788e6451ecfef626fd802a3605c168a667ffe1720b82d3"
+                "sha256": "1ae69fea243ebaf77db646a874eb5c6aa43d9024ed92f76431e6c540eb1cbea0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.147",
+                "version": "4.7.150",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "2b7640a01c23e0c00e608d558f071e485042c577baf4cf97f5d3556eac42cec6"
+                "sha256": "e4c49cc7d1564fd0fdb8eb0f9891fd12aaf21f02e4e6f537e7ccb963667176eb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.3.3",
+                "version": "26.3.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "06237d170b776dc422ebdffe1ad5d4379d68689c84b1cb6a026f3d11ac35d875"
+                "sha256": "640dc12c9ac6cffde5762589c2ab232df6e077b9f96bb825bbe1a08503eab29c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -2352,19 +2352,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.8.852",
+                "version": "4.8.871",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "7a3c7ac996f43af10130dc8d9b005cddf080ca92b78e8bb615a143e47e9ecc77"
+                "sha256": "bf87b81c6d1cd7ead660e9d5966b799e21a9525f0b6312f7288d2c5da2c8c571"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.8.869",
+                "version": "4.8.871",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "91425b9669d9fdf63b550cf20122c13dfdb0f690011816471444ddb1dd3c1186"
+                "sha256": "ed9d869fa1ca4bad66cfa8e6a4807078cd71457b8b12459b8ae3bf23a2b562cf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
