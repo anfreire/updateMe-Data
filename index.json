@@ -699,11 +699,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
-                "version": "6.4 build 002",
+                "version": "6.5 build 000",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
                 "safe": true,
-                "sha256": "096017d92ef043aaad94c1b7cc7391b99334735e4455e48f495dc3f20dbbe75f"
+                "sha256": "2d44c35e1cd62c608b81de56f56194fc1128061728240eec4fd80e48d0e3f29b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
@@ -1230,11 +1230,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/musixmatch-lyrics-finder.html",
-                "version": "7.12.1",
+                "version": "7.13.0",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_modzoco.apk",
                 "safe": false,
-                "sha256": "5df743036cda4795b53d5cdeda8e09429213cc33f9dfe5c4855b1ccd00cc89c5"
+                "sha256": "23dbcb4f5058d0d1b4b9fc98d7efe748098f164f81b96f124b4120d8b4822b55"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.147",
+                "version": "4.7.150",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
-                "safe": true,
-                "sha256": "b3a407b4bdf1d8bdaec430d5ce41d655343a46cf606d731f4c6e18ea46c7faf5"
+                "safe": false,
+                "sha256": "6aa91f16f32363487ae2da588b2f947acb6f9aa687a884de5003790b14c1f823"
             }
         }
     },
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "15.1.0-241115",
+                "version": "15.2.0-241121",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "dac113a56556b15404973450bceeee10a03c03670921fbc1262355ae0d0a1f3e"
+                "sha256": "7a71e29a23d2c40ea13ff2ceb69244d1eb8b7376a41002587d132e799d1b6320"
             }
         }
     },
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.73.1119",
+                "version": "1.03.74.1125",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
-                "safe": false,
-                "sha256": "8f031de2b6e7671af12413846840aec9107a024098d72fd0ecd549b59d1a3417"
+                "safe": true,
+                "sha256": "e1db4e0a3fbaaca24d0262ae191083b86ce0ab7ad13235cfee8f0c1e818757e2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.1.0.1 chuppito release",
+                "version": "5.1.40.401 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "70c3ac97734111ce28308fdc79d894e34ea37173e9fb6795a6ed6bcb8a63c7dd"
+                "sha256": "e0cb57ff8b6642d0e1d1c70f430bd620a372dfe955ff4cbdfd526b9bfb115ab9"
             }
         }
     },
@@ -2368,11 +2368,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
-                "version": "4.8.869",
+                "version": "4.8.871",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
                 "safe": false,
-                "sha256": "f1c7428511c93a0c089c47bcfbcf96afba12354ec1a3fca04f6504e4d31f7d96"
+                "sha256": "d920a7511929ba4435143a1c867b82c52dc0dc4aa750cb2cf5e2980188663b8e"
             }
         }
     },
