@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.80.2",
-                "packageName": "spoti.plus",
+                "version": "8.9.96.476",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "67c977a3aa0895053076f7f5f5278245b8337d3a966b2a987249deed568fcfd7"
+                "safe": false,
+                "sha256": "e4b91aafc7cb3afe23e337d7690a8a018a8767744ffd0fc2c056f9070531cf67"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.8.869",
+                "version": "4.8.871",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "91425b9669d9fdf63b550cf20122c13dfdb0f690011816471444ddb1dd3c1186"
+                "sha256": "bf87b81c6d1cd7ead660e9d5966b799e21a9525f0b6312f7288d2c5da2c8c571"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
