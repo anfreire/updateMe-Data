@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.7.269",
+                "version": "16.8.270",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
                 "safe": true,
-                "sha256": "da371bf70286dd92d23d302b751e1b901777c21ed50fc42d4c6b35e1b9fb82db"
+                "sha256": "2d8daa21e1359b85aac4c1bfc4a9160fec1b8cddf1fa7e32ebe0303d96987308"
             }
         }
     },
@@ -621,11 +621,11 @@
         "providers": {
             "JunkFood02": {
                 "source": "https://github.com/JunkFood02/Seal",
-                "version": "1.13.1",
-                "packageName": "com.junkfood.seal",
+                "version": "2.0.0-alpha.5",
+                "packageName": "com.junkfood.seal.preview",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/seal_junkfood02.apk",
                 "safe": true,
-                "sha256": "e52c2657fe8fd5a6a970e505171399f1b674c6a7015c15557879e4672e7fa85c"
+                "sha256": "160884a38b48de7534a4ed231097ff21cfc9361a326254cc66319b009f75a871"
             }
         }
     },
@@ -664,11 +664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.12",
+                "version": "1.12.13",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
-                "safe": false,
-                "sha256": "11c6e32674d8ab1c321110d0fb1175c9cae611359e65aa005b9e165affda9255"
+                "safe": true,
+                "sha256": "dd774978c9b19b1c7fa3f11bedd85969e250151ec31f5788534deaa427e0d889"
             }
         }
     },
@@ -1214,11 +1214,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
-                "version": "7.12.1",
+                "version": "7.13.0",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_liteapks.apk",
                 "safe": true,
-                "sha256": "6d32afa2dc5bb6f3eedba04783ca6913957f036a7c20fb2f0dc5c0752e393bc6"
+                "sha256": "9efe7a47b2c01666b421818c4a386b177d8d853962b022639583e320599eaaf6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.153",
+                "version": "4.7.156",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "a323e032e57b67bfd3cedb46d006695a4062ac07e67794f662718f91033a1c74"
+                "sha256": "53f97e0614db809ad5ed55470b646d5d72e1987e6bb3d6fb42db34b8beddfc55"
             }
         }
     },
