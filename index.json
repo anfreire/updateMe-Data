@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.96.476",
-                "packageName": "com.spotify.music",
+                "version": "8.9.80.3",
+                "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "e4b91aafc7cb3afe23e337d7690a8a018a8767744ffd0fc2c056f9070531cf67"
+                "safe": true,
+                "sha256": "d80af732078392bba07b69083a4fafa7e18e2b72f82b0d22e255e80161df046c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1318,11 +1318,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
-                "version": "3.40.5",
+                "version": "3.41.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modzoco.apk",
                 "safe": true,
-                "sha256": "5b5d62f57a80967e5179f5f6062a8172ca49b06f70b06c39da0367348ea3e501"
+                "sha256": "bfc30e79ab9cb498588355c3ceda4c71b95b07affd890b219a52181fe67224da"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.150",
+                "version": "4.7.153",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "6aa91f16f32363487ae2da588b2f947acb6f9aa687a884de5003790b14c1f823"
+                "sha256": "a323e032e57b67bfd3cedb46d006695a4062ac07e67794f662718f91033a1c74"
             }
         }
     },
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.4.5",
+                "version": "13.5.0",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "f78cb83c2bb115443e07ed1e4bc01e39abf16be495872f0ba7f1da88967918a7"
+                "sha256": "f5b1676141b9f4bb102151a3f671473c351b853df388532a16fc1a5e015e12de"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
