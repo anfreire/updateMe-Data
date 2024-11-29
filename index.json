@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.94.470",
+                "version": "8.9.96.476",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "d27502a8cc6b2f650782e16b7585cefa8b5fb6945ab05df139929cec22008e56"
+                "sha256": "c5aabf5d64684d5571c17d455552232dcdf084136e67d871283a08cf5238d6f0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.12",
+                "version": "1.12.13",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "82599e68b4008cb894483f9eecbb96f0d4ead36b89cbe4b3a0a079fe8380a9d4"
+                "sha256": "dd774978c9b19b1c7fa3f11bedd85969e250151ec31f5788534deaa427e0d889"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.3.4",
+                "version": "26.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "640dc12c9ac6cffde5762589c2ab232df6e077b9f96bb825bbe1a08503eab29c"
+                "sha256": "867d7928dc1ed0445aa34aa245b06f4bdb86a5860062bfcbe4e62a1af04df99f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.1.0-241115",
+                "version": "15.2.0-241121",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "1d81624704cd6bc74fd72f1d0ea3cb1ed606fb7b8b80840a2b4e12a94ed43706"
+                "sha256": "288c96757782a98a10067b8cb2600ce7e34ca8f3041d17e20aea7cdfcd19eb81"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1744,7 +1744,7 @@
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "b57ea40630ac25d08f766a905606422e9d8698ed7d3f9e7955a2aedb4d65efc6"
+                "sha256": "b2644f8d48fd09746e53c0955f071bf1b06a882f2d6037c85b0b6677a69af65e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.8.4",
+                "version": "6.9.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
-                "safe": true,
-                "sha256": "ec6166fd16faeb23d42ab1fb51b8a6efc157fbbd36c7d09fb4b41009524d8663"
+                "safe": false,
+                "sha256": "91f507869fbdc9943efc64ace9bc986a28b1a42c6c5475a098e67002d12d82fa"
             }
         }
     },
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "13.5.0",
+                "version": "13.4.5",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "f5b1676141b9f4bb102151a3f671473c351b853df388532a16fc1a5e015e12de"
+                "sha256": "f78cb83c2bb115443e07ed1e4bc01e39abf16be495872f0ba7f1da88967918a7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "19.3.1",
+                "version": "19.4",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "6a6cdaf44dc7c28f940fb693712e7e64b4212155870cc767af9f3cc1d7cc7b31"
+                "sha256": "356204f3c5c42ebff6ccf0f924c0d72fc637e06f80164e0f0e4381cb5a8331b5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
