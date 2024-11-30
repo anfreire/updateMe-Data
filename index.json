@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.7.268",
+                "version": "16.8.270",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
-                "safe": true,
-                "sha256": "f4379744fcee1de8b7a30fb3876646a38468df25f3740e7bcfc9303e4ae5da75"
+                "safe": false,
+                "sha256": "e7cd0fbdd626430006361be210c1e494b9f34120e3b2264c38c05249f432f617"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.74.1125",
+                "version": "1.03.75.1128.1",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
-                "safe": true,
-                "sha256": "e1db4e0a3fbaaca24d0262ae191083b86ce0ab7ad13235cfee8f0c1e818757e2"
+                "safe": false,
+                "sha256": "49280f4754687470245b70f28a9761f02aa3c2b30bede966816f9d6086228795"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
