@@ -683,11 +683,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.5 build 002",
+                "version": "6.5 build 010",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": false,
-                "sha256": "9b8a9fd032cce16a2609d2238e7db03318544f4678d4ec63c025b04bfad7d252"
+                "sha256": "3d90d6f684e3e156c46117155d1166ba2d9174c4d7d4ea6e202996de6114c96a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.32.9",
+                "version": "14.33.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "061165d1122d060e6ccedddd2cddbde5dcadf6568e0fda18b3c18c7164c1771f"
+                "sha256": "bbadc331c2c031ef81add1014cd923ceeb438c99c2ebfbef310e57786860cfb0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "19.3",
+                "version": "19.4",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "47e99c9b93bb1a4343bf0c8679a480658f6b9e2553b0ae82ccde483997ba46d3"
+                "sha256": "02736063fe21f3ac30afbef3649da15335535700ae4dc124178cacf235eb886b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
