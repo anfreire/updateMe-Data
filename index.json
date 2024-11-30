@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.40.5",
+                "version": "3.41.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": false,
-                "sha256": "80faabd961f40f6dcf2224085f8d9cc98f035971e10f4584398426672d3ffdcf"
+                "sha256": "36e15b6ace184cdce2d960159df461945580d86c66dd1e7496c07d1052c77f08"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.150",
+                "version": "4.7.156",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "e4c49cc7d1564fd0fdb8eb0f9891fd12aaf21f02e4e6f537e7ccb963667176eb"
+                "sha256": "60cc833ea902a89e1b2621ad2ab366cd099331ee9f76895cab681089c980cbef"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.33.6",
+                "version": "14.33.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "47abbfcb76593c33b1ff09fdc1ed51eb7bf5998e14566572873a38b070ef40f5"
+                "sha256": "70d0a6929b74ad4c81ae839cb8e2fd1f7fac2073e41ef9b67230e9072a827599"
             }
         }
     },
