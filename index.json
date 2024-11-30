@@ -656,11 +656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.12",
+                "version": "1.12.13",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": false,
-                "sha256": "0268f8e8b8e0fafcdb32418408d03f6f11bf62521dba4387c01e4cb0a10ceb8e"
+                "sha256": "8193322f29cef05cdb2c90c509c6570efdcf6b878799a23c1857232fbec1283c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.156",
+                "version": "4.7.161",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "53f97e0614db809ad5ed55470b646d5d72e1987e6bb3d6fb42db34b8beddfc55"
+                "sha256": "43edf1b1ff6ade86897847915d37c51a854defb107d571a828cfba6a7fa68a03"
             }
         }
     },
