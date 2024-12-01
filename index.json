@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.156",
+                "version": "4.7.161",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "60cc833ea902a89e1b2621ad2ab366cd099331ee9f76895cab681089c980cbef"
+                "sha256": "c4861468ec5d57f5beba38a47e70f1275c822b77fd70f5e0bb838d634fdbb38d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.74.1125",
+                "version": "1.03.75.1128.1",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "1238510978fc2da646a72540d0f8616457c69e4e427f29347946f141e1f71553"
+                "sha256": "19a0965462deb22f21dcf80de741f21c6180053f5424d1ee3c1276dc4e274955"
             }
         }
     },
@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "19.3.1",
+                "version": "19.4",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": false,
-                "sha256": "919f3694e0205d0912e7da4bc03441f6cf8cb3bb4ffc5698b06f972cd444f12f"
+                "sha256": "ef4476f99326e5b0e892fb76c58e44d774241dac603d74a1375310e3c2c50644"
             }
         }
     },
