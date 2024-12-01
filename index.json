@@ -599,11 +599,11 @@
         "providers": {
             "TeamNewPipe": {
                 "source": "https://github.com/TeamNewPipe/NewPipe",
-                "version": "0.27.3",
+                "version": "0.27.4",
                 "packageName": "org.schabi.newpipe",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/newpipe_teamnewpipe.apk",
                 "safe": true,
-                "sha256": "ff2d42be6815e8cdae4f0a5d282afa46d043badb8bcc13a701f27d70334842a1"
+                "sha256": "d196fe395a9e487271b737d4de3696cb683284f3bcff5baaffbb71bba1aa53c8"
             }
         }
     },
