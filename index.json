@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.96.476",
+                "version": "8.10.12.10",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "c5aabf5d64684d5571c17d455552232dcdf084136e67d871283a08cf5238d6f0"
+                "safe": false,
+                "sha256": "5cc4406425ab743e0092bd7fc5d8804f036b9658acb8847fa1ffb82caf2564c3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.11.13-release",
+                "version": "2024.11.20-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": true,
-                "sha256": "f76b05d5a2b6280c40ebf426c4f76093c332253dcf76b524bf2745fae344cb67"
+                "safe": false,
+                "sha256": "295e224276172ed2e10844d277a731f1d4bad99e961934c0759d81d2a0e5e633"
             }
         }
     },
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.150",
+                "version": "4.7.161",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": false,
-                "sha256": "6aa91f16f32363487ae2da588b2f947acb6f9aa687a884de5003790b14c1f823"
+                "sha256": "cd9869637827c7e20a7c570df1e2bbfd9b17bf3dbd098080a606a680f51ee693"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.3.4",
+                "version": "26.3.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "45bb8db3ff28e60920eec3e0cbbe1b5cc6efc5bd10a83a06e2c4a5fba4e4d178"
+                "sha256": "6c76b4495ec5b8b7332372affd5bc29b5a32a6e5c28d30bf51bdb250d73e6fcb"
             }
         }
     },
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.0.2",
+                "version": "10.0.4",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": false,
-                "sha256": "7033ee28962047e99364dcabc7e06987bc6d599fc7417e7e78d8be6f98d82952"
+                "sha256": "fb10f75d41b524f959474ff3d4a642f6f0835f8a23b86ae910461eefc2a1a52a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
