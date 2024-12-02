@@ -750,11 +750,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.8.1",
+                "version": "1.8.1.1",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "8c7ebd21736fefb087ccd2f161f164751e780fcfe8473e7e48be2c39c53f707c"
+                "sha256": "3e900a3c7c74a372b1d525dee75a707899f626de1eecc99921c578d82c48f5cd"
             }
         }
     },
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.74.1125",
+                "version": "1.03.75.1128.1",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "e1db4e0a3fbaaca24d0262ae191083b86ce0ab7ad13235cfee8f0c1e818757e2"
+                "sha256": "3cc461e93d69086c0de5ce84d082bfd4f4aeca067b467eeaf18eec8834afd813"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.68.1-release.0",
+                "version": "10.68.2-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "74a58d6f614628bac768041e3008b20db575ba7944c80c7168d4c82c7b9bef50"
+                "sha256": "0414138f7f0dd601b5007eea17a9dc3fc23b3b643cea74a32923fd0b5046b706"
             }
         }
     },
