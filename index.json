@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.80.3",
-                "packageName": "spoti.plus",
+                "version": "8.9.96.476",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "d80af732078392bba07b69083a4fafa7e18e2b72f82b0d22e255e80161df046c"
+                "sha256": "c5aabf5d64684d5571c17d455552232dcdf084136e67d871283a08cf5238d6f0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -877,11 +877,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "10.7",
+                "version": "10.8",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": false,
-                "sha256": "c97827db610bd75f66abd169376f27e63759bee90b9860cdcf203575407f2dd6"
+                "sha256": "78656bcdc0e8cbee6390dcf21657a51ff0b5c78592b15eff144bab8364623e0c"
             }
         }
     },
