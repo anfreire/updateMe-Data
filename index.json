@@ -351,11 +351,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
-                "version": "8.9.94.470",
+                "version": "8.9.96.476",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modzoco.apk",
                 "safe": false,
-                "sha256": "942555a774178e7756aafe3714aedfe4be86e1f86046408816fb6d4b8065edf9"
+                "sha256": "042c3c31f45054044548476b4509046c3e163f36d1f0b97b1dc1c5af060ce3d9"
             }
         }
     },
