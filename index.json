@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.7.161",
+                "version": "4.8.3",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": false,
-                "sha256": "43edf1b1ff6ade86897847915d37c51a854defb107d571a828cfba6a7fa68a03"
+                "sha256": "d2e758ff106b896012356c7c54476bb6256cd6491e73820093252e20d9ed4fec"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.9.0",
+                "version": "6.9.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
-                "safe": false,
-                "sha256": "91f507869fbdc9943efc64ace9bc986a28b1a42c6c5475a098e67002d12d82fa"
+                "safe": true,
+                "sha256": "55f714d0fa3a9abae09b0bf03657192834a53daad12f5068aa7f562c49ef6be7"
             }
         }
     },
