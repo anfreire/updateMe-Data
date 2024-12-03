@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "15.1.0-241115",
+                "version": "15.2.0-241121",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "1d81624704cd6bc74fd72f1d0ea3cb1ed606fb7b8b80840a2b4e12a94ed43706"
+                "sha256": "288c96757782a98a10067b8cb2600ce7e34ca8f3041d17e20aea7cdfcd19eb81"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
