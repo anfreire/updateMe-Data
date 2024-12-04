@@ -386,11 +386,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.593.196",
+                "version": "1.594.197",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
-                "safe": true,
-                "sha256": "80ef3c90776f49228dd58e334c6cf8f1de7a0bf28bd8fbedd27b5805af33843b"
+                "safe": false,
+                "sha256": "2ec14a12ca37aeac748193621db61aca69eebee6c7466fdcd0758de908995787"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
@@ -656,11 +656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.13",
+                "version": "1.12.14",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
-                "safe": false,
-                "sha256": "8193322f29cef05cdb2c90c509c6570efdcf6b878799a23c1857232fbec1283c"
+                "safe": true,
+                "sha256": "9cd99d78c9486c0476a386b658537453fc9e45cae37a87bdca7d09714a168759"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
@@ -699,11 +699,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
-                "version": "6.5 build 000",
+                "version": "6.5 build 001",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
                 "safe": true,
-                "sha256": "2d44c35e1cd62c608b81de56f56194fc1128061728240eec4fd80e48d0e3f29b"
+                "sha256": "9ec708dd1b7d1323f421d81b3ca19c92f827c7fd728a35db40ef57eb346ff119"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.11.20-release",
+                "version": "2024.12.02-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": false,
-                "sha256": "295e224276172ed2e10844d277a731f1d4bad99e961934c0759d81d2a0e5e633"
+                "sha256": "709c1b05e6a5a1c3768fc6f6e17c75a7df9a07362ea2549e0fac9ee4dee94f92"
             }
         }
     },
@@ -1412,19 +1412,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.7.161",
+                "version": "4.8.3",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "c4861468ec5d57f5beba38a47e70f1275c822b77fd70f5e0bb838d634fdbb38d"
+                "sha256": "62f25718ddb0c846fed7223936652b9b64240d64998e11b476100dd53c596e63"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.7.161",
+                "version": "4.8.3",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
-                "safe": false,
-                "sha256": "cd9869637827c7e20a7c570df1e2bbfd9b17bf3dbd098080a606a680f51ee693"
+                "safe": true,
+                "sha256": "3d00bce6d8404604a92c3a1bd8f780d116dda091c92e52ae19919b4761c8ea44"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.68.2-release.0",
+                "version": "10.70.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "0414138f7f0dd601b5007eea17a9dc3fc23b3b643cea74a32923fd0b5046b706"
+                "sha256": "76343af98ea8bee7e7e2dd2b9d62ce5f99d23dbaf3e228365cd6976a0620bd3f"
             }
         }
     },
