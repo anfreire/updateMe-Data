@@ -707,11 +707,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.5 build 000",
+                "version": "6.5 build 001",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
                 "safe": true,
-                "sha256": "2d44c35e1cd62c608b81de56f56194fc1128061728240eec4fd80e48d0e3f29b"
+                "sha256": "9ec708dd1b7d1323f421d81b3ca19c92f827c7fd728a35db40ef57eb346ff119"
             }
         }
     },
@@ -947,11 +947,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
-                "version": "6.2.1",
+                "version": "6.2.2",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modzoco.apk",
                 "safe": false,
-                "sha256": "1ae69fea243ebaf77db646a874eb5c6aa43d9024ed92f76431e6c540eb1cbea0"
+                "sha256": "5a73f5537ed1e0be3924168e157720395566c02cca04342ecabcb593a58a3197"
             }
         }
     },
@@ -1070,11 +1070,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/automate.html",
-                "version": "1.44.2",
+                "version": "1.45.0",
                 "packageName": "com.llamalab.automate",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/automate_liteapks.apk",
                 "safe": true,
-                "sha256": "005e8d3c8d2926af095831fcf678c71039be9ed807677ac21f4020bcf2a0e124"
+                "sha256": "e1279f84d1a13c54419ea75ebd331b3993fea5995691e81fd01279c3cb603d68"
             }
         }
     },
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.1.0-241115",
+                "version": "15.2.0-241121",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "1d81624704cd6bc74fd72f1d0ea3cb1ed606fb7b8b80840a2b4e12a94ed43706"
+                "sha256": "7a71e29a23d2c40ea13ff2ceb69244d1eb8b7376a41002587d132e799d1b6320"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1993,7 +1993,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "356204f3c5c42ebff6ccf0f924c0d72fc637e06f80164e0f0e4381cb5a8331b5"
+                "sha256": "483da46f58448ce2acf87778617555fc774bfde53732a1d42cb609646936cdbc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
