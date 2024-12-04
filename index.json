@@ -394,11 +394,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
-                "version": "1.593.196",
+                "version": "1.594.197",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modzoco.apk",
                 "safe": false,
-                "sha256": "4a0f288797c934ee7a72c58b3e535f394b5a984d9a04a4a04e2ee6fa26e3dded"
+                "sha256": "85803c465e95b4d5b16d58df079595b66d0d7334b8a4a4d21b16ad902ba5b3c2"
             }
         }
     },
@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "13.2.6",
+                "version": "13.3.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": false,
-                "sha256": "88d847e10e23ddecfed75ee86eccee8b86b825dbd0b40f7ac6aadac98495357c"
+                "sha256": "e6b695e639b71b0f8c9041bf0c31991863de5806daf9e1f67adb18734396a529"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "15.2.0-241121",
+                "version": "15.3.0-241128",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "7a71e29a23d2c40ea13ff2ceb69244d1eb8b7376a41002587d132e799d1b6320"
+                "sha256": "18044665dee4d863f608f2024231f3723417f18540ed055ac8b03db6d4c7c0b7"
             }
         }
     },
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "e9ad069d7b8ed1b99428917fbe9081d80b50d5cebb91f3d2c669cece8b213102"
+                "sha256": "80204db38e5c40894f49fa4adaa562ac79d669b7a78a8434b91752004f665769"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "487.0.0.0.80",
+                "version": "485.2.0.68.111",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "c2016282c8055e88f7be6541d7a10efce7f54450c2bdd5f30c3fa3b0c5c5c1d3"
+                "sha256": "6356a3a102e6352912b6c1d2562f01d887a115651646b9b521ab6bcc0a19ec3c"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "099d3063ff9b0f0efc68509847f4cc7d943ffb4af38d72d3a07c38210c5e4566"
+                "sha256": "ecf2b50c96c82219a0bb6926ba65fde3586329c24cfca5d9905be6e9b2fb7aa8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
