@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "5869f92328d40a287cdbfb181f297c75e53877dc28fa3502593e718ab1772185"
+                "sha256": "809fd4c49d8fb70f0ed973928373715a793d14f3ccf98b1e49ec91d27a296a31"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "ac64243f32a26d1118b41ce6124ef4da9b1312b02daec32145d9c5a8d98af226"
+                "sha256": "8140f4fdc68527804e68aeeb67e0a7d18284731b9a3eda167609cd58302f3c10"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "3354266a2c3a8f8f2092ca3c133c813f15f8a4eb907b00fc1e6c7529572d4d46"
+                "sha256": "e80dab1e8607c9151976e4e2ea72d003d28221f4c62d87441160dfb6ad9a6719"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "8fffc594985ae327e611523f2fc4245f58d540256f315c90beedb213b64f5075"
+                "sha256": "4faa20a3f85389f922def59c415422ea65ef497600da61aa3f0f964cb3ee90e9"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.591.194",
+                "version": "1.594.197",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
-                "safe": false,
-                "sha256": "f89342110d7bce88b4cfbe2a1fdc23eb3894df899769a894d8aed82ed57baff1"
+                "safe": true,
+                "sha256": "e69bdad545fe819ea5026aab49a5b9df6454a533791ef9186f2676ac0d749b15"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.13",
+                "version": "1.12.14",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "dd774978c9b19b1c7fa3f11bedd85969e250151ec31f5788534deaa427e0d889"
+                "sha256": "9cd99d78c9486c0476a386b658537453fc9e45cae37a87bdca7d09714a168759"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -664,11 +664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.13",
+                "version": "1.12.14",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
                 "safe": true,
-                "sha256": "dd774978c9b19b1c7fa3f11bedd85969e250151ec31f5788534deaa427e0d889"
+                "sha256": "9cd99d78c9486c0476a386b658537453fc9e45cae37a87bdca7d09714a168759"
             }
         }
     },
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 000",
+                "version": "6.5 build 001",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "2728c50e4336003557e17b8830d0625937d1e2768fba7ab542115db68467b2dd"
+                "sha256": "44ffb31d160599568be8b0f01d53357cf3232560933cfb33f20f58ae60d377c4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -931,19 +931,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/vera-icon-pack.html",
-                "version": "6.1.3",
+                "version": "6.2.2",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modyolo.apk",
                 "safe": false,
-                "sha256": "35a65330d5bc212a4d6878eae8dc3beb074a3237d9070dbe7f06f55f3976e320"
+                "sha256": "5a73f5537ed1e0be3924168e157720395566c02cca04342ecabcb593a58a3197"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.2.1",
+                "version": "6.2.2",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "1ae69fea243ebaf77db646a874eb5c6aa43d9024ed92f76431e6c540eb1cbea0"
+                "sha256": "5a73f5537ed1e0be3924168e157720395566c02cca04342ecabcb593a58a3197"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.8.1",
+                "version": "9.9.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "f7e37facb8559a225b9d5fc26f3527de413c6caadc706c7c726a45750f68a151"
+                "sha256": "a590786bba21744cbc3d3d4ac0a8f4ca96fae49c36d168f6c1f44432f0939c54"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.87.1",
+                "version": "1.88.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "e088eb54e4afeb0d597bbb13d0ab3f7ae929e9f02cb3eada130b8f60a495c453"
+                "sha256": "46f2c990b770908a6c1dfc70a039e9758f18f4f74fafd3ed414f48c6eceb7bc4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.33.9",
+                "version": "14.34.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "bbadc331c2c031ef81add1014cd923ceeb438c99c2ebfbef310e57786860cfb0"
+                "sha256": "ce2ab32741be466e32433bc2d6ce4f40ded67270e66842a3b5d78c3dbb8f5b02"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "c489aa87bebf9a766052408b4cb8df5733861bd7f69850a1618c19e0cda542b0"
+                "sha256": "e0fc5bd21f7aa25a640c1a38cfad669ce816427653df8b6cd76eab2c12e251aa"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
