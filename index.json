@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "38f35ad46c97a518abdef1574f9a39f7b4efb35011d0ded9bcc458f75c86767b"
+                "sha256": "0378194d22e0f05d3dffcba6a505d416c77e029a8b220cd22fbc3128f1bca7b7"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "433dafbb790ccb137698503428f92ec2fc5080e1bbd2c613ddcc375fa59bcc97"
+                "sha256": "1d05f6b28c26ffaa8d4b6cd6e58a300c3b61b23a19110b3acca8db7de584a65a"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -179,7 +179,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
-                "sha256": "a54b010cc28593b89f0ee08df9b959a5af557026a9586f7c26a908bfa6863c03"
+                "sha256": "15ca34e3946f11b167ccdaade749a05c24ebdb1f341a6d1eed8eec0f99ea90c7"
             }
         }
     },
@@ -1552,11 +1552,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.13.2",
+                "version": "18.14",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
                 "safe": true,
-                "sha256": "532d639efcf37e1c07d468d47261b4754bcced4ea27ecee073fd8477f598770d"
+                "sha256": "fb7116b3bc6ffe8b1b6b0d3097e51fd0c669d8d340051a5dbcee43adec981151"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.34.5",
+                "version": "14.34.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": false,
-                "sha256": "ce2ab32741be466e32433bc2d6ce4f40ded67270e66842a3b5d78c3dbb8f5b02"
+                "safe": true,
+                "sha256": "109dabaee8f80a777409b384ddee9f6d57ea2d48b74515cede27c3b11b726bc6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1775,11 +1775,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/mx-video-player.html",
-                "version": "1.88.0",
-                "packageName": "com.mxtech.videoplayer.ad",
+                "version": "1.88.1",
+                "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modyolo.apk",
-                "safe": false,
-                "sha256": "6ab12632a643ff97e9486d09648185bae3f43a262b3e929b577eaf33463460ab"
+                "safe": true,
+                "sha256": "25d470962b7fb74f214482f352a6e2a4038f99ab5d94c60eb29f65316c5b8947"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
@@ -2410,11 +2410,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
-                "version": "7.4.3.1",
+                "version": "7.4.4.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modzoco.apk",
                 "safe": true,
-                "sha256": "fd8211df260e7b364785236a08947f32b14224da84f8c5eeee5ea9c0853c94f7"
+                "sha256": "7e32dc707fc2e9b15f9b8e8d50d5079a8383205549dd23fa33b91813e9ee9d17"
             }
         }
     },
