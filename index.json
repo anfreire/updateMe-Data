@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 001",
+                "version": "6.5 build 001 patch 1",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "44ffb31d160599568be8b0f01d53357cf3232560933cfb33f20f58ae60d377c4"
+                "sha256": "9c8063e22f27a61890b9c5514ebc7b610bf45a2bb16d2fa244afef3f423f6ee5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1158,19 +1158,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.9.0",
+                "version": "9.9.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "a590786bba21744cbc3d3d4ac0a8f4ca96fae49c36d168f6c1f44432f0939c54"
+                "sha256": "475b8c9c57daa3669665ea75454d16079aa67536b5316fddb269a70cc7a01e25"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.9.0",
+                "version": "9.9.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "c83eea7bc09ea73438c0977c21c3ca90925e733e6787e7d519e19573e9378dcf"
+                "sha256": "fde629e9195a40f21e6f3098a204bfaaff54104890c0441d64451fce155a9710"
             }
         }
     },
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.87.1",
+                "version": "1.88.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "3f1a06400518f49d158605de04167e8954ca7da740668d7fbd854c865722ed3b"
+                "sha256": "984673a4284f5e0828a5e48aed6b201717f4775290bcc6986de6659d3c24148e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.34.5",
+                "version": "14.34.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "94e9e6e7b39ac4ea0ac22f9e11355fa300f4f0b34a0e7c5d40184250c2cbc60f"
+                "sha256": "7373b519ba2b1077aaf646f73265b63b150b19e3d7e81f271b14192d8c8018dc"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.9.4",
+                "version": "6.10.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "b2644f8d48fd09746e53c0955f071bf1b06a882f2d6037c85b0b6677a69af65e"
+                "sha256": "ba3e4dc072df018151c1886557f41d0b37f0ef731850b1180e405c0038336559"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.87.2",
+                "version": "1.88.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "3d45676232fb458358594f263343247a3be6ac37db24d18f2008bfb7b6275071"
+                "sha256": "25d470962b7fb74f214482f352a6e2a4038f99ab5d94c60eb29f65316c5b8947"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.75.1128.1",
+                "version": "1.03.76.1202",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "49280f4754687470245b70f28a9761f02aa3c2b30bede966816f9d6086228795"
+                "sha256": "28355f5e9af3b3b0703a53a7b5d696ee041e348e785f94ff04f5b7d1748af8f4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "80204db38e5c40894f49fa4adaa562ac79d669b7a78a8434b91752004f665769"
+                "sha256": "563a915717e442daba827c065ec7920e594b3727b45ca51b5d5807605ddf6e7a"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "6356a3a102e6352912b6c1d2562f01d887a115651646b9b521ab6bcc0a19ec3c"
+                "sha256": "b8fb668c1fcd649593671b105c788c26786df17f0bd76cf46a779dcef19c0784"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "ecf2b50c96c82219a0bb6926ba65fde3586329c24cfca5d9905be6e9b2fb7aa8"
+                "sha256": "bfa39e0168574f0729ff420c14bf2d097d789697fd04f12378152f4aa736af0c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.3.1",
+                "version": "7.4.4.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
-                "safe": false,
-                "sha256": "518abc454abc9f2cf1f73ddb9e47734e4e69979c50ee92fdcde43da667b7ed32"
+                "safe": true,
+                "sha256": "f830016152fcbd541eb5dcd8d7ea29bd807dfc6c6c0d4c1075eb402d012e090f"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
