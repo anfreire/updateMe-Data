@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "96b6c7348ed58ced0e2d9f3c40773718f51ba113ba3ffc34665257650a5acbae"
+                "sha256": "ed0becba9b93c603ac19ec985362def942c8bdc4e34bfea181b08ad35fe86413"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "d8f505a40845f9d90f30d7fccaabd31441536064b5280a751e5c2559c3d4d071"
+                "sha256": "a2231a7b8857aece3d5f32d9f29c61815d381ef99a1c24c04bc74fe285730784"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -179,7 +179,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
-                "sha256": "e26eefa347086fb001e9bd3dcb5b9089a3e166293ada13e3a53948698ac62b13"
+                "sha256": "183ca4c9d1dff152765e822e6aa76415dee955b6dc5802c7ddb0f0a9cbdcb8c5"
             }
         }
     },
@@ -339,7 +339,7 @@
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "86467904cbf377f3511de5f5404ec0b12f99a79f8e3795e1d65f6e135d5fae35"
+                "sha256": "7042ba9131c298aebbf263b4e2cf69621293cc9a9ddafa3219ef7fe6bce8e534"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1962,11 +1962,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
-                "version": "1.03.75.1128.1",
+                "version": "1.03.77.1205",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modzoco.apk",
                 "safe": false,
-                "sha256": "19a0965462deb22f21dcf80de741f21c6180053f5424d1ee3c1276dc4e274955"
+                "sha256": "614129dbb9f4cc4825449f22f2d2331231f7a3dda38bd8ced1fcd72241aee74c"
             }
         }
     },
