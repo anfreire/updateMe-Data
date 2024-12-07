@@ -499,19 +499,19 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.084.1470",
+                "version": "2.092.1473",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "4dc5c5e0f27c68d25521772b1fb6d63b5879c31b3db07214c6092667f1c405f7"
+                "sha256": "2d4f37ad1621546eb421464fb21b3e77600ae6d4a9f9020130aa0d43052c299a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.084.1470",
+                "version": "2.092.1473",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
                 "safe": true,
-                "sha256": "a3a2b9588379c124c3af16fb35e8645d3cd9498b542d7175c282baea93f84031"
+                "sha256": "921dff36489b701e7e7bca8fdf1c0c558c7d723710d12be854e34b1775d47eb4"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 001 patch 1",
+                "version": "6.5 build 001 patch 2",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "9c8063e22f27a61890b9c5514ebc7b610bf45a2bb16d2fa244afef3f423f6ee5"
+                "sha256": "5b6577796e0f3a80622beaa23ee293c2e190534c5bdecf2d876e4cbc27fcd10d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1825,11 +1825,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "13.5.0",
+                "version": "13.5.10",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
-                "safe": true,
-                "sha256": "d75764f1c531fd851f37b400cdf508481bb4b0eb53c7ad0c816c346fcbaed22b"
+                "safe": false,
+                "sha256": "c2869a2471dcf041c3b0600df975bd41c1204fc6d918162a131abafb7d110fca"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
@@ -1993,7 +1993,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "483da46f58448ce2acf87778617555fc774bfde53732a1d42cb609646936cdbc"
+                "sha256": "9c4fd3e3c5d3b3bf17d2d87f0b6fb6f4e82673dcb08dd12d6dfefe8be231d35d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
