@@ -707,11 +707,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.5 build 001",
+                "version": "6.5 build 001 patch 2",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
                 "safe": true,
-                "sha256": "9ec708dd1b7d1323f421d81b3ca19c92f827c7fd728a35db40ef57eb346ff119"
+                "sha256": "0e7cdd8669a25a852cef082870bbcd3e072eb08916fd13cc348f69a3f80be7f0"
             }
         }
     },
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.5.4",
+                "version": "13.5.10",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "736cda09318e48bfbcab0189945a21c8c16b23e9286224eaee0de500e77af61e"
+                "sha256": "805e9f4375498e54f84e867e97d3044aff1057b2df682bce7ee2c102744cf4b7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
