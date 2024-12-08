@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.12.02-release",
+                "version": "2024.11.13-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": false,
-                "sha256": "709c1b05e6a5a1c3768fc6f6e17c75a7df9a07362ea2549e0fac9ee4dee94f92"
+                "safe": true,
+                "sha256": "f76b05d5a2b6280c40ebf426c4f76093c332253dcf76b524bf2745fae344cb67"
             }
         }
     },
