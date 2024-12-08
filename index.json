@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "13700845348726721c70d6b1418e347ed3ae1d0fe60505484b742c4c7c4108e1"
+                "sha256": "f2f10c8bdaa8751c09d321169a30c4314bb8af9da386ec1f6256c0f206bc9305"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "09935e9f639316aca77e4a625e109f3b598ee7a30a290217b9c4a9f5b567b399"
+                "sha256": "293f59ffdd05283d0b127703476688f8efb87ebac219dab5f7aaf498fe4a0828"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.11.13-release",
+                "version": "2024.12.02-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": true,
-                "sha256": "f76b05d5a2b6280c40ebf426c4f76093c332253dcf76b524bf2745fae344cb67"
+                "safe": false,
+                "sha256": "709c1b05e6a5a1c3768fc6f6e17c75a7df9a07362ea2549e0fac9ee4dee94f92"
             }
         }
     },
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.75.1128.1",
+                "version": "1.03.77.1205",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "3cc461e93d69086c0de5ce84d082bfd4f4aeca067b467eeaf18eec8834afd813"
+                "sha256": "0cc2689f5945b357b41b8ca01af1892dc76d01fec14584d0a4664371840723c5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
