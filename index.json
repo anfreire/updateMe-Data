@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "f2f10c8bdaa8751c09d321169a30c4314bb8af9da386ec1f6256c0f206bc9305"
+                "sha256": "e00328576b2772856b3fabe8a0d3d632124e17ca34f2675ac339ce83e04d9106"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "ed0becba9b93c603ac19ec985362def942c8bdc4e34bfea181b08ad35fe86413"
+                "sha256": "0339476d205a4ba8b179e0c9aff4c3106897a9dd0d54c68fdbd0d6fd4dbc5695"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "293f59ffdd05283d0b127703476688f8efb87ebac219dab5f7aaf498fe4a0828"
+                "sha256": "79e1f6d29528b106768d87e31c8fc5b85f4d41d5b861a304d2e69ab69f38ff57"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "a2231a7b8857aece3d5f32d9f29c61815d381ef99a1c24c04bc74fe285730784"
+                "sha256": "911937f02d23fe9102f09c83faef7d091e978c9912bedc8ceaa1ff7295b8948a"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -179,7 +179,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced2.apk",
                 "safe": true,
-                "sha256": "183ca4c9d1dff152765e822e6aa76415dee955b6dc5802c7ddb0f0a9cbdcb8c5"
+                "sha256": "e62d81068a90b0f3446eb45689ffd89a25a2a06379d7fbd9a3ef7414d1c82aa8"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.34.7",
+                "version": "14.35.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "7373b519ba2b1077aaf646f73265b63b150b19e3d7e81f271b14192d8c8018dc"
+                "sha256": "2c6116216a27df6499d8b0c43423e845bbf0d9d9337ed1eb6753d3b721dda854"
             }
         }
     },
