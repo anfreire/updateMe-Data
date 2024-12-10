@@ -66,7 +66,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
-                "sha256": "83886999ec956feda99f78c6d333a246d74fbb8f847e445366023d29ede01aa7"
+                "sha256": "b2c5a013131f7d38f7706226e5fa4e8c4b5e895c4d071d343abbcdd41f0d65c7"
             }
         }
     },
@@ -113,7 +113,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
-                "sha256": "7c6041a7e1d5a4a55ceab3381af4cd41e01e608f90eaaa07f88f5856cc20d384"
+                "sha256": "ee831be396e5d7b2d79446f77135e84455543ff99be9728cbe313c82da68d2df"
             }
         }
     },
@@ -523,11 +523,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
-                "version": "2.092.1473",
+                "version": "2.093.1474",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modzoco.apk",
                 "safe": false,
-                "sha256": "0c61d513b62d69347f87a14b3f18d20c188012a2496ab15567f708861444650f"
+                "sha256": "0befdafd9ea7f44157e0919147203ab5ae430ac6afd36d550f61c200c89eb003"
             }
         }
     },
@@ -1360,11 +1360,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.76.0.24111600000",
+                "version": "6.77.0.2412090000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "1173f49fe589690c0ef8c6f2bc434483d2f1c5b171285094a73c4f52513f35ea"
+                "sha256": "4143600abb6b353ba96a591fc61c274ec3d2e9e0ecd2dd47aac9d205ff7a8c3e"
             }
         }
     },
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.3.0-241128",
+                "version": "15.3.1-241206",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "d6781f248f1406a0f8040abb86a095f78e40b7c10a15a9b861f0e9178ad9d027"
+                "sha256": "65653135e68812ea9206e68437a9ef5dd71b3a8043855e3d6c8c601dd9fca009"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "15.3.0-241128",
+                "version": "15.3.1-241206",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
                 "safe": true,
-                "sha256": "18044665dee4d863f608f2024231f3723417f18540ed055ac8b03db6d4c7c0b7"
+                "sha256": "878285dec939c57c753c37e36285d90b2f3c3e12123ab307f5a9e20b6c8fabf7"
             }
         }
     },
@@ -2368,11 +2368,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
-                "version": "4.8.871",
+                "version": "4.8.935",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
                 "safe": false,
-                "sha256": "d920a7511929ba4435143a1c867b82c52dc0dc4aa750cb2cf5e2980188663b8e"
+                "sha256": "3616e3b2cf6d8645b0f9bf81c29629a15d27f8a629ffebebf8742e3f688969dd"
             }
         }
     },
