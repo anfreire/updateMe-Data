@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.092.1473",
+                "version": "2.093.1474",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": true,
-                "sha256": "0b96afca34164e711b928aeb8562fbc9930e1d409adb67916c2390b6a24d7161"
+                "sha256": "56db784226739c02c6eb51304e349e61ccb1c9adf110ffa977ae21a44eb2c01a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -683,11 +683,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.5 build 010",
+                "version": "6.5  011",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": false,
-                "sha256": "3d90d6f684e3e156c46117155d1166ba2d9174c4d7d4ea6e202996de6114c96a"
+                "sha256": "3a3fc72ab4ed4be7eb9b63c4e2ca67a5e19a996eb08aaf58cf1dd33549a1a4b6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.8.0",
+                "version": "9.9.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "1c7b4caa53f961546b5bd80d961a7b49c606f154902c31dd79386361ac62cdd0"
+                "sha256": "688cd476c45841f0cc223f65680086d54dba0c438bd5f3dbd17182859e5c3f61"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.9.5",
+                "version": "6.10.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": false,
-                "sha256": "6512a72b1cb5dbb20269578ade4557fb2d46a89c831a23cc428c1f4e3cb35b79"
+                "safe": true,
+                "sha256": "ba3e4dc072df018151c1886557f41d0b37f0ef731850b1180e405c0038336559"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1985,7 +1985,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "02736063fe21f3ac30afbef3649da15335535700ae4dc124178cacf235eb886b"
+                "sha256": "2d889512e9ef4ffceb7e5adcfa62a1311ddc9883c69e2a5eeda91e3c5388a306"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.8.871",
+                "version": "4.8.935",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "bf87b81c6d1cd7ead660e9d5966b799e21a9525f0b6312f7288d2c5da2c8c571"
+                "sha256": "5b1e04184dc8ebc528ac01db208d42c2d149a13ae960304fb9b301d7e02972ca"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
