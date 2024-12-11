@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.7.268",
+                "version": "16.9.272",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "c311da57d03883121457493b205e9378294789d2dd9ea282f298a18c11d4e52b"
+                "sha256": "bda8c9166b502e7c04d433bc42a1558b25d14d9eba257603fd208ebefeee73b4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.092.1473",
+                "version": "2.093.1474",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "2d4f37ad1621546eb421464fb21b3e77600ae6d4a9f9020130aa0d43052c299a"
+                "sha256": "11323e8c2a87d6957fd00013c7750008b6eabe94a05bd9e67e1bfae0171894f3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -518,8 +518,8 @@
                 "version": "2.093.1474",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": true,
-                "sha256": "56db784226739c02c6eb51304e349e61ccb1c9adf110ffa977ae21a44eb2c01a"
+                "safe": false,
+                "sha256": "11323e8c2a87d6957fd00013c7750008b6eabe94a05bd9e67e1bfae0171894f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1336,19 +1336,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.76.0.24111600000",
+                "version": "6.77.0.2412090000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "b4b6df516a520eb4d5fe19fda9e7a232d2777c97da0a118859fe9b67081abe43"
+                "sha256": "4143600abb6b353ba96a591fc61c274ec3d2e9e0ecd2dd47aac9d205ff7a8c3e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.77.0.2411260000",
+                "version": "6.77.0.2412090000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "323516e7732d283d60027c6f3442a8c79d801ab4032d0004989d38500875dabe"
+                "sha256": "20a4b1ed62bbfd23a165d73e6acfdeed82916107ed2fdc777365ff6da54c7470"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.10.1",
+                "version": "6.10.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "ba3e4dc072df018151c1886557f41d0b37f0ef731850b1180e405c0038336559"
+                "sha256": "cac31c9bcf44bf65fd597bc0a5d20dfdeb48ec4f442a39464a62782ceb3b9b1c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.10.1",
+                "version": "6.10.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "00e5902832cef7d8792da60b039a83f7193cc2207a2b77349f60ff9c87ab7c17"
+                "sha256": "2709cba2fb77ccdaca2dd18a9f32627d4b3e779e3b871da636111982a74a833f"
             }
         }
     },
@@ -1993,7 +1993,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "9c4fd3e3c5d3b3bf17d2d87f0b6fb6f4e82673dcb08dd12d6dfefe8be231d35d"
+                "sha256": "bd257489a43985325a4db0f7d3ceb384cb8f34997f82e6ae533bfd27b2a600d5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
