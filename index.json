@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.80.3",
+                "version": "8.9.80.4",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "d80af732078392bba07b69083a4fafa7e18e2b72f82b0d22e255e80161df046c"
+                "sha256": "1e3d7ecfda317285f3c7ed6a77cf3337eddee09ff4c43c81a874d5b2992567e0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.8.270",
+                "version": "16.9.272",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": false,
-                "sha256": "e7cd0fbdd626430006361be210c1e494b9f34120e3b2264c38c05249f432f617"
+                "sha256": "e23b8912ec9d1cb12e89976fd91328170627f66b13e00e9f6cd832b84e23f131"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "27.2.4",
+                "version": "27.2.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": false,
-                "sha256": "261ff09fb29dcab68f7dac228e93ffc8d20b8ac62360124343f48e67bf802091"
+                "sha256": "8eb50437e3d92441c384702987f48c317b899321f7d0a8b2da27770070c43a96"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1732,19 +1732,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.10.2",
+                "version": "6.10.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "cac31c9bcf44bf65fd597bc0a5d20dfdeb48ec4f442a39464a62782ceb3b9b1c"
+                "sha256": "c2e38d83f446b770238aca3bbb78c72dc75fbf911631e849bb66c400b7cf8748"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.10.1",
+                "version": "6.10.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "ba3e4dc072df018151c1886557f41d0b37f0ef731850b1180e405c0038336559"
+                "sha256": "cac31c9bcf44bf65fd597bc0a5d20dfdeb48ec4f442a39464a62782ceb3b9b1c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.1.40.401 chuppito release",
+                "version": "5.2.0.2 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "e0cb57ff8b6642d0e1d1c70f430bd620a372dfe955ff4cbdfd526b9bfb115ab9"
+                "sha256": "8561303163e74d7360795a1686b4dff2f7183ff874f77e5621024a05a09cbde9"
             }
         }
     },
