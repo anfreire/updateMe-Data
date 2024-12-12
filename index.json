@@ -66,7 +66,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended2.apk",
                 "safe": true,
-                "sha256": "b2c5a013131f7d38f7706226e5fa4e8c4b5e895c4d071d343abbcdd41f0d65c7"
+                "sha256": "83886999ec956feda99f78c6d333a246d74fbb8f847e445366023d29ede01aa7"
             }
         }
     },
@@ -113,7 +113,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended2.apk",
                 "safe": true,
-                "sha256": "ee831be396e5d7b2d79446f77135e84455543ff99be9728cbe313c82da68d2df"
+                "sha256": "7c6041a7e1d5a4a55ceab3381af4cd41e01e608f90eaaa07f88f5856cc20d384"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.35.5",
+                "version": "14.35.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "2c6116216a27df6499d8b0c43423e845bbf0d9d9337ed1eb6753d3b721dda854"
+                "sha256": "8fa61886c4540d29eba030f84abb435a63333180fa10e5369c6ccb0911da8d54"
             }
         }
     },
