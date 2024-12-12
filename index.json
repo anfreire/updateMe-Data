@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "16.9.272",
+                "version": "17.0.273",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": true,
-                "sha256": "dd306219412955f84fec43e0ad5f299691f217e8e536793c66e028e0767d18d4"
+                "safe": false,
+                "sha256": "24490e3ab759cc93cdc3086f2608f8e3f4c86188ffd1485edb421a5d275d4563"
             }
         }
     },
@@ -707,11 +707,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
-                "version": "6.5 build 001 patch 2",
+                "version": "6.5 build 002",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modzoco.apk",
                 "safe": true,
-                "sha256": "0e7cdd8669a25a852cef082870bbcd3e072eb08916fd13cc348f69a3f80be7f0"
+                "sha256": "a40872651b535f3e5833e712cb4ae7b2cb36c47233d197e557d28d57a2532f45"
             }
         }
     },
@@ -1428,11 +1428,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
-                "version": "4.8.5",
+                "version": "4.8.6",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modzoco.apk",
                 "safe": true,
-                "sha256": "b11693dda0fc57cdd90cc1777d35d481cd58199576082ef32574fefd158ac8f1"
+                "sha256": "8c06c2f29560989eb720bf568f65754c05af09d5a10ff27c61e5cb278068dc44"
             }
         }
     },
@@ -1552,11 +1552,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.14",
+                "version": "18.14.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
                 "safe": true,
-                "sha256": "fb7116b3bc6ffe8b1b6b0d3097e51fd0c669d8d340051a5dbcee43adec981151"
+                "sha256": "a924d39ee0165ccfd0bc8df379e275d40346ca639060b64c24028847a985f740"
             }
         }
     },
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.3.0-241128",
+                "version": "15.4.0-241206",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
-                "safe": true,
-                "sha256": "18044665dee4d863f608f2024231f3723417f18540ed055ac8b03db6d4c7c0b7"
+                "safe": false,
+                "sha256": "ae81998f5d7711b8794320670d4db25503064e3228f3eb06ca6948c67751726b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "15.3.1-241206",
+                "version": "15.4.0-241206",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
-                "safe": true,
-                "sha256": "878285dec939c57c753c37e36285d90b2f3c3e12123ab307f5a9e20b6c8fabf7"
+                "safe": false,
+                "sha256": "ae81998f5d7711b8794320670d4db25503064e3228f3eb06ca6948c67751726b"
             }
         }
     },
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.10.3",
+                "version": "6.11.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "c2e38d83f446b770238aca3bbb78c72dc75fbf911631e849bb66c400b7cf8748"
+                "sha256": "32473e87d1dfa2f222bc22c42e06f22cf5a889bdf387378f3e611ca96c02de56"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.10.2",
+                "version": "6.11.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "2709cba2fb77ccdaca2dd18a9f32627d4b3e779e3b871da636111982a74a833f"
+                "sha256": "447c3fa67dbbf1582e70eeb4cf7d01a601dfec63562094c9e7edee42617c2bb4"
             }
         }
     },
@@ -2368,11 +2368,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
-                "version": "4.8.935",
+                "version": "4.8.946",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
                 "safe": false,
-                "sha256": "3616e3b2cf6d8645b0f9bf81c29629a15d27f8a629ffebebf8742e3f688969dd"
+                "sha256": "16189d91971af0391f77fa40d8a1615c168a3e64ce50b91c1badb6d7a9df418c"
             }
         }
     },
