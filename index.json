@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.80.4",
+                "version": "8.9.98.488",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "1e3d7ecfda317285f3c7ed6a77cf3337eddee09ff4c43c81a874d5b2992567e0"
+                "sha256": "c8256174e1498ee5d1b50e5c96678eeb4c92d5ca6c9b522760d758c4097d671c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.8.5",
+                "version": "4.8.6",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "65afd04d92ef40c5fbdd0da3f150ea44945ae3db5b32b01711818462981fc7a8"
+                "sha256": "ef3facaf135895fa04e7a17bfdb4803dd486eab14968d746a9a66fb464800dfd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.8.935",
+                "version": "4.9.105",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "5b1e04184dc8ebc528ac01db208d42c2d149a13ae960304fb9b301d7e02972ca"
+                "sha256": "05ad6fe94efa7621795fe682fb0b3cc6ecde8c260a9c177c7208a8b055710897"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.4.0",
+                "version": "7.4.4.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "f830016152fcbd541eb5dcd8d7ea29bd807dfc6c6c0d4c1075eb402d012e090f"
+                "sha256": "6cc1b59c59f55fb9d7b4ea8ea42baf58c2d909decbec8a96a826c09e8207b9f9"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
