@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.98.488",
+                "version": "9.0.0.487",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "7042ba9131c298aebbf263b4e2cf69621293cc9a9ddafa3219ef7fe6bce8e534"
+                "sha256": "01da22c93106638130f1da91a91670c4b1a08abc998e8d9aceff562404da5fc1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "13.3.0",
+                "version": "13.4.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "9e1d1d04609ef7ade705ae6b716dddb40df59ed3cc310d9fe5a07140cdbafce4"
+                "sha256": "448fcab2f6a287a61be4f37fffdbcbe65e1d9619e2c05d57abf0ebfd1752490d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 001 patch 2",
+                "version": "6.5 build 002",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "5b6577796e0f3a80622beaa23ee293c2e190534c5bdecf2d876e4cbc27fcd10d"
+                "sha256": "b242465337678d70e29d09ea01418bec83984683874c8b5675abb32bbb19f7cc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1124,11 +1124,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/tasker.html",
-                "version": "6.3.13",
+                "version": "6.4.9-beta",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_liteapks.apk",
-                "safe": false,
-                "sha256": "ea558dcc3b4ca49b6c0510faad6808b48674f856bb829a845af377f2964bdebe"
+                "safe": true,
+                "sha256": "d14247ea058ba1c1e625370d00dcfc41afd69275065be576abb008936dc87db2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.4.1",
+                "version": "26.5.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "cab6fb152f4967bbcc12993707fb7ef05fbb3a234386289d643f226850fe4463"
+                "sha256": "a05b60ce9a592f925e85598e30c32a3d60d3a2fc84111fd6ca582e004cd66a11"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.88.2",
+                "version": "1.89.0",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "984673a4284f5e0828a5e48aed6b201717f4775290bcc6986de6659d3c24148e"
+                "sha256": "524c0208e1548febd6c2b29f9b0e64c6d85781795ff313017f5ffee099e06049"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.3.1-241206",
+                "version": "15.4.1-241210",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "65653135e68812ea9206e68437a9ef5dd71b3a8043855e3d6c8c601dd9fca009"
+                "sha256": "b819a1c1b0a87e5d8303b88f29008ff81c6ee7602c45107a7cdca1ce6ac8f240"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.10.2",
+                "version": "6.11.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "cac31c9bcf44bf65fd597bc0a5d20dfdeb48ec4f442a39464a62782ceb3b9b1c"
+                "sha256": "558fc9e88e2ccbfd1b6086c89ec0734cd63179c7c2b9209aabb6682b99f17e2e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2065,19 +2065,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.0.0.1 chuppito release",
+                "version": "5.2.0.2 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": false,
-                "sha256": "2f2746d507bdd8452037c76641713d791b9e996b8b97c97f816812deeb3e39b5"
+                "sha256": "8561303163e74d7360795a1686b4dff2f7183ff874f77e5621024a05a09cbde9"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.2.0.2 chuppito release",
+                "version": "5.2.0.3 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "8561303163e74d7360795a1686b4dff2f7183ff874f77e5621024a05a09cbde9"
+                "sha256": "94f3aa9dbc852102519e96f2aa6b4b9bab8ea725e6bba06b8a31b9216b00fb4c"
             }
         }
     },
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.5.11.34060.GP",
+                "version": "7.5.13.34105.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "817e1c22847ffbb09a2d268173a3aca67484ebc5aad2dcb63ab5597253fe69ef"
+                "sha256": "74002cad69117549ee998b703768f4c9647654d5c6a22216c8a15f505c563367"
             }
         }
     },
