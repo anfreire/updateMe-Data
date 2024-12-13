@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.98.488",
+                "version": "8.9.98.489",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "c8256174e1498ee5d1b50e5c96678eeb4c92d5ca6c9b522760d758c4097d671c"
+                "sha256": "af34bc826adc6d4f0a415a562adab07eab76799ac9b72057bf721e03ff1ee499"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.14",
+                "version": "18.14.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": true,
-                "sha256": "c6694cb85f18a9f8830293a580e98474c7b818a881981188c740938c1a1aa91d"
+                "sha256": "5f35b7052c0af8e99f797e29f016979382a8e49a97cb717e38440024e57e7728"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
