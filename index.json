@@ -413,19 +413,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "16.9.272",
+                "version": "17.0.273",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": true,
-                "sha256": "bda8c9166b502e7c04d433bc42a1558b25d14d9eba257603fd208ebefeee73b4"
+                "sha256": "8a353883b1662713a6330523f1678a9bf8be23f91d57ad1f4bf49f238af9b6be"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "16.9.272",
+                "version": "17.0.273",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": false,
-                "sha256": "e23b8912ec9d1cb12e89976fd91328170627f66b13e00e9f6cd832b84e23f131"
+                "sha256": "d180896a7d4e49a0daf24ee780c9e070c7a4e999dfd5e54f81b25bb3ed0a5ab6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "17.0.273",
+                "version": "17.0.274",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": false,
-                "sha256": "24490e3ab759cc93cdc3086f2608f8e3f4c86188ffd1485edb421a5d275d4563"
+                "safe": true,
+                "sha256": "96d6666bf48c362a12fb292503bad2f9bb875e1d0a92f9fa3a091ea1467cf538"
             }
         }
     },
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.14",
+                "version": "1.12.15",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "9cd99d78c9486c0476a386b658537453fc9e45cae37a87bdca7d09714a168759"
+                "sha256": "d675cb6f4413dd58587285cddba1ada45359caa21e3a12336a79be8ad61f731c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1552,11 +1552,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.14.1",
+                "version": "18.14.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
                 "safe": true,
-                "sha256": "a924d39ee0165ccfd0bc8df379e275d40346ca639060b64c24028847a985f740"
+                "sha256": "60edeecf16a4fd02a3da859aed4e7e22fc2f6ddec83f46360d13bce1ccf647c9"
             }
         }
     },
@@ -1594,11 +1594,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
-                "version": "4.40.08",
+                "version": "4.40.11",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modzoco.apk",
                 "safe": false,
-                "sha256": "cce3f2d6d5262287ff6b4f863fabb9acf41f93ade048bb45201a41ff5c440174"
+                "sha256": "8d90b5a14a60a5b8c5af7fcff5c9464ef4d1a383047065300570c284ded5baea"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.34.9",
+                "version": "14.35.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "adc442f84f5138922da3ede34464e4f8a7d32f377f9a7a7e4f7b01ad4406dca1"
+                "sha256": "56d775ced74ec3c99d6af3508fa4fd0981ce0e3123dd9b6c9c4b518594f6ddef"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.3.1-rc0",
+                "version": "1.3.2-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": false,
-                "sha256": "4c528b460ad8a9ace33b9449c3556ed8104f93e3d40888f702bf3aa637db702a"
+                "sha256": "d7263f734ab78227a2b544d7c0a65152837b71960ec1997d606809a5dbb75513"
             }
         }
     },
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.1.0.0 chuppito release",
+                "version": "5.2.0.3 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "d84774c000abb33e12377d6edefb2f263f2ebd3b41f483fb7f7fbeb6fdea813f"
+                "sha256": "94f3aa9dbc852102519e96f2aa6b4b9bab8ea725e6bba06b8a31b9216b00fb4c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
