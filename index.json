@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "0339476d205a4ba8b179e0c9aff4c3106897a9dd0d54c68fdbd0d6fd4dbc5695"
+                "sha256": "afd0892877d2d9ad51e67e72a50af1ade5545577c4a76cb27dd15c9964c9f95e"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.29.51",
+                "version": "7.29.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "911937f02d23fe9102f09c83faef7d091e978c9912bedc8ceaa1ff7295b8948a"
+                "sha256": "7d734d1b6ce9b3783bef374b7a72c1b45ba5e37cc5242577d452a2dc258125da"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -351,11 +351,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
-                "version": "8.9.98.488",
+                "version": "9.0.0.487",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modzoco.apk",
                 "safe": false,
-                "sha256": "0ac4ee00b664d5c387737ebc141f80ebe8d19cb5e42fc90109fcc1639b1a925e"
+                "sha256": "84504cf84825a7c2ecfe9f79253f05cd2697b389698acdedce3806e706865ca0"
             }
         }
     },
@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "17.0.273",
+                "version": "17.0.274",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": false,
-                "sha256": "d180896a7d4e49a0daf24ee780c9e070c7a4e999dfd5e54f81b25bb3ed0a5ab6"
+                "sha256": "00dec3d2bb4f24c81428200173da761bcb97803c2de8de9dcb0d8d70276d3efa"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -664,11 +664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.14",
+                "version": "1.12.15",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
                 "safe": true,
-                "sha256": "9cd99d78c9486c0476a386b658537453fc9e45cae37a87bdca7d09714a168759"
+                "sha256": "d675cb6f4413dd58587285cddba1ada45359caa21e3a12336a79be8ad61f731c"
             }
         }
     },
@@ -1712,11 +1712,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
-                "version": "15.4.0-241206",
+                "version": "15.4.1-241210",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modzoco.apk",
-                "safe": false,
-                "sha256": "ae81998f5d7711b8794320670d4db25503064e3228f3eb06ca6948c67751726b"
+                "safe": true,
+                "sha256": "cf3a387101549c6ea65510307028d17ceb07a31f6e61bd676eed898b7d149654"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.11.0",
+                "version": "6.11.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "447c3fa67dbbf1582e70eeb4cf7d01a601dfec63562094c9e7edee42617c2bb4"
+                "sha256": "64d9dfa17b8ea8d5674c162871a763572de9a8bc3e01a7d3fa48403591986e1c"
             }
         }
     },
