@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.70.0-release.0",
+                "version": "10.71.1-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "76343af98ea8bee7e7e2dd2b9d62ce5f99d23dbaf3e228365cd6976a0620bd3f"
+                "sha256": "fa7fe3d05c2e41e4910d8a8e12bab5fc54f1b996d2c7af2d0d1a6088bb62dfec"
             }
         }
     },
@@ -2368,11 +2368,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
-                "version": "4.8.946",
+                "version": "4.9.105",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modzoco.apk",
                 "safe": false,
-                "sha256": "16189d91971af0391f77fa40d8a1615c168a3e64ce50b91c1badb6d7a9df418c"
+                "sha256": "2f4b93a25f060ba0c05eb556e1607ada027adf9e2d7d62fff69905b99d40320d"
             }
         }
     },
