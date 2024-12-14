@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "39080a523cea993c33f5ff486c773b1452cb5b7ecdae583b6124c0a276ff9f6e"
+                "sha256": "b2a7c75002c161f032378e69f228bc66995d5332216b41eb80f8c4a759b75ae2"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -85,11 +85,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.28.52",
+                "version": "7.29.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "4522101990452348ea1b796898d16718911f89e86a7aba84960de5d09c549f4b"
+                "sha256": "61b342f4c5b493da038a3ea854f7eac186f9a1038b193e5317073231a7ebd897"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "d037a2c27174eb0ce26a93858d293450dc30bf503ba5fcf5bd19363518d54103"
+                "sha256": "5a9c460b36c63ba072352bb8369f5ce10a5819ab69c01cc4d8bd21364fd763f0"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "232f2ca9b41ab9a35d41bfef54e0de4d8e6b5f052b046652667594dc70112421"
+                "sha256": "4793d38dec95675a464ec72909a3fb6bdd358d6895234d79e5987e5d3abf3bea"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.14.1",
+                "version": "18.14.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": true,
-                "sha256": "5f35b7052c0af8e99f797e29f016979382a8e49a97cb717e38440024e57e7728"
+                "sha256": "3e7887c44bb521ad464c954ca96b6b565cd12fbbdb84b5acf27e6ed0e3119ecd"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.35.6",
+                "version": "14.35.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "8fa61886c4540d29eba030f84abb435a63333180fa10e5369c6ccb0911da8d54"
+                "sha256": "efa67b58b4625109e0c4cb9179bb5952c824ff305d0fdde2a5e425657d0a8415"
             }
         }
     },
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "94575a789796cf7d42259a3a1528b4a6ca771e305b7db8fabbe1ccd5b2f0a4fe"
+                "sha256": "5358f60ae4819d56c5a08a31e01505b2add29f7660e1f8c00e6c0125adc9a867"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "a0ba69bd5388798dfaec9ab7db3f9af6dad77bea5f17e98c450c9b5139212a89"
+                "sha256": "cc36bc8c61d691d370dfd1e1a7b9a6a906afadc21c75abe3342b77a6a9c4cf76"
             }
         }
     },
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "fa7fe3d05c2e41e4910d8a8e12bab5fc54f1b996d2c7af2d0d1a6088bb62dfec"
+                "sha256": "9ad33f45a81c5857743ac6c02a5c48e668aa02c932db0826f686bc5cac137d02"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "186a4dc681dedc0157aff87555416a809cc5b39ef0597aefdfd9f9ac1d5931d0"
+                "sha256": "74c1884bcd3a810ec10fb4103f94c7585fa352656b24104394191cbdc05faf6e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
