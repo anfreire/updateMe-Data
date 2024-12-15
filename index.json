@@ -1360,11 +1360,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.77.0.2412090000",
+                "version": "6.78.0.2412140000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "4143600abb6b353ba96a591fc61c274ec3d2e9e0ecd2dd47aac9d205ff7a8c3e"
+                "sha256": "8a0594c4250fd302512ce553afc612e02ca3bb8a53afc4f39c17026eed3ad799"
             }
         }
     },
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.88.1",
+                "version": "1.89.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "25d470962b7fb74f214482f352a6e2a4038f99ab5d94c60eb29f65316c5b8947"
+                "sha256": "1a43d19b12d5943c18506cda4185294110cc26ff0136328c46b267a5e31baeb0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
