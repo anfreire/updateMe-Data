@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.40.01",
+                "version": "4.40.11",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": true,
-                "sha256": "7412cdccbfc8522534a71bd0de289cc9f1832370b733100d3d8acee7f6a88d91"
+                "sha256": "c26bafd13c99128c8169deac1ba7d1edd8d7601ea0da12b3aa0243fefcfa61ff"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "10.0.2",
+                "version": "10.1.0",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
-                "safe": false,
-                "sha256": "7033ee28962047e99364dcabc7e06987bc6d599fc7417e7e78d8be6f98d82952"
+                "safe": true,
+                "sha256": "42e213304a67675d47f9ba97310def09f6a1daf214fef5a968097fa863cbd739"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.11.0",
+                "version": "6.11.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "558fc9e88e2ccbfd1b6086c89ec0734cd63179c7c2b9209aabb6682b99f17e2e"
+                "sha256": "b7b0fecb5a7c8a49319b828db51cb8019bf1fb72273c131219a256c1f02c2ee5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
