@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.98.489",
+                "version": "8.9.80.3",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "af34bc826adc6d4f0a415a562adab07eab76799ac9b72057bf721e03ff1ee499"
+                "sha256": "d80af732078392bba07b69083a4fafa7e18e2b72f82b0d22e255e80161df046c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.77.0.2412090000",
+                "version": "6.78.0.2412140000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "20a4b1ed62bbfd23a165d73e6acfdeed82916107ed2fdc777365ff6da54c7470"
+                "sha256": "edbcccb21d2733ee52b1529c6c9fdef1f3d2ad2391075f911aa427d1e23621b9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
