@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "afd0892877d2d9ad51e67e72a50af1ade5545577c4a76cb27dd15c9964c9f95e"
+                "sha256": "a233181a34768ea1ab6cbbb70cbeefc1cc8773364e333a10f542efb2ce507c07"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "7d734d1b6ce9b3783bef374b7a72c1b45ba5e37cc5242577d452a2dc258125da"
+                "sha256": "8a5d522fe2d9ba0a2d26da5f23bc6736ee811cec04f6cf4236ba84aee4e75859"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.80.3",
+                "version": "8.9.80.5",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "d80af732078392bba07b69083a4fafa7e18e2b72f82b0d22e255e80161df046c"
+                "sha256": "03654d38cc762a537248703bc19ea74c7446d20be699749146c532bcf22dcf57"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.35.7",
+                "version": "14.36.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "efa67b58b4625109e0c4cb9179bb5952c824ff305d0fdde2a5e425657d0a8415"
+                "sha256": "eeac9a63396e9ac3b96513b45b9caf04e46b61b0fac96d423ce7f677ae10bec8"
             }
         }
     },
