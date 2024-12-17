@@ -1744,7 +1744,7 @@
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "b7b0fecb5a7c8a49319b828db51cb8019bf1fb72273c131219a256c1f02c2ee5"
+                "sha256": "82f7f4f031974868d4a03fd68f7582ea96c2fe28d88e7ae6a4b88272b65011f6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
