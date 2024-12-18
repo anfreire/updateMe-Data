@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 002",
+                "version": "6.5 build 004",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "b242465337678d70e29d09ea01418bec83984683874c8b5675abb32bbb19f7cc"
+                "sha256": "073cf4556e49626e6545ef877e010b430815cf980b22d1b605cb044874f9db47"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.89.0",
+                "version": "1.89.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "524c0208e1548febd6c2b29f9b0e64c6d85781795ff313017f5ffee099e06049"
+                "sha256": "730f0bdcaf39130aad577c8035219ab969b6ae81ce8876e0b363c8bf07671063"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.105",
+                "version": "4.9.159",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "05ad6fe94efa7621795fe682fb0b3cc6ecde8c260a9c177c7208a8b055710897"
+                "sha256": "fa5357747b5714f54614896f93cee4df5b002e00ace5d98b39ab3f9ec4b2b830"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.4.1",
+                "version": "7.4.5.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "6cc1b59c59f55fb9d7b4ea8ea42baf58c2d909decbec8a96a826c09e8207b9f9"
+                "sha256": "da3e356f7fb22d41758ab4d9076eca2b90a879eb246ef45dfe5f20a2ffe0fe88"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
