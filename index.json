@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.88.2",
+                "version": "1.89.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
-                "safe": true,
-                "sha256": "46f2c990b770908a6c1dfc70a039e9758f18f4f74fafd3ed414f48c6eceb7bc4"
+                "safe": false,
+                "sha256": "8b5578d86d268018c7d1fa6c8c306327764a56380793e845af1156680052ad72"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
