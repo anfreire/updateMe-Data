@@ -143,11 +143,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2024.46.0",
+                "version": "2024.49.1",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "aebb71c2e3543ea1540d27c944eea3568d5006f1c32b080a9bd15a422b6e059f"
+                "sha256": "3711ee66e07eab11b9cd30f76b0a6c5a8d06a9bff00e8d66e2bbb37d1a9be5d4"
             }
         }
     },
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "13.3.0",
+                "version": "13.9.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": false,
-                "sha256": "2753733e19cc2e474fb6bd285707676833f6c60675c45f36ad05cc014b8dbfcb"
+                "sha256": "e0685b03970520782b934f7e388277ce5b9ea510a026b11d9de4fb637a012ca8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.78.0.2412140000",
+                "version": "6.86.0.2411290000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "edbcccb21d2733ee52b1529c6c9fdef1f3d2ad2391075f911aa427d1e23621b9"
+                "sha256": "5822dbba0dff07c7fec717e8a8375af9784764ffe7a4d310c2c03a4fb4374138"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.1.0",
+                "version": "10.5.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
-                "safe": true,
-                "sha256": "44623111e0b0cd56b8c8d9f9080923331e8a0346d5ebddb9a5661896dcb0e718"
+                "safe": false,
+                "sha256": "74cf80354bcec29f0dfa58044d7960bbf808c819fcfaf0bc1ebf6579f614750c"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.11.2",
+                "version": "6.12.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "82f7f4f031974868d4a03fd68f7582ea96c2fe28d88e7ae6a4b88272b65011f6"
+                "sha256": "ea5ef1f786ded6a51e927b00f180eda91b260eb774bccd7e71c395c0268cc219"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
