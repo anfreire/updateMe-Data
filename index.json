@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.36.5",
+                "version": "14.36.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "eeac9a63396e9ac3b96513b45b9caf04e46b61b0fac96d423ce7f677ae10bec8"
+                "sha256": "be6cf60083e8525d4d5454ded7c146aea52800b063a20bfbb1947c6b25fc8152"
             }
         }
     },
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.11.2",
+                "version": "6.12.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "08a13ef831008d9bd46e963f5a18f61f5e038edc9b44e3d44b421873c2597e76"
+                "sha256": "d905ae9131167cbda770f36f48e1a517b90fc251ed10068a9562cb5a310f7bb2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.89.0",
+                "version": "1.89.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "1a43d19b12d5943c18506cda4185294110cc26ff0136328c46b267a5e31baeb0"
+                "sha256": "84ddb25010b6205b3a5cbf48c04046a4d330a1a67163c70b2020326040981e34"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2164,11 +2164,11 @@
         "providers": {
             "FouadMODS": {
                 "source": "https://fmmods.com/fouad-snapchat/",
-                "version": "13.17.0.42",
+                "version": "13.21.0.43",
                 "packageName": "com.snapchat.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snapchat_fouadmods.apk",
                 "safe": true,
-                "sha256": "9712d13d483b04601b972dbcea33b70d12c3babb4cf3034d5807c8b7f5eedfcb"
+                "sha256": "59a4a82a9ec050c934c8f37e43b9ee7e2baeef222fb2243a0f78c86678aaedd0"
             }
         }
     },
