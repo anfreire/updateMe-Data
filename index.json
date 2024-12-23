@@ -978,11 +978,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/linebit-icon-pack.html",
-                "version": "2.0.1",
+                "version": "2.0.2",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_liteapks.apk",
                 "safe": false,
-                "sha256": "8f9ddeddff80cc47e33dfaa453c53a8c874ce52af68186372eb9b8909ce220a8"
+                "sha256": "73ea20be1788c488df911a86067723d47e2333f5c2c5d4669ce575cb2bc18cdc"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "eca7842bf2f6e1264f31c07e9df9bfdcdc5cb50aea3ead155135b2dce8e7ebd2"
+                "sha256": "f1107ed9cf7ff3096bb0d6de822b749e2c881187aa9d952979c452b37c1865fd"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
