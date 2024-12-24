@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "175ce8def989e8f40cad8a82a77475cda36de0a18e4d113efba01bc736b1452c"
+                "sha256": "9104bf6e599220e02de7f253ab8f9b56ed8fe78ef39d72b6fccbd3aa01be2fea"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "6ce5541f7951e2590b5844a21013f684bbeb599e9292dcce3fc851493b7f92af"
+                "sha256": "e23d5b85708a04cbd45aaa65159ba59052a5c9017d4e8e4287457615badd7131"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "4f36796756f594e95eee996d59aed665c6b5f8355f5ec96bfd9f19108b1ca709"
+                "sha256": "b05431b55fb27444471af8f29e8d06640e7264082a77a550d27f0e3927d2045a"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "607c3fe9d3d4266893a4d237f12de5e31f7e8b4217ead72fe0cb9ffb45d51204"
+                "sha256": "8a22f10aa8f8cb2442bb773a72c2548bb03b3df060316890f69e217e7c0fd8e0"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1214,11 +1214,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
-                "version": "7.13.0",
+                "version": "7.13.5",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_liteapks.apk",
                 "safe": true,
-                "sha256": "9efe7a47b2c01666b421818c4a386b177d8d853962b022639583e320599eaaf6"
+                "sha256": "4d238b9680ae698eca93f92d914e8d3ce7ebc838f5c590afa60f26cf4962b063"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.36.6",
+                "version": "14.37.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "be6cf60083e8525d4d5454ded7c146aea52800b063a20bfbb1947c6b25fc8152"
+                "sha256": "d43131e828685be540fa03ea7be2e07472f91c62634018998bdea99c0145cebd"
             }
         }
     },
