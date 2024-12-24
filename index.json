@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "eeae14202f88ecb2108d89e35d4b35b5e1d58c999d8b771f36f8af05867bc293"
+                "sha256": "06347725013bbb878fad62f11ff544712d1c3b3e4381b8e4277d290d779d658d"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "e7f4c1ed82fc9837d071a977c455ed07446c5fcdec1d19041c51272d780227ac"
+                "sha256": "544dd24e0027e559a0e2c9f413d72079d7556fddded6c09f50b3274974111cc4"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -970,11 +970,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/linebit-icon-pack.html",
-                "version": "1.9.9",
+                "version": "2.0.2",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_modyolo.apk",
                 "safe": false,
-                "sha256": "5b4027d8c8498868f7c2a1412828b176c89a3dbfab4e0e969882f08752080f4a"
+                "sha256": "73ea20be1788c488df911a86067723d47e2333f5c2c5d4669ce575cb2bc18cdc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/linebit-icon-pack.html",
