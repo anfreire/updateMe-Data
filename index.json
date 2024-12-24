@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.23.2",
+                "version": "1.23.3-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "858080c29cd295142f391925b0301c043b67aac5c1b3ad6e5651220698f8b912"
+                "sha256": "162fb0ebb98588fd2a482c54a8e0afe64bb19228d98af908aff6c5a339f37015"
             }
         }
     },
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "753cf54f89f217d188c4e313573fc29fd2c9c328e1a17b2856d3c125931a49e1"
+                "sha256": "d03d6c730229539d8dc5bef528b7af92cba2fd4bd770326096b10e2aa7fb0292"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "c513494588385793d99316e866763c1370c0bc8db50a6117a77fbbc97e6e652f"
+                "sha256": "68100ab8d92c61dbb82452d79660a153144c16c339005881a7ea817aae293fb6"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "488.0.0.56.106",
+                "version": "489.0.0.0.174",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "52f94feaf0f4f34a02e8489e2a9818786b89a04912b2f7d7e9e8b181bb131c11"
+                "sha256": "df192adb9cf3200929c9b1dae1dd4bed7919cc0781b28953bb3bcfb1e8e2cc42"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "f1107ed9cf7ff3096bb0d6de822b749e2c881187aa9d952979c452b37c1865fd"
+                "sha256": "b78717292fd25c11b6bbd293d48266d1702eac3fbc3a49c8a7e97bfe95483dda"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
