@@ -1097,11 +1097,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/auto-clicker-macro-clickmate.html",
-                "version": "7.1.2",
+                "version": "7.1.3",
                 "packageName": "com.inscode.autoclicker",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_liteapks.apk",
                 "safe": false,
-                "sha256": "090bba8a712b3546f67b53cd0d71d4aa017c8f113b1557fe214166382b4d2cdf"
+                "sha256": "9a42e4041ced3f1ff82eb16b81fd794a43fc43b8761bfa66a07d28a9671f4eee"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/clickmate/",
@@ -1775,11 +1775,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/mx-video-player.html",
-                "version": "1.88.1",
+                "version": "1.99.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modyolo.apk",
-                "safe": true,
-                "sha256": "25d470962b7fb74f214482f352a6e2a4038f99ab5d94c60eb29f65316c5b8947"
+                "safe": false,
+                "sha256": "505a0d684a62e4692cbd3df313db5ead843a7afb9c24f713f2a5511161534be2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.77.1205",
+                "version": "1.03.78.1219",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "0cc2689f5945b357b41b8ca01af1892dc76d01fec14584d0a4664371840723c5"
+                "sha256": "c86f004bad635f5ff1fe2e0d3645eb36e9758f0a30e179a9ee82993b397e5dd3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
