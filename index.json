@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.5.3",
+                "version": "26.5.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "784d26619bc30a1e11057a308679518b6e094d1b2aa860cbb5ac1c60914d5d25"
+                "sha256": "baef6c3ce18bb4baea0e3a67a870c5e68f0937419815407ac9c32d7cf2f8722b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.89.1",
+                "version": "1.89.2",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "84ddb25010b6205b3a5cbf48c04046a4d330a1a67163c70b2020326040981e34"
+                "sha256": "23013ee5356eb271ae4d775819e656b3f394243bebcd31bd350d949de89e4301"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.5.10",
+                "version": "13.6.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "805e9f4375498e54f84e867e97d3044aff1057b2df682bce7ee2c102744cf4b7"
+                "sha256": "95fdf9c8ffc6fd5005e5128daeba27de2d0620c646da936e07034474a689d0b2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
