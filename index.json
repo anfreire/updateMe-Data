@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.5.4",
+                "version": "26.6.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "baef6c3ce18bb4baea0e3a67a870c5e68f0937419815407ac9c32d7cf2f8722b"
+                "sha256": "ad7ae082f309e61a1c11a5ab44ba311fdc53726d51ddf1c1b34e44e819286568"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.72.0-release.0",
+                "version": "10.72.1-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "9229d4e9a05211a04dbf5de0f8f4fd6f5e347a6279ce3b772ffab94372361b1f"
+                "sha256": "da848edd8406d84eec2482891494e7ddfefb360ef1250e5b2133394e2a166757"
             }
         }
     },
