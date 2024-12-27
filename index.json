@@ -13,11 +13,11 @@
         "providers": {
             "HDO": {
                 "source": "https://hdo.app",
-                "version": "2.0.19",
+                "version": "2.0.23",
                 "packageName": "com.hdobox",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/hdo_hdo.apk",
                 "safe": true,
-                "sha256": "f94612147174a531f12a3d4d753c835bde0a1a9a2af41394085f121dac761862"
+                "sha256": "1ab67e1d2e521a01ed51554db4cffda89f8ebc3ac07acbe34563f88e8079d5d7"
             }
         }
     },
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.12.15",
+                "version": "1.13.1",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "d675cb6f4413dd58587285cddba1ada45359caa21e3a12336a79be8ad61f731c"
+                "sha256": "d8f20a87141835d2a31ab38af330ff936d6cf82f75df9616784bcf7689886218"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
