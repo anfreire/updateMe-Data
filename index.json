@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.89.2",
+                "version": "1.90.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "23013ee5356eb271ae4d775819e656b3f394243bebcd31bd350d949de89e4301"
+                "sha256": "b409906c8cd0e1b53277e417498cea2a17e1b2faf26ec1393f1f302155f35c94"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
