@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.78.0.2412140000",
+                "version": "6.79.0.2412230000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "edbcccb21d2733ee52b1529c6c9fdef1f3d2ad2391075f911aa427d1e23621b9"
+                "sha256": "0a0ad85f20aec2934726d7cbc916b68f6acd3f3826c2fd8f8934abb55c019e5a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.90.0",
+                "version": "1.90.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "b409906c8cd0e1b53277e417498cea2a17e1b2faf26ec1393f1f302155f35c94"
+                "sha256": "2072aabc5b82a914b6b0c4e726f57012c905e4600312a216d5f2941496cc20d4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.5.11.34060.GP",
+                "version": "7.5.14.34120.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
                 "safe": true,
-                "sha256": "817e1c22847ffbb09a2d268173a3aca67484ebc5aad2dcb63ab5597253fe69ef"
+                "sha256": "e55c279532cc40f132c887497b25802a93f4442cccf728d4ac0fd3927e211888"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
