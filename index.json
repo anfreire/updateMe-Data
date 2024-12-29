@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.159",
+                "version": "4.9.211",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "fa5357747b5714f54614896f93cee4df5b002e00ace5d98b39ab3f9ec4b2b830"
+                "sha256": "b52e04a9f0b164ebc313b7f94b6d4bdf54e625e263e81561f654a26b1e8da486"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
