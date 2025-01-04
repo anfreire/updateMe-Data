@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.135.1489",
+                "version": "2.245.1492",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "24af68c0bd2bca8694941f10bd4045d77c52c8ac452341f1d501d11821179a1c"
+                "sha256": "44bad12ba0b22744daa3ccb59c4e81890787b110409d052e8dcc6693a3c585a7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.86.0.2411290000",
+                "version": "6.89.0.2501290000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
-                "safe": true,
-                "sha256": "5822dbba0dff07c7fec717e8a8375af9784764ffe7a4d310c2c03a4fb4374138"
+                "safe": false,
+                "sha256": "3b8e4e339ce0b2c59c39fb98178b138c60648dfe010028b4f929f4c3d84a4a7f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.4.0-241206",
+                "version": "15.4.1-241210",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
-                "safe": false,
-                "sha256": "ae81998f5d7711b8794320670d4db25503064e3228f3eb06ca6948c67751726b"
+                "safe": true,
+                "sha256": "cf3a387101549c6ea65510307028d17ceb07a31f6e61bd676eed898b7d149654"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
