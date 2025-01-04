@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "7.31.51",
-                "packageName": "app.rvx.android.apps.youtube.music",
+                "version": "3.9.0",
+                "packageName": "oss.krtirtho.spotube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
-                "safe": true,
-                "sha256": "760dc426b0aafd8f90e3840ed1f0878a697ce883ddfa9fa44e391fe1c2fc1721"
+                "safe": false,
+                "sha256": "ac2bebed726cae538e877f31a75884f31bf990ce45ecf67d5ee5992c20ff295b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
