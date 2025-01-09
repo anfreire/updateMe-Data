@@ -480,11 +480,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
-                "version": "13.2.0",
+                "version": "13.5.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modzoco.apk",
                 "safe": false,
-                "sha256": "81363e74ed33babdede02e11ae04d0bca44c596948c10c5569989b9953449219"
+                "sha256": "4e27831b0775c617fc83b1c9806e14c213451f884907a84f9211750b68af0275"
             }
         }
     },
