@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.5.2",
+                "version": "10.7.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": false,
-                "sha256": "a9e0f9d16b0589a0b723267e2ac0ab34b826b5ed464bf107727cfde8e22db7e8"
+                "sha256": "d15b6ef54c3b020d1649eea9f86b28af21c98b4e67fb43d3aed25a83903a0300"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
