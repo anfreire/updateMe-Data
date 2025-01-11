@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.1",
+                "version": "1.13.3",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "d8f20a87141835d2a31ab38af330ff936d6cf82f75df9616784bcf7689886218"
+                "sha256": "e442037cdeb0ba74cb88b28c84e2f147f3ed64d7f1806f0f8251d422ceff5d3c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.72.3-release.0",
+                "version": "10.75.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "b43dde5943d5ff327f8bd1bb21d71e29165fc511744cfd13f597ebcb0cd9bee4"
+                "sha256": "3475bf4928426371b10785bec964ae731bc909fbf70076ce39a8bf9193b58c8f"
             }
         }
     },
