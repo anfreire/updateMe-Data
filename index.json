@@ -394,11 +394,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
-                "version": "1.594.197",
+                "version": "1.603.201",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modzoco.apk",
                 "safe": false,
-                "sha256": "85803c465e95b4d5b16d58df079595b66d0d7334b8a4a4d21b16ad902ba5b3c2"
+                "sha256": "6f5a000ce49f922a14148c0dac02975c29d0e534d0265a601f33091d9efe4b4a"
             }
         }
     },
@@ -437,11 +437,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
-                "version": "17.0.274",
+                "version": "17.1.277",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modzoco.apk",
-                "safe": true,
-                "sha256": "96d6666bf48c362a12fb292503bad2f9bb875e1d0a92f9fa3a091ea1467cf538"
+                "safe": false,
+                "sha256": "4f623893e03b236fe25c76aabee4d80175976acb0bab4e0e1c65cb40b372a725"
             }
         }
     },
@@ -664,11 +664,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
-                "version": "1.12.15",
+                "version": "1.13.3",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modzoco.apk",
                 "safe": true,
-                "sha256": "d675cb6f4413dd58587285cddba1ada45359caa21e3a12336a79be8ad61f731c"
+                "sha256": "e442037cdeb0ba74cb88b28c84e2f147f3ed64d7f1806f0f8251d422ceff5d3c"
             }
         }
     },
@@ -1360,11 +1360,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
-                "version": "6.78.0.2412140000",
+                "version": "6.80.0.2501070000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modzoco.apk",
                 "safe": true,
-                "sha256": "8a0594c4250fd302512ce553afc612e02ca3bb8a53afc4f39c17026eed3ad799"
+                "sha256": "5038f2618622a21be444a4920695202aad350fa2900c62f37891ce73d53ffe0e"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.13.1",
+                "version": "6.13.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
                 "safe": false,
-                "sha256": "a895ede59f614a3e98060db02bd6babba3ae0f543665c5f85e6a5e00294588fa"
+                "sha256": "8682098c3b5547fe0c971b09d7c98b8635ac9ab3dade3c45bdfc5ed85c0ee033"
             }
         }
     },
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.2.5.1 chuppito release chuppito release",
+                "version": "5.2.90.901 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "33534dae637abba8a0c5cc737f570296be760ce9b47f4bf0ee0bb951e8a13b3a"
+                "sha256": "7b5bcf3674e38e01dab43c975a1572d48f239e2e23f07e17820ebe2f11e52c5b"
             }
         }
     },
