@@ -1230,11 +1230,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/musixmatch-lyrics-finder.html",
-                "version": "7.13.0",
+                "version": "7.13.6",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_modzoco.apk",
-                "safe": false,
-                "sha256": "23dbcb4f5058d0d1b4b9fc98d7efe748098f164f81b96f124b4120d8b4822b55"
+                "safe": true,
+                "sha256": "785e43e80dfa1240967836296198455ca0c01f29ba9acfe1cd45241a7086059d"
             }
         }
     },
