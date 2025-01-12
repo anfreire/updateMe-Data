@@ -561,11 +561,11 @@
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
-                "version": "347.3.0.41.105",
+                "version": "347.3.0.41.106",
                 "packageName": "cc.honista.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_honinsta.apk",
                 "safe": true,
-                "sha256": "6f77140c07116573833ab85cd496eba830df0877535bca28d11a2d539add1cf3"
+                "sha256": "9b6788f1edee529f5d8cc6ebe3dd82153ba1894168723c72a2eed4836c6f4974"
             },
             "Instander - Clone": {
                 "source": "https://thedise.me/instander/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.90.3",
+                "version": "1.90.4",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "3909c87a1eed7fde5142224eb8a9df596a33f355259af9ef241c8144fe2758d1"
+                "sha256": "b7f3d498e0f83e3cadbcd025428a486fa3c242ce63af5ccfea30375905c2a15a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
