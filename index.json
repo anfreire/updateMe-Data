@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "17.6.274",
+                "version": "17.6.305",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": false,
-                "sha256": "c43b1e2087c32b96c91f16dd69631ce5a5ed0c24fffd670ec6d9c152bb58d92e"
+                "sha256": "cafcf5a7f5734d46c21847ffb85b6401f249305c4cd1dc324195ed4771da1a44"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "14.45.0",
+                "version": "14.68.9",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "609ed4c501e320affccb7a416eff7536c904eefd9286abe574105d9bd826258b"
+                "sha256": "77eb1c95552ded9cf674288912a1bd6d6200fddb8d1c869d0597c0a806a2f5f8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
