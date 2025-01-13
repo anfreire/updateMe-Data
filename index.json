@@ -1214,11 +1214,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
-                "version": "7.13.5",
+                "version": "7.13.6",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_liteapks.apk",
                 "safe": true,
-                "sha256": "4d238b9680ae698eca93f92d914e8d3ce7ebc838f5c590afa60f26cf4962b063"
+                "sha256": "df3d36f3a1246395c3940dc957a1db81db71171ddd68efcd52d44d435978b914"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
