@@ -1206,11 +1206,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/musixmatch.html",
-                "version": "7.13.5",
+                "version": "7.13.6",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_modyolo.apk",
                 "safe": true,
-                "sha256": "4d238b9680ae698eca93f92d914e8d3ce7ebc838f5c590afa60f26cf4962b063"
+                "sha256": "09d2ec2b142e3e5dd1886b572fbf2a01097ed65355707626605efac9b65dd39b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
