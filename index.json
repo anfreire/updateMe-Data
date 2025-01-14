@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "27.6.4",
+                "version": "27.9.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": false,
-                "sha256": "c729ca429b683669757c393eed53f0f6fcdf331c1d3ddc05d99806051177cd0d"
+                "sha256": "ca29da9957d4f9087da5a21b4a07b781a35631ce40576baab020413571ccf312"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.39.6",
+                "version": "14.40.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "239dee96a804e11edce47a71e7b905a2a94f8c29ef5296c56579438c78ba37dd"
+                "sha256": "c1a48fe5161832e01e55cd4cfaad828b9799f336c4e9995bfe532b3aa54cf0f0"
             }
         }
     },
@@ -2164,11 +2164,11 @@
         "providers": {
             "FouadMODS": {
                 "source": "https://fmmods.com/fouad-snapchat/",
-                "version": "13.21.0.43",
+                "version": "13.22.0.61",
                 "packageName": "com.snapchat.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snapchat_fouadmods.apk",
                 "safe": true,
-                "sha256": "59a4a82a9ec050c934c8f37e43b9ee7e2baeef222fb2243a0f78c86678aaedd0"
+                "sha256": "642657062cfcabdfd90d099a9879c94f355a58636b656aa90c449f51c7d59d4f"
             }
         }
     },
