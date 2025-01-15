@@ -1218,7 +1218,7 @@
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_liteapks.apk",
                 "safe": true,
-                "sha256": "df3d36f3a1246395c3940dc957a1db81db71171ddd68efcd52d44d435978b914"
+                "sha256": "25b3d375c3b2118073d428618fb933d36e8455fa99e8607e72539ec30e582821"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.6.2",
+                "version": "26.6.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "10e02d58146ddfcae36df8c9c5bcb72546669bd8fc2130f8bd83a913dd278725"
+                "sha256": "c8a3e8c950265d2d5d6bd4a929069324d3f66e118933f23c5595f18fff8b8ce0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
