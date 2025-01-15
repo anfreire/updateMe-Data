@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.594.197",
+                "version": "1.603.201",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": true,
-                "sha256": "e69bdad545fe819ea5026aab49a5b9df6454a533791ef9186f2676ac0d749b15"
+                "sha256": "517ad454b419df58da7174fcace9650f6eb08578536068389879f5e6ebfdf473"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
