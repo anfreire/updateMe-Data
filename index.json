@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.23.3-dev.1",
+                "version": "1.23.3",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "162fb0ebb98588fd2a482c54a8e0afe64bb19228d98af908aff6c5a339f37015"
+                "sha256": "a7bb8aaed172d421a0eb6bd2edb96af66ac8c15c8a3f64de5c0fc4a996f4f7c3"
             }
         }
     },
@@ -939,19 +939,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.2.2",
+                "version": "6.2.5",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "5a73f5537ed1e0be3924168e157720395566c02cca04342ecabcb593a58a3197"
+                "sha256": "854d5eb33c5a10d907d43ec3065493d601bcb83722414320e406515379bb4c0d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
-                "version": "6.2.2",
+                "version": "6.2.5",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_modzoco.apk",
                 "safe": false,
-                "sha256": "5a73f5537ed1e0be3924168e157720395566c02cca04342ecabcb593a58a3197"
+                "sha256": "854d5eb33c5a10d907d43ec3065493d601bcb83722414320e406515379bb4c0d"
             }
         }
     },
@@ -1552,11 +1552,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
-                "version": "18.14.2",
+                "version": "18.15",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modzoco.apk",
-                "safe": true,
-                "sha256": "60edeecf16a4fd02a3da859aed4e7e22fc2f6ddec83f46360d13bce1ccf647c9"
+                "safe": false,
+                "sha256": "bd831662a4a9dce5a8ace9e34a39f3e80fc6caddd86fed07a395789fee4641a7"
             }
         }
     },
