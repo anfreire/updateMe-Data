@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.42.0",
+                "version": "3.43.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
-                "safe": false,
-                "sha256": "b584ae28da56f13c7dcf1333ac4fc9fcd2bd116e8c473a7a6ba9f53a95868d36"
+                "safe": true,
+                "sha256": "e7765b294735ecdc5934881b84b86d681c4255f8ecee83dec4fc433c31cb1cd8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.13.2",
+                "version": "6.14.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "7d726b8a1b15643e30f345504e0674e0a92d880fbd204d75ce3c16019e932cb4"
+                "sha256": "1f1a90526197fdc648bcd9a8df15f151059b97aecae1497c116adc974f8e7a5c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
