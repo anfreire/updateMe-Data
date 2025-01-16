@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.5.3.0",
+                "version": "11.5.6.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "a5c98a8bf2184e499f40c61214421cd0088bbae018a17bb1bf894cc434d93f08"
+                "sha256": "fe90e382d96181da2baf52d7d38bdb55d8505f8af0eb5dc9ba4353548868f7ff"
             }
         }
     },
@@ -1318,11 +1318,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
-                "version": "3.42.0",
+                "version": "3.43.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modzoco.apk",
                 "safe": true,
-                "sha256": "796b326555b984439519fb8959237c625f8680f970b1bc315a71439508b92f4f"
+                "sha256": "2e350156fde89c8451b470a8ea14fc66317c8c1156005d634e6d48ba6e49a9c9"
             }
         }
     },
@@ -1756,11 +1756,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
-                "version": "6.13.2",
+                "version": "6.13.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modzoco.apk",
-                "safe": false,
-                "sha256": "8682098c3b5547fe0c971b09d7c98b8635ac9ab3dade3c45bdfc5ed85c0ee033"
+                "safe": true,
+                "sha256": "7cc635e8e7d3328ffd27933e5be233df11f967cefb9a4917e9f8bfe3a4bf2df2"
             }
         }
     },
@@ -2073,11 +2073,11 @@
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
-                "version": "5.2.90.901 chuppito release",
+                "version": "5.3.0.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modzoco.apk",
                 "safe": false,
-                "sha256": "7b5bcf3674e38e01dab43c975a1572d48f239e2e23f07e17820ebe2f11e52c5b"
+                "sha256": "4583056db9a6e86805c61b0b951eb95228459b7b6b51c70b0dc4a85e6505d721"
             }
         }
     },
