@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "ce473ceac70abe1de754db588940c5547e846f0156c2e574e7f7f11445c7203d"
+                "sha256": "050db6c46fb1c75c26a093eebb7b30630b7b0b896ef5f024baa5dafcdb19584d"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "42d7a4da1c97e7bb666d1c36c8a787084ab46db9459f638d2b2c63e4ea40668b"
+                "sha256": "e12e0a4e57b79fde3ab6b8b6bef54a9a0791f51c21e8367ec5cf5fdf1d26d3ce"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -143,11 +143,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2025.01.0",
+                "version": "2025.02.0",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "6c6ad55d94095c1871e8e246b0ef2b6a6b5a9dd221713ffe5ca8a7b7287ce901"
+                "sha256": "c7da618615b20ff42ff9c086f841205b44a307ea78a45d6a65ba250bfa9d998d"
             }
         }
     },
