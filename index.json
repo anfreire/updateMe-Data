@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.16.3",
+                "version": "18.25.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "cc38e8622e769e21267c94dedc7cd4fffde48cf340a7fae0825840dfff1d418e"
+                "sha256": "b1c60699907be678815c798d4a78503bf748ce26b5d528c7ac4e765db0136d2e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "13.6.11",
+                "version": "13.9.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
-                "safe": true,
-                "sha256": "2ed9b6097b35b1585b83e0be87e0accc58b4dcbd84ce3437a8039cbce7bfdb24"
+                "safe": false,
+                "sha256": "8bd9a276eb217458e6a3b83946ef2dc437ac5ef0fbd0846691de69401ade5f94"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.2.5.1 chuppito release chuppito release",
+                "version": "6.3.5.0 chuppito release chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "33534dae637abba8a0c5cc737f570296be760ce9b47f4bf0ee0bb951e8a13b3a"
+                "sha256": "a396fa886de2fd6d2fef9b9305da38f38ee32260737555a8140a46237c6b1f83"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
