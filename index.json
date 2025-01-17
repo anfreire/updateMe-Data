@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.40.5",
+                "version": "14.40.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "c1a48fe5161832e01e55cd4cfaad828b9799f336c4e9995bfe532b3aa54cf0f0"
+                "sha256": "cef73f06265c9601f7786ed16f46dd5a6da1ceac68ecb1e6eb49f3b5bc87bfc4"
             }
         }
     },
@@ -2015,11 +2015,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nova-launcher-prime.html",
-                "version": "8.1.4",
+                "version": "8.3.1",
                 "packageName": "com.teslacoilsw.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "40e794184409d183312d3a2bcb9d92aa431631f9037b693798785f011643b482"
+                "sha256": "dc617dfce59a8a7f2b0c7c664a8dc1b1898d485a773808a8e956c8725ee74e43"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nova-launcher-prime.html",
