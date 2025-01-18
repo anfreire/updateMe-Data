@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.42.0",
+                "version": "3.43.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
                 "safe": true,
-                "sha256": "796b326555b984439519fb8959237c625f8680f970b1bc315a71439508b92f4f"
+                "sha256": "2e350156fde89c8451b470a8ea14fc66317c8c1156005d634e6d48ba6e49a9c9"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.14.0",
+                "version": "6.14.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "1f1a90526197fdc648bcd9a8df15f151059b97aecae1497c116adc974f8e7a5c"
+                "sha256": "c803cd2ee2b8b6f202955a178fcb2bc0e2cbe5bc622385669144b2c6e8a624d9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.75.0-release.0",
+                "version": "10.76.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "3475bf4928426371b10785bec964ae731bc909fbf70076ce39a8bf9193b58c8f"
+                "sha256": "cf70dda6b19cc6d7ad4a7fdc5e39b6c465fb55b3852753196e81b22980615366"
             }
         }
     },
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.4.6.0",
+                "version": "7.4.7.2",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
-                "safe": false,
-                "sha256": "e51d8a8f24f28f04988c95fe413a30d54559ceec8b421d1b77ee1596f6cc84f9"
+                "safe": true,
+                "sha256": "df3de660bded639879e042154d1caf45f8b16edb7a8eba73659d960ae4177c03"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
