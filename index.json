@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "17.1.277",
+                "version": "17.2.279",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "4e98264ef004fc9a40add1841e37ace7b2520a061690263f4be20b7015a03316"
+                "sha256": "f2095f0eab85febbfdf6b9762fed6a88002e106c50b7353a3d18ffaf7384808a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.093.1474",
+                "version": "2.100.1475",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "11323e8c2a87d6957fd00013c7750008b6eabe94a05bd9e67e1bfae0171894f3"
+                "sha256": "7d40e72bcde4d30aca4f88aa008f3b873e9209152ed1534586d352c8fc4fc50c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 004",
+                "version": "6.5 build 005",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "073cf4556e49626e6545ef877e010b430815cf980b22d1b605cb044874f9db47"
+                "sha256": "499db0db13c0c4c253963ec75713441583b9699c926b00392cbde43a42eed728"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -2279,11 +2279,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
-                "version": "4.3.0",
+                "version": "4.3.3",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
                 "safe": true,
-                "sha256": "cd4b9a4a3d750fc1dbbe5f1f5ba1ddb80ed00fa78d5443565cf755079729cc78"
+                "sha256": "a3dc977ad065f0900aeeaca0a8a5f3373d8cc40da5d3a073067e9968667e63bf"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
@@ -2436,11 +2436,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photomath.html",
-                "version": "8.40.0",
+                "version": "8.41.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_liteapks.apk",
                 "safe": true,
-                "sha256": "1d854997b5ccecf1d125bd895fadd1c55c2743683310a8ed26dbddb3abe38552"
+                "sha256": "c7d9ff12fb4c4c1eb4a88656fbffd10d28f5ef35c1cb8ef3847da0ee97fb61e3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photomath/",
