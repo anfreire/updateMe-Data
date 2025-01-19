@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "8.10.9.722",
+                "version": "9.0.2.459",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
-                "safe": false,
-                "sha256": "1ef5edeff5fc87df4f49dcab3d776d48f5687afead6e615df63ace20b1b68c14"
+                "safe": true,
+                "sha256": "daf9fa14940617667493454de23024d07bea97222491e60bdfe4a1d83ec2ef34"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "16.8.270",
+                "version": "17.2.280",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": true,
-                "sha256": "2d8daa21e1359b85aac4c1bfc4a9160fec1b8cddf1fa7e32ebe0303d96987308"
+                "sha256": "6973c3150b625c825db04cba44190de60dbc764b688a7d7b1dbe3c5d872bbc70"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "13.3.0",
+                "version": "13.6.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": false,
-                "sha256": "e6b695e639b71b0f8c9041bf0c31991863de5806daf9e1f67adb18734396a529"
+                "sha256": "c0871b4ccc9da9ff4db8a0dbde907b8ac90dd00c24074b4ecfc77fc893c53ebf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -507,11 +507,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.092.1473",
+                "version": "2.135.1489",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
-                "safe": true,
-                "sha256": "921dff36489b701e7e7bca8fdf1c0c558c7d723710d12be854e34b1775d47eb4"
+                "safe": false,
+                "sha256": "559e9bd1ce0aa76266072858bdd8b75dfabaf780f35b72fe35be440df9091639"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -656,11 +656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.15",
+                "version": "1.14.6",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": false,
-                "sha256": "d675cb6f4413dd58587285cddba1ada45359caa21e3a12336a79be8ad61f731c"
+                "sha256": "c43f3b0bb12a2bb6349cd1b2fe8ba26051bc7cac3d04f70e12ead8312f50fd06"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
@@ -699,11 +699,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
-                "version": "6.5 build 001",
+                "version": "6.5 build 005",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
                 "safe": true,
-                "sha256": "9ec708dd1b7d1323f421d81b3ca19c92f827c7fd728a35db40ef57eb346ff119"
+                "sha256": "499db0db13c0c4c253963ec75713441583b9699c926b00392cbde43a42eed728"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2024.12.02-release",
+                "version": "2024.12.10-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": false,
-                "sha256": "709c1b05e6a5a1c3768fc6f6e17c75a7df9a07362ea2549e0fac9ee4dee94f92"
+                "safe": true,
+                "sha256": "e373de7de6b6d1f0cd40e12d519065ae73753403af356eaff64c365b4de01086"
             }
         }
     },
@@ -1132,11 +1132,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
-                "version": "6.3.13",
+                "version": "6.4.9-beta",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_apkdone.apk",
                 "safe": false,
-                "sha256": "5145f82141bbccf6fb0db0841c1de629e6256a41dcac0ec24af5e2d9114d4426"
+                "sha256": "d14247ea058ba1c1e625370d00dcfc41afd69275065be576abb008936dc87db2"
             }
         }
     },
@@ -1158,19 +1158,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.10.0",
+                "version": "9.10.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "07cc633c674846ef6ab6288f30937d2204a041027c35111aae8016421b4fddde"
+                "sha256": "5ff230e2bccc36117d584d2d18a1ad889feee5a0e60648d408428f96c2e68da6"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.7.1",
+                "version": "9.10.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": false,
-                "sha256": "fc374939ad55339bcf7d5eac95d38f022485b1bc2c2873459ff088e9229eec47"
+                "safe": true,
+                "sha256": "3610d9c7857ce66689e275eea0c73d8ce7e1fccb6e54ed2ff8ce69f24780497e"
             }
         }
     },
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "26.5.0",
+                "version": "26.6.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": true,
-                "sha256": "e24ee9db978ee1b3a5e85d895d07c7cf470e9a5517acb7112974d1654610aef9"
+                "safe": false,
+                "sha256": "c15aa66bacf3eec02f52d0da48718f67d7a627654feb100157fab1e80ceec671"
             }
         }
     },
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.90.1",
+                "version": "1.91.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "51384c76c8bebaae5c70935f20e6ced44e1a1b20e3d57ec74036bd49da56c5d7"
+                "sha256": "31bab3fdaa798c0993c69190435399dacf06311bb0921562a6c8d1d9e3b2a178"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1662,11 +1662,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
-                "version": "10.1.0",
+                "version": "10.5.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_apkdone.apk",
-                "safe": true,
-                "sha256": "c41130e3f96aaf628b3b58fd0ad795254ac477cddc8b8d1e6d70a95bd74cd472"
+                "safe": false,
+                "sha256": "a9e0f9d16b0589a0b723267e2ac0ab34b826b5ed464bf107727cfde8e22db7e8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adobe-lightroom.html",
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "15.4.0-241206",
+                "version": "15.5.0-250109",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "ae81998f5d7711b8794320670d4db25503064e3228f3eb06ca6948c67751726b"
+                "sha256": "e89152a9ff1d4e8b8ac04101fba76c5cfa210e3e75ff9fe80d0f09ebc27cb18a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.12.0",
+                "version": "6.14.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "cfb0a17d548e29699f4fc0b69055d5815242752b5e9454ccb7ba8440437a54e0"
+                "sha256": "c964720ee646823c05a7d48e077e6086eaeab0eb331e3edd70faa79881254026"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.90.4",
+                "version": "1.91.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "b7f3d498e0f83e3cadbcd025428a486fa3c242ce63af5ccfea30375905c2a15a"
+                "sha256": "563ba8f9697dbe12899a81811720daa3561837e381c22b7004fd331ca51a4c99"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.3.4-rc2",
+                "version": "1.3.5-rc1",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": true,
-                "sha256": "8a5f9773163950ad0de3bb46a3e3c41003fb34b19d38e8088fa1e27722b70078"
+                "safe": false,
+                "sha256": "38e21da019a81de009d8b7762f246a1cfa13229d3ebb9a150988550a529d8a07"
             }
         }
     },
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.72.1113",
+                "version": "1.03.79.1227",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "caf72e96b358065a708a8fd8765d679e0ff9298e0062d18ee5057f783f5cfa46"
+                "sha256": "ab87b1cbd9ecdb2373424c58345fa10aeab82afe46ab6294fdbf1c0d718252af"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
