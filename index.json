@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.101.1476",
+                "version": "2.102.1477",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
-                "safe": false,
-                "sha256": "ff09466b20911344d413bfa5191f547f337dffdb46bd96fbd15aa5248e96baf5"
+                "safe": true,
+                "sha256": "6ae7ad91a5db150f21804d0df14aab04a93b6d9296cbbee716c02b71baf3db1f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
