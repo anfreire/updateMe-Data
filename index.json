@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "13.9.0",
+                "version": "14.8.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": false,
-                "sha256": "e0685b03970520782b934f7e388277ce5b9ea510a026b11d9de4fb637a012ca8"
+                "sha256": "f245b24258db0a6c8765dcf79291e05e24cb7c787fa8b6f612730ab4ffdd2999"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "0d62807a1ed4fbcdcedd8b1304885f88c001df6fe2af791f6cb489da388d3dec"
+                "sha256": "ae849c8541b47f0b8ca9c2d1413fb413f28299b9074ae59cfb91aeeb953bcd26"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "14.0.0",
+                "version": "14.5.0",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
-                "safe": false,
-                "sha256": "f186018c6386f9485cdfc18bf9d667d7cb48b8ef3552820d274b3f3407ce0643"
+                "safe": true,
+                "sha256": "995b1ad7dea7fcf38ef3d0ee164c29e1662ff473bd587970e3a6845b43c5ac61"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "28b85788e546adff08fef1c012b08031de09415e0b3f28d3b2ab527977719872"
+                "sha256": "84bd9054a1e9fbd837c738625597e27fa1183baa2aba5a0b12e6ed1aaff75c53"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "6d745d26417fd5ed812d6a723fe37fcd05b5e6522eea3cce08aef48eaed28459"
+                "sha256": "d3bd6124816d6b3685c3a85961e29dea0a2a962616de7633ddf4c9b80680891c"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "a5fb4f534e8ea175bc8c40a15b62cbb36a371d5904307e958be1b6b44bd1924f"
+                "sha256": "692ee8fd1f211e36c14d213224e5e315636cbc4c4da8c0e5065604617d952cea"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
