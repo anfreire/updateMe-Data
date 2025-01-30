@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.10.1",
+                "version": "9.11.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "5ff230e2bccc36117d584d2d18a1ad889feee5a0e60648d408428f96c2e68da6"
+                "sha256": "0a672de2a2aec42334750481f08e47fb2997d5e6ca1a8425b8366119483d1779"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.43.0",
+                "version": "3.45.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "e7765b294735ecdc5934881b84b86d681c4255f8ecee83dec4fc433c31cb1cd8"
+                "sha256": "a594106eb424dc894b82bb92b6980b677133f2dfc04efc29a942a3d2a65af0a7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.42.5",
+                "version": "14.42.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "c447df72b943da2075a2ff9053fe24e1210f06681eb8bd2f0640119cf6dc65cb"
+                "sha256": "13409e830920561b613eff9802f429ec7d03f359cc9c027b399af338b92c67da"
             }
         }
     },
