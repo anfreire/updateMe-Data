@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.6.0-250116",
+                "version": "15.7.0-250123",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "7ea4ceaa6056ef086ff939fd3850dfbb648f407376a212b4d93f66122d379c52"
+                "sha256": "45b251f30f6365628effb5591a68897ee9e7d94e685d9998f223982350d942d3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.91.2",
+                "version": "1.91.3",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "94bd544fdb1b3617dc55b613bb06d03cc35b2155b051bfd63d7126c59f36ffb4"
+                "sha256": "de1560b015a988b32b5791893c98fc84a3a35cea28db902706286747b1567cdc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
