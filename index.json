@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.603.201",
+                "version": "1.61.202",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": true,
-                "sha256": "517ad454b419df58da7174fcace9650f6eb08578536068389879f5e6ebfdf473"
+                "sha256": "9bcc6d8192ff17d8a78932746bff36a6b965f7d555d50cad5c692efa4b923401"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.43.0",
+                "version": "3.45.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
                 "safe": true,
-                "sha256": "2e350156fde89c8451b470a8ea14fc66317c8c1156005d634e6d48ba6e49a9c9"
+                "sha256": "b760746b8f4d4bfdbddc968b0def55dcbeb0e80da92b9a6392e0d4efe93a1221"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.7.2",
+                "version": "26.7.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "31381ded9c58370e4778dbdf6cc8989f127dcc3632a760fcf048e0bc173e7d32"
+                "sha256": "d4b0b1d0afb0bdf11af1e2bda831abcde4e5fbec638b0936eb5a3668db4545fb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.91.1",
+                "version": "1.92.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "31bab3fdaa798c0993c69190435399dacf06311bb0921562a6c8d1d9e3b2a178"
+                "sha256": "51028ba6776236f8fc75718dad6946f26cf309208eb201a044d7cd81c05ec8ba"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.15.14",
+                "version": "6.15.15",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "fae98c711d55a57b9e7353bfe748f0b34f72e2c8248c73ab77fa15d274651021"
+                "sha256": "4b5fc928392a7ccaca7e8327dcf06788e0788ddb401dd2ec5023ea9ce44b7c94"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
