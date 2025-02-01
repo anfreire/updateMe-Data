@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.1",
+                "version": "9.0.3",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "a86a449db2c34b39e9113b25b218efbd4269f03d02da0140cc9e657dc28ce456"
+                "sha256": "ad321375d947c410b4b536fe101218339e6100c51d5735b052b6de735a56b5e4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
