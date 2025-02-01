@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 006",
+                "version": "6.5 build 007",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "90dc0bc61ee4974cb9ddc39a607b56390035c6c0b80de59684511b333068b807"
+                "sha256": "cdb430bcf1287a43b57de1050511138a0fd918fddd6903c5a9fdafd69189e9aa"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -877,11 +877,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "10.9",
+                "version": "11.0",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": false,
-                "sha256": "8bdcc146cea7ac9ce6c455d9880cd270d9a5398bdee83b38c202cf385ff0c199"
+                "sha256": "f33beea13b82a506eb152a18605d2f4216ebb4b857372340b1512b122e5f7167"
             }
         }
     },
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.8.6",
+                "version": "4.8.27",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "ef3facaf135895fa04e7a17bfdb4803dd486eab14968d746a9a66fb464800dfd"
+                "sha256": "d1354c246ac53c33d98846c70f9ba92dacc004299e144a80a14e805ac71e22ca"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "26.7.7",
+                "version": "26.8.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "d4b0b1d0afb0bdf11af1e2bda831abcde4e5fbec638b0936eb5a3668db4545fb"
+                "sha256": "f4607605935ec83753315bb0f9dd6b28a7ee197ec477b1b4bde64ef71d08a8a5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "14.42.7",
+                "version": "14.42.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "13409e830920561b613eff9802f429ec7d03f359cc9c027b399af338b92c67da"
+                "sha256": "ba6120218012619d99a47f7683eb9fa55d956e45e2bc21d7682a0c6a656d5944"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.15.15",
+                "version": "6.16.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "4b5fc928392a7ccaca7e8327dcf06788e0788ddb401dd2ec5023ea9ce44b7c94"
+                "sha256": "d96ab325f82edecdf15a51c8392e34100406cffa3202cc739c20c370731e2eae"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "19.4",
+                "version": "20",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "32a6f706f4a0039459de757ce18227407007642e93cd439d857ecae7f1156178"
+                "sha256": "c153c34b91697a5b24ae69fdc35c1d2bea33b383f5c9ae3709420bcb361f46dc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
