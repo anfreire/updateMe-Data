@@ -908,11 +908,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
-                "version": "1.44.0",
+                "version": "1.46.0",
                 "packageName": "com.unvoid.australis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/australis_liteapks.apk",
                 "safe": true,
-                "sha256": "8d95c0759ef4ccb03f8837a8101a969fe1f453b905b85e7b7e3c823406c83b7e"
+                "sha256": "1f369899d932eb8bec02874c0c5e15dff0e816ef458df987e3746f806d51d74b"
             }
         }
     },
@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.2.18",
+                "version": "4.4.2.19",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
-                "safe": true,
-                "sha256": "1e7c3416392df165650a588cd02f53cf8da1a5e54c31d48aa6901f79a7db529c"
+                "safe": false,
+                "sha256": "87255af789584f61f01ef952f831c4c6375d4e1da5f7fdff5f6380723bb8731c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
