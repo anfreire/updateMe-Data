@@ -939,11 +939,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.2.6",
+                "version": "6.2.7",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "90af5c0efd29bf8067d9b8fedc37cc3c75c108dbd33dcb5d53bc4268dbc51a2d"
+                "sha256": "39a3c7e0f5aa861aee59640477d9019d0c818e317d02c1270b458a21ea6bf2d1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -978,11 +978,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/linebit-icon-pack.html",
-                "version": "2.0.2",
+                "version": "2.0.3",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_liteapks.apk",
                 "safe": false,
-                "sha256": "73ea20be1788c488df911a86067723d47e2333f5c2c5d4669ce575cb2bc18cdc"
+                "sha256": "abcf86a3dcbe8d155f063600200d49fa33a7c8e243a4f46df4d8bd83b4b88ef1"
             }
         }
     },
@@ -1016,19 +1016,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "9.0.1",
+                "version": "9.3.0",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
-                "sha256": "cb053148c0e8a67472ae7e3764bcb1820c9d7d53af58dac77900989842d7f9ea"
+                "sha256": "f4d988980c56aa63d59ec74d2a7e38bab2c5411bc20e4e34eba58d87017a6230"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.3",
+                "version": "9.0.4",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "ad321375d947c410b4b536fe101218339e6100c51d5735b052b6de735a56b5e4"
+                "sha256": "5438387abe743c2a16b3389fa0a76466699b932ae80904d09f04c67ef3d5e04d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1124,11 +1124,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/tasker.html",
-                "version": "6.4.9-beta",
+                "version": "6.4.13",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_liteapks.apk",
                 "safe": true,
-                "sha256": "d14247ea058ba1c1e625370d00dcfc41afd69275065be576abb008936dc87db2"
+                "sha256": "f73c5e50c38e686c8c012d7913efa4c1d62deaa67f7069a8200970a0d0c622b7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
@@ -1150,27 +1150,27 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.10.1",
+                "version": "9.45.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "951050ef3117f0a2986f1283ca39d9c63141b9f1159c64aaf63e7f03854cc668"
+                "sha256": "bfc90b83b75a9729ca37d0104fc351ee374b6491dea158723b400e3f4a1c5e33"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.11.0",
+                "version": "9.12.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "0a672de2a2aec42334750481f08e47fb2997d5e6ca1a8425b8366119483d1779"
+                "sha256": "b617e1284b60fa423d3480f74b3a54a048080a57c3c41f3fa75e4ab9c8030ea0"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.10.0",
+                "version": "9.12.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "3610d9c7857ce66689e275eea0c73d8ce7e1fccb6e54ed2ff8ce69f24780497e"
+                "sha256": "ce7667cefc47338d9523cf362fb40a3c3a2944c920b892c19898a0ff335ed2e6"
             }
         }
     },
