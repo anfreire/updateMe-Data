@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "b20c2676792537b65906c771e4cbc936db51717ef027d69195b7b436e8c60b83"
+                "sha256": "45088aa807e7376c10a7f4ecc623c7987fb2d10c8e8698f1586c235e014fa69e"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "8dcdcf1a0d6006202253c95dfa73ac425eedc2ca1b065b2ebee8089639dbd319"
+                "sha256": "18c6d5d1394c3ce9d1a00f2831212955762dd8b09d2affe86d5a9827652da2cb"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "439adea9a0bfeb80a15a64efc5514eba45473753032ddf47ad4426fa525f6961"
+                "sha256": "8c085547c4bd8c2d4844815a16b3a4728d55cd92db19cc71e88ea8c6c863afb5"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -85,27 +85,27 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.29.52",
+                "version": "8.05.51",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "d8d46ef312f2458e8ecb8ee89db0e3bbfa42031ea356c5bca242babe9184e0bf"
+                "sha256": "ccfa5f86c8b73c55d5d19d0189ba3482caf17edc668aae96a9be5dc482f99fbd"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.02.53",
+                "version": "8.05.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "eac1574b5bc577544f957220775e62ef0ab7a752fc699d7ab797bd20b7d3a01e"
+                "sha256": "9729bee7abda752977ddfdc7a6aaf3bf10553abd69f66c2db7616e75241f788d"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.29.52",
+                "version": "8.05.51",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "f7c9bbba0edd910519fa976755a64a5abe2eaca886058ab646e6f444a2088cf1"
+                "sha256": "b158d68b9968d8bcbc0859025b8ff1c1e8dd8c120605973ffedf3d2a2c88968b"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -143,11 +143,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2025.03.0",
+                "version": "2025.05.1",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "6059088c01c2f545f9bc3ae78a60b5d5f2fcfad827c61204da52991d290f4a6c"
+                "sha256": "42da0bd09f4042d570ce487975146b4eae985e4e978ef4997b3af7d344625ba7"
             }
         }
     },
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "d653069c31c3a2fb3c23bb5cdaf26b28f063c9129f9b85e1d3d48273f64efdf0"
+                "sha256": "6dedc2582699cfc8d056333a2125b5444450d5ff131519cc527db27d261b884d"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "e09291e771985fc6b1fcd37728d609b4db97088eed8ba9ab6fc310de57107cbb"
+                "sha256": "d909a94df1c8a87276b6964e6ea84d827ec0cfb54033b5fbaf4f8236d2df1f93"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.8.127",
+                "version": "9.0.20.604",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "86fcbe666ddcdf326e48af5e257beb196f7d8d7d4d651e1cc1beac525587eaad"
+                "sha256": "2fb3e89eb9d5da14d1f3bde0b1365ff612bff6c301f709667331458f883e7a22"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -370,27 +370,27 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.61.202",
+                "version": "1.989.575",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": true,
-                "sha256": "9bcc6d8192ff17d8a78932746bff36a6b965f7d555d50cad5c692efa4b923401"
+                "sha256": "935eb1a9112f9ca489dc8e3b8647eca17843e430b0a0775e4387a35b12c5b294"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.61.202",
+                "version": "1.623.207",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": true,
-                "sha256": "43d249cec54c4e51816962f97d0b194d3d8731dd6d2663adf51e7c8aea764745"
+                "sha256": "85a18400a5fa2986123d036d185ded53dbb28fdef067c304e9c6ccc0e7b361f5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "1.594.197",
+                "version": "1.989.575",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
                 "safe": false,
-                "sha256": "2ec14a12ca37aeac748193621db61aca69eebee6c7466fdcd0758de908995787"
+                "sha256": "935eb1a9112f9ca489dc8e3b8647eca17843e430b0a0775e4387a35b12c5b294"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
@@ -413,19 +413,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "17.6.305",
+                "version": "17.9.0",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": false,
-                "sha256": "cafcf5a7f5734d46c21847ffb85b6401f249305c4cd1dc324195ed4771da1a44"
+                "sha256": "16034c1bbaee30423d51f6364af8f5656442ab64c0df4e1949d60989c72fb171"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "17.3.285",
+                "version": "17.6.4",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "eabbe46a51f5ebce4d7758b255bf54c23410ab2d103b5728d2da25a9140728ca"
+                "sha256": "ae663bb94c07777ffc4b68a409c30cfc3a27fe19c1a12560909c04222a41f13d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.245.1492",
+                "version": "2.613.1561",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "44bad12ba0b22744daa3ccb59c4e81890787b110409d052e8dcc6693a3c585a7"
+                "sha256": "eb5bbf13c1230ac7ba38522d8de5bd6bccb3f2280e586948eac66c6a2be0672e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -599,11 +599,11 @@
         "providers": {
             "TeamNewPipe": {
                 "source": "https://github.com/TeamNewPipe/NewPipe",
-                "version": "0.27.5",
+                "version": "0.27.6",
                 "packageName": "org.schabi.newpipe",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/newpipe_teamnewpipe.apk",
                 "safe": true,
-                "sha256": "be4de6c74e197396013e28647f0c52ed6d996945b6c51595b34476ccc6ab7c07"
+                "sha256": "7b3ee61a449259e69d45e92628df1baacc639cf69c1438cc800468ed133f00d0"
             }
         }
     },
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.4",
+                "version": "1.13.8",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "fcd63473a70e13cb3247c2fd6449ce66308f6d3df17ea5dd207764b35301704f"
+                "sha256": "680a75d01e571b96d2a423003c4bc356efff93aee418eb3e7eab401bceca16f4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -683,19 +683,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.6",
+                "version": "6.6 build 003",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": false,
-                "sha256": "e3d5df07b2ad48603ad28367ebb40ef7abe09fe6a73e9a676d74868fff4cd576"
+                "sha256": "b66cd85ea438dfb8458fdad2ac154ba4096a604251cb52edd1b8caf1b3206eaf"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 007 patch 1",
+                "version": "6.5 build 010",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "dd0c2c62d506eebf217b1511edae9d26a64f4d4c0d49b1102b29ea823f41698b"
+                "sha256": "285df8e354304629f19e90baaed8eb66f169e197b388538563a0d6d37f963353"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -750,11 +750,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.8.1.2",
+                "version": "1.8.2.2",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "0984e3dcfdcafa9b1879b7637ee468181ad1c4b438389a03c05dc2703138efc5"
+                "sha256": "fc1e881dda19cf56b7821572aeb65f5dc6043d700259ce7ea44f08abdc31bd05"
             }
         }
     },
@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.164.0",
+                "version": "2.167.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
-                "sha256": "772801efd3cb45b693e7439a3e42e230e0bd321d8e92d4684e5229ab8dbecbc7"
+                "sha256": "420100cd40ecc490980f135043aa5e280ff7dd4d2dc8a1885457ceab8b6a4018"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
