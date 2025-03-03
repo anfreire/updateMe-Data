@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "45088aa807e7376c10a7f4ecc623c7987fb2d10c8e8698f1586c235e014fa69e"
+                "sha256": "a9a6118cbdebc3211bf938650d402f870a95a0de71edcb6ee3fb920de8503363"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "ccfa5f86c8b73c55d5d19d0189ba3482caf17edc668aae96a9be5dc482f99fbd"
+                "sha256": "8db787cc75ffaada01d5e95125f353465ba3e0faf174d0e0719857fcaa14bf10"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "6dedc2582699cfc8d056333a2125b5444450d5ff131519cc527db27d261b884d"
+                "sha256": "94b9b02622bc38eafd68067e7456eb3c62ce7ac89bc0b69d824b98472c4d3244"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "d909a94df1c8a87276b6964e6ea84d827ec0cfb54033b5fbaf4f8236d2df1f93"
+                "sha256": "915bd01e243b641ed0566b674bf4f0168f98d0b12dd0ea92cefea15b509683b6"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
