@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "8c085547c4bd8c2d4844815a16b3a4728d55cd92db19cc71e88ea8c6c863afb5"
+                "sha256": "5abbcce9162190caa70b0cb0fd59262148552a06b33ffda16b58bd26c7e6317f"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "b158d68b9968d8bcbc0859025b8ff1c1e8dd8c120605973ffedf3d2a2c88968b"
+                "sha256": "c383e54dc4109dd7a34f5232cc44b382b83f582000c69eb8ee8beaa5d89a727a"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.45.1",
+                "version": "3.46.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "10d13e488c29f980a916f7e066588247ea378bfd45a73d68d646e94e5b1b7e33"
+                "sha256": "b46954d9b968b44a3c3f4a6dac9d19efa2bb56623543bed4598434134c30bff5"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
