@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 010",
+                "version": "6.5 build 011",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "285df8e354304629f19e90baaed8eb66f169e197b388538563a0d6d37f963353"
+                "sha256": "598cf38b2dfa9167bfe5676b144947477db2c0bdaec752a77878fb8e094afad9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.0",
+                "version": "27.0.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "a39a6ff1239e680846743d3734dae28a286de2daf00912367e92b15c98c59d31"
+                "sha256": "96dc9c8d2ac88725917b42c29355d9c47f6a42e1f8bf52f72d96c771ec896f8a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
