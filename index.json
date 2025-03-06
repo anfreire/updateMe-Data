@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.9.332",
+                "version": "4.9.518",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
-                "safe": false,
-                "sha256": "1c19c064d023e40a34b57898a147de5278b81f1a3c44aba8489691070cec78a8"
+                "safe": true,
+                "sha256": "af3447765c827382ccc4af0c9a4fbdb31a278016ce2929695c9fe99e51a28f3c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
