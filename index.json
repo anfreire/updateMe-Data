@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "dd62344d46be0897f06ab4488dc3bf0e8a7b661f7bd10b282e4537f870961aaf"
+                "sha256": "ae7b925131888299b500939c1886c6560ea7e8248a4f4f3fa46faa2da390bbf5"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "fbf8deed22af7acedac843c0cfa7e55f65721667d98e32d690152c24f31686f8"
+                "sha256": "994b8fa70e208baf75091fbdfa48e3017981e186aadc04248cb23ef92e01abd9"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "6ca8aedece2ec1571607c575a0f99d319e4e4fe7293c28798dca35f30ed3bd23"
+                "sha256": "fbc4e74571fc5af5ed352c4424114a0cdf307c7d44eb20d3fed31859a6951f3b"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "3afb5621eb748de80e9a0ac56f2a2e923c9425ceca58a3ab9765a2b396351837"
+                "sha256": "18539e1b4718df3a4b2f213efec55b189cc09c0b3acca9e901648f219cb74ada"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.20.604",
+                "version": "9.0.28.123",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "2fb3e89eb9d5da14d1f3bde0b1365ff612bff6c301f709667331458f883e7a22"
+                "sha256": "4d282d9df8b0589a46130ee76430a9b68ae7c8ce4201d53bfea4cd969f326807"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -978,11 +978,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/linebit-icon-pack.html",
-                "version": "2.0.3",
+                "version": "2.0.4",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_liteapks.apk",
                 "safe": false,
-                "sha256": "abcf86a3dcbe8d155f063600200d49fa33a7c8e243a4f46df4d8bd83b4b88ef1"
+                "sha256": "c676865819f2b163bb5cb5b50e061fb9aa77d0b23ce76010e88aec47246c8905"
             }
         }
     },
@@ -1132,11 +1132,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
-                "version": "6.4.13",
+                "version": "6.4.15",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_apkdone.apk",
                 "safe": true,
-                "sha256": "bc94c5eb0f5fcf7a1f970dabe54124b0819567bc4c819820defe18147252a98c"
+                "sha256": "336265913cb13647a3446657cc88bc22680414a7ab37f4245625579177d25973"
             }
         }
     },
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.7.1.0",
+                "version": "11.8.2.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "48e3d5179f45ae863720541d847a39faf26a66e153453b87eec9ff97942cd611"
+                "sha256": "a240964a094f6b6c227ea75a22a551313d17d7d4e45948e0dfec229d16c06115"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.0.5",
+                "version": "27.0.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "cbd3d94f40e92ccad5cf425808d5388b136990f25446c62d67f781d3523e88b3"
+                "sha256": "65f2cc732c58789306041202e6ca3f497d909adf3d97d5ac0218fc319bc53556"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1658,7 +1658,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
                 "safe": true,
-                "sha256": "b704ffcd0fdf79369db2fb6fb2a4d0fa8ddf9308750cc8cdb5cf16d4c255a00d"
+                "sha256": "1069ce9081c6599909cacd8632a6e9fac32569da4044402c5a954ce9613dfeb0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "14.0.20",
+                "version": "14.0.21",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "adf2f2f45bfd5da2425914cfa615fadc690c6c622f2a9a2dcf5905e5ff9bd059"
+                "sha256": "7ae7fa7e13d2e65aadf2431c68c893a639c57b369091b2861da4be11609d506c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.82.0212",
+                "version": "1.03.98.0410",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
-                "safe": true,
-                "sha256": "325e6b66ba98c02e499fd0f968180b61433b7a98f35131c15e0cd2d92abbcf3f"
+                "safe": false,
+                "sha256": "80bcc37f8d95698664955f981d518415443c4afe6897a3f0f626f26950f6f4d5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "afb29036c3a3fd3ce78f99cba27a64ea5f6b8859b460f22269004cbd2662ab77"
+                "sha256": "41877f730bb68ed8f646cdc8dc0f38ae135beb834a4ba5a2d38f1a55201489e5"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "497.0.0.62.109",
+                "version": "498.0.0.64.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "217cddfd234a2fda0f42ad6154a8baa399e8cfb1958b08579fa4ee9a66e4f1ee"
+                "sha256": "24accf9bfb01815845080e133401ccb4dbf761815a5d35ae9f057056a97a3583"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "0a5895ca8f79b4a25220d74d5540b7ea8db04465a1fab443f61cb6a725970a2b"
+                "sha256": "ecf8136c6905f194b573951a1b481acb167724a95be6d8ac69e0fd4a9ad0abf1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.5.2.0",
+                "version": "7.5.2.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "9739c81c8ae8a429fbd9c0185bdf51d659ba20be9409dd88b2abd32e006612df"
+                "sha256": "1ce65355d6020d35e50f71cc857efa1d0d7c456575a403ccd4ff6399ea6fae8b"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
