@@ -1465,7 +1465,7 @@
                 "version": "27.0.8",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "043c9e376a9291bca747a40ebe33db2568a3b484d722e155c739eabb81f70002"
             }
         }
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "679b4b756a9615a732c00046a24470c6d24c149d3292aa92362fadb561bfb857"
+                "sha256": "f86d24571626d9bd81460ef6c7e071d35cac9b61aa75b23bef22cb2fb1a29cd3"
             }
         }
     },
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.555",
+                "version": "4.9.595",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "b2aa85191d9e84cb6ff661f5beeda8b88a6d7927f4ca1a25ef0a328c4c90eff0"
+                "sha256": "bfb28d646b96a4a1fb0fe1de10ac55e60ac99d7e42899a1facef7b9cce2b008e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
