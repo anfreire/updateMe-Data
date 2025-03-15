@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.102.1477",
+                "version": "2.111.1479",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "6ae7ad91a5db150f21804d0df14aab04a93b6d9296cbbee716c02b71baf3db1f"
+                "sha256": "d35abf983c257b0d32ef2542b80d1a4e3fbf22b401fd7e82f8c7ad9718ac601f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.8",
+                "version": "1.13.9",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "680a75d01e571b96d2a423003c4bc356efff93aee418eb3e7eab401bceca16f4"
+                "sha256": "a356e96dbbc09cc353ea7496c68db0e2821d2f9e973a93a22627c0e47d386816"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.4",
+                "version": "9.0.7",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "5438387abe743c2a16b3389fa0a76466699b932ae80904d09f04c67ef3d5e04d"
+                "sha256": "870d0f69cc6aa6c8266089a4027fa76195dfc618d0bfcfd377a98af20b992af0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.12.2",
+                "version": "9.13.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "32c3f9f3bfcc35c8b952d2770a79aa5b31b302d53cee58db14abe8610256ceec"
+                "sha256": "cd2d1c23a7dbdbb6b5afaa286bda22dc1f7feb3e4bc88251ee92741f5aeb2f13"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.83.0.2503040000",
+                "version": "6.83.5.2503090000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "295a2a641e1a59b63447edb968e9fc36cab0d9633657eab5267a69f209e74ba9"
+                "sha256": "fc14d8e43021c4bc65b9c9399c68ce7b36dee6ad1953c81bc6c2efbe37313d73"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1454,19 +1454,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.0.7",
+                "version": "27.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "65f2cc732c58789306041202e6ca3f497d909adf3d97d5ac0218fc319bc53556"
+                "sha256": "dd13a7efdd3e492e3ae30ce0d7b81faf01eb894faedc63bcac433cfa4f6e7ee0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.0.5",
+                "version": "27.0.8",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": true,
-                "sha256": "d408efee7048eb8665c64eb69f09946e6607d434a03da957d1b7ad9b78a6e995"
+                "safe": false,
+                "sha256": "043c9e376a9291bca747a40ebe33db2568a3b484d722e155c739eabb81f70002"
             }
         }
     },
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.94.1",
+                "version": "1.95.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "4274e34523cc5e2af1dceda590da130d9731519df349a086334884850b2758cc"
+                "sha256": "32a91224a50d7ce4096a093a892de7a9394dc43961f385ccfebffe053c0631ef"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1696,19 +1696,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.11.1-250225",
+                "version": "15.13.0-250306",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "89024556bfebf640a6667f03b55ae46f1a70acfbf70aec336601c5c803d333c1"
+                "sha256": "28badfd5cb2ed2dcdf23ca3e41d473303f9086eabdfd8cbca6f8a8de28da94a4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "15.5.0-250109",
+                "version": "15.12.0-250227",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "e89152a9ff1d4e8b8ac04101fba76c5cfa210e3e75ff9fe80d0f09ebc27cb18a"
+                "sha256": "0b08fb0e6062cb53c45a05eaf578e8300eec90bfc4d0518e6f128e4a995f864a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.21.0",
+                "version": "6.22.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "dacef74d2e82fa68f6237b13e32c8b59a0607e1adb494a7eb56fd0f4affd508d"
+                "sha256": "c3bebc2c889689c9782579e91d3e298032dd9b5dd5d3d75e752101ae8d6544b0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.93.0",
+                "version": "1.93.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "075dcfa66c35a009faeb54610677f19859703d3faf5f401d82d0acd9d7e42c65"
+                "sha256": "015e26a0177ca314450ee36a634c8acce3eacb74361ec541e1430b6f1b1aeb22"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -1989,19 +1989,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "20.1",
+                "version": "20.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "a89b649d88eddcf007e39fa2b2b9fef1045e4da330ef917bcefc6541d454a32a"
+                "sha256": "53c0886083ee7ff4c593bb4590cabba053bf1c6b873bf024ad4f1e638a7df267"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "20.1",
+                "version": "20.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": false,
-                "sha256": "df5394f1dda433a858fdc2ec40dafabfa4fbc00677740f797cea1a6e9ec542b4"
+                "sha256": "83f03c117b1ba4220c88dd76a54bf893a739eee079d37504abd7eb7aa11a8673"
             }
         }
     },
