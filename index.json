@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "6242c5dc57140918046ac50e7dafcddfd3e4cafcdc7cd27531936a9216a40ff9"
+                "sha256": "ff76128f3691a931ee594ad92aa7d055509d1857168e0c3bb7d7c4497d4127df"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.05.51",
+                "version": "8.10.51",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "ab05b582c006e9f14527131fae0eaaa8bdbd69df5d50a7a785eab2968cca8fe8"
+                "sha256": "adbff72bff4262784ff2d2fb362a545cec3583ab6a6e48534fb5bc2f63f24fbf"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "729f6eb8a0e9f580efff6a18a4aa0beab1d15b106b2440ae2678ab27cc69e005"
+                "sha256": "595c0ab79c030caacd18a6b167fe9f930410a8bcabc669e2c887f67c8d846d63"
             }
         }
     },
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.46.0",
+                "version": "3.47.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "b46954d9b968b44a3c3f4a6dac9d19efa2bb56623543bed4598434134c30bff5"
+                "sha256": "bf3f5f779eaa95afefdca71f4d2819304e33b731ed544f5a847e826b7b88affe"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.2.19",
+                "version": "4.4.2.21",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
-                "safe": false,
-                "sha256": "87255af789584f61f01ef952f831c4c6375d4e1da5f7fdff5f6380723bb8731c"
+                "safe": true,
+                "sha256": "9c937290ec88b099aef2c52b11b4a678c999555d94ee7285787828b3d7723ae7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
