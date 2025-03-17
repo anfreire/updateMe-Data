@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.4.5",
+                "version": "15.5.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "c5450f09ecf6c798f6f71d594346e6f60071aa7b7f41479be3e9ea21ab357f28"
+                "sha256": "e301985445c39aabc77ca252ef9e5779b40a3983fa97150f721c4ee70f9bddba"
             }
         }
     },
@@ -2279,11 +2279,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
-                "version": "4.3.5",
+                "version": "4.3.6",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
                 "safe": true,
-                "sha256": "8cd9df55643fe8781b9d13c64e553500d64e09e29e5e6eae8c65487a63e2b668"
+                "sha256": "7cba771df4f741fcaa8ca8daa1c5e22ec085ddba9e331a6b7ec17ae2f759ee3f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
