@@ -327,19 +327,19 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.28.123",
+                "version": "9.0.28.386",
                 "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "4d282d9df8b0589a46130ee76430a9b68ae7c8ce4201d53bfea4cd969f326807"
+                "sha256": "805aa18a3871ffa2204286a811531ba0a9cd1b0e70e1ed0dd3c1277d7e68317e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.28.4",
+                "version": "9.0.30.122",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "f59e25fdbc3c975b2513c156f49ee4fcf9c5e233c23b7e8511500c8089252790"
+                "sha256": "b6ed02305e9e4eed0cb366d4bfb6a7baf68a95348a54d3b25d27b6c9724d0e49"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.0.8",
+                "version": "27.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "043c9e376a9291bca747a40ebe33db2568a3b484d722e155c739eabb81f70002"
+                "sha256": "d0ecb4d8360b1bdc48490f0823d5c2749d8932cbbb857f285257981d320df546"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.22.1",
+                "version": "6.22.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "c3bebc2c889689c9782579e91d3e298032dd9b5dd5d3d75e752101ae8d6544b0"
+                "sha256": "1e5255eea31b19fe17109382358dcca5ccf894fa5e7ca2672a1de06eebdd2032"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.93.1",
+                "version": "1.93.2",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "015e26a0177ca314450ee36a634c8acce3eacb74361ec541e1430b6f1b1aeb22"
+                "sha256": "b08794ff226ab3e0f5b1ae12e6666e04cff835f559e7e866654026e0c92ee2d7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
