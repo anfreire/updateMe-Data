@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "14.0.21",
+                "version": "14.0.22",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "7ae7fa7e13d2e65aadf2431c68c893a639c57b369091b2861da4be11609d506c"
+                "sha256": "17afd14b311ceb0797c44afc49112b55fa9df69a90a1bc1e39d3bc91a3b37096"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
