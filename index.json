@@ -640,19 +640,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.17.0",
+                "version": "1.17.5",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
-                "safe": true,
-                "sha256": "99e0be9af0cb9ff8bbfffe5c9deb0729fa71cc4e542384c19324538bec17f0b8"
+                "safe": false,
+                "sha256": "a8500192c59e0934b77211053a0a10576ce845660d14112eadcce6603aa896be"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.9",
+                "version": "1.13.10",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "a356e96dbbc09cc353ea7496c68db0e2821d2f9e973a93a22627c0e47d386816"
+                "sha256": "9473d947699ef056a320643ea604dffee5d9083f925a8c0cf3f01ae706d8f927"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -683,19 +683,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.6 build 003",
+                "version": "6.6 build 015",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": false,
-                "sha256": "b66cd85ea438dfb8458fdad2ac154ba4096a604251cb52edd1b8caf1b3206eaf"
+                "sha256": "5872e73ae5e0f73aed5f176aeaadf8a3f1dbef1271b0a3e928d5e70860c1f795"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 012",
+                "version": "6.5 build 013",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "8746ea924535fc9f9af842f32dfdb3db5640bf9385a85fceda7da0b287e03117"
+                "sha256": "d37f25dca292354ea10ff0d1688c4d7dfae7cde7f606e7cb029a9974dd2d8316"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
