@@ -1105,11 +1105,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/clickmate/",
-                "version": "7.1.2",
+                "version": "7.1.3",
                 "packageName": "com.inscode.autoclicker",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_apkdone.apk",
                 "safe": false,
-                "sha256": "ff6906cdc1b089e4b83ff3d19113de2b6729b7c208aaa0eb0379be32f6d0f313"
+                "sha256": "9ee0b9787de5dc99ef8157c3a70a0db11aa3ae82ca1d9a6a2d31a425a2c2c1b9"
             }
         }
     },
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.8.2.0",
+                "version": "11.8.2.2",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "a240964a094f6b6c227ea75a22a551313d17d7d4e45948e0dfec229d16c06115"
+                "sha256": "c30318213e005dec1a3f1d90cb7b6f21959cfb17fdbb923ee978690675097275"
             }
         }
     },
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.41.00",
+                "version": "4.41.02",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
-                "safe": true,
-                "sha256": "02c7ff84d725e9f0da3493a63d7a4c263aacaa6b9eac973733d1664b769ba1ee"
+                "safe": false,
+                "sha256": "a89fcba6bee15a2763254c244f3fefa3591c19911b15e1dd8b20431b957a5f8b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.9.538",
+                "version": "4.9.555",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "73145437ae8a36e59d6c10d5b5bc5bea378a6bde9161cf220e7190820d10b823"
+                "sha256": "89041d72ad55a80aedfa444b38fc8bf58ba318a53c1a95451d85279d2622cca8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
