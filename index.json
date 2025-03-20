@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.13.0-250306",
+                "version": "15.14.0-250313",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "28badfd5cb2ed2dcdf23ca3e41d473303f9086eabdfd8cbca6f8a8de28da94a4"
+                "sha256": "f8a5a82cdb790f2ea5777a300247c63d1890490f6217ab145c0594ab4be84753"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.83.0228",
+                "version": "1.03.85.0317",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "3d9c8245924ce47b056578feca7cc7980d6d2647c7d218c46449d3d48049d5cf"
+                "sha256": "2f7f94230f3b2164ecf4fa339c583d25a0b40e7e9a8d6cdcf47fab75f6127c6d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
