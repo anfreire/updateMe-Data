@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.613.1561",
+                "version": "2.625.3065",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "eb5bbf13c1230ac7ba38522d8de5bd6bccb3f2280e586948eac66c6a2be0672e"
+                "sha256": "e33da721e422c51eb3441b9bdeaf82b4436086d50cfb4ba1b130745824ae9b58"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.8.3",
+                "version": "10.8.6",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": false,
-                "sha256": "454771800377d5594d87b73b260324c844b9b67ba75a8633c04e15e9067450fa"
+                "sha256": "ba72e2dbe67d51f9025090c3bf98c6ab0f07c1f6c820e503ac465d681d2e643e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "20.1",
+                "version": "20.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "9f48903fbba99c0efc55f6664a2a9dfac8fcc7bae142ba676d5195019cd7ffd8"
+                "sha256": "f5c997754cccaaa19cdb86827af848cff3dea1ba9348f540193211474ec18f4a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
