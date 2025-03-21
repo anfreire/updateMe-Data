@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "ae7b925131888299b500939c1886c6560ea7e8248a4f4f3fa46faa2da390bbf5"
+                "sha256": "c80c8443065adeaf60a6ce48fdb2deb09023b317d1afd08faa9ead7fee0dda66"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "994b8fa70e208baf75091fbdfa48e3017981e186aadc04248cb23ef92e01abd9"
+                "sha256": "1809c2a356478e451f81cf261a01192c308f0428847af0ca8157206717f7389d"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "fbc4e74571fc5af5ed352c4424114a0cdf307c7d44eb20d3fed31859a6951f3b"
+                "sha256": "a53d4af4aa8c087187088067f64a02942d524fcf840ad46f1fcde8bf4e178252"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "18539e1b4718df3a4b2f213efec55b189cc09c0b3acca9e901648f219cb74ada"
+                "sha256": "02cc38cbdbed7c1a947cfb277f43896e0aa7f28957b204e4321da24b5eb6e5fc"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.83.5.2503090000",
+                "version": "6.84.0.2503190000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "fc14d8e43021c4bc65b9c9399c68ce7b36dee6ad1953c81bc6c2efbe37313d73"
+                "sha256": "a8b85f157d251bf4b608127d4bc87483ed0bdeeca28949f3371ff3356f96439f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.9.23",
+                "version": "4.9.40",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "bfe315d13343ec51bcebcfbebb2151c3563bc8b62afba7dcd4524956b2a05d08"
+                "sha256": "ddc3abe68e79bca8aa8d5a8cc4105c9be65caedf04922c6d972aa7015a1cab36"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.15.1",
+                "version": "18.16",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
-                "sha256": "e38d4d0c0c00c6e8745f28f5a971c43b5375dccc6fe28e18b4ffc99cc522c00e"
+                "sha256": "03ec90866a52c66a9dc55d2505fadb97cfc2c9735f2fb9550fd23e220fff621d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.5.5",
+                "version": "15.5.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "e301985445c39aabc77ca252ef9e5779b40a3983fa97150f721c4ee70f9bddba"
+                "sha256": "82ebc37b36979e314c3e1381878d8bdb99f5474438b359814c0c1a9c642b76a3"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.22.2",
+                "version": "6.22.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "1e5255eea31b19fe17109382358dcca5ccf894fa5e7ca2672a1de06eebdd2032"
+                "sha256": "341742e902dc3a637391f74a3dab9a013a099f24725ab14d8f7663ce0fe6f996"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "41877f730bb68ed8f646cdc8dc0f38ae135beb834a4ba5a2d38f1a55201489e5"
+                "sha256": "0e774f6f5dca0f0abe44c7cee841fbf5a0fd807ac1c4f02b35e8f9e9ec1e1ccf"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "498.0.0.64.109",
+                "version": "499.0.0.56.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "24accf9bfb01815845080e133401ccb4dbf761815a5d35ae9f057056a97a3583"
+                "sha256": "7cbc37a401450801f331e6973b78f5137b3ed865ccc231db9141549cdc46a999"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "ecf8136c6905f194b573951a1b481acb167724a95be6d8ac69e0fd4a9ad0abf1"
+                "sha256": "672ad1dffe9943e2b60a59d64309e4c12265af722a6db1b8cc5faea06af871ef"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
