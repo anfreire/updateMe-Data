@@ -295,35 +295,35 @@
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.24.601",
+                "version": "9.0.30.242",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagerexperimental.apk",
                 "safe": true,
-                "sha256": "9309efcfefaf8a1e48fe8d665a1f6d89768d7944483945a1f5a0546963889105"
+                "sha256": "fb16942df9a30925bff1fc5a2c46542fde03128f688a63ba7209299f48d9ff6f"
             },
             "xManager (Amoled Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.24.601",
+                "version": "9.0.30.242",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledexperimental.apk",
                 "safe": true,
-                "sha256": "d7352bfb3124644583ac179eef67b889c5e93035fa374b90c7145feed3c15f8e"
+                "sha256": "4ce74cec24946a6632da35e13dd973e2669ae0bf1066fde7458f690aeb0a9a8c"
             },
             "xManager (Experimental Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.24.601",
+                "version": "9.0.30.242",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagerexperimentalcloned.apk",
                 "safe": true,
-                "sha256": "64b56b6d3f0dc17e59fe30ad078df4db37339e5bbc8cb3bad943488189a58883"
+                "sha256": "da7b98034206632672ea223cc9645a90bb6f5c4c054c91a38b39058fe852bf19"
             },
             "xManager (Amoled Experimental Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.24.601",
+                "version": "9.0.30.242",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledexperimentalcloned.apk",
                 "safe": true,
-                "sha256": "becdd134f713ce2a9ad2f56d73f4bc7eb589e2377ecf7928b0158a915475e86b"
+                "sha256": "7cc0928b7adc9fb76ce4efbc12b5271da17d628aff2941ca5e794140894d088e"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
