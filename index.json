@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "27988182034590edc1aa6f7fce6fa94767bd13f8291adb7911d8403dcd6a6bbc"
+                "sha256": "feae759c97b7ba9077b48eab69779217e26e6bb6fecce3893273aa5c8b662ba8"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "4b0ce441cb5f959f467e65cdb35fe6f22e26278203c6123c51e948629783a0af"
+                "sha256": "b31ba8b57123f0607fc7d2eb84a81b57522b0c837d836bb7b8ab698a97ae43e4"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "9.0.26.341",
+                "version": "9.0.30.242",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
                 "safe": true,
-                "sha256": "fc9197b5a23718bdbc4a5ec8959142ecf634f94a08e3f30f2651ad304db8e934"
+                "sha256": "cbfdbd3c1451e67155ca8221ccf980b2fc713e30fd125f2b4f26cc51ab25511d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -1352,11 +1352,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "6.77.0.2412090000",
+                "version": "6.84.0.2503190000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
-                "safe": false,
-                "sha256": "9752c397fa2405f09c2c7a583589c9d1a1a467b0763635fe532a320d2bff9b5e"
+                "safe": true,
+                "sha256": "4abd5fcb48f99bdbc9d445f70b0db4d39c6c1ce9ca1cfb89e26b304025bf35fc"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.8.3",
+                "version": "4.9.40",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "3d00bce6d8404604a92c3a1bd8f780d116dda091c92e52ae19919b4761c8ea44"
+                "sha256": "4259ce8ee2f1adeb1f17b4ee8ffbee0115fffc84e697a2ea1955e879a9073a9a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
