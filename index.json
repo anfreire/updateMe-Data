@@ -13,11 +13,11 @@
         "providers": {
             "HDO": {
                 "source": "https://hdo.app",
-                "version": "2.0.23",
+                "version": "2.1.1",
                 "packageName": "com.hdobox",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/hdo_hdo.apk",
                 "safe": true,
-                "sha256": "1ab67e1d2e521a01ed51554db4cffda89f8ebc3ac07acbe34563f88e8079d5d7"
+                "sha256": "bce3708dd8417afad1459870133ac4db071c6c2f3d9b964d0dcbbe679c70617a"
             }
         }
     },
