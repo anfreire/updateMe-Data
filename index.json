@@ -1356,7 +1356,7 @@
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": true,
-                "sha256": "4abd5fcb48f99bdbc9d445f70b0db4d39c6c1ce9ca1cfb89e26b304025bf35fc"
+                "sha256": "761035bb013fd17dbe46e0cd31c4e64ee95e5cb53a19eb643e225c48fb19ad24"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
