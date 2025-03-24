@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "9.0.30.242",
+                "version": "9.0.30.999",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
                 "safe": true,
-                "sha256": "cbfdbd3c1451e67155ca8221ccf980b2fc713e30fd125f2b4f26cc51ab25511d"
+                "sha256": "1c3e188bc7acd9e24dd4f7fe6f0be95b550599d945e4698f7fdf973b9787f58f"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.113.1481",
+                "version": "2.114.1482",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "b5e2e10e3dcbbfebac1a9006f0b70f2c97a71c150661b1110ecc4c836b445d75"
+                "sha256": "dcffb4476d5019139bc149032216acb432a9c5d86ba4078fc1522224aeb5ff96"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
