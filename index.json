@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.10",
+                "version": "9.0.11",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "84216cf7092a3e168a207d8dda2980fc89e69c4289b2485ee5af295bf624d6aa"
+                "sha256": "ef5ae503133af65817d3acf017faf180be02461a564eb429e4e97879378bd197"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.1",
+                "version": "27.1.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "dd13a7efdd3e492e3ae30ce0d7b81faf01eb894faedc63bcac433cfa4f6e7ee0"
+                "sha256": "2a71fa3f855c2bada85f5457f0577c878f3417e22e80d12e16f8d83572c10f4c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.20.2",
+                "version": "6.22.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
-                "safe": false,
-                "sha256": "a9fbe292deadd413df0cf0e8915fa822d2e3db67675a9842698a5a4c76a4a2f1"
+                "safe": true,
+                "sha256": "308fffbb501f04a5f939d1bdd637ab00673b6fe9eef2dbef184fac782ab945ac"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.2.21",
+                "version": "4.4.2.22",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
                 "safe": true,
-                "sha256": "9c937290ec88b099aef2c52b11b4a678c999555d94ee7285787828b3d7723ae7"
+                "sha256": "e8f7e71e217f5f15cb283be991aca1885074f89f2e4a1cf04dd7927685facb61"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
