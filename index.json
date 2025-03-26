@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "17.2.280",
+                "version": "17.4.2",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": true,
-                "sha256": "6973c3150b625c825db04cba44190de60dbc764b688a7d7b1dbe3c5d872bbc70"
+                "safe": false,
+                "sha256": "310b48993d0684cc21988dc5e6d7f8d10aa639419bbe539b70d7b5710c911b01"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "13.6.0",
+                "version": "13.8.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
-                "safe": false,
-                "sha256": "c0871b4ccc9da9ff4db8a0dbde907b8ac90dd00c24074b4ecfc77fc893c53ebf"
+                "safe": true,
+                "sha256": "77c0aaeda7ff579dfaea300079988b67663837a83668220e3e8a021878885f67"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -699,11 +699,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
-                "version": "6.5 build 005",
+                "version": "6.5 build 006",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
-                "safe": true,
-                "sha256": "499db0db13c0c4c253963ec75713441583b9699c926b00392cbde43a42eed728"
+                "safe": false,
+                "sha256": "28f186a24905f54aea789f84791239c675fdcdd224469ae38dcc531629608080"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.9.40",
+                "version": "4.10.1",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "ddc3abe68e79bca8aa8d5a8cc4105c9be65caedf04922c6d972aa7015a1cab36"
+                "sha256": "22211cad981fc209ea9fb9771dd1ceecffe8b2e48611fb59186d574acbbe69d5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.95.1",
+                "version": "1.96.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "32a91224a50d7ce4096a093a892de7a9394dc43961f385ccfebffe053c0631ef"
+                "sha256": "a12250b65129012c5ffd8c4ce60eb75eae8decfe064a3f968aa14f9be989208e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.16",
+                "version": "18.16.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
-                "safe": false,
-                "sha256": "03ec90866a52c66a9dc55d2505fadb97cfc2c9735f2fb9550fd23e220fff621d"
+                "safe": true,
+                "sha256": "f4ae3b6693c147253f681c575670ecba23e0b94afa7ecf4dd2923cd54bcb7b20"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.5.6",
+                "version": "15.6.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "82ebc37b36979e314c3e1381878d8bdb99f5474438b359814c0c1a9c642b76a3"
+                "sha256": "99bec8849b5617d0c48c44cf75339a774ff17b3e38ba438d489078ad8b5935c8"
             }
         }
     },
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "f5c71d856dc3b1c5e9a930164acae790ca2ceaa28c45dcc75133375082f6b364"
+                "sha256": "e5aa3a2f4354e1e0f402cd9bd8f8b2fc4aec4a77461ab50dcf72d75e2441b44c"
             }
         }
     },
