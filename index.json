@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.12.2",
+                "version": "9.13.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": true,
-                "sha256": "d63295dc5d9c774afe7f8ab17ed1a87a3e02e83a49851fc3b133b6286c6983a4"
+                "safe": false,
+                "sha256": "41d628728730ee1170cd2dd445f3f4131c354ffa3d02827353a59794cbad7f2e"
             }
         }
     },
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.8.2.2",
+                "version": "11.9.0.2",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "c30318213e005dec1a3f1d90cb7b6f21959cfb17fdbb923ee978690675097275"
+                "sha256": "0dcd20defbb95256d9dd5af7f353aaddf6462d4f83d2d23c097dc083cee04aa7"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.1.1",
+                "version": "27.1.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "2a71fa3f855c2bada85f5457f0577c878f3417e22e80d12e16f8d83572c10f4c"
+                "sha256": "019f1ce95e915c275aa3d88658f5671d5cbbf76b5a3831014f048b59dab7eda8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.85.0317",
+                "version": "1.03.86.0324",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "2f7f94230f3b2164ecf4fa339c583d25a0b40e7e9a8d6cdcf47fab75f6127c6d"
+                "sha256": "b7515f1b3fbc89997eabdb47648d7f94a8273f0f708b533fc4187e341fd9f4b4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -2107,11 +2107,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
-                "version": "4.4.2.17",
+                "version": "4.4.2.22",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_apkdone.apk",
                 "safe": false,
-                "sha256": "2c4f3e6030c690ffc2cf37b96478b246c031e9f9676a7af53ce6af015f195611"
+                "sha256": "2dccfaa4185bed4b3810309a0e323bf22939bbf4347e1b58d8394d5cfe61aaf2"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/es-file-explorer.html",
