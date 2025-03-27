@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.623.207",
+                "version": "1.631.209",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": true,
-                "sha256": "85a18400a5fa2986123d036d185ded53dbb28fdef067c304e9c6ccc0e7b361f5"
+                "sha256": "1780afd8c9f51b26b7acc4bd806e4e87926729e2c848a86fc6082d87160740e1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.13.0",
+                "version": "9.13.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "cd2d1c23a7dbdbb6b5afaa286bda22dc1f7feb3e4bc88251ee92741f5aeb2f13"
+                "sha256": "4b5fca23f0404206371e1e49d53172fe3f8a989ae492ca94135e149d50d7591d"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.1.3",
+                "version": "27.1.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "019f1ce95e915c275aa3d88658f5671d5cbbf76b5a3831014f048b59dab7eda8"
+                "sha256": "c0479d3d54a1d79640166e445daf0be03597af6ee809094804f11fb4845835fb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
