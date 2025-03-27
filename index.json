@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.6.5",
+                "version": "15.6.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "99bec8849b5617d0c48c44cf75339a774ff17b3e38ba438d489078ad8b5935c8"
+                "sha256": "a727a20634a939d6509efc2f97e0fee18f71fdc6b18129a2c286095af8a2d4aa"
             }
         }
     },
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.14.0-250313",
+                "version": "15.15.0-250320",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "f8a5a82cdb790f2ea5777a300247c63d1890490f6217ab145c0594ab4be84753"
+                "sha256": "827e83f93ca48ccacd5213aa5210596d478032ccddd3df2f163732a35626234c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.93.2",
+                "version": "1.94.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
-                "safe": true,
-                "sha256": "b08794ff226ab3e0f5b1ae12e6666e04cff835f559e7e866654026e0c92ee2d7"
+                "safe": false,
+                "sha256": "4e9005fa84a3892fc7e2be323eb2857e14ba1a02d77d62df27758b1cb74b7dc3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.5.3.0",
+                "version": "7.5.3.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "27ba28c071826b99807030e015e3330f4becf537bdde0c67d99756c4a64f0a4e"
+                "sha256": "2388c4f2d715e9660d08f34a247a41b794c43639d22b103b0543fa8aa87e1795"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
