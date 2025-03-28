@@ -335,19 +335,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.32.272",
+                "version": "9.0.34.361",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "e134f11972cbd6e7ac8d839529ec992507a8195abde57d2880e6e547a39f6342"
+                "sha256": "1737810545d7f3069b241208a0d4856cd5aa8d5c47de0c6d0cfeceb263dff036"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "9.0.30.999",
-                "packageName": "com.spotify.music",
+                "version": "19.10.80.3",
+                "packageName": "com.spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
-                "safe": true,
-                "sha256": "1c3e188bc7acd9e24dd4f7fe6f0be95b550599d945e4698f7fdf973b9787f58f"
+                "safe": false,
+                "sha256": "2642f49470aaefcfea62f389fa637ddb455177f3e4c05c58a266482e1dfff637"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.1",
+                "version": "27.1.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "d0ecb4d8360b1bdc48490f0823d5c2749d8932cbbb857f285257981d320df546"
+                "sha256": "058be5e86ffcbb62af36d09e5b881d8fa1ee9074d5d586a749bf7c0086b4a173"
             }
         }
     },
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "15.12.0-250227",
+                "version": "15.15.0-250320",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "0b08fb0e6062cb53c45a05eaf578e8300eec90bfc4d0518e6f128e4a995f864a"
+                "sha256": "2172580438f0cbad27b955f946004cbdb1ad3a0c9e37f578d87384cb1c7e15f8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "20.2",
+                "version": "20.3",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "53c0886083ee7ff4c593bb4590cabba053bf1c6b873bf024ad4f1e638a7df267"
+                "sha256": "003f45a770b6a1529fbb0e500bef545ad42c69ff630f8ea56c132fcb70f11383"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
