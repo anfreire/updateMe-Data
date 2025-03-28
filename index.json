@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.11",
+                "version": "9.0.12",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "ef5ae503133af65817d3acf017faf180be02461a564eb429e4e97879378bd197"
+                "sha256": "4527c3f6d6ca8a041b1117a615854f3b8a070241f87430a8cfed2a84b685052b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.0-beta0",
+                "version": "1.4.1-beta0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": true,
-                "sha256": "85a2cd493fb2ce2318dee31d70d766a141e891b5fdd2b74605e318c7025e998a"
+                "sha256": "68b10bf5a446faa75db944476f335994f99e048f8a853a4993e1dff978e996a3"
             }
         }
     },
