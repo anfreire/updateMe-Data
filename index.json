@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.13.1",
+                "version": "9.13.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "41d628728730ee1170cd2dd445f3f4131c354ffa3d02827353a59794cbad7f2e"
+                "sha256": "ab73c3fe6b2de3b7ad452d2395e23515bcd6f5660631c00c489454cd95813301"
             }
         }
     },
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "28.9.3",
+                "version": "28.9.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": false,
-                "sha256": "fc1b09ae5e89a72416cd7fc230d6ea3d7bf65f1ac5619f77072999f1dc140731"
+                "sha256": "da5ca20fa530c00521d635742fa52411bf0f4fe7764a51c4e1053a18fd2ae68a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
