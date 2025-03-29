@@ -38,11 +38,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "19.47.53",
+                "version": "20.07.39",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "07231815dbd938a95b3754bbf9e0e79ba01371eebe4bd4fc41a64ec540b902dd"
+                "sha256": "e3555b31f6e653e6c3fee7e1eaafafdec03e96509464d354743faa57def77fb2"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "49b5a6c7ee0cb350e20f1abda03fe1ccbe23534978411bf8b54aaff6c56d79bd"
+                "sha256": "22d5790629da439aa711043bb2ebea6568d482bbf3be3fa628885c6d54656534"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "f0a97e29256b166d4fc180c971b78af44813aed447021b358e2023ab9c21cb4b"
+                "sha256": "08a0d97439bc74c39e24bcc189ed80e5d7a77e303a5a724277c441ddce0b9224"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "c267e96662262f0458756cffb2fdc192f55cf099535df0af2160e972d9e74c46"
+                "sha256": "9ce50f7ab2e9a1d95782e103c1ed916e4ec20d3edb131f32015c0af373779650"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "19.10.80.3",
-                "packageName": "com.spoti.plus",
+                "version": "9.0.32.468",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
                 "safe": false,
-                "sha256": "2642f49470aaefcfea62f389fa637ddb455177f3e4c05c58a266482e1dfff637"
+                "sha256": "fc7061753eb294f09fac0644f3db8f4aff54894c9fec60c6f3e0a32464bd4836"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 015",
+                "version": "6.5 build 017",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "6d9ec3f6d275979906ba528059fdbb4ecb8afac33126a6a2713241cc0d79bc3f"
+                "sha256": "1a8c0bdd2cd5405be44f711c1150c05306b92fbd6369a8dad029895b70a34cd2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.9.40",
+                "version": "4.10.4",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "4259ce8ee2f1adeb1f17b4ee8ffbee0115fffc84e697a2ea1955e879a9073a9a"
+                "sha256": "38028dd65a1534ef59efed1bf0bccb86879241e6e289ef773cb5ca8f9f5a7d3e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.22.3",
+                "version": "6.23.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "308fffbb501f04a5f939d1bdd637ab00673b6fe9eef2dbef184fac782ab945ac"
+                "sha256": "57732da4c53be2e9c70618dfb173327e6ed92516c6d1d2d146d00be2e3abe14c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "20.2",
+                "version": "20.3",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
-                "safe": false,
-                "sha256": "83f03c117b1ba4220c88dd76a54bf893a739eee079d37504abd7eb7aa11a8673"
+                "safe": true,
+                "sha256": "b1ecdf08a465715c6493982bdb5ae6e07171edb01cc4a09e113fee47a0313f5a"
             }
         }
     },
