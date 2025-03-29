@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "13.8.0",
+                "version": "14.0.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": true,
-                "sha256": "77c0aaeda7ff579dfaea300079988b67663837a83668220e3e8a021878885f67"
+                "sha256": "1d51ec5f279aa7db2476c515aac14b0978469283ac6986b3cf881c727ac66d11"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.12",
+                "version": "9.0.13",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "4527c3f6d6ca8a041b1117a615854f3b8a070241f87430a8cfed2a84b685052b"
+                "sha256": "7d0be47ffcfb78671bac081d678f81bbd67678260dc0f4510723a33398b35adf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.45.1",
+                "version": "9.13.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "bfc90b83b75a9729ca37d0104fc351ee374b6491dea158723b400e3f4a1c5e33"
+                "sha256": "cf0088d5bfb4e14fe7619d3dd6008c343f1c132211c1260f9cbab75505fd9fb4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.595",
+                "version": "4.9.622",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "bfb28d646b96a4a1fb0fe1de10ac55e60ac99d7e42899a1facef7b9cce2b008e"
+                "sha256": "dac03f1e52fd832fcbb8b723abba9e7acd08bb07b28442d6634be0f56a5f9f99"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
