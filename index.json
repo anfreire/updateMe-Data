@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.41.00",
+                "version": "4.42.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
-                "safe": true,
-                "sha256": "02c7ff84d725e9f0da3493a63d7a4c263aacaa6b9eac973733d1664b769ba1ee"
+                "safe": false,
+                "sha256": "8eeb431fd2189eb7ce7e732ddbc8562c6084cdef5227aab1930259a157db4216"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.6.6",
+                "version": "15.6.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "a727a20634a939d6509efc2f97e0fee18f71fdc6b18129a2c286095af8a2d4aa"
+                "sha256": "10cfe182edd9b7fde17325f654272aaa9cf0a57196c2bf390b3a3f4724109588"
             }
         }
     },
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.94.0",
+                "version": "1.94.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
-                "safe": false,
-                "sha256": "4e9005fa84a3892fc7e2be323eb2857e14ba1a02d77d62df27758b1cb74b7dc3"
+                "safe": true,
+                "sha256": "38445521a89b16c40ec2e575f52f26b74de1765a53f24cdeffad137c6a8d6aa7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
