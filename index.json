@@ -46,11 +46,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "19.44.39",
+                "version": "19.47.53",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "ff76128f3691a931ee594ad92aa7d055509d1857168e0c3bb7d7c4497d4127df"
+                "sha256": "d675307cccd265ddd5841158611c9f221c1fb920866d4b4bc49adedfcec54e50"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.10.51",
+                "version": "8.12.53",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "adbff72bff4262784ff2d2fb362a545cec3583ab6a6e48534fb5bc2f63f24fbf"
+                "sha256": "7ec3cf3db1452133a3d2aaa58104bd3696e8c6414a606ce76f6a83bc3b1b3788"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -143,11 +143,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2025.05.1",
+                "version": "2025.12.0",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "595c0ab79c030caacd18a6b167fe9f930410a8bcabc669e2c887f67c8d846d63"
+                "sha256": "4d51723bb6b3314490be64d7d52218b18319753ea38d28f12ab28e26fa656611"
             }
         }
     },
