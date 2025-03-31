@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "9.0.32.468",
+                "version": "9.0.34.101",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
-                "safe": false,
-                "sha256": "fc7061753eb294f09fac0644f3db8f4aff54894c9fec60c6f3e0a32464bd4836"
+                "safe": true,
+                "sha256": "368eeabacbfdd9dd9caadf3e531084a031044cf4a8f1b68fc159879f64ede382"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.1.4",
+                "version": "27.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "058be5e86ffcbb62af36d09e5b881d8fa1ee9074d5d586a749bf7c0086b4a173"
+                "sha256": "10a33dda4ca402a02e4af8db6db05453785ee3cfe424921a03d868b6b4166814"
             }
         }
     },
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.9.555",
+                "version": "4.9.622",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "89041d72ad55a80aedfa444b38fc8bf58ba318a53c1a95451d85279d2622cca8"
+                "sha256": "1d965b1d5a2d00b11e3a72f8e49bf7a936139f4d3b83cc0eaf33e5defde80a56"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
