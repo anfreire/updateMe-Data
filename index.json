@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 017",
+                "version": "6.5 build 018",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "1a8c0bdd2cd5405be44f711c1150c05306b92fbd6369a8dad029895b70a34cd2"
+                "sha256": "f9c09d503053a66fcaba50c1ece2c89cf7b16a6988e55259a77a924699abcdbd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -877,11 +877,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "11.1",
+                "version": "11.2",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": false,
-                "sha256": "8397c5db2707c49ec0607a8d9bcb195528be188044b0aff1c2febad8d1154b70"
+                "sha256": "bb10f71b9a698a346068ea25a08b97965748a9518e2f5aa628982aebe9bcafa1"
             }
         }
     },
