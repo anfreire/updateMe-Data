@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.114.1482",
+                "version": "2.115.1483",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "dcffb4476d5019139bc149032216acb432a9c5d86ba4078fc1522224aeb5ff96"
+                "sha256": "9e91e70e624c225ee0a288a576c4492d6424af4959a4128b03a49f471ca49617"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 018",
+                "version": "6.5 build 019",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "f9c09d503053a66fcaba50c1ece2c89cf7b16a6988e55259a77a924699abcdbd"
+                "sha256": "914ec53ae87567bbb751a278ed730f13bd11addd70d1556a35bcb46f466f0c26"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
