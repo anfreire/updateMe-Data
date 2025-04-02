@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "9.0.34.101",
+                "version": "9.0.34.105",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
                 "safe": true,
-                "sha256": "368eeabacbfdd9dd9caadf3e531084a031044cf4a8f1b68fc159879f64ede382"
+                "sha256": "5f48a1d69a2caa5291dbe3f9777087cf877c70fee2ff7d540266f4ab7176c069"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 019",
+                "version": "6.5 build 020",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "914ec53ae87567bbb751a278ed730f13bd11addd70d1556a35bcb46f466f0c26"
+                "sha256": "bab56f5916be76036d26bb638fd86726310c253df03985e62f400d7b1d7da430"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.23.2",
+                "version": "6.24.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": true,
-                "sha256": "57732da4c53be2e9c70618dfb173327e6ed92516c6d1d2d146d00be2e3abe14c"
+                "sha256": "918d82e620f39ca39a4cf4f2c37982028ffa259914a5714775ea1323e97d90ad"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
