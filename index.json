@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.84.0.2503190000",
+                "version": "6.85.0.2503310000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
-                "safe": true,
-                "sha256": "a8b85f157d251bf4b608127d4bc87483ed0bdeeca28949f3371ff3356f96439f"
+                "safe": false,
+                "sha256": "40fe0f6a6a62b13aad0be1ce870da7aca9638f4abeb5388492cbe2e54f58d8e2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.6.7",
+                "version": "15.7.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "10cfe182edd9b7fde17325f654272aaa9cf0a57196c2bf390b3a3f4724109588"
+                "sha256": "d3f7d4592cc0db89c59ccd339c5096491ca0589e9a5b2ab32c7daf3a0b1003d6"
             }
         }
     },
