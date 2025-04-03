@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.15.0-250320",
+                "version": "15.16.0-250327",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "827e83f93ca48ccacd5213aa5210596d478032ccddd3df2f163732a35626234c"
+                "sha256": "4d3ea780b0faaba9860e8b6013c1bc35c5f868cc598307449830a013d65c2fef"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.24.2",
+                "version": "6.25.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "4cb8aa54ff897ce31db171727710b806103fce50a20406dda62410b79e4d70f9"
+                "sha256": "67a80d57d3de14836501ffba398c4bbe5725c838237812ae015142390eb4f28d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
