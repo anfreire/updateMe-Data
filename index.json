@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "e437418460309b32825ac53de626be62a63fc1857ef11ab9b4234a77707d1ad9"
+                "sha256": "6fbe7844119c401811e484419b1796a18ba04738f2303719974ed62a5d15c9ac"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": false,
-                "sha256": "a0749ae835663a504d4ed156b04e5aa622220229c7946290ef16f3594215bc04"
+                "sha256": "558eef14493111d287305109fb978f9ca558c8f9c8ceb9ed2d5e2c5e7787f435"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -143,11 +143,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "2025.12.0",
+                "version": "2025.12.1",
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "33e188f07dbae3a9cc1e20f283daa80499e797c41074a3debc21cd60ac05920f"
+                "sha256": "d9857d37caac632a68068081c38f9b7aae3bce741ad3554823a74536e6ba423b"
             }
         }
     },
@@ -683,11 +683,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.6 build 015",
+                "version": "6.6 build 020",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_modyolo.apk",
                 "safe": false,
-                "sha256": "5872e73ae5e0f73aed5f176aeaadf8a3f1dbef1271b0a3e928d5e70860c1f795"
+                "sha256": "76a698a8a0b4efa5622be97c81c28222b0957bff4ea6a3e2ab98565e58bb01c1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.7.5",
+                "version": "15.7.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "d3f7d4592cc0db89c59ccd339c5096491ca0589e9a5b2ab32c7daf3a0b1003d6"
+                "sha256": "9ec69b97ce79cea4cde255904a8043b914e824f737e1a56fb5da57920129fe04"
             }
         }
     },
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.1-beta0",
+                "version": "1.4.2-beta1",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": true,
-                "sha256": "68b10bf5a446faa75db944476f335994f99e048f8a853a4993e1dff978e996a3"
+                "safe": false,
+                "sha256": "663e967a3f0496ecf6e8aaadbe5764052830b9fc07915efa3908e51a82a633da"
             }
         }
     },
