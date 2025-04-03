@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "14.0.22",
+                "version": "14.0.30",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "17afd14b311ceb0797c44afc49112b55fa9df69a90a1bc1e39d3bc91a3b37096"
+                "sha256": "d7d46e60e82ec5475be9cb73ed7f4f00b5bba290bf620ef2c2e2b8f7d38e2713"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.86.0324",
+                "version": "1.03.87.0402",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "b7515f1b3fbc89997eabdb47648d7f94a8273f0f708b533fc4187e341fd9f4b4"
+                "sha256": "3cd014138cc276eb7007d95fb69847532d71f358cfcfc67b45417cc260ecb855"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
