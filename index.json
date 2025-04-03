@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.13.2",
+                "version": "9.45.6",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": true,
-                "sha256": "cf0088d5bfb4e14fe7619d3dd6008c343f1c132211c1260f9cbab75505fd9fb4"
+                "safe": false,
+                "sha256": "8c1fd6d71d89c51a2385bc75cd24ca1f7cec8aac4047b7cf7c5ea4a06f9d2891"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.41.00",
+                "version": "4.86.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
-                "safe": true,
-                "sha256": "02c7ff84d725e9f0da3493a63d7a4c263aacaa6b9eac973733d1664b769ba1ee"
+                "safe": false,
+                "sha256": "650d939c985cc3b7945ed93349dda5d71909645d16354c6715339eeaf9b4fba0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
