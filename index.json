@@ -1000,8 +1000,8 @@
                 "version": "2025.03.17-release",
                 "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
-                "safe": true,
-                "sha256": "20d85a8d54a59c87e4398f4693627781026c5aeae5de4b8e04d581374df6f2ce"
+                "safe": false,
+                "sha256": "73f8fc4ccc32769a266d84b151fffb69d7b4cab83e8866ca9f85ab9cd7dd8496"
             }
         }
     },
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.2-beta1",
+                "version": "1.4.3-beta0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": false,
-                "sha256": "663e967a3f0496ecf6e8aaadbe5764052830b9fc07915efa3908e51a82a633da"
+                "sha256": "2adf01220ed1f614fa3b60a9218506fa312c75d6beb275f325a62a4b6d46c316"
             }
         }
     },
