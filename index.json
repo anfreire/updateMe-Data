@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.24.0",
+                "version": "1.24.1-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "fa8e7916694e954a11bad622b47da62af473c1c4a372d09c66811d8e519ee87e"
+                "sha256": "b3f161ac6592f9b60408064691f00a9ec9405f6a6e723558844bad57b444faf5"
             }
         }
     },
@@ -1454,19 +1454,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.1.4",
+                "version": "27.2.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "c0479d3d54a1d79640166e445daf0be03597af6ee809094804f11fb4845835fb"
+                "sha256": "bfa8b99bf28bc73d84a7e349d28a5e9c6968dbbc4209397fc7715df6e3479ad5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.2",
+                "version": "27.2.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "10a33dda4ca402a02e4af8db6db05453785ee3cfe424921a03d868b6b4166814"
+                "sha256": "03731ae04c5a92f792cee6711e2651a70df77a963192a56440bdd217c9da0ec9"
             }
         }
     },
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.41.02",
+                "version": "4.42.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": false,
-                "sha256": "a89fcba6bee15a2763254c244f3fefa3591c19911b15e1dd8b20431b957a5f8b"
+                "sha256": "6e49d596f0719b66abc6ed32344c87b0465914904172cd63cff0ddd60654ff10"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "15.15.0-250320",
+                "version": "15.16.0-250327",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "2172580438f0cbad27b955f946004cbdb1ad3a0c9e37f578d87384cb1c7e15f8"
+                "sha256": "8d1da7578b681e2a42d09897e474e5c93ecf96f845b8da68cd7901975fe4b186"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
