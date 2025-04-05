@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.42.00",
+                "version": "4.43.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": false,
-                "sha256": "6e49d596f0719b66abc6ed32344c87b0465914904172cd63cff0ddd60654ff10"
+                "sha256": "4b3b210e9ac6a8681d9d075c88c7ce64f69471e76570600029209d1066b7d032"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "14.0.30",
+                "version": "14.0.31",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "d7d46e60e82ec5475be9cb73ed7f4f00b5bba290bf620ef2c2e2b8f7d38e2713"
+                "sha256": "7f9a9cb142170e9ec7736285144e0554b1b249dd3670897ceed9b192bbc14aa5"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.5.3.1",
+                "version": "7.5.4.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "2388c4f2d715e9660d08f34a247a41b794c43639d22b103b0543fa8aa87e1795"
+                "sha256": "731e9cd0d74bedbe2ccf6fa19d377993efe3832246f4e357302f9a1345bd541a"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
