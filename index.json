@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.631.209",
+                "version": "1.632.210",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": true,
-                "sha256": "1780afd8c9f51b26b7acc4bd806e4e87926729e2c848a86fc6082d87160740e1"
+                "sha256": "1ea4caa02bd432522052382c62af1414a2c12aee08c92e8e1f7cf4fdc23558b3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -939,11 +939,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.2.9",
+                "version": "6.3.0",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "78412d359208d57843aecab037f2417338cb561ea83a5c0f7b1378bfecdd4ff2"
+                "sha256": "d4fe863bbbcccd92dc8ade35108ea1337d26f8e84642f55240d7267b3c081a6e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.42.00",
+                "version": "4.43.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "8eeb431fd2189eb7ce7e732ddbc8562c6084cdef5227aab1930259a157db4216"
+                "sha256": "7c5c27c776e33cb8bb4bfd4762fcbc325df8512b87454a5549d8361768394300"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "10.83.0-release.0",
+                "version": "10.86.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "e5aa3a2f4354e1e0f402cd9bd8f8b2fc4aec4a77461ab50dcf72d75e2441b44c"
+                "sha256": "cf65b1b08c2136824e5ee8c858b1ef0156a993c50229fd090a172907c67b28db"
             }
         }
     },
