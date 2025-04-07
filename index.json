@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.169.0",
+                "version": "2.170.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
-                "sha256": "43ac5aff4bc6a7b451c989df9d1f431c581bd5b9dd664e558bb273014bfa3735"
+                "sha256": "7358a239a847ce2a7d471a7fcde8776feef8a23524ae06128445cfde75f9025c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1912,11 +1912,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
-                "version": "17.2",
+                "version": "18.1",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_liteapks.apk",
                 "safe": true,
-                "sha256": "0e27999ebe2f44cf8a712ef5d5b8bcc62660bb4e0ccbb6c9020f240278dc1e95"
+                "sha256": "e5352387f129ef8b14a02505dbab9db7d9dcab969bfd8e642082f0f8abe21715"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
