@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "9.0.34.105",
+                "version": "9.0.36.134",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
                 "safe": true,
-                "sha256": "5f48a1d69a2caa5291dbe3f9777087cf877c70fee2ff7d540266f4ab7176c069"
+                "sha256": "44f11343aec64ba918f21568345b40b90304ed4b4bd7497ff7e6ea10cdc16129"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -421,11 +421,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "17.6.4",
+                "version": "17.7.8",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_liteapks.apk",
                 "safe": true,
-                "sha256": "ae663bb94c07777ffc4b68a409c30cfc3a27fe19c1a12560909c04222a41f13d"
+                "sha256": "ae55eb3607cdf4d78f26329ab8b4d05bf056da788bce53e5cf3cd890ac8b370d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.10.4",
+                "version": "4.10.9",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "38028dd65a1534ef59efed1bf0bccb86879241e6e289ef773cb5ca8f9f5a7d3e"
+                "sha256": "9181a880813728c79b9e24a15f36ae7005b4a8ca1ab7f22ad89d3b31c390e168"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1920,11 +1920,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
-                "version": "17.2",
+                "version": "18.1",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_apkdone.apk",
                 "safe": false,
-                "sha256": "6b95a3e0df3db27c8635cb0c532976bec47507ed307f398c5c8248f7c4810d41"
+                "sha256": "0d30169d4bced4d87433a14509b0d89227379f14819a08c9eb2d560deb56d7b6"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/1dm.html",
