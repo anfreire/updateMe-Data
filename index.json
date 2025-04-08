@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.2.1",
+                "version": "27.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "03731ae04c5a92f792cee6711e2651a70df77a963192a56440bdd217c9da0ec9"
+                "sha256": "10a33dda4ca402a02e4af8db6db05453785ee3cfe424921a03d868b6b4166814"
             }
         }
     },
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.5.0.1",
+                "version": "7.8.5.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": false,
-                "sha256": "9ddba3deb610e4e243be0f06cba0c1fdbcc4df4ab255223b83d1aada6fa6e715"
+                "sha256": "37e4a99bbf62cf56f5d62f25daaa244bb02c4cd06e050099d500bcd38c3e0dba"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
