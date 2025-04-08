@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "17.4.2",
+                "version": "17.7.8",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
-                "safe": false,
-                "sha256": "310b48993d0684cc21988dc5e6d7f8d10aa639419bbe539b70d7b5710c911b01"
+                "safe": true,
+                "sha256": "738507f0c18f97aba37af4f3ec16132fc08fe4779c08749977a1de6488f1018d"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.115.1483",
+                "version": "2.115.1484",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "9e91e70e624c225ee0a288a576c4492d6424af4959a4128b03a49f471ca49617"
+                "sha256": "02dd718dfcdad8f5ec0da60a9e2bc91df1dd12f86d1e6d297d87e383f0563053"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -2279,11 +2279,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
-                "version": "4.3.6",
+                "version": "4.3.7",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
                 "safe": true,
-                "sha256": "7cba771df4f741fcaa8ca8daa1c5e22ec085ddba9e331a6b7ec17ae2f759ee3f"
+                "sha256": "c0e6a09e98c87ac4a8b32ffefc693b0585cd5cccddbfc8c1a372c1c0fda02b0b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
@@ -2318,19 +2318,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.6.29.34156.GP",
+                "version": "7.6.6.34564.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
-                "safe": true,
-                "sha256": "ce7a82a76aaa07b3d120932530abc9e107ba1120b38669fc86d8ebe850ddad20"
+                "safe": false,
+                "sha256": "a86a7945c88da19974e7c94480394669dd24c7d4124b0d61aecab438bf9604d2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.6.6.34564.GP",
+                "version": "7.6.9.34606.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "d25b110520e53ba5cbbb27262505e6da66db87de1cfc9229ed29ee89b11753df"
+                "sha256": "6eb55760eec16959d3bdf39a2414804a1194ddd2ecc28a1bf3ab5f794b17ef62"
             }
         }
     },
