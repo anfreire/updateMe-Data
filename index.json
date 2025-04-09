@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.24.2",
+                "version": "6.25.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
-                "safe": true,
-                "sha256": "918d82e620f39ca39a4cf4f2c37982028ffa259914a5714775ea1323e97d90ad"
+                "safe": false,
+                "sha256": "4d956f94ce77ebf499faada5bc1b12d060d6fd76d431d2ec1c98a06adbc807cb"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1912,11 +1912,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
-                "version": "18.1",
+                "version": "18.2",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_liteapks.apk",
                 "safe": true,
-                "sha256": "e5352387f129ef8b14a02505dbab9db7d9dcab969bfd8e642082f0f8abe21715"
+                "sha256": "ddb5f9f83a1953a1e565d8607baa5ebe04da4816908ad72fc40fc1124fa510b8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
