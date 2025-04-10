@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.24.1-dev.2",
+                "version": "1.24.1-dev.3",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "2c968c63629d9d093ff026633f7b5feb74a35fdc6f2f31313f7c7a07e3303f75"
+                "sha256": "a48516a5680702d91236f798203c092ae9c3df9dfe994ed796fb957c8eb1ece1"
             }
         }
     },
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.2",
+                "version": "27.2.3",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": true,
-                "sha256": "10a33dda4ca402a02e4af8db6db05453785ee3cfe424921a03d868b6b4166814"
+                "sha256": "4b0e658911abc66705b2d4f345c97f804dfd8c0d1964183ac39ea28c43b403b3"
             }
         }
     },
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.96.1",
+                "version": "1.97.0",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "a12250b65129012c5ffd8c4ce60eb75eae8decfe064a3f968aa14f9be989208e"
+                "sha256": "aa109592243f5f1053eb1e807ffe4c309bac321098b7d03718cbcb1f994e2a72"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.5.1.0",
+                "version": "7.8.5.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "9ed230ea02197c739862fbb2dea9ce98a1f60dbd7e401cfa88ac2ff992b11990"
+                "sha256": "37e4a99bbf62cf56f5d62f25daaa244bb02c4cd06e050099d500bcd38c3e0dba"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
