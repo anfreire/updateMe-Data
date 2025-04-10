@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.24.1-dev.1",
+                "version": "1.24.1-dev.2",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "b3f161ac6592f9b60408064691f00a9ec9405f6a6e723558844bad57b444faf5"
+                "sha256": "2c968c63629d9d093ff026633f7b5feb74a35fdc6f2f31313f7c7a07e3303f75"
             }
         }
     },
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.37.2",
+                "version": "15.37.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "90c875b85b97dd6682a98bb2b5a44aacebca456b9631666dc9dbd88c58d8000c"
+                "sha256": "2ff59738f001514f50c9768ba768465a339ccceeb4c008fb612bf264722e4ebe"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
