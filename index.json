@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.36.443",
+                "version": "9.0.38.126",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "7c52cbad7bbe573e26719730836bf6490ee63cfe936c2cb4b7dc562d836d5466"
+                "sha256": "e7141d636aac0a2411670845d8f45fe2f27a3a6aed2d98a7c00512d7593b21d6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.13.2",
+                "version": "9.13.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "ab73c3fe6b2de3b7ad452d2395e23515bcd6f5660631c00c489454cd95813301"
+                "sha256": "b4893359543c044107770d521b8816b1b0594066b4e98eacd65c4b4321b421d6"
             }
         }
     },
