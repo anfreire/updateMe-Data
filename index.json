@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "17.9.0",
+                "version": "17.9.8",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
                 "safe": false,
-                "sha256": "16034c1bbaee30423d51f6364af8f5656442ab64c0df4e1949d60989c72fb171"
+                "sha256": "fc38aec426eea9db4d517b515ebcc20e8c9ab069dc522b847727e0b9158f2974"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.13.2",
+                "version": "9.13.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "4b5fca23f0404206371e1e49d53172fe3f8a989ae492ca94135e149d50d7591d"
+                "sha256": "af1e146212723fa9bc01ed0c5edd2dd343191493a9cca9facc45420ff8743197"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
