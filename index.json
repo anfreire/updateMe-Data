@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "14.1.0",
+                "version": "14.1.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
-                "safe": true,
-                "sha256": "cb47bb0d081684117f016a5893dab0ca6aa898ed3f5c4cfa370191130dd898aa"
+                "safe": false,
+                "sha256": "e4a25b6dda9f77791652e0a94a5764dbd26a04dadb51da5ceb155a04d98786c7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.3-beta0",
+                "version": "1.4.5-beta0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
                 "safe": false,
-                "sha256": "2adf01220ed1f614fa3b60a9218506fa312c75d6beb275f325a62a4b6d46c316"
+                "sha256": "385c487822f41f0e9dcc10fbda2373ba778ac7830e8676e7039b9493648057a1"
             }
         }
     },
