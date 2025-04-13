@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "8f88511f2bf37fc5085358a8c3526c19017da55fd121f5a89ee90ced69e0eacc"
+                "sha256": "91a82314c4e5dab7b09d9104ae9075c66add77e330b718c14528306067832b7c"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "f86f8721f055254f8bb3d7e36c4ffcdafc20bd729d5eac075047559ddc5f855f"
+                "sha256": "e10cad9a916db9b792cf1e489b63fd86faddc8fdfec4ca9c3f64ee53c141c819"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.24.1-dev.3",
+                "version": "1.24.1-dev.4",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "a48516a5680702d91236f798203c092ae9c3df9dfe994ed796fb957c8eb1ece1"
+                "sha256": "4131731520f7df60b7eaaf7b6fa6b541fdb42a206fcf954f67c8bb1b92fa8a80"
             }
         }
     },
