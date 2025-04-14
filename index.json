@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.25.4",
+                "version": "6.26.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": false,
-                "sha256": "4d956f94ce77ebf499faada5bc1b12d060d6fd76d431d2ec1c98a06adbc807cb"
+                "sha256": "206c324f9fdba61d9b6e5bffc485c0faa22927c0eeeb4ed2deaaf3e18c9dada7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.5-beta0",
+                "version": "1.4.7-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": false,
-                "sha256": "385c487822f41f0e9dcc10fbda2373ba778ac7830e8676e7039b9493648057a1"
+                "safe": true,
+                "sha256": "f6754c04115cd57bb183312c5df5f9fae9484e29d95f91fc31aa6b7bea8c408c"
             }
         }
     },
