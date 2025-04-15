@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "b4f710175a54543db75cd8d5702ef69b37981c05be2cbbf7a65bcb6181d9b365"
+                "sha256": "5a4bf23c0458dc0cb396ddbe0e9d71423e2dd99d65f38e1ec7513b1c0bab8c5d"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "86d716d8b17a4b5084f28b143f1340f347bc7102a3d4f1823952fe73952b3084"
+                "sha256": "82c613f1ef7a7d9e926fb46993f91c72464955ca74db67aafab522bf8c7e3d01"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "c59238baa80b60031aa94023e869bd1541f51bdea38323b77779b712fd6d7d1d"
+                "sha256": "934b03b19291a82ae04f1d6144617f487be4ac88ae8b72d6eb1f1ae311d70c03"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "9843b0182b48089f6aad47e1ef65b1ef02dabee86e979ae0d24748e98c11ccfb"
+                "sha256": "6f5a51c15e385c12d83780e0db5aa25fe6feed7ba8c1f2abea8894f4e0520858"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "b29382d0a7c3e3a5782ef2fd7f3f496cae67f56452054598d038ec7eb6c4f3e8"
+                "sha256": "6548c2836a40b3e25fe92bb12c4a6e65af5756c3b8666d4e7501fa968a362ba7"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "0df229d502f3e15e546652c5a0c62ad0849c4f7a12dab1ea7d3fb490595f9031"
+                "sha256": "9b826ea7ccb0153e94cd15494348966fe10dc778b59c8801dda5918d6ffbbd9f"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.25.3",
+                "version": "6.26.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "8d8457a0790ccdc92db03d4fe40cb5ca2da345b0c511d6e37e1f95af290e472e"
+                "sha256": "6321bb31223a2d01d2253d6aed1f660b1c7dc7d72a994efa4edbf93e623c9aa9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.94.1",
+                "version": "1.95.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "38445521a89b16c40ec2e575f52f26b74de1765a53f24cdeffad137c6a8d6aa7"
+                "sha256": "68429301ee701f50237529e0673a3df3fecbc443d9e1241a3ae016476d10a1c3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "73fa386696da9ca3fa7f3abb8059769441eee462be3637d7605fd0e8fe915039"
+                "sha256": "5ad9500622b5af522a658bd7ac23509a6d19e81296f2a88cf7920d57e291fd53"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "19204fc5d828779f68004dae35f4725b269953ac284e65f52d81eaa1ab4d99f9"
+                "sha256": "54c6586ddaea719f810b6f9340d21472ee7552f25e3048171b2b5cc3ee0b3b64"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "020dbcdcceb9bc4329fafcf6a18c6648aecb9807c905adc301e6c8d0e58969e8"
+                "sha256": "2d8eb4fdd0f14b11f9bc3fbdc48cf95db6fa5c894ef9665d2043d0f5cc7259b0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
