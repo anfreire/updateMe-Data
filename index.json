@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.38.126",
+                "version": "9.0.40.320",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "e7141d636aac0a2411670845d8f45fe2f27a3a6aed2d98a7c00512d7593b21d6"
+                "sha256": "bfcde1365bae56ab7e372cf62aedffd11e65959bbed5a16e811a25f0ee1af2bd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.8.7",
+                "version": "15.9.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "1ac8ba0991d3e38d24d6139773f44a532d027a49f8ee7f06438cebac8df60487"
+                "sha256": "e0c03e7c3f41f53c8db097b249a66300f53521a2887513ee95aefd7c668e0e9a"
             }
         }
     },
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "cb90e2e34ee93a1f5cf3b42b8020c061dd481277ef4a4a2c5b96fe3d1c2332ce"
+                "sha256": "73fa386696da9ca3fa7f3abb8059769441eee462be3637d7605fd0e8fe915039"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "501.0.0.61.108",
+                "version": "502.0.0.64.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "ce74eeb24db3fa160058ac691414b809da42110e090319a343006ecc5a3e852d"
+                "sha256": "19204fc5d828779f68004dae35f4725b269953ac284e65f52d81eaa1ab4d99f9"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "cf1987a74985176170ca952eba5b344a407d90c216ac5da08d5ec33f1eab9b87"
+                "sha256": "020dbcdcceb9bc4329fafcf6a18c6648aecb9807c905adc301e6c8d0e58969e8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
