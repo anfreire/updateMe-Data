@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.6.6.34564.GP",
+                "version": "7.6.10.34610.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
                 "safe": false,
-                "sha256": "a86a7945c88da19974e7c94480394669dd24c7d4124b0d61aecab438bf9604d2"
+                "sha256": "3aa40ea1cbe4119a9f12732af364c42c05ba304e7ee11b8c80bafbc784b97ebe"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
