@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "5a4bf23c0458dc0cb396ddbe0e9d71423e2dd99d65f38e1ec7513b1c0bab8c5d"
+                "sha256": "390d1dfe71f88708328b8b5954db833c87ba338c40107a6a36ba6ad2e351ff54"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "9b826ea7ccb0153e94cd15494348966fe10dc778b59c8801dda5918d6ffbbd9f"
+                "sha256": "cf081a60d79a8fa0b0409c3ef07cdabe83166f18cc676ff440e04b6cca445ba4"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.85.5.2504030000",
+                "version": "6.85.5.2504102104",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "b43c9c4309344da72587d590eb05ba3c81a049697f3a4fd89a3c20ce28556699"
+                "sha256": "4bc132b4eb54b571d7e181fba4aee976f1f9500255bb0eedaff138f169aa758b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
