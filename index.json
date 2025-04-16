@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "82c613f1ef7a7d9e926fb46993f91c72464955ca74db67aafab522bf8c7e3d01"
+                "sha256": "68e8422c513c94d08b1630fe114763dbce40892dd0a2befd260cde7591fe4648"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "6f5a51c15e385c12d83780e0db5aa25fe6feed7ba8c1f2abea8894f4e0520858"
+                "sha256": "4c4a77c9841ffbb1cc4ed13bd5cfa56e70fe48262fdf028fa8dda3e48b4e853c"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1612,19 +1612,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.37.5",
+                "version": "15.9.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "2ff59738f001514f50c9768ba768465a339ccceeb4c008fb612bf264722e4ebe"
+                "sha256": "d43f70167345225b221a008de727b0975d4d3c30963ff2a7234a7aaf32d4707e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.9.5",
+                "version": "15.9.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "e0c03e7c3f41f53c8db097b249a66300f53521a2887513ee95aefd7c668e0e9a"
+                "sha256": "86622b1937ea2c1e3e32faa0c710de43322f1e42870499d248ebece9c13ea43f"
             }
         }
     },
