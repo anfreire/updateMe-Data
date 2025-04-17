@@ -413,11 +413,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photoshop-express-photo-editor.html",
-                "version": "17.9.8",
+                "version": "17.7.8",
                 "packageName": "com.adobe.psmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_modyolo.apk",
-                "safe": false,
-                "sha256": "fc38aec426eea9db4d517b515ebcc20e8c9ab069dc522b847727e0b9158f2974"
+                "safe": true,
+                "sha256": "738507f0c18f97aba37af4f3ec16132fc08fe4779c08749977a1de6488f1018d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 021",
+                "version": "6.5 build 022",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "1f56d62f53e53cd08c9fa1e6da464d92e139c6b31ca07830a740b86370629940"
+                "sha256": "dc5987286535a28783fcc2ef18add4276634dbc4b032ddd9fced00e28ca0a191"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "14.6.1",
+                "version": "14.1.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "0421939253923e763937b1712020fdbce02f964f15b46a777b1b9ae45d67a81c"
+                "sha256": "e3df2b6f172d7f19e81b34a8202256745c8e40f79128b1adc79781546c5356ec"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -1904,11 +1904,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/1dm.html",
-                "version": "21.0",
+                "version": "18.2",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modyolo.apk",
-                "safe": false,
-                "sha256": "81ee538478761d74d4249a5a8c63848ba06e3f1dd93b3197a6ba128371ca7338"
+                "safe": true,
+                "sha256": "a089afd873224748894b04d075f44bab09979a8baffa0c9581a9a69305020f0f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.8.5.0",
+                "version": "7.5.4.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
-                "safe": false,
-                "sha256": "37e4a99bbf62cf56f5d62f25daaa244bb02c4cd06e050099d500bcd38c3e0dba"
+                "safe": true,
+                "sha256": "da51cc0648390ad1701a6e30443626c2618b9eef40f33863b85942dae899622b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
