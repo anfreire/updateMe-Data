@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.24.1-dev.4",
+                "version": "1.24.1-dev.5",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "4131731520f7df60b7eaaf7b6fa6b541fdb42a206fcf954f67c8bb1b92fa8a80"
+                "sha256": "eed293354449c7075f1411d94d18af8cc9085d75510f9616194edfa6132fa842"
             }
         }
     },
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.45.6",
+                "version": "9.13.3",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": false,
-                "sha256": "8c1fd6d71d89c51a2385bc75cd24ca1f7cec8aac4047b7cf7c5ea4a06f9d2891"
+                "safe": true,
+                "sha256": "b1b4bf497cd3be1c51603ea5fc33fdf74d662fdfba96ff3e378257bb86ae9f81"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
