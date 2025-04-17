@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.2.0.2 chuppito release",
+                "version": "5.6.0.1",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
-                "safe": false,
-                "sha256": "8561303163e74d7360795a1686b4dff2f7183ff874f77e5621024a05a09cbde9"
+                "safe": true,
+                "sha256": "971d3d057767572176cb1702297d7fb77a37c13e5770d62475c3a45d88654441"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
