@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.36.443",
-                "packageName": "spoti.plus",
+                "version": "9.0.40.4",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "5c362df53c2f1bf14f7e810a7332a8fb5ef52abae6bd4e7cb0936ed58b613308"
+                "sha256": "767d9bf562b7ae006520f2db84ca95484b9c4e5f0700d19ffff453349c4a6c00"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
