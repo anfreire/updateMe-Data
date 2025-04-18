@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "2.10.105",
+                "version": "1.633.211",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
-                "safe": false,
-                "sha256": "fbaa2d2bf21be2f07b38ecbaab747bb76711e5bd6d9d46ef8b59f7c46760fe25"
+                "safe": true,
+                "sha256": "690e016e6b37a06b9adc1a5552922eee725b606a3c742ec60024b13e07dda279"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "14.8.0",
+                "version": "14.0.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": false,
-                "sha256": "f245b24258db0a6c8765dcf79291e05e24cb7c787fa8b6f612730ab4ffdd2999"
+                "sha256": "1d51ec5f279aa7db2476c515aac14b0978469283ac6986b3cf881c727ac66d11"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.625.3065",
+                "version": "2.121.1485",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": false,
-                "sha256": "e33da721e422c51eb3441b9bdeaf82b4436086d50cfb4ba1b130745824ae9b58"
+                "safe": true,
+                "sha256": "1dfdccdd9e74a1523e2aa6a9d51c3aeb92971e2c77d6d588dd8070569d8e5fee"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1016,11 +1016,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "9.3.2",
+                "version": "9.0.14",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
-                "safe": false,
-                "sha256": "c1318f05d91f5a87a6fa105d16f84a387ff6fa50ca8a481979e51a46c9ee0720"
+                "safe": true,
+                "sha256": "cc4544d433b5943462701c539dcd8e4abe7b5dda336afe74fc2c71565c62bd70"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.47.0",
+                "version": "3.48.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "bf3f5f779eaa95afefdca71f4d2819304e33b731ed544f5a847e826b7b88affe"
+                "sha256": "a78b839bc347e007a210fed6708865e4ec739d0226bdafc4fe2807bcb5ef60d1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.43.00",
+                "version": "4.43.01",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "7c5c27c776e33cb8bb4bfd4762fcbc325df8512b87454a5549d8361768394300"
+                "sha256": "258b2a20146106aa3fb113afffcbbe25602af911a58cbc00fcb44467a177ca7f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
