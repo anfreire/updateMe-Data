@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.115.1484",
+                "version": "2.121.1485",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "02dd718dfcdad8f5ec0da60a9e2bc91df1dd12f86d1e6d297d87e383f0563053"
+                "sha256": "551462603319ebbafc205660e02909c6df6ef36686899c3abb56544f5f22abe8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 022",
+                "version": "6.5 build 023",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "dc5987286535a28783fcc2ef18add4276634dbc4b032ddd9fced00e28ca0a191"
+                "sha256": "ef877770d0555bfe9116fb6c634e8ebc4db4f6c63fd37189e029c9df8fda0877"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -939,11 +939,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.3.0",
+                "version": "6.3.1",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "d4fe863bbbcccd92dc8ade35108ea1337d26f8e84642f55240d7267b3c081a6e"
+                "sha256": "aebff36e0d9931e1830888fe789482102e72f7ebda7ce53db1a010d1b233e08e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.6.9.34606.GP",
+                "version": "7.6.12.34647.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "6eb55760eec16959d3bdf39a2414804a1194ddd2ecc28a1bf3ab5f794b17ef62"
+                "sha256": "b76f366d13401998bfa0353ef4d577cff15377544aaef4aa56641240289be2d4"
             }
         }
     },
