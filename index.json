@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.13",
+                "version": "9.0.14",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "7d0be47ffcfb78671bac081d678f81bbd67678260dc0f4510723a33398b35adf"
+                "sha256": "ac4f835ae328cd7c70a6712faa4e9dd770f5ae2a8aa8a137ce260c41c2451dbf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.17.2",
-                "packageName": "com.dlg",
+                "version": "6.26.2",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "d94f8023a071e31fcdb9a46239c820a6145cdae5249e5d105746943d03420d8c"
+                "sha256": "e90a633a809c9945d5425f4c7acb065c251120e6e770fb636875587c25570475"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.5.4.0",
+                "version": "7.5.5.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "731e9cd0d74bedbe2ccf6fa19d377993efe3832246f4e357302f9a1345bd541a"
+                "sha256": "0a890edf2ed574f95e7edbca1e2bbcb125bcd47a2d2041f05d48df182adb074e"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
