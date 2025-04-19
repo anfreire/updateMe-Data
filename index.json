@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.97.1.7005380501",
+                "version": "6.85.5.2504102104",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
-                "safe": false,
-                "sha256": "c8099920bd07e13b6ac8afdd9aef87c7053f9da7d7334bd0c7f461624b4bc485"
+                "safe": true,
+                "sha256": "be5acdc93fb00733ac38bbfb9a35c96ef9ce13267af6ac1e7025f4f06e8db1f3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "6.26.2",
+                "version": "6.28.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": false,
-                "sha256": "206c324f9fdba61d9b6e5bffc485c0faa22927c0eeeb4ed2deaaf3e18c9dada7"
+                "sha256": "b3650eaab562eb016e2d189fe799b964827d11df66c7145c32cb1ab4eabfb432"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "14.1.1",
+                "version": "14.1.2",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
-                "safe": false,
-                "sha256": "e3df2b6f172d7f19e81b34a8202256745c8e40f79128b1adc79781546c5356ec"
+                "safe": true,
+                "sha256": "9c550194f3fef454923c8405c93c250d85aa4a5200f3475d82a9160a4b5c1a14"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.98.0410",
+                "version": "1.03.86.0324",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
-                "safe": false,
-                "sha256": "80bcc37f8d95698664955f981d518415443c4afe6897a3f0f626f26950f6f4d5"
+                "safe": true,
+                "sha256": "0fd415d7484733b2f9517e22477c09ef40364831598ab936fdd3154511442dee"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.622",
+                "version": "4.9.624",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "dac03f1e52fd832fcbb8b723abba9e7acd08bb07b28442d6634be0f56a5f9f99"
+                "sha256": "b3837310026f91db7b788563c817f83bd28e03672dcb1e421ee6532809394153"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
