@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 023",
+                "version": "6.5 build 024",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "ef877770d0555bfe9116fb6c634e8ebc4db4f6c63fd37189e029c9df8fda0877"
+                "sha256": "e18bdae4712ff653e96219e9b409a97631f56ea2f3a2c8bf64d341ff96a8f27d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "20.3",
+                "version": "20.3.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "003f45a770b6a1529fbb0e500bef545ad42c69ff630f8ea56c132fcb70f11383"
+                "sha256": "f1079cf0a45f59bbd5ba2a7cf0670f208df4c9578bea64d788f98642c9c28f2c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
