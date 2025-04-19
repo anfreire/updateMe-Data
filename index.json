@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.2.3",
+                "version": "27.3.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
-                "safe": true,
-                "sha256": "4b0e658911abc66705b2d4f345c97f804dfd8c0d1964183ac39ea28c43b403b3"
+                "safe": false,
+                "sha256": "3c4f79ab2c92e88ba1c8b68c7c56c1227a998d6cb7c9ffd4429b85813fc68ae9"
             }
         }
     },
