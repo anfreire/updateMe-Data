@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.121.1485",
+                "version": "2.122.1486",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "551462603319ebbafc205660e02909c6df6ef36686899c3abb56544f5f22abe8"
+                "sha256": "fa30197509b83e98aa51343d9600d762bd886129c339eaf55b25d321b6899a53"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.2.3",
+                "version": "27.3.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "62033903502939e2811fa96484744ffe579a4725a5bad4c961158fd1bc1ef867"
+                "sha256": "6ba773ef41dd10a73034ce09419fa9f2627bf4227ea005e803d6635525311ff7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
