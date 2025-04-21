@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.97.0",
+                "version": "1.98.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "aa109592243f5f1053eb1e807ffe4c309bac321098b7d03718cbcb1f994e2a72"
+                "sha256": "377f28e21732c8731918a0a73fde4f18d52b17f610e833b4e02154c97c075a9f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
