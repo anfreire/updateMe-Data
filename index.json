@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "15.16.0-250327",
+                "version": "15.18.0-250410",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": true,
-                "sha256": "8d1da7578b681e2a42d09897e474e5c93ecf96f845b8da68cd7901975fe4b186"
+                "sha256": "ec383fcb01e07b75e68741bece19214b678ae4c133d0fa0f3b59c8e20ff0474e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "5ad9500622b5af522a658bd7ac23509a6d19e81296f2a88cf7920d57e291fd53"
+                "sha256": "0adcc9cd7e1831bafe614da6c252c24791f403525e3d666cf86dc755b1ceb54c"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "502.0.0.64.109",
+                "version": "503.0.0.61.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "54c6586ddaea719f810b6f9340d21472ee7552f25e3048171b2b5cc3ee0b3b64"
+                "sha256": "7fec04b50066a05c7a3a250af3a4904e684ece3b7c62f5ded068ea909db1f99f"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "2d8eb4fdd0f14b11f9bc3fbdc48cf95db6fa5c894ef9665d2043d0f5cc7259b0"
+                "sha256": "e3deb2d23f55948d32322428b75db41c5d710ba25e4591e2d1f15bfd6d9ae4d6"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
