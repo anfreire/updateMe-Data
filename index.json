@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.17.5",
+                "version": "1.13.12",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "a8500192c59e0934b77211053a0a10576ce845660d14112eadcce6603aa896be"
+                "sha256": "0a548730f505e05b98e2c3f6a321be7171d813e21ea5372ed09c7f3593b0abf5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.9.5",
+                "version": "15.8.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "d43f70167345225b221a008de727b0975d4d3c30963ff2a7234a7aaf32d4707e"
+                "sha256": "68459e8c57203391d442201b20e36846359c30e52866b4a1900d2adfe4b0188b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.87.0402",
+                "version": "1.03.88.0417",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "3cd014138cc276eb7007d95fb69847532d71f358cfcfc67b45417cc260ecb855"
+                "sha256": "bde3df15742d272e7255e8f9b36559f03e7329378f103c875b5acbdd92f43c4b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "20.3",
+                "version": "20.3.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
-                "safe": true,
-                "sha256": "b1ecdf08a465715c6493982bdb5ae6e07171edb01cc4a09e113fee47a0313f5a"
+                "safe": false,
+                "sha256": "cd07d05591341a37c0300490da24f296f572c5812641f84c7aa46f85866d1e9a"
             }
         }
     },
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "6.3.5.0 chuppito release chuppito release",
+                "version": "5.6.0.1 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "a396fa886de2fd6d2fef9b9305da38f38ee32260737555a8140a46237c6b1f83"
+                "sha256": "a31eefa20b5f7781d6fb969945fcdf18740d1acfb2b2d3066345ed798e81fe5e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.9.622",
+                "version": "4.9.624",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "1d965b1d5a2d00b11e3a72f8e49bf7a936139f4d3b83cc0eaf33e5defde80a56"
+                "sha256": "088cf565526e9be9ff492a85ada7b4f699bc150b2a504d00ae588aa33c0838b0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
