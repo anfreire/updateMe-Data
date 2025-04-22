@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "390d1dfe71f88708328b8b5954db833c87ba338c40107a6a36ba6ad2e351ff54"
+                "sha256": "17e000891139b44410ddb4bd04913b03c89ed5692956c9ae1a8cf02993bac458"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "6fbe7844119c401811e484419b1796a18ba04738f2303719974ed62a5d15c9ac"
+                "sha256": "9cc0f152207ca9b243bf62e56e1e10a4bf3858432cb20779d394043d9d5bb606"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -89,15 +89,15 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "934b03b19291a82ae04f1d6144617f487be4ac88ae8b72d6eb1f1ae311d70c03"
+                "sha256": "e60914dee1eeafbc63a673472079a65b639d1bd872e5373da82410f4487dd386"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "8.12.53",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
-                "safe": false,
-                "sha256": "558eef14493111d287305109fb978f9ca558c8f9c8ceb9ed2d5e2c5e7787f435"
+                "safe": true,
+                "sha256": "5f68166769d53684ec144d8502fb7725936738b368fe93179739232a0bd1d26d"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "d9857d37caac632a68068081c38f9b7aae3bce741ad3554823a74536e6ba423b"
+                "sha256": "09aefd4304ac48818585f80bb810ff9fc4551f2fdc7ed9efaa0ade33dfc34054"
             }
         }
     },
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "6548c2836a40b3e25fe92bb12c4a6e65af5756c3b8666d4e7501fa968a362ba7"
+                "sha256": "6405b529f5d3e1891b41f64a131d3323ffb92ed4705ab3cbd1bfdb269bd32c8d"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "cf081a60d79a8fa0b0409c3ef07cdabe83166f18cc676ff440e04b6cca445ba4"
+                "sha256": "469d020a727036b41a79ff361c91de74e4eec8aadd965c0d9b03778d67ee4b49"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.121.1485",
+                "version": "2.122.1486",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": true,
-                "sha256": "1dfdccdd9e74a1523e2aa6a9d51c3aeb92971e2c77d6d588dd8070569d8e5fee"
+                "safe": false,
+                "sha256": "dd46c4e5ed69c4e0551fafa5c19ced106479e9a3c02d5cc27310fd3ca63f7d5e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.46.0",
+                "version": "3.48.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
-                "safe": true,
-                "sha256": "16ab17cc6b271c411e253a0c3a247982eb0b8269e7af54eb5db1b9bbac84a0a6"
+                "safe": false,
+                "sha256": "dc8baae83282cbb1763576dad6dc2f9f53e1f78d20fcf605c46769c024b84dc7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "20.2",
+                "version": "20.3.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "f5c997754cccaaa19cdb86827af848cff3dea1ba9348f540193211474ec18f4a"
+                "sha256": "90a39a2942b25219602d37a21bbfefd6e08579129550c9d0b47b191688561e97"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
