@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.95.2",
+                "version": "1.98.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "93ff671bd21a5bf40750464db1df14cf7bb1fa918ec99001cf5845172601fe58"
+                "sha256": "ea186cf234f3675900ef59a834fe260222b43d2c0adc6bbf42e0c1ef5f98f1dd"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "1.95.2",
+                "version": "1.98.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
                 "safe": true,
-                "sha256": "c24f4c8e04c1fb2afc8e8c775cd9270b6afe2ca5c7bb761274df58b2932171d9"
+                "sha256": "ea186cf234f3675900ef59a834fe260222b43d2c0adc6bbf42e0c1ef5f98f1dd"
             }
         }
     },
@@ -1733,10 +1733,10 @@
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
                 "version": "6.26.2",
-                "packageName": "com.duolingo",
+                "packageName": "com.dlg",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "e90a633a809c9945d5425f4c7acb065c251120e6e770fb636875587c25570475"
+                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1775,11 +1775,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/mx-video-player.html",
-                "version": "1.93.2",
-                "packageName": "com.mxtech.videoplayer.ae",
+                "version": "1.95.0",
+                "packageName": "com.mx.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_modyolo.apk",
-                "safe": false,
-                "sha256": "98e742437951a65a3dab5552c16dd54ad90b0d70653de6543911db31c583b0bc"
+                "safe": true,
+                "sha256": "51d48e7b05603c201f3c79c8c387270b0b46ce62a1abad34b46ac9d6693e58ea"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
