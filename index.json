@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.13.12",
+                "version": "1.13.13",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "0a548730f505e05b98e2c3f6a321be7171d813e21ea5372ed09c7f3593b0abf5"
+                "sha256": "5af3117a2754b2ad4a4df2713d227eb0fea5b76437314cb1d639e451506768eb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.85.5.2504102104",
+                "version": "6.86.0.2504100000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "be5acdc93fb00733ac38bbfb9a35c96ef9ce13267af6ac1e7025f4f06e8db1f3"
+                "sha256": "9a0a56a63d48270363f490007f560980966321b08bc53dc0d48647502a55f9b6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.8.7",
+                "version": "15.10.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "68459e8c57203391d442201b20e36846359c30e52866b4a1900d2adfe4b0188b"
+                "sha256": "b28d8feec8d01dd8f11cb41a5a69be90724b61095f2ee35229f98c308567c559"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
