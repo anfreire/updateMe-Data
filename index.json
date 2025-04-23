@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.170.0",
+                "version": "2.171.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
-                "sha256": "7358a239a847ce2a7d471a7fcde8776feef8a23524ae06128445cfde75f9025c"
+                "sha256": "56461ee2aba7aaa377b8540bf85da644b1c210116f7dd0233519528d4b299110"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.3.1",
+                "version": "27.3.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": false,
-                "sha256": "3c4f79ab2c92e88ba1c8b68c7c56c1227a998d6cb7c9ffd4429b85813fc68ae9"
+                "sha256": "8479493ddca1914dd4463a7ffcfdc15731dc21027170c09492674322dd068acf"
             }
         }
     },
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.9.6",
+                "version": "15.10.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "12475b7f99fc235710041c143cf10894428cafcf5a2417e60f66a524b65b903d"
+                "sha256": "b6ae1ce09199bbcb6066308d941892f41060d9b83dccbffa44aaab82ab6f18d0"
             }
         }
     },
