@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "10.2.1",
+                "version": "10.3.0",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
                 "safe": true,
-                "sha256": "1069ce9081c6599909cacd8632a6e9fac32569da4044402c5a954ce9613dfeb0"
+                "sha256": "277cd7d132b2e12795d5b96dcc5cbc897b0bf9999b2cd582dca003fd797ad302"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "ef4a9821150a1a24e617574fa4208734d996bf6d0d4a1fc818824abac733bcc2"
+                "sha256": "4f479665109e64ecd0d11c6a897c2fd367ce2418b7f981dfb9ac07a7d299ebdf"
             }
         }
     },
@@ -2245,11 +2245,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "7.11.build127",
+                "version": "7.11.build126",
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "22fbf807b4c19960dfe9519c8c9590bcfde12a73e8cc59307daf2c1dbd108575"
+                "sha256": "2e61d0c34b357cc65ae8e7b949f5a30f59ca32acc7ee2484463cdd7f951a6701"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
