@@ -456,19 +456,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "14.0.0",
+                "version": "14.2.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": false,
-                "sha256": "1d51ec5f279aa7db2476c515aac14b0978469283ac6986b3cf881c727ac66d11"
+                "sha256": "2b4d1356800f5c10cdb6260c1b2bdb7cb95d6d2d05771724a9087c39a41490c1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "14.0.0",
+                "version": "14.2.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "1d51ec5f279aa7db2476c515aac14b0978469283ac6986b3cf881c727ac66d11"
+                "sha256": "0a108e5c8234d48bdf0a4fd6d6f10301b39207177be53af9575d2dbcdba7d481"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -908,11 +908,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/australis-icon-pack-2.html",
-                "version": "1.46.0",
+                "version": "1.51.0",
                 "packageName": "com.unvoid.australis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/australis_liteapks.apk",
                 "safe": true,
-                "sha256": "1f369899d932eb8bec02874c0c5e15dff0e816ef458df987e3746f806d51d74b"
+                "sha256": "342257ecfb60dd8117e01c2283a4ba7ca476276ff22b68cf33d88e8e1a9652d9"
             }
         }
     },
@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.14",
+                "version": "9.0.15",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": true,
-                "sha256": "ac4f835ae328cd7c70a6712faa4e9dd770f5ae2a8aa8a137ce260c41c2451dbf"
+                "sha256": "4d6b0c3baacd25f5b7bedc57914ab6bbacded2a3aaa7212065ec0ee8d83eaef0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1070,11 +1070,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/automate.html",
-                "version": "1.46.1",
+                "version": "1.47.0",
                 "packageName": "com.llamalab.automate",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/automate_liteapks.apk",
                 "safe": true,
-                "sha256": "6fd2b20471752fb43e65afabc4fc23e9d132b71222e8cf7826dc068da05d1048"
+                "sha256": "18175a6645db9649f46da392a5741bb0f36e5fb738f903ecfa2005cb2737c1ec"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.3.1",
+                "version": "27.3.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "6ba773ef41dd10a73034ce09419fa9f2627bf4227ea005e803d6635525311ff7"
+                "sha256": "4157e525396f5cf1abfe92f10f7cad93dd158b89317631a068645802e5ddcf05"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1732,19 +1732,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.27.4",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "d8b616ab107a7651c4cd6322b5d3802d8e27729d70eaca60d17f332c8205c4a2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.26.2",
+                "version": "6.27.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "6321bb31223a2d01d2253d6aed1f660b1c7dc7d72a994efa4edbf93e623c9aa9"
+                "sha256": "7b444c0446e2cc7cb6f2a15cb90bea7a40ec5747212fcea5264038436d4ccb87"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
