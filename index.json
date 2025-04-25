@@ -1016,11 +1016,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "9.0.14",
+                "version": "9.0.15",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": true,
-                "sha256": "cc4544d433b5943462701c539dcd8e4abe7b5dda336afe74fc2c71565c62bd70"
+                "sha256": "dce00a17f5ccfb8753adb9a036dc817eca09bf7dc6053e060afe9055f70c0928"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1732,19 +1732,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.27.4",
-                "packageName": "com.duolingo",
+                "version": "6.26.2",
+                "packageName": "com.dlg",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "d8b616ab107a7651c4cd6322b5d3802d8e27729d70eaca60d17f332c8205c4a2"
+                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.27.4",
+                "version": "6.28.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "7b444c0446e2cc7cb6f2a15cb90bea7a40ec5747212fcea5264038436d4ccb87"
+                "sha256": "4c0a72929ae032ea5df7323da4649923a6b06d7ed31c32e6c915385063e26748"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "8de3f762f85f0e5bc4414ef1d1ab97c26ef032a52f00b9e5c8e294adbeccb879"
+                "sha256": "652a8848e135151d026194c009514fa7f2df267a6cc3c055115e39f7c018f384"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "b50d51497c45c146f1ef9fd760f12168bb71d0e635a37a840b2f4bb1c899ca88"
+                "sha256": "ac4c5f38b22d7e6d94234444976fbf1a12d615e6bb8c0324306de58513f5355f"
             }
         }
     },
@@ -2245,11 +2245,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "7.11.build126",
+                "version": "7.11.build127",
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "2e61d0c34b357cc65ae8e7b949f5a30f59ca32acc7ee2484463cdd7f951a6701"
+                "sha256": "72728277096e9d999bb33fbed414b269c2c947b6f73068ef3562e93211bd47ec"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
