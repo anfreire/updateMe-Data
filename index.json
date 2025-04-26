@@ -54,11 +54,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "20.07.39",
+                "version": "20.12.46",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "68e8422c513c94d08b1630fe114763dbce40892dd0a2befd260cde7591fe4648"
+                "sha256": "c1fcbcce0b327d15eb0cfbbe22d86d9d730fea45717661c77a7f2de70061deb2"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "4c4a77c9841ffbb1cc4ed13bd5cfa56e70fe48262fdf028fa8dda3e48b4e853c"
+                "sha256": "e4e814440b3c91f1a284773a97ffc71529fac2650a2fa874bf0f0d759ff96f9d"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "10.3.0",
+                "version": "10.3.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
                 "safe": true,
-                "sha256": "277cd7d132b2e12795d5b96dcc5cbc897b0bf9999b2cd582dca003fd797ad302"
+                "sha256": "32eeebe9da78a9ac587e4d4c9f0968e4ddfb805d33d965e009e0ff0498680308"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.95.0",
+                "version": "1.95.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "68429301ee701f50237529e0673a3df3fecbc443d9e1241a3ae016476d10a1c3"
+                "sha256": "717c882db5c7547c7e1645fa644c8ea1a81cb6c730a0de51a12bdf44cd2bb743"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
