@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "14.0.0",
+                "version": "14.2.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": true,
-                "sha256": "1d51ec5f279aa7db2476c515aac14b0978469283ac6986b3cf881c727ac66d11"
+                "sha256": "0a108e5c8234d48bdf0a4fd6d6f10301b39207177be53af9575d2dbcdba7d481"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
