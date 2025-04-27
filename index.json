@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.8.6",
+                "version": "10.3.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
-                "safe": false,
-                "sha256": "ba72e2dbe67d51f9025090c3bf98c6ab0f07c1f6c820e503ac465d681d2e643e"
+                "safe": true,
+                "sha256": "27948539c872ba1c554631ad08055892036c4fdfc4f5bfcc3a83351e8ec18527"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.5.4.0",
+                "version": "7.5.5.5",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "da51cc0648390ad1701a6e30443626c2618b9eef40f33863b85942dae899622b"
+                "sha256": "052b2470af4108fb016fb99101899d23d1734b867c1d9c78a06179e20bac9c4a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
