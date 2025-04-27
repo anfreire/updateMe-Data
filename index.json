@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "14.2.0",
+                "version": "14.3.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "0a108e5c8234d48bdf0a4fd6d6f10301b39207177be53af9575d2dbcdba7d481"
+                "sha256": "1d8797184b5e0fd49df5217764f285e3a504637ba5377aaaaceeb9b564bd9bb2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -621,11 +621,11 @@
         "providers": {
             "JunkFood02": {
                 "source": "https://github.com/JunkFood02/Seal",
-                "version": "1.13.1",
-                "packageName": "com.junkfood.seal",
+                "version": "2.0.0-alpha.5",
+                "packageName": "com.junkfood.seal.preview",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/seal_junkfood02.apk",
                 "safe": true,
-                "sha256": "e52c2657fe8fd5a6a970e505171399f1b674c6a7015c15557879e4672e7fa85c"
+                "sha256": "160884a38b48de7534a4ed231097ff21cfc9361a326254cc66319b009f75a871"
             }
         }
     },
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.86.0.2504100000",
+                "version": "6.86.5.2504230000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "13a0f2637cfd71930e25e02c04db247c413dbba65045ad5a4964430a79f9f88b"
+                "sha256": "5289a3ba960030100e71a0352cf4c871932a19528c46f3d3739b758bee84a9fa"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.6.0.1",
+                "version": "5.6.5.2",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": true,
-                "sha256": "971d3d057767572176cb1702297d7fb77a37c13e5770d62475c3a45d88654441"
+                "sha256": "c62ecbd161cdcfdf81d4e653e8684cd58a886feff745ffb284408a715379d2cf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
