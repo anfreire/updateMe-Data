@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "14.2.0",
+                "version": "14.3.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
-                "safe": false,
-                "sha256": "2b4d1356800f5c10cdb6260c1b2bdb7cb95d6d2d05771724a9087c39a41490c1"
+                "safe": true,
+                "sha256": "1d8797184b5e0fd49df5217764f285e3a504637ba5377aaaaceeb9b564bd9bb2"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.5.5.1",
+                "version": "7.5.5.5",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "8dbd12c05bf134b973fdedae11a7d638d32ab77e1f29b4b3c7f438f18d43b318"
+                "sha256": "052b2470af4108fb016fb99101899d23d1734b867c1d9c78a06179e20bac9c4a"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
