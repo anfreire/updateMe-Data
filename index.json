@@ -621,11 +621,11 @@
         "providers": {
             "JunkFood02": {
                 "source": "https://github.com/JunkFood02/Seal",
-                "version": "2.0.0-alpha.5",
-                "packageName": "com.junkfood.seal.preview",
+                "version": "1.13.1",
+                "packageName": "com.junkfood.seal",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/seal_junkfood02.apk",
                 "safe": true,
-                "sha256": "160884a38b48de7534a4ed231097ff21cfc9361a326254cc66319b009f75a871"
+                "sha256": "e52c2657fe8fd5a6a970e505171399f1b674c6a7015c15557879e4672e7fa85c"
             }
         }
     },
