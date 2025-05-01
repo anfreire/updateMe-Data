@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "5c970e24d9ed75ed5c9c4700baa1f25b09cc69473e61586bda3ff4733d2f1d82"
+                "sha256": "22d8d09bf6a01d58a1ec61ea8553f680db09c66006fe81181afe7270a605f9c0"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
