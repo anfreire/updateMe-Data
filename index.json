@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "22d8d09bf6a01d58a1ec61ea8553f680db09c66006fe81181afe7270a605f9c0"
+                "sha256": "ccb5c2250350567dcf5f848fe8d459747f276361c7affdd6a1474a6a3d3ab3bb"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "12686a8a92016fcaaf347e19f9f6c77166f2198f276ca09ab1b21c51cdd421ed"
+                "sha256": "1f87e3e0b44ba8840f843f53b75213b066a834035e36780cd9253cbd425bef51"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": false,
-                "sha256": "416957894efc3fb39465f6aa9a9f6385035603b86f08ad7dd276e7616afe0e4e"
+                "sha256": "eb97dc3a92bd1d324ec8defdeb6d503404767cd4ef3999a98f78d18537278ee1"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -198,11 +198,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "37.0.4",
+                "version": "36.5.4",
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "97693c8ebc2ce373eae7e7c5dcc1328760dba2ae3865d90db0d7999578cb9319"
+                "sha256": "ab89b8e3a8cb7fcbd6cafb8294b56933aa1b845e76fecc83cfd5d1f5ee6f894b"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
