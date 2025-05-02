@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 024",
+                "version": "6.5 build 025",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "e18bdae4712ff653e96219e9b409a97631f56ea2f3a2c8bf64d341ff96a8f27d"
+                "sha256": "4baeb650b3ff6266add756d6b83f97b0145f07f1326c6a4651cdeffad020191c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "ea6cefce1d7ae610612c8586f1f5f2030b2711b7cbf740aa4b8ba5560887ad7d"
+                "sha256": "ab03fe12ea80079019a8d96381c4876ac9c7872364674e709361a575ca222a8b"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "e31d8ad343fc597405e66f2b1afc01e0dbfcab2ceecdd41a5fa9b5fe5689a396"
+                "sha256": "2991ccec656e78a7d816cf42cca380cc06f57dc2114ea8f82534f68d078a9df0"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "f8ce5f3b9e08e934b5259d6785939cace1143b5e863341f2dfb44dc42f86b1bb"
+                "sha256": "a5d1146beb44f4b99909c41eab772a89c95f8a9f4bc9cced133b95cc4edd122a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.6.10.34610.GP",
+                "version": "7.6.16.34690.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
-                "safe": false,
-                "sha256": "3aa40ea1cbe4119a9f12732af364c42c05ba304e7ee11b8c80bafbc784b97ebe"
+                "safe": true,
+                "sha256": "615b47a03253dac0869e15ce604453ce73a5f198433856e8367eac69e9d6e20f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
