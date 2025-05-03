@@ -699,11 +699,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
-                "version": "6.5 build 006",
+                "version": "6.5 build 025",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
-                "safe": false,
-                "sha256": "28f186a24905f54aea789f84791239c675fdcdd224469ae38dcc531629608080"
+                "safe": true,
+                "sha256": "aaf82a442375002f6e0e72aa1258c00795e8112c16ec03acdcfbb39695fa6d7b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
@@ -1907,8 +1907,8 @@
                 "version": "18.2",
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modyolo.apk",
-                "safe": true,
-                "sha256": "a089afd873224748894b04d075f44bab09979a8baffa0c9581a9a69305020f0f"
+                "safe": false,
+                "sha256": "5076e6966419256327a38f6a222ee866d395eda861df9a305a2bf867a6d14a12"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.9.624",
+                "version": "4.9.712",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "088cf565526e9be9ff492a85ada7b4f699bc150b2a504d00ae588aa33c0838b0"
+                "sha256": "e96f309b283e3c98ba696e873a55513b54442ff6fadb8c0160deb6748cd9dd1b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
