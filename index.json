@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.9.0.2",
+                "version": "11.9.1.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "0dcd20defbb95256d9dd5af7f353aaddf6462d4f83d2d23c097dc083cee04aa7"
+                "sha256": "a7801ea1ca35f2e40c14255c2d802d34683ec0d82e4f08d7e69eb2da8f0f5d47"
             }
         }
     },
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.86.5.2504230000",
+                "version": "6.87.0.2504240000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "0f18b4416275d2e729b09ec79c7992610b77cc878e18b8a02f4d04a22b22749d"
+                "sha256": "fd55a18b8902d4039f80c17b9a361b3ddd32733fff77982e6d53d5b3f9f09097"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.10.125",
+                "version": "4.9.712",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "e7bb40c710805b3d930288b56f5f724d6d5ec909293bdd46d12f3c393083750e"
+                "sha256": "e96f309b283e3c98ba696e873a55513b54442ff6fadb8c0160deb6748cd9dd1b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
