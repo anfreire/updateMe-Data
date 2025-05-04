@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.13.13",
+                "version": "1.13.14",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "5af3117a2754b2ad4a4df2713d227eb0fea5b76437314cb1d639e451506768eb"
+                "sha256": "a89e2e829a45aadd6f6de3bc9e78a46544c9468e6a8be628b1567c2304164fc6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.7-rc0",
+                "version": "1.4.8-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": true,
-                "sha256": "f6754c04115cd57bb183312c5df5f9fae9484e29d95f91fc31aa6b7bea8c408c"
+                "safe": false,
+                "sha256": "18290c76606fda59124979ac44377a37b4ff7bc1db8fc84b2a9b47a715363677"
             }
         }
     },
