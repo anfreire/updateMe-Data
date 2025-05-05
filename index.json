@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.40.4",
-                "packageName": "spoti.pro",
+                "version": "9.0.44.93",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "1e91b4cc8a9451436464726025d7c42a2d68d876ef39b036535cc374c24b1e8b"
+                "sha256": "28897b8f021ad16b37fcd1bba7c3e4b562e7fbd0736731673aab17b921d17f85"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1616,7 +1616,7 @@
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "b28d8feec8d01dd8f11cb41a5a69be90724b61095f2ee35229f98c308567c559"
+                "sha256": "f74e695d8eb8a5fdbb5e15431f9ace0686a73a658eed192e4d79e7859d4b9994"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.28.5",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "9785b25fe9569825f02bbff05ca2cff86675538769178a65bb1915526aca1e05"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2015,11 +2015,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nova-launcher-prime.html",
-                "version": "8.5.0",
+                "version": "8.1.1",
                 "packageName": "com.teslacoilsw.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_modyolo.apk",
-                "safe": false,
-                "sha256": "d1836067f35fb463e6681892cac1bf7b823c21e851242fed02c4c3bb4f4a8797"
+                "safe": true,
+                "sha256": "a98943ab4f6d7a014059a78061d5f8cc383e44c40a88fa15bfd2e10325868976"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nova-launcher-prime.html",
