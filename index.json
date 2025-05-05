@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.24.1-dev.5",
+                "version": "1.25.0-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "eed293354449c7075f1411d94d18af8cc9085d75510f9616194edfa6132fa842"
+                "sha256": "67a87f0a9dd8fec9a8cedffa45d6c6691649c36d027ad4ef859cecce89998689"
             }
         }
     },
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "28.9.6",
+                "version": "27.4.0",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
-                "safe": false,
-                "sha256": "0f4c25ab2dc3ca3c2d2aecea33041525134fdb28b048441b6b3940de5d6bffb0"
+                "safe": true,
+                "sha256": "426e0daf9966f9ea4f5e49ec7f9942d8ae3021ded739986731b548f63662cd23"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.11.5",
+                "version": "15.12.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "252193cb39760938b569156e12e5e031838cd108538fde2697bc9eef06047a88"
+                "sha256": "b219467585bf83869d7a30d4ee9f9b8c4b647cec1c4e8c9dc3aa1329468954a0"
             }
         }
     },
