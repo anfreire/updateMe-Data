@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.18.0-250410",
+                "version": "15.20.0-250424",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "635bc8cd8b4004be092fc59b88cf69f465f4337dabb28e73e485751d092a1c26"
+                "sha256": "ede91e8624505fc639954fc7e5f2cfcc610a2f19300f6ed1f3e9546c3381c58d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
