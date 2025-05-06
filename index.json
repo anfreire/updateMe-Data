@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.17",
+                "version": "18.17.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
-                "sha256": "083abf3e32f3f9e308120850c757fca4cc5f88dc1f671ad646e151e849e8aaa3"
+                "sha256": "f2eaa794f29bafe9d3c2d3b88ff8817e354a0b799c83874fe5ee373f0eef4283"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
