@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.9.105",
+                "version": "4.9.50",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
-                "safe": false,
-                "sha256": "1fdbe09c1c98defdd7a656ef4b942b41690c12631f8e1cb666a950b150437071"
+                "safe": true,
+                "sha256": "95b4622fe3b82131f97a4a0f642f63151c3fe0d42467281d21b23f8fb7b98572"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.10.5",
+                "version": "15.12.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "f74e695d8eb8a5fdbb5e15431f9ace0686a73a658eed192e4d79e7859d4b9994"
+                "sha256": "12fea1245443afd8f9af1851d6d9fd89a2a52eecbd9337a462f90b514a280d63"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.5.5.5",
+                "version": "7.5.5.7",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "052b2470af4108fb016fb99101899d23d1734b867c1d9c78a06179e20bac9c4a"
+                "sha256": "3cbb0780358419d11036f00e0e3b57b733f66e9eaea0ed4d0f2207d04ff6a78c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
