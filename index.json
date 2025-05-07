@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.44.93",
-                "packageName": "com.spotify.music",
+                "version": "9.0.40.4",
+                "packageName": "spoti.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "28897b8f021ad16b37fcd1bba7c3e4b562e7fbd0736731673aab17b921d17f85"
+                "sha256": "1e91b4cc8a9451436464726025d7c42a2d68d876ef39b036535cc374c24b1e8b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.48.0",
+                "version": "3.49.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "a78b839bc347e007a210fed6708865e4ec739d0226bdafc4fe2807bcb5ef60d1"
+                "sha256": "076f0bf497a4247647b4e1f382bfc736423d29f61fe1f326a766f7e8fe503ab1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "4.10.9",
+                "version": "4.10.19",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": true,
-                "sha256": "9181a880813728c79b9e24a15f36ae7005b4a8ca1ab7f22ad89d3b31c390e168"
+                "sha256": "487989f4f2dd7c178f1727dec3e271aea0d639e4337d659e313a517d2869b572"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1732,19 +1732,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.28.5",
-                "packageName": "com.duolingo",
+                "version": "6.26.2",
+                "packageName": "com.dlg",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9785b25fe9569825f02bbff05ca2cff86675538769178a65bb1915526aca1e05"
+                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.29.2",
+                "version": "6.29.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "d7ec16aebc7c6a80ec12bd85b90fcbc3a530613bf49707c48dc1988d735cfd6f"
+                "sha256": "07af7b4fc619abe3c20a8b21fb6bb28d32d9f9fe74db16c22963933317772f53"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
