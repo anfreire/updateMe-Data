@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.48.0",
+                "version": "3.49.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
                 "safe": false,
-                "sha256": "dc8baae83282cbb1763576dad6dc2f9f53e1f78d20fcf605c46769c024b84dc7"
+                "sha256": "b7621402609bb47bb7c3d0e26297392fe6e0fab68a86a404fd6edb542bd9c0f9"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
