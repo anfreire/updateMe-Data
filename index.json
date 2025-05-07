@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.10.9",
+                "version": "4.10.19",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "d1de55895589c29035b4e292811a885adf334f5f07ffd0fe95458708bdb337b7"
+                "sha256": "46859bdd2bcd33d1e02d66a8368d25b74f02e51b2884b259fc7949dccedcbe38"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
