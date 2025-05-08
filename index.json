@@ -599,11 +599,11 @@
         "providers": {
             "TeamNewPipe": {
                 "source": "https://github.com/TeamNewPipe/NewPipe",
-                "version": "0.27.6",
+                "version": "0.27.7",
                 "packageName": "org.schabi.newpipe",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/newpipe_teamnewpipe.apk",
                 "safe": true,
-                "sha256": "7b3ee61a449259e69d45e92628df1baacc639cf69c1438cc800468ed133f00d0"
+                "sha256": "d59111e2de0732fe6635ac2ecb42c57827ee56897222d2c19afe38a5b2a5eb60"
             }
         }
     },
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.9.50",
+                "version": "4.10.19",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "95b4622fe3b82131f97a4a0f642f63151c3fe0d42467281d21b23f8fb7b98572"
+                "sha256": "487989f4f2dd7c178f1727dec3e271aea0d639e4337d659e313a517d2869b572"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1649,8 +1649,8 @@
                 "version": "10.3.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
-                "safe": true,
-                "sha256": "27948539c872ba1c554631ad08055892036c4fdfc4f5bfcc3a83351e8ec18527"
+                "safe": false,
+                "sha256": "8f3e86a9f482abc1a0b77534d8def25c72bd5408d39a40e85c8cae2a94382954"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
