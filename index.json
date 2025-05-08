@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.98.1",
+                "version": "1.99.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "377f28e21732c8731918a0a73fde4f18d52b17f610e833b4e02154c97c075a9f"
+                "sha256": "89ec4bb9047efc4041e318812d7af6fba044ce70837d34a881eb2a4178855729"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.5.5.5",
+                "version": "7.6.0.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
-                "safe": true,
-                "sha256": "052b2470af4108fb016fb99101899d23d1734b867c1d9c78a06179e20bac9c4a"
+                "safe": false,
+                "sha256": "7e86d7552d9d77cdfaf6941ed1212849ade43b6ada2deb32a06eb54d3bb1f545"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
