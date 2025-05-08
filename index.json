@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.4.0",
+                "version": "27.4.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "9f22b3b5596d31067c69a3f24a5f2fca64d4ed3d1a8a1b42cd0646085ddbe441"
+                "sha256": "81312fa66060083bbcfd071800def559ae4130c5a3936ccea4ede42c8d2ed5e9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.8-rc0",
+                "version": "1.4.10-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": false,
-                "sha256": "18290c76606fda59124979ac44377a37b4ff7bc1db8fc84b2a9b47a715363677"
+                "safe": true,
+                "sha256": "9bcf24e2ac7d713d5a4bbd367f474758255ed397775c8c1d4368d7728c36c682"
             }
         }
     },
