@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.17",
+                "version": "18.17.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "bd909368473b8e3a228434c744a20706d2a6f2ffb06fdcfc64ab265b9060c965"
+                "sha256": "2d78566d1659e7609381426dba69eb9f73fd9366ee083f8c09fafc62385bf328"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
