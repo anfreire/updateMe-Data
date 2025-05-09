@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "1.03.88.0417",
-                "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
+                "version": "2.0.3",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "bde3df15742d272e7255e8f9b36559f03e7329378f103c875b5acbdd92f43c4b"
+                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "20.3.1",
-                "packageName": "com.kevinforeman.nzb360",
+                "version": "2.0.3",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": false,
-                "sha256": "cd07d05591341a37c0300490da24f296f572c5812641f84c7aa46f85866d1e9a"
+                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
             }
         }
     },
@@ -2287,11 +2287,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
-                "version": "4.7.1",
-                "packageName": "com.fast.free.unblock.secure.vpn",
+                "version": "2.0.3",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
                 "safe": false,
-                "sha256": "ba5db0fb3e9962e4d86facaf309ddeb37f21a3f30adbada1eedb0f6c2dc67b22"
+                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/secure-vpn.html",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "7.8.5.0",
-                "packageName": "com.ticktick.task",
+                "version": "2.0.3",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "37e4a99bbf62cf56f5d62f25daaa244bb02c4cd06e050099d500bcd38c3e0dba"
+                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
@@ -2444,11 +2444,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photomath/",
-                "version": "8.43.0",
-                "packageName": "com.microblink.photomath",
+                "version": "2.0.3",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_apkdone.apk",
                 "safe": false,
-                "sha256": "7b94a703159ff5341265bab92c82b9f974ed3f7cdc9d254a0310e487c366af4a"
+                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photomath.html",
