@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "89327f42a6bdc486e2d96a4d3cdb69ca2d11576258a2b610845a346e4d38585b"
+                "sha256": "b520cc32fa56c1352a37b4635a83c1c2d73db2f5eaba0e9fa4f46b5617a835ef"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "992944bf2d0e0e58af5bdc2441eb31ce1eb4ec2df26ca95cd11a75193f382707"
+                "sha256": "4e205548595cd12c2931ab0e681d6e86687ac2c7a3cbe2fb71b4a1780680547c"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.171.0",
+                "version": "2.172.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
-                "sha256": "56461ee2aba7aaa377b8540bf85da644b1c210116f7dd0233519528d4b299110"
+                "sha256": "02687feed674dcef4f5bca45650eae7619caba6a09ae697f03313b691b13ceca"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "27.4.0",
+                "version": "27.4.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "426e0daf9966f9ea4f5e49ec7f9942d8ae3021ded739986731b548f63662cd23"
+                "sha256": "d999da3628cff08bb94d6318287d26340f6fbf7bde445353e7b4a74d2d8480ae"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.12.5",
+                "version": "15.12.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "12fea1245443afd8f9af1851d6d9fd89a2a52eecbd9337a462f90b514a280d63"
+                "sha256": "f24038ab20e34356e3ac34408ab5400bfcb84618799eca1eacafd852677edaf6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.29.3",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "e2d77ec08ca050211f39e781fe9297971143af8081559763f5db1b39f13a3db3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
