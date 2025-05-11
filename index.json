@@ -343,11 +343,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/spotify-music.html",
@@ -386,11 +386,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photo-editor-pro-polish.html",
@@ -429,11 +429,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoshopexpress_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photoshop-express-photo-editor.html",
@@ -472,11 +472,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/capcut-video-editor.html",
@@ -507,11 +507,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
@@ -545,19 +545,19 @@
         "providers": {
             "MyInsta - Clone": {
                 "source": "https://myinsta.app",
-                "version": "340.0.0.22.109",
+                "version": "364.0.0.35.86",
                 "packageName": "com.myinsta.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinstaclone.apk",
-                "safe": true,
-                "sha256": "adf8ac68ab32e16940e3101da28dd8adfcc8b8c58e44770d284c57299605b72e"
+                "safe": false,
+                "sha256": "00fee927920887983e6e7e261b059f08122bfdcfbffd74ca30e7c0a9ed0a54e5"
             },
             "MyInsta - Unclone": {
                 "source": "https://myinsta.app",
-                "version": "340.0.0.22.109",
+                "version": "364.0.0.35.86",
                 "packageName": "com.instagram.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_myinstaunclone.apk",
-                "safe": true,
-                "sha256": "a1d7ef9af0b139dec72147d07b2757eece8453fe9e7c08622836bfc72511f36e"
+                "safe": false,
+                "sha256": "e98eb5228b4ae71b7c41dd3b709c6b6dab7bdfc6adb9b379427f785bcaae558c"
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
@@ -656,11 +656,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/niagara-launcher.html",
@@ -699,11 +699,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/smart-launcher-6.html",
@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1105,11 +1105,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/clickmate/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/clickmate_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1132,11 +1132,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1184,11 +1184,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/brilliant/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/brilliant_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1222,11 +1222,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/musixmatch-lyrics-finder.html",
@@ -1352,11 +1352,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/camscanner.html",
@@ -1386,11 +1386,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/app-cloner-mod-apk/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/appcloner_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1420,11 +1420,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adguard.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1496,11 +1496,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1662,11 +1662,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adobe-lightroom.html",
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
@@ -1748,11 +1748,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/duolingo.html",
@@ -1791,11 +1791,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/mx-player-pro.html",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -1920,11 +1920,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/idm-music-video-torrent-downloader/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/1dm.html",
@@ -1954,11 +1954,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/my-diary.html",
@@ -2107,11 +2107,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/es-file-explorer.html",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
