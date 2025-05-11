@@ -1997,11 +1997,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             }
         }
     },
@@ -2031,11 +2031,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nova-launcher-prime-apk/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/novalauncher_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/nova-launcher-prime.html",
@@ -2287,11 +2287,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/secure-vpn.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
@@ -2444,11 +2444,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photomath/",
-                "version": "2.0.3",
+                "version": "2.1.0",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_apkdone.apk",
                 "safe": false,
-                "sha256": "e64e16a1efc0e15f7d5550f262b7dd142aee85de2d150faf331fba65db9e1922"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photomath.html",
