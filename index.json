@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "20.4",
+                "version": "20.5",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "c5d4342b041225457e2f7899dd137a784001fc400d5e231a32a7de4f4ffe35d1"
+                "sha256": "9d66728e8e8d8d12ae1d965d7a41b126c0dbbf0054a626e322033d598cad7a84"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.6.0.0",
+                "version": "7.6.0.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
-                "safe": false,
-                "sha256": "7e86d7552d9d77cdfaf6941ed1212849ade43b6ada2deb32a06eb54d3bb1f545"
+                "safe": true,
+                "sha256": "744cf764024d62a6f10fb9fe322c065fb1fb786d3a68d2769350767ea94fa25b"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
