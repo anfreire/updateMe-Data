@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.30.2",
+                "version": "6.30.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "7d9dfb310dfcc5d3cb8acfbd060ec43adb27624b640bdcf346f7066b23ff3f61"
+                "sha256": "6d31e09d6577449368b83997815831117ed3e9220928eaac7625a0d473b12596"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.95.1",
+                "version": "1.96.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "717c882db5c7547c7e1645fa644c8ea1a81cb6c730a0de51a12bdf44cd2bb743"
+                "sha256": "16efbd69f5f6238e1c540da81d35ea0334dcc97b95b7a5fc3e41426874259a5b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
