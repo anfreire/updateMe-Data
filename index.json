@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.43.01",
+                "version": "4.43.02",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "258b2a20146106aa3fb113afffcbbe25602af911a58cbc00fcb44467a177ca7f"
+                "sha256": "79dfed7a1477f4811fe4c925e0d7a8d4543aa5ef84cdc1e421ed518fac34f45e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.6.0.1 chuppito release",
+                "version": "5.6.90.901",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": false,
-                "sha256": "a31eefa20b5f7781d6fb969945fcdf18740d1acfb2b2d3066345ed798e81fe5e"
+                "safe": true,
+                "sha256": "1230a86f2e023f6d8754fa513de92517ba2dc0a2ec607845b07e0bcfa9a749f4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
