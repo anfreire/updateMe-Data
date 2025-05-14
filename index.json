@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 025",
+                "version": "6.5 build 027",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "4baeb650b3ff6266add756d6b83f97b0145f07f1326c6a4651cdeffad020191c"
+                "sha256": "2b5c3282bc30f343fd22385bd98462e6b70d3e36a297c563939467753de95a17"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.4.5",
+                "version": "27.5.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "1d3baf14b8edcc6b61d9af0bbfe2662d0f8e12e19217ea405ce4fed9cc8161aa"
+                "sha256": "c9713979efb05314eb529887a119d4cfc9243691eac7cf0a91fb57c288521e72"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.17.1",
+                "version": "18.17.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
-                "sha256": "f2eaa794f29bafe9d3c2d3b88ff8817e354a0b799c83874fe5ee373f0eef4283"
+                "sha256": "33eb4f3f87c45f2a00b76040800fd3914a521a0eae9a1f121098076eaddbaaea"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.12.6",
+                "version": "15.13.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "f24038ab20e34356e3ac34408ab5400bfcb84618799eca1eacafd852677edaf6"
+                "sha256": "6ecc3d1a13cfa6d2aa0c148e419b692e48a38d429b3dee132b543973b53ffdbd"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
