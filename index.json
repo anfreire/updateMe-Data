@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.6.0.1",
+                "version": "7.6.0.2",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "744cf764024d62a6f10fb9fe322c065fb1fb786d3a68d2769350767ea94fa25b"
+                "sha256": "3212d690c3af8dace20de4721fdc2c1271d0ce12e68643c8448c8465dd889234"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
