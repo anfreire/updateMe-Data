@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.87.0.2504250000",
+                "version": "6.87.5.2505050000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "d4dd4324bbea78f8738c05d5d7e273604c30a740662c7c71fec49ff2d8ab0f98"
+                "sha256": "879425ac9a6121cafec152194f521daaaa8e6908f3ddcd2213749b1cbecfc493"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.30.3",
+                "version": "6.30.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "6d31e09d6577449368b83997815831117ed3e9220928eaac7625a0d473b12596"
+                "sha256": "0abf727b6dba78148c4b264c29fe84cdd1123368d9e6e2f5f8523dda6cbcc47e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
