@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.10.19",
+                "version": "4.10.31",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "46859bdd2bcd33d1e02d66a8368d25b74f02e51b2884b259fc7949dccedcbe38"
+                "sha256": "be7a82c9f78aa8a1adf6bed3f708812eed26d9e506e93c30c690226c7afa3395"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.13.5",
+                "version": "15.13.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "71c763c7fa951f2b9c648010f4625bdaa72e9f7285d2aaa68e61792982849a5a"
+                "sha256": "4aeedd81acbba703ee921ae542618a08479e6bd403356024723cb86d3a6acf38"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.30.4",
+                "version": "6.31.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "0abf727b6dba78148c4b264c29fe84cdd1123368d9e6e2f5f8523dda6cbcc47e"
+                "sha256": "6770af131fbd880a3340f0fce4fe9cb63dc03f8738d72e12f65344f53fcfad7e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
