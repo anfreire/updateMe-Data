@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.42.529",
+                "version": "9.0.44.478",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "7773d9613a7f9930b9b289cdb1dd70692a88509cf7a0bed229ea60b3fce4c2a4"
+                "sha256": "7c97c9bd1fcffea51279b54e591f10d228e429abcb526bda0386b46f0ee4af73"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "2.1.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "4.9.828",
+                "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
+                "sha256": "8b4268dc593e3789f7126b838f7a24477ecf716b98dfbd683035a42c62b37b60"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
