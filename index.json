@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.10.19",
+                "version": "4.10.30",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "487989f4f2dd7c178f1727dec3e271aea0d639e4337d659e313a517d2869b572"
+                "sha256": "3a43bacdc5f9369f76badd471e0064253e1e6fe4761bc67279d7dd6c9d767b38"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.17.1",
+                "version": "18.17.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "2d78566d1659e7609381426dba69eb9f73fd9366ee083f8c09fafc62385bf328"
+                "sha256": "2fc3b3966bb4bb1ac1150eeadd9dd728ccd3050e811003121df137293576d3a3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.13.6",
+                "version": "15.13.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "4aeedd81acbba703ee921ae542618a08479e6bd403356024723cb86d3a6acf38"
+                "sha256": "912016473fd34d3fa92a83e7785f6066553f1d8af9e2dab452aa628e9148e725"
             }
         }
     },
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "17.8.0-250130",
+                "version": "15.22.0-250508",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
-                "safe": false,
-                "sha256": "09327db62cb52d7d75efb68d28adec5f0c0a49584010cd631e296162431c1743"
+                "safe": true,
+                "sha256": "90713ac4c9cbaadaff853154f66dce5304e24ec060f127af63bcae78a37cad24"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.30.3",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "4663cd20ee3c2b30ac823448b44151867425f547f65b44b1c5ccf4f5f953c560"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.712",
+                "version": "4.9.802",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "e96f309b283e3c98ba696e873a55513b54442ff6fadb8c0160deb6748cd9dd1b"
+                "sha256": "0ed531ef3f92d7ba4cf6c3c50f1182aeb7c8be107d1dd32c294f58be8079e867"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.0.0",
+                "version": "7.6.0.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "3dcc75f5319af0d970e418cd3f585e9624e640a0dfdc48a2918cdf064e90112e"
+                "sha256": "36676bc774d1d4e7715070f5c935a889c932367c9a98852d42bd9ddf149202cc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
