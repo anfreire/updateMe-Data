@@ -259,7 +259,7 @@
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanager.apk",
                 "safe": true,
-                "sha256": "6a420faca4a1e5e96768c75cee56dcfd70fc6c37613700a3de09d881a4e7938a"
+                "sha256": "c0104eb8430f0c3afce6c250bd57dc466daf39d71b7a8207f9a150d7c0947f25"
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -267,7 +267,7 @@
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoled.apk",
                 "safe": true,
-                "sha256": "1ce2841c8ad19929ec55143e1b2f8265ac6dcfc76562b871d157d2e0f4eef0a2"
+                "sha256": "d061aa73e4a2ee7dc9e115b4947e29f48ede3b7297f43cb69004b41d3340d57a"
             },
             "xManager (Lite)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -283,7 +283,7 @@
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagercloned.apk",
                 "safe": true,
-                "sha256": "684616cb9bf8222ca3273f87ea8f0e611a59dc747becfd5304af99746306a797"
+                "sha256": "0e6dae67940792ff32bffd38e6f0c8299ba6b6d522fb4dfeeccb06301d4199a8"
             },
             "xManager (Amoled Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -291,7 +291,7 @@
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledcloned.apk",
                 "safe": true,
-                "sha256": "236bf5cf475b6fc3a154779fc5a0b520121dd9bb9379c84389b2d752dd02d8d2"
+                "sha256": "b24288bb1771c42525826db0aeab813194e8ed26199d80b957593a032f7ae642"
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.44.478",
-                "packageName": "com.spotify.musix",
+                "version": "9.0.40.4",
+                "packageName": "spoti.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "b96a921e5947c764d7098adfcc0a4b47029b7ff633718beec233eaaffd0a246d"
+                "sha256": "1e91b4cc8a9451436464726025d7c42a2d68d876ef39b036535cc374c24b1e8b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.13.5",
+                "version": "15.13.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "6ecc3d1a13cfa6d2aa0c148e419b692e48a38d429b3dee132b543973b53ffdbd"
+                "sha256": "188dd2c5c91e96da839d2ccbae36bcf1784ba1051bd4e11e57938b9964b77878"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.30.3",
+                "version": "6.30.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "4663cd20ee3c2b30ac823448b44151867425f547f65b44b1c5ccf4f5f953c560"
+                "sha256": "a139ed2f14ca2600bc36512104dcc7dde2387b733aa5043310a8d53d00622abb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.96.0",
+                "version": "1.96.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "16efbd69f5f6238e1c540da81d35ea0334dcc97b95b7a5fc3e41426874259a5b"
+                "sha256": "a66ac5281382219ca4254abb630e1d4715bc592475f7aac37e454a07f6c558fc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
