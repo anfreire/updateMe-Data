@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.40.4",
-                "packageName": "spoti.pro",
+                "version": "9.0.44.478",
+                "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "1e91b4cc8a9451436464726025d7c42a2d68d876ef39b036535cc374c24b1e8b"
+                "sha256": "b96a921e5947c764d7098adfcc0a4b47029b7ff633718beec233eaaffd0a246d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
