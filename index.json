@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "ec5afcfac5241113ad4c9e431c27c24c42bf202c9e7e038937fabe8152b4e7c0"
+                "sha256": "ccd9878924896060f122869985f5aae627bed762684569f55912d58bc63566b8"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "699e66cb3ff89cf265b956bccaadb69b6ea6b55b53c517bc2149c55ebf92f935"
+                "sha256": "9e6e13ab9f9fa5d7bea04a7473b02f65ce663b078600eee855141b4217fa82a5"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "7fb1deb4fb5c206ae68684a7d0e98ad075ddd32a75a694fa11fe6472b05d8b5a"
+                "sha256": "19c1d58f74d222b31ecd52f3e009604cb2e61ad261e3cc463af18414c4a8155e"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "8d15b24fb26d6132fdd528c1eaf3ab126b954cc58c73235cfc31b0729586092e"
+                "sha256": "dca0ccc0837bae874b340935b367cecd59ca9668f10daf0f8d49db81bb03fa68"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "4e8d38a938ba34f80b7f6da17a22054e1f30dc057f711d0e5d5781daade87dbc"
+                "sha256": "adb6d1f8e516e4a9f3c3d5bb49884a8f0f8a230ae01534774bf3bfe21d9b678d"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "505.0.0.62.82",
+                "version": "507.0.0.55.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "468c9dd3c26942feae18fd8fca4d9e678d1444587b8b8f566957b0a9509c2dab"
+                "sha256": "81cd0db9121d79f07cd0bb5d314d9da30487efa9ec72d38c45d20cda89fbefe0"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "7802f48966bacfdf320805a2ad9adff2ce7d1e6b9890a1a72ea3f7429c00095b"
+                "sha256": "1a14e04ff55429ff46a33bcf96654001f8e6bc3044b7e54475db281920035662"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "4.9.828",
-                "packageName": "com.mate.vpn",
+                "version": "2.1.0",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "8b4268dc593e3789f7126b838f7a24477ecf716b98dfbd683035a42c62b37b60"
+                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
