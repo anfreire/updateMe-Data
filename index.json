@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.13.7",
+                "version": "15.14.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "912016473fd34d3fa92a83e7785f6066553f1d8af9e2dab452aa628e9148e725"
+                "sha256": "3e30a2426bb3dd1d643b7611110b37fb85cd68a8846750fc3954452c15923655"
             }
         }
     },
