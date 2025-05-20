@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.40.4",
-                "packageName": "spoti.pro",
+                "version": "9.0.46.493",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "1e91b4cc8a9451436464726025d7c42a2d68d876ef39b036535cc374c24b1e8b"
+                "sha256": "1b8a79b934f9d8681ae5bd2e1499f88bb1adff0b11615b6684be8849bc90e107"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 027",
+                "version": "6.5 build 028",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "2b5c3282bc30f343fd22385bd98462e6b70d3e36a297c563939467753de95a17"
+                "sha256": "f26fdd1bf7765682f87758c42cea1401a457159208e34a788a6112e8d19cd985"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.87.5.2505050000",
+                "version": "6.88.0.2505150000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "879425ac9a6121cafec152194f521daaaa8e6908f3ddcd2213749b1cbecfc493"
+                "sha256": "b90742971778cca256156efbd8faa0f8c2edda915b5a5689239d6245243625a9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.10.31",
+                "version": "4.10.32",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "be7a82c9f78aa8a1adf6bed3f708812eed26d9e506e93c30c690226c7afa3395"
+                "sha256": "628942d881be6678ce93aa673aeb34df641f01e110c1cc9fbbeb0a67431170f2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.624",
+                "version": "4.9.875",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "b3837310026f91db7b788563c817f83bd28e03672dcb1e421ee6532809394153"
+                "sha256": "b7e50677876847c221ca102b6d022723ddee49ca6c4397d74ac293d19defb69c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.6.0.2",
+                "version": "7.6.1.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": true,
-                "sha256": "3212d690c3af8dace20de4721fdc2c1271d0ce12e68643c8448c8465dd889234"
+                "sha256": "4345f2c7f399a76f7b22dbf4746013391e09ba7ec2f9e769782bc6b00bb38ef4"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
