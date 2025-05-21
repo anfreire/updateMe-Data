@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.11",
+                "version": "1.13.16",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "d096ae2338c96975b1437c1d3fca61e5ae05a7e0cd3156917e41c98a9967d056"
+                "sha256": "56d1585df864718ce29378ac05264490afbb90d84009ebd3264912a15df3cb7a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.875",
+                "version": "4.9.877",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": true,
-                "sha256": "b7e50677876847c221ca102b6d022723ddee49ca6c4397d74ac293d19defb69c"
+                "sha256": "ec0d3bbc5adfc3cf1f27d60dbbeda7a20273c70eff42d8b8c80093b864adb337"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
