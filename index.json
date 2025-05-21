@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.633.211",
+                "version": "1.643.215",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
-                "safe": true,
-                "sha256": "690e016e6b37a06b9adc1a5552922eee725b606a3c742ec60024b13e07dda279"
+                "safe": false,
+                "sha256": "fd41e7b08fc7d178a7f7b65d14f75b87cdf26821d3eaa530fa5a978cc0189feb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.10.30",
+                "version": "4.10.32",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "3a43bacdc5f9369f76badd471e0064253e1e6fe4761bc67279d7dd6c9d767b38"
+                "sha256": "a9c9ffff54e2763de15d66af5c630d15b8e11017b750c7b0676f1fdb93a02a85"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.6.90.901",
+                "version": "5.7.0.2 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": true,
-                "sha256": "1230a86f2e023f6d8754fa513de92517ba2dc0a2ec607845b07e0bcfa9a749f4"
+                "safe": false,
+                "sha256": "ae0581325bf311f2fc5516a19071f5283e1ee5a687ce8652c0a949a7b4ccca33"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.802",
+                "version": "4.9.828",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "0ed531ef3f92d7ba4cf6c3c50f1182aeb7c8be107d1dd32c294f58be8079e867"
+                "sha256": "8b4268dc593e3789f7126b838f7a24477ecf716b98dfbd683035a42c62b37b60"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
