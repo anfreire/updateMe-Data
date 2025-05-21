@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.642.214",
+                "version": "1.643.215",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": true,
-                "sha256": "2f32bdb8ae39da5d53ff37a9f5e96755c043dec6e357f241a04d91eee955cea6"
+                "sha256": "a91d6437aa38447c167b6cc2bc5e3ecd53f2d44e917fb73876b2634eaa7e0360"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 028",
+                "version": "6.5 build 029",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "f26fdd1bf7765682f87758c42cea1401a457159208e34a788a6112e8d19cd985"
+                "sha256": "169618e1eae084183cd4e76d26bd45e9de60e8bea243270db8a0f4c36e515869"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
