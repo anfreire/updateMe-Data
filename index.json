@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.10.32",
+                "version": "4.10.36",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "628942d881be6678ce93aa673aeb34df641f01e110c1cc9fbbeb0a67431170f2"
+                "sha256": "3ddce122755a2f2dccae21bf2e0315c64388662c154bd6f272250788bb0ebbc8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.5.7",
+                "version": "27.5.8",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "c1289c6fbd46c01d62688ea2f80f238070bb7573515295628c59129e6a5d7bdf"
+                "sha256": "ca2fcb6ffed8b09b4da564f4077530f4ba99e38b198f1be044f0ff4c60b78596"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.14.5",
+                "version": "15.15.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "3e30a2426bb3dd1d643b7611110b37fb85cd68a8846750fc3954452c15923655"
+                "sha256": "b691356b4bf23059b4f61f56bfedb245b9f6d7a3c404737f1a138533e8319faa"
             }
         }
     },
