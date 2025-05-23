@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "9.13.3",
+                "version": "10.0.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "af1e146212723fa9bc01ed0c5edd2dd343191493a9cca9facc45420ff8743197"
+                "sha256": "1589964270639e8ba1f6fc9652eaba639d5c0cd86ca0cff8081d6fc91bdf7585"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.88.0.2505150000",
+                "version": "6.88.0.2505210000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "b90742971778cca256156efbd8faa0f8c2edda915b5a5689239d6245243625a9"
+                "sha256": "358bc58cddf2e144f331601ce91ba56ac5a367815d478158ff3f47ba36b4530f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "2.1.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "4.43.05",
+                "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": false,
-                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
+                "sha256": "06f5749e6792d7875a74be25f69d758dae08df5b2a121c708a1b6b17740290b1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.22.0-250508",
+                "version": "15.23.0-250515",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "30f7102d0409c5333215df4e42e307091e659952bedba6d769bb0b7372de9c72"
+                "sha256": "7f1e19a5ca3c043f2b1e25749beef674d410006a82291c500cdb8f3c07ce6878"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
