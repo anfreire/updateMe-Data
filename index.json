@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.13.14",
+                "version": "1.13.16",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "a89e2e829a45aadd6f6de3bc9e78a46544c9468e6a8be628b1567c2304164fc6"
+                "sha256": "148ddb236fe54d978e00f2b26d1cb26fa38e4adf9cefba3ff16808cb78168a67"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "9.13.3",
+                "version": "10.0.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "b1b4bf497cd3be1c51603ea5fc33fdf74d662fdfba96ff3e378257bb86ae9f81"
+                "sha256": "ce02c1ef0b4b871e19aaeb53cc70c582fd03712540d080a8f5774caa361e1f34"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.10.32",
+                "version": "4.10.36",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "a9c9ffff54e2763de15d66af5c630d15b8e11017b750c7b0676f1fdb93a02a85"
+                "sha256": "b12bde4cbdbbcf4e5259c3de755ad71a1afd254088f501dd73c2fb4d0ec7f539"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "27.4.4",
+                "version": "27.5.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
-                "safe": true,
-                "sha256": "d999da3628cff08bb94d6318287d26340f6fbf7bde445353e7b4a74d2d8480ae"
+                "safe": false,
+                "sha256": "1d4e0e2d7f4c03596d2a2f13ba6073ab14f41d09607ac71b147c15d590b68c5d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.86.00",
+                "version": "4.43.05",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": false,
-                "sha256": "650d939c985cc3b7945ed93349dda5d71909645d16354c6715339eeaf9b4fba0"
+                "sha256": "916c3bddee7d97b99f1bd52b3d05fe5aaaa3b797adc9b0d5f7dbf737fb0e19b0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.13.7",
+                "version": "15.15.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "188dd2c5c91e96da839d2ccbae36bcf1784ba1051bd4e11e57938b9964b77878"
+                "sha256": "dd9ad1cb01661559003e6611428c6c898faeea4f4c733a53e90d06b9ce9a38de"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "14.1.11",
+                "version": "14.2.0",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "fd28fcdf902840a1c9ebb06a8c50052d042e2bd910332114358f746e26099e79"
+                "sha256": "8888668999499046e41aaee6ce1ac9c9b1e5adc3e674455f2196c208c1ac03b8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.828",
+                "version": "4.9.850",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "8b4268dc593e3789f7126b838f7a24477ecf716b98dfbd683035a42c62b37b60"
+                "sha256": "83890c178480bfd36a42f51bfa9bd410d8595d24037184eeefd3e5e55a080a36"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
