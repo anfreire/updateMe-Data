@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.87.5.2505050000",
+                "version": "6.88.0.2505210000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "b33f27b2cb013b243b5a9305aa4238ad69deeed7e510c50ec54037dfcd600e2a"
+                "sha256": "cda42845b4431cf7c509412f8782246caa9cd5f83893d1d7581cc7db59ea0371"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1480,19 +1480,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.98.1",
+                "version": "1.100.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "ea186cf234f3675900ef59a834fe260222b43d2c0adc6bbf42e0c1ef5f98f1dd"
+                "sha256": "7578a60507db9ab353cd8c4170f8bd9491a9bc9030bb19bdffc3b4319a3c7cfe"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.99.1",
+                "version": "1.100.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "89ec4bb9047efc4041e318812d7af6fba044ce70837d34a881eb2a4178855729"
+                "sha256": "4cd3d619e6be4f8f28d12378373631679f658da85960a0eb975b4af57863408f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.22.0-250508",
+                "version": "15.23.0-250515",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "90713ac4c9cbaadaff853154f66dce5304e24ec060f127af63bcae78a37cad24"
+                "sha256": "3820051d0768e65b099e3b129fd9ea31d37aef05875b50abfcec2d82f4684180"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
