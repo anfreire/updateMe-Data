@@ -1070,11 +1070,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/automate.html",
-                "version": "1.47.0",
+                "version": "1.47.1",
                 "packageName": "com.llamalab.automate",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/automate_liteapks.apk",
-                "safe": true,
-                "sha256": "18175a6645db9649f46da392a5741bb0f36e5fb738f903ecfa2005cb2737c1ec"
+                "safe": false,
+                "sha256": "0bd7861cc9ba13ee11b806fb54f60ac1b09034ed33ac8e8f8b3722712833eaef"
             }
         }
     },
@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.43.02",
+                "version": "4.43.05",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "79dfed7a1477f4811fe4c925e0d7a8d4543aa5ef84cdc1e421ed518fac34f45e"
+                "sha256": "59a244a0cac8b8f5d955e85d49c227fb9fdcca70099c1683408bd7661027c87c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1825,11 +1825,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "14.1.1",
+                "version": "14.2.1",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
                 "safe": true,
-                "sha256": "0f51e343fd1ea6444d4cbc6bae0c3ba59fb1a60ecb0a68ee744fcc47c443b342"
+                "sha256": "0c14a7b22398cb95e8e4f3d1072e990bd7f53ddef14a2ceeb47737311362f549"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
