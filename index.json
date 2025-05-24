@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.49.0",
+                "version": "3.50.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
                 "safe": false,
-                "sha256": "b7621402609bb47bb7c3d0e26297392fe6e0fab68a86a404fd6edb542bd9c0f9"
+                "sha256": "64da0c2f69c1a905db8e17a700de52d7c0d15a2e6e99077a57b42d3d17b9f860"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "27.5.7",
+                "version": "27.5.8",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": false,
-                "sha256": "1d4e0e2d7f4c03596d2a2f13ba6073ab14f41d09607ac71b147c15d590b68c5d"
+                "sha256": "af6b69b2c7cc62f04abeb002b207249058f40457c35da9f0f75502bf2eb56f4b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.3.1",
+                "version": "10.3.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": false,
-                "sha256": "8f3e86a9f482abc1a0b77534d8def25c72bd5408d39a40e85c8cae2a94382954"
+                "sha256": "aaf5eaa2746f8c8ffabe43918df5a06b1f1545c95706a45aaece85634dda8517"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
