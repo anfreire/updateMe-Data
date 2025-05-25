@@ -1732,19 +1732,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.31.4",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "57329518c7dfdfab38210fadc07e1a919c831e437c7c356d8ef8f34df68d0759"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.32.0",
+                "version": "6.32.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "dc1c7797867b55f99de7d71546dfa9baeaa8b67d5c68353afae02c7faa275d28"
+                "sha256": "ae91be3c27ec5f0744b440f0fad7647468567292cce5521459c0f3e233d8a8a9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2091,11 +2091,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
-                "version": "4.5.2.61",
+                "version": "4.4.3.0",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modyolo.apk",
-                "safe": false,
-                "sha256": "ef4933d0968b6e621da7c38e2cae13e9bcfeaac58d233dce1c5d2f34c21195b9"
+                "safe": true,
+                "sha256": "5d6caf8253174b4ad2fae6e49db1fbbf5b4adaf7e1354c2567386c504f4089f5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.896",
+                "version": "4.9.905",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "587beedd0c014176c691ec4fe6e0b2c5fb0267a582420a6a7b806c90c39fc332"
+                "sha256": "3dc7dc8ae3fc9598de0f0e9ee833012fb31ac40d3f79e1e756d151ec27eaa017"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
