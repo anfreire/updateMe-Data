@@ -468,7 +468,7 @@
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "57bb75399087f7dfe3ad571535e88bc67c3300154335d9199d86cf41c59b5d14"
+                "sha256": "8ea4e1c857c5007bf2cef52a2be2e54814ca4cabe77f3fd0724e6d1fffc71c15"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.96.1",
+                "version": "1.96.2",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "a66ac5281382219ca4254abb630e1d4715bc592475f7aac37e454a07f6c558fc"
+                "sha256": "c9bb6565df6373f76b6b7338067c9f52130d72d40cef87dfd3ae30febc5c99cd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
