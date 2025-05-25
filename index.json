@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "10.3.1",
+                "version": "10.3.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
                 "safe": true,
-                "sha256": "32eeebe9da78a9ac587e4d4c9f0968e4ddfb805d33d965e009e0ff0498680308"
+                "sha256": "526ed566165d5e7a047047d39eb728bf049b8e04b7a1630b5644abddbd8b4bfd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
