@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 029",
+                "version": "6.5 build 030",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "169618e1eae084183cd4e76d26bd45e9de60e8bea243270db8a0f4c36e515869"
+                "sha256": "a170ad2b530552caf3ebab521de75ac32808c24efcc8946c337a87c8fee9b0c2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.49.0",
+                "version": "3.50.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "076f0bf497a4247647b4e1f382bfc736423d29f61fe1f326a766f7e8fe503ab1"
+                "sha256": "a8bf2e01f33e287c73e13444678df78293f838fd7e6c961f4cfe9c67a28670a3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.850",
+                "version": "4.9.896",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "83890c178480bfd36a42f51bfa9bd410d8595d24037184eeefd3e5e55a080a36"
+                "sha256": "587beedd0c014176c691ec4fe6e0b2c5fb0267a582420a6a7b806c90c39fc332"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.0.1",
+                "version": "7.6.1.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "36676bc774d1d4e7715070f5c935a889c932367c9a98852d42bd9ddf149202cc"
+                "sha256": "3ebdada44e82751a450464b3698c5db801c911feff4f565362f4dfd1f2a5596f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
