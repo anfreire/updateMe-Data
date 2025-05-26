@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 030",
+                "version": "6.5 build 031",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "a170ad2b530552caf3ebab521de75ac32808c24efcc8946c337a87c8fee9b0c2"
+                "sha256": "f7038e75dadaf4ce5f7905422b2a1dade6685b319e84de335940b8cccc2fa4de"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1833,11 +1833,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
-                "version": "2.1.0",
+                "version": "2.1.2",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_apkdone.apk",
                 "safe": false,
-                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/snow.html",
@@ -2287,11 +2287,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
-                "version": "2.1.0",
+                "version": "2.1.2",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_apkdone.apk",
                 "safe": false,
-                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/secure-vpn.html",
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "2.1.0",
+                "version": "2.1.2",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
@@ -2402,11 +2402,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
-                "version": "2.1.0",
+                "version": "2.1.2",
                 "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_apkdone.apk",
                 "safe": false,
-                "sha256": "8c022e67f44e06adf3e830d446987dfd4d5cde4cd176652768b4ef289d760854"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/ticktick.html",
