@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.172.0",
+                "version": "2.173.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": false,
-                "sha256": "02687feed674dcef4f5bca45650eae7619caba6a09ae697f03313b691b13ceca"
+                "sha256": "70ad1f1d82e59fbfea6899e7b9d6fddd443473f521fb23ac6c00f66a5409dc0e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.31.4",
-                "packageName": "com.duolingo",
+                "version": "6.26.2",
+                "packageName": "com.dlg",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "57329518c7dfdfab38210fadc07e1a919c831e437c7c356d8ef8f34df68d0759"
+                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.2.22",
+                "version": "4.4.3.0",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
                 "safe": true,
-                "sha256": "e8f7e71e217f5f15cb283be991aca1885074f89f2e4a1cf04dd7927685facb61"
+                "sha256": "40ab4c3e3663d88cbbe02bc44e45ac8e94663aa3bb373b70a05495816975ea4c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
