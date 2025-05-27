@@ -561,11 +561,11 @@
             },
             "Honinsta": {
                 "source": "https://honista.com/en/",
-                "version": "347.3.0.41.106",
+                "version": "367.0.0.43.90",
                 "packageName": "cc.honista.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/instagram_honinsta.apk",
                 "safe": true,
-                "sha256": "9b6788f1edee529f5d8cc6ebe3dd82153ba1894168723c72a2eed4836c6f4974"
+                "sha256": "1654ee367fceb8138b1512e29b96cb158ee1c9d073c234f47b907f9a50f9d262"
             },
             "Instander - Clone": {
                 "source": "https://thedise.me/instander/",
@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.50.0",
+                "version": "3.50.1",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
-                "safe": false,
-                "sha256": "64da0c2f69c1a905db8e17a700de52d7c0d15a2e6e99077a57b42d3d17b9f860"
+                "safe": true,
+                "sha256": "9d5b037cfd670f23cd1550415a7be25946e64048a013b73065d31f1856244c00"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.10.36",
+                "version": "4.10.40",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "b12bde4cbdbbcf4e5259c3de755ad71a1afd254088f501dd73c2fb4d0ec7f539"
+                "sha256": "1fe1cba36fbde38219315c9d875971b159e3846d5db268ff5b0c422ac01108b5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.5.9",
+                "version": "27.6.1",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "3877968e5119b166610dc8d27a8d896a2237ebd4f80bb970f419e430808c0db4"
+                "sha256": "559f58e96a91a3ae85b17c866e96f866334721458d699d1ca1f1e822a5fdc499"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.15.5",
+                "version": "15.15.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "dd9ad1cb01661559003e6611428c6c898faeea4f4c733a53e90d06b9ce9a38de"
+                "sha256": "1785da9af6ee6edcd4d8f6d619da2d5f707a47d9b69c8202bdd89459af127679"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
