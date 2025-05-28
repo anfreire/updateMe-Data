@@ -1658,7 +1658,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
                 "safe": true,
-                "sha256": "526ed566165d5e7a047047d39eb728bf049b8e04b7a1630b5644abddbd8b4bfd"
+                "sha256": "d999fbb52367422ab69eef02faa6b46b5993090a555ddbdf5919288acbf06843"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.6.90.901",
+                "version": "5.7.2.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
-                "safe": true,
-                "sha256": "4f6551de8a3921edc10d7ca968eb3e7ef45f1df14317033cf49365036b0d31c8"
+                "safe": false,
+                "sha256": "1ab534b3ee0966bec68131c59003ef01e407a22438ac435918420eff36840474"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
