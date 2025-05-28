@@ -255,19 +255,19 @@
         "providers": {
             "xManager": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.44.478",
+                "version": "9.0.46.496",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanager.apk",
                 "safe": true,
-                "sha256": "c0104eb8430f0c3afce6c250bd57dc466daf39d71b7a8207f9a150d7c0947f25"
+                "sha256": "574c2171f40d16018b62d5695bb1ecbffe835a030bde855d26730876d5e07772"
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.44.478",
+                "version": "9.0.46.496",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoled.apk",
                 "safe": true,
-                "sha256": "d061aa73e4a2ee7dc9e115b4947e29f48ede3b7297f43cb69004b41d3340d57a"
+                "sha256": "09084010633692ef17660f7d00ee64361b1f3066998f9ef8c701d73a99191187"
             },
             "xManager (Lite)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -279,19 +279,19 @@
             },
             "xManager (Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.44.478",
+                "version": "9.0.46.496",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagercloned.apk",
                 "safe": true,
-                "sha256": "0e6dae67940792ff32bffd38e6f0c8299ba6b6d522fb4dfeeccb06301d4199a8"
+                "sha256": "8a92dbe1ecbafb98da44d6223497eff084770b76726bc17d3f1581545ce717f2"
             },
             "xManager (Amoled Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.44.478",
+                "version": "9.0.46.496",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledcloned.apk",
                 "safe": true,
-                "sha256": "b24288bb1771c42525826db0aeab813194e8ed26199d80b957593a032f7ae642"
+                "sha256": "60bebb27f4d91e384eb79edfb4dfe05e0550aabeee99ddacdcb351aca144f0fc"
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.16",
+                "version": "1.13.17",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": true,
-                "sha256": "56d1585df864718ce29378ac05264490afbb90d84009ebd3264912a15df3cb7a"
+                "sha256": "c9b497bf7e0758b5184a4b993025d10880f736a4211473bb1c002b5b64d8d882"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.50.0",
+                "version": "3.50.1",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": true,
-                "sha256": "a8bf2e01f33e287c73e13444678df78293f838fd7e6c961f4cfe9c67a28670a3"
+                "sha256": "aef327053c3c8e77389695477c51ae8b470d868101c6ccec8dc8414135b37c4c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.15.5",
+                "version": "15.15.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "b691356b4bf23059b4f61f56bfedb245b9f6d7a3c404737f1a138533e8319faa"
+                "sha256": "2b7d978aa58e7bd8a325303dc764f4970650d8dc339dd15625af979056e00481"
             }
         }
     },
