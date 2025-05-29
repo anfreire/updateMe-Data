@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "5db59a666a8b83f6f0bc8443faa0ad2fd6c3b23a90de6b7b6845628593cccf9a"
+                "sha256": "5c22b3ac531ee7e3c7218ffc6c60a705f61b45356c73040d6fd725b5cc464e03"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "1860e9289c576ec5ab6e21552adea0df61251b543a127a8cd34ab2dc079b2a31"
+                "sha256": "0e0821e4c8bf0109c81a1e2c9421ba631a21c397a40c70efdbd6bf3c2e1ff2f4"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.46.496",
+                "version": "9.0.48.380",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "89323cfbfa7bd3598d1315a04a5fb1a3c015114ce5355fbe5b7d2c841e8ddb77"
+                "sha256": "c76ad35d5f637ec35191bb58808e17cde63f71b82c65ad8f7dfc1ab4c481e74c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.88.0.2505210000",
+                "version": "6.88.5.2505220000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": true,
-                "sha256": "358bc58cddf2e144f331601ce91ba56ac5a367815d478158ff3f47ba36b4530f"
+                "sha256": "f3645fbb9f63a68693ca5227f49e6a148138e77076b8e2a8c76b0438bafea3dd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
