@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.15.6",
+                "version": "15.15.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "2b7d978aa58e7bd8a325303dc764f4970650d8dc339dd15625af979056e00481"
+                "sha256": "273896bd488d5e47dc9714a02b10abca67d94d22a5659471e4b3e9ed1ec29285"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.32.2",
+                "version": "6.33.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "ae91be3c27ec5f0744b440f0fad7647468567292cce5521459c0f3e233d8a8a9"
+                "sha256": "02559eb6e559738fcd238814265cc9586491863fa5d15171dc0cb79f2e22e22b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
