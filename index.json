@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.3.0",
+                "version": "4.4.3.1",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
                 "safe": true,
-                "sha256": "40ab4c3e3663d88cbbe02bc44e45ac8e94663aa3bb373b70a05495816975ea4c"
+                "sha256": "3c0e8fdea41760fecb7ba2c94b23b9ff3614b2c69ca150c396ae2ad9d2741b54"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
