@@ -2091,11 +2091,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
-                "version": "4.4.3.0",
+                "version": "4.4.3.1",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modyolo.apk",
                 "safe": true,
-                "sha256": "5d6caf8253174b4ad2fae6e49db1fbbf5b4adaf7e1354c2567386c504f4089f5"
+                "sha256": "a2f0025a2b90d741775f778ec3a000cbfa624a9c5bad5a7300c9c739a1dcf41d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
