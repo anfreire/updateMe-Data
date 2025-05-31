@@ -1404,19 +1404,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.10.40",
+                "version": "4.10.42",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "1fe1cba36fbde38219315c9d875971b159e3846d5db268ff5b0c422ac01108b5"
+                "sha256": "a48e9d1b8d5888a44e5e057fe084e771016ec0595a015c7d4a93123f1cf4a03d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.10.40",
+                "version": "4.10.42",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "f8cc9ea3f3bb1d68a5d8f612173287e376930f5ecaeb640771b353697c26225a"
+                "sha256": "e26dab2d36c7c1da69c0408f6840443fcc9747b68ac0f2da4a85c4387585ebb1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.31.7",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "f5cb60ba3e9e46ed27f3e9aae9f88712d5c7bf8de17fe40ae7b68d426becc725"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.96.2",
+                "version": "1.96.3",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "c9bb6565df6373f76b6b7338067c9f52130d72d40cef87dfd3ae30febc5c99cd"
+                "sha256": "c0953e64d1724988f8264c43606a9aa090aad470017a6c45307107242a6c3ee8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
