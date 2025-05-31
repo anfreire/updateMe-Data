@@ -877,11 +877,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "11.3",
+                "version": "11.4",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": false,
-                "sha256": "b365dbd1838c38a2f1f81b807bd7c2f78ff43c5e45538b144d46cae309bb40bc"
+                "sha256": "e0ebce3fe0aee5b47252f6d16fc85707629367be80f5fd38cd1b5a6906083f1c"
             }
         }
     },
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.88.0.2505210000",
+                "version": "6.88.5.2505220000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "cda42845b4431cf7c509412f8782246caa9cd5f83893d1d7581cc7db59ea0371"
+                "sha256": "b226fcbf182ec241d400b269e3d051e1f698e675e3a16f96d5042ac3a1a12b1d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.7.0.2 chuppito release",
-                "packageName": "com.waze",
+                "version": "5.7.2.0 chuppito release",
+                "packageName": "com.wten",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": false,
-                "sha256": "ae0581325bf311f2fc5516a19071f5283e1ee5a687ce8652c0a949a7b4ccca33"
+                "sha256": "7b02f853f62e3615a7d307ccc7a00959be9e4dd89d0b30b356e9730ccd708a9a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
