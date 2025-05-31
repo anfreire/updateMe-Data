@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.23.0-250515",
+                "version": "15.23.1-250527",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "3820051d0768e65b099e3b129fd9ea31d37aef05875b50abfcec2d82f4684180"
+                "sha256": "6a2300d5af21e2df11542f37e3712ea0643f765fd3ec2d7a961442948c5566ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.31.7",
+                "version": "6.33.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "f5cb60ba3e9e46ed27f3e9aae9f88712d5c7bf8de17fe40ae7b68d426becc725"
+                "sha256": "3fc2ba3b442d5cc1491edc1d9651999a4c27d34da4f0a78ab7ed774f57548416"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
