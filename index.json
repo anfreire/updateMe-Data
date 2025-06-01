@@ -978,11 +978,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/linebit-icon-pack.html",
-                "version": "2.0.4",
+                "version": "2.0.5",
                 "packageName": "com.edzondm.linebit",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/linebit_liteapks.apk",
                 "safe": false,
-                "sha256": "c676865819f2b163bb5cb5b50e061fb9aa77d0b23ce76010e88aec47246c8905"
+                "sha256": "304c7f0b9a7c7fa1dc827d41177774f99cc69e5a1343371fdb43200469bc48aa"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.6.1",
+                "version": "27.6.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "559f58e96a91a3ae85b17c866e96f866334721458d699d1ca1f1e822a5fdc499"
+                "sha256": "9f1354d751bda1ce72576a5c4ac952be10c6643be036b522ecdcbb8295d818a2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.23.0-250515",
+                "version": "15.23.1-250527",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "7f1e19a5ca3c043f2b1e25749beef674d410006a82291c500cdb8f3c07ce6878"
+                "sha256": "2fa9932db8914cda0733dc682ee734123c1b297eb90e6ac7e2d1caafff78ed3f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.33.1",
+                "version": "6.33.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "02559eb6e559738fcd238814265cc9586491863fa5d15171dc0cb79f2e22e22b"
+                "sha256": "7489fdd187582e76d5400bd65459e5c8ffadad56e337bdf4796a231f541cc53b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1825,11 +1825,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
-                "version": "14.2.1",
+                "version": "14.2.2",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_liteapks.apk",
                 "safe": true,
-                "sha256": "0c14a7b22398cb95e8e4f3d1072e990bd7f53ddef14a2ceeb47737311362f549"
+                "sha256": "673a4cf4831d5e572111afd53b0aabde41fd65f070696bd22e3d3a41f1135590"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/snow/",
@@ -2279,11 +2279,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
-                "version": "4.3.7",
+                "version": "4.3.8",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
                 "safe": true,
-                "sha256": "c0e6a09e98c87ac4a8b32ffefc693b0585cd5cccddbfc8c1a372c1c0fda02b0b"
+                "sha256": "fa888beacc0ee1860742e699e9ac9af963b8d5e6595ef73c2a79c28ad58fd4c8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
