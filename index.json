@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "5762608ae5866ecfbe0e906b593ccc31cccf9790bb8005cdbf578b198a6b23bf"
+                "sha256": "4264ca8f895f6f780d35ea0ad7b6fdc2f26cdc3e42923335159d0b9fc47603e5"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "dbb1ea42252e2d80eef25d108d0a92a9322a14ad53249ba91d5dcc79163eaadb"
+                "sha256": "e81b1eca20464757f5164cccf5147d2a5d2b1943d3dd9b25183465225999ba05"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "e186f419a208ba56b8ce7ff1cec2145674980db713584352f2ad0f82f0867a67"
+                "sha256": "547c1ab0a6038d4eb1d84d81920237f38837e681756d19cd610a30267f842f04"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "7c7550552bc757365caa63c2655153d2ac2ceb9e8392c67ee0af2556cc2e3a8a"
+                "sha256": "1ed56e2f6a071d1cc20e82d0442a8037ad0bc79f06bfab994ae8944ffe9fecda"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1817,11 +1817,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/snow-storm-superhero.html",
-                "version": "14.2.0",
+                "version": "14.2.2",
                 "packageName": "com.campmobile.snow",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/snow_modyolo.apk",
                 "safe": false,
-                "sha256": "8888668999499046e41aaee6ce1ac9c9b1e5adc3e674455f2196c208c1ac03b8"
+                "sha256": "4420807351c1a121cd0833271afca3f69cc1d321ae5b553dd2e08384a8321e24"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/snow.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "84a34f29100dff54bcdea314aa8d817864c7fc48a73770d9c5bd841a68297b61"
+                "sha256": "1557d687ecb99686ac44059530219bd99552e3bf59efa73dec3ba46be162316a"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "508.0.0.62.109",
+                "version": "509.0.0.57.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "2cdde69a62e42d1f42831d36c84df22ca4ac36d2eb76acb1214c694eeae318e6"
+                "sha256": "fd3f6e64369035779f2d14c5e785282653b8035e0320c1a55dcf064f51f69e46"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "b03bc3702fe86f50a10f0eaeaa12cbe829800bcf40d7a23316f644f32756a588"
+                "sha256": "baa945bb2a226c1431e827c81bcf518f44df634cc7c71f185e36d2ea1c1eb6ec"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2271,11 +2271,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/secure-vpn.html",
-                "version": "4.7.1",
+                "version": "4.3.8",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modyolo.apk",
-                "safe": false,
-                "sha256": "a5046c49cbe8b5be75ce6c9b5adabce977ecae645614f65ec8a45f8c855e114f"
+                "safe": true,
+                "sha256": "77ebe043e642a89111c91a0ea299187eb2e6e63ac4a5b2f900b744c44437dbaf"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
