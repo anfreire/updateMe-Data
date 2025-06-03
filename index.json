@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.15.7",
+                "version": "15.16.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": true,
-                "sha256": "273896bd488d5e47dc9714a02b10abca67d94d22a5659471e4b3e9ed1ec29285"
+                "safe": false,
+                "sha256": "87c9a21ecd9978661903e01af168b019a7aa49733c2a7b1addb41957b09195a0"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.33.2",
+                "version": "6.33.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": true,
-                "sha256": "7489fdd187582e76d5400bd65459e5c8ffadad56e337bdf4796a231f541cc53b"
+                "sha256": "e5cab14fb793380395e4868365e15555c02a466313c883d81a67a17712fdb139"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "20.4",
+                "version": "20.6",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "310aed97f23a9032ba45ee9119651ab4b592ec95c60ef3c5ccc558850ce5d4b0"
+                "sha256": "1323b700aa523e9f4e4ba1884d2aebf5e2f44302a6a7cd4b3a32d3d0efc80465"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
