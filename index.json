@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.33.2",
-                "packageName": "com.duolingo",
+                "version": "6.26.2",
+                "packageName": "com.dlg",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "3fc2ba3b442d5cc1491edc1d9651999a4c27d34da4f0a78ab7ed774f57548416"
+                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1993,7 +1993,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "a97b58eac1a654a6993f5c4cb1bfb14fad6b7fabbf8b68aae46075a7aca87889"
+                "sha256": "8ac697aa9af8754e6e78f6fcf09bd45a21500d0906041929de94c878709c598b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
