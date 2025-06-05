@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.9.1.0",
+                "version": "11.9.2.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "c413e14843701ee933a60fa45cac457f652a53a3acd4fbffe67d9b7ef167094d"
+                "sha256": "cda62a3f6d0602df77b2a820a1535719d1b8324bac68fcfea94c11f0e647b2fc"
             }
         }
     },
