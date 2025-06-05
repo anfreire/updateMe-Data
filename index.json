@@ -1285,7 +1285,7 @@
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "a7801ea1ca35f2e40c14255c2d802d34683ec0d82e4f08d7e69eb2da8f0f5d47"
+                "sha256": "c413e14843701ee933a60fa45cac457f652a53a3acd4fbffe67d9b7ef167094d"
             }
         }
     },
