@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.6.5",
+                "version": "27.6.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "0f8659369a3d32ba7e6cf227ad1c7487bd702e485cad56981db1b6d39af71298"
+                "sha256": "50f6a9e3b55099d8fab16f600f5f056f1f0fc7bfc349bb87e4fc3d0daa3cf0cc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.23.1-250527",
+                "version": "15.25.0-250529",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": true,
-                "sha256": "2fa9932db8914cda0733dc682ee734123c1b297eb90e6ac7e2d1caafff78ed3f"
+                "sha256": "4ad360ed775284598a52e29119d857c3709074ea551dd71b0480d02a14dbce49"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
