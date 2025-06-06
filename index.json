@@ -464,11 +464,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "14.5.0",
+                "version": "14.4.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "64503fd273239d4e033911a795a4651d3ba73cfbf75d3df111b494b88414bc7b"
+                "sha256": "240cdb6aeb5570d62b0453f4bfbf2f7b3a250e82159b72d0d1b24f8a23bc1448"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.10.42",
+                "version": "4.10.48",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "a48e9d1b8d5888a44e5e057fe084e771016ec0595a015c7d4a93123f1cf4a03d"
+                "sha256": "fedfd7c22e53ef13e5fd02e74f27d6c3d5565d7d18e73f2736dc75541344dc55"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.33.4",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "e41375a9126ae2dbae4f10e7d35e91142aff04cc7574d21acf52f140ab59dd52"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
