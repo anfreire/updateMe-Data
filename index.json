@@ -1158,19 +1158,19 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "10.0.0",
+                "version": "10.1.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "1589964270639e8ba1f6fc9652eaba639d5c0cd86ca0cff8081d6fc91bdf7585"
+                "sha256": "6cbc1c950441808d5398bfba423a6d805669d389344728eb31acde442ac11aa1"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "2.1.2",
-                "packageName": "com.apkdone.appstore",
+                "version": "10.1.0",
+                "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": false,
-                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
+                "safe": true,
+                "sha256": "3f4f8e2368aea66065c2973b2ffb53330bc9753535eb78aa99234433ed17c08f"
             }
         }
     },
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.88.5.2505220000",
+                "version": "6.89.0.2506040000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
-                "safe": true,
-                "sha256": "f3645fbb9f63a68693ca5227f49e6a148138e77076b8e2a8c76b0438bafea3dd"
+                "safe": false,
+                "sha256": "3a07bfe30e1e30193c89678f6713a31937cd6906c22f6acee927860e6715e91d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
