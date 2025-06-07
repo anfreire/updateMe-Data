@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.16.5",
+                "version": "15.16.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": false,
-                "sha256": "87c9a21ecd9978661903e01af168b019a7aa49733c2a7b1addb41957b09195a0"
+                "sha256": "2bcbe7c31b81a8950f59e5e48208eca96d260540dc686da26afcdbd2f721c13b"
             }
         }
     },
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.11-rc0",
+                "version": "1.4.12-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": false,
-                "sha256": "96d472127c9fc8fd0cd5a2b493d7e9da717a77105223033fa24f1440bda7137a"
+                "safe": true,
+                "sha256": "92b7777976ce2f80ed23bc19c7e5420bb9d644582f9370479c481e72ac5140b2"
             }
         }
     },
