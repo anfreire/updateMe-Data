@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.643.215",
+                "version": "1.65.217",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
-                "safe": true,
-                "sha256": "a91d6437aa38447c167b6cc2bc5e3ecd53f2d44e917fb73876b2634eaa7e0360"
+                "safe": false,
+                "sha256": "9ffd6d064e3cdb49d3c68506d4a51140742c61b6efda9cc226654cbe7ef0f035"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.100.1",
+                "version": "1.101.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "4cd3d619e6be4f8f28d12378373631679f658da85960a0eb975b4af57863408f"
+                "sha256": "4c3e643fb0ce2224337b17d40083ca56de0a21c00f28d64cfb41c026a24eb295"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.96.4",
+                "version": "1.97.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": true,
-                "sha256": "9b508ec9445b6c26f699bda08ec81762e27937d38a730e97931a728f48fd02d3"
+                "sha256": "db101454aee75075e329cc5df350f56444f147f914b747d644dc82617853baca"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
