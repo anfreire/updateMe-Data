@@ -2389,8 +2389,8 @@
                 "version": "7.6.2.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
-                "safe": false,
-                "sha256": "7f4c32d9768518e8fdaf666352e6097298b04e241a0509c8c7c6d3c791ba5074"
+                "safe": true,
+                "sha256": "9d595db07c89216dfd7767371d5e663915194b1fca273dfe28228c20d220650f"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
