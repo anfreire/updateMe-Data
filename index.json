@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.123.1487",
+                "version": "2.130.1488",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "5c2976743dfaf4c2987ef8656cced38f8e2f7f87600e6681c469c942f6bbc927"
+                "sha256": "bbf857349e4b7097dd4c202f155391671fcdb5f7b5030ed6c9bbbc7b54688fbc"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.13.16",
+                "version": "1.13.17",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "148ddb236fe54d978e00f2b26d1cb26fa38e4adf9cefba3ff16808cb78168a67"
+                "sha256": "cc4259d78aa4c3fb1d24883323a53166fb5567c117c35822ac15c2792abe1b98"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.100.1",
+                "version": "1.101.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "7578a60507db9ab353cd8c4170f8bd9491a9bc9030bb19bdffc3b4319a3c7cfe"
+                "sha256": "0dbaf2fe38fe4fd1caa79ca68981d40a759a56ab67e6b8c9cb7ba12612d42754"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
