@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "682930207bd3e6cbaa1a940098c131b901964825d274c36f2c5d9dbe0d09b7c6"
+                "sha256": "98477fb94f81281286582eec04402648c51795154aa8c194ae9491e98891eac3"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "83463610fa83f9e7615072ee3e43c4ad4d773c7c235be0fef91fa5e7c7593585"
+                "sha256": "6c2a8c9bf601e871ddc0aed3e4d5086581b646180effec067ce8533f86d435ec"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "9080b8c39224d302a10edff6afecc1ca211097134bd8345b27880b6cf1303eed"
+                "sha256": "9550cc0c9bab97f0983ba123bd30c46bb1f4f33f218f42fc04202e80b537812a"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.123.1487",
+                "version": "2.130.1488",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
-                "safe": true,
-                "sha256": "aa9e98af10d78c1bdff7d0429abbd54c78c4ccfba023a222183214b740cfba66"
+                "safe": false,
+                "sha256": "01ee1e6066bf4c100164f3bf278d46a91f1bef2ae084850a91b214ac274ea407"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 031",
+                "version": "6.5 build 032 patch 1",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": true,
-                "sha256": "f7038e75dadaf4ce5f7905422b2a1dade6685b319e84de335940b8cccc2fa4de"
+                "sha256": "c4f7d201953d74df827699a2a2ce83027d42a6720caf2c36831c716d55fc8684"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.16.7",
+                "version": "15.17.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": false,
-                "sha256": "2bcbe7c31b81a8950f59e5e48208eca96d260540dc686da26afcdbd2f721c13b"
+                "sha256": "db4d420022adf7ef15ef9103c48c95b7d1d48db8c86a325ea14ff23a709d922b"
             }
         }
     },
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "9465f1a3817f9961b2d1750c515adb3734021b332a58f93ed4bf9d7b8e95cdcc"
+                "sha256": "0d7bfecfc288820bcfdd978e07e018fc95319176c8cf75bceb129711bd81e90c"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "508.0.0.62.109",
+                "version": "510.0.0.67.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "5b342f6158c2520ef55741815a5a0176fd2db71fdb272e801652380f97e23f32"
+                "sha256": "dcb1bb1a53e60faf4a4ac0b52db2557a91c0143b4f0edc732768738f26f296c0"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "7019660aeeda5aaf3ad513ab61d569726810a0c588d2d0a24a872929fcbfce1f"
+                "sha256": "d319a356cea76207c5d686452d16511001b02aa23e6300c98943fc514f7fc50c"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
