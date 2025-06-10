@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.89.0.2506040000",
+                "version": "6.89.5.2506060000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "3a07bfe30e1e30193c89678f6713a31937cd6906c22f6acee927860e6715e91d"
+                "sha256": "b9a660d8a85f62e93ae5989677d63c0fbcd4fc1e19a4ff3000a5261032b59094"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.6.6",
+                "version": "27.7.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "50f6a9e3b55099d8fab16f600f5f056f1f0fc7bfc349bb87e4fc3d0daa3cf0cc"
+                "sha256": "00120715042c8652bc0e946ea407acab28045ffe30082141e199020e60a21a9a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
