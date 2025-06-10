@@ -1170,7 +1170,7 @@
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": true,
-                "sha256": "3f4f8e2368aea66065c2973b2ffb53330bc9753535eb78aa99234433ed17c08f"
+                "sha256": "59237e53c59bba1468dd9ccbf792545655909fb31434df7d2edf405cc68ffad3"
             }
         }
     },
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.43.05",
-                "packageName": "com.lonelycatgames.Xplore",
+                "version": "2.1.2",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": false,
-                "sha256": "06f5749e6792d7875a74be25f69d758dae08df5b2a121c708a1b6b17740290b1"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.16.7",
+                "version": "15.17.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "cf60019935fcf93ac8762bb2a42d54ca4b1f3c7c79348827364f96f00f29ce77"
+                "sha256": "829c3079d7d5fe72d8b93ff9feefe12e29805c0fd209ce89b78023ad078d5751"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.86.0324",
+                "version": "1.03.92.0606",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "0fd415d7484733b2f9517e22477c09ef40364831598ab936fdd3154511442dee"
+                "sha256": "1b2c24396fb794da11e0a26f85bd23407b9cc3afd33fb56dd5a192a90bd27ecb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
