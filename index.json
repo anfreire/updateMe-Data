@@ -255,19 +255,19 @@
         "providers": {
             "xManager": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.48.380",
+                "version": "9.0.52.505",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanager.apk",
                 "safe": true,
-                "sha256": "a781b0f3908b4d8f63bbbabac91bb40d6e6ffec89e937aafad2ad6017d69105a"
+                "sha256": "4935323cc246b6a572ee356b650f02245ab9233972eacc63b723689adf71d1a5"
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.48.380",
+                "version": "9.0.52.505",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoled.apk",
                 "safe": true,
-                "sha256": "55dcddc2a8a203619dc393b9ec22865ad5fdc84ca5677961322545ce504da8c2"
+                "sha256": "fa6e4fc4a1aed4bf2dcaf4187c782b052635242e5ce72d22b7fe7fd5324f74ec"
             },
             "xManager (Lite)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -279,19 +279,19 @@
             },
             "xManager (Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.48.380",
+                "version": "9.0.52.505",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagercloned.apk",
                 "safe": true,
-                "sha256": "e4e5fb42d66df951b1729e037976effc3e53b0d1ce4fdd0c435e54dfb7cb632c"
+                "sha256": "a6abe5d7e3fc5154486f327bbe06ee9dbadfc4c13347e8b81138595187dc0514"
             },
             "xManager (Amoled Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.48.380",
+                "version": "9.0.52.505",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledcloned.apk",
                 "safe": true,
-                "sha256": "d74fee0da6bbdba8385d67720a7fdbf33489a3c0fa33d104a3a2c09eeac7f206"
+                "sha256": "578841e62c19b82c819baf15860c6c2fc1478398dca2d2357c7956728f01de0a"
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -1582,7 +1582,7 @@
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "854ebd572e6823503983e24514729e4343acc277fead29deff93e1dc9bf99dc7"
+                "sha256": "d85795c3b8ce93586f2e8ce279c8fdd62785e5877684dc970880067400479363"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "20.6",
+                "version": "20.6.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "1323b700aa523e9f4e4ba1884d2aebf5e2f44302a6a7cd4b3a32d3d0efc80465"
+                "sha256": "e3f42dd5552ce9b55be55385718394d5b153d34ca88ad446f81169901238b709"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
