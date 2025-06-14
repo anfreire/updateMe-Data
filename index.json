@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.643.215",
+                "version": "1.651.218",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": false,
-                "sha256": "fd41e7b08fc7d178a7f7b65d14f75b87cdf26821d3eaa530fa5a978cc0189feb"
+                "sha256": "8e01fecc1e6e5eed3493be3bbd5c30c0b3a767e5267211fc514192911bb88a39"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.17.2",
+                "version": "18.18",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "2fc3b3966bb4bb1ac1150eeadd9dd728ccd3050e811003121df137293576d3a3"
+                "sha256": "5d3513239a46177ae50c99668a7a6b599b1ceca8df4aab93bb01b41c9d5b56ab"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
