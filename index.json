@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.35.2",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "c3a087ce13901eed87092a9eb650a5ac70d675d69d638cbf2ab703ddac3ae749"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "20.6",
+                "version": "20.6.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "8ac697aa9af8754e6e78f6fcf09bd45a21500d0906041929de94c878709c598b"
+                "sha256": "873b88de1fb656e20cf85212c67b34aee8221040ce6edf35cb4a2456a0ff0618"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
@@ -2057,19 +2057,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.7.2.0 chuppito release",
-                "packageName": "com.wten",
+                "version": "5.8.0.2",
+                "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": false,
-                "sha256": "7b02f853f62e3615a7d307ccc7a00959be9e4dd89d0b30b356e9730ccd708a9a"
+                "safe": true,
+                "sha256": "ccd4d779bf23dcae7624f1f1ce10a162229ecc54f48f59b05899a1cd6b72fada"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.7.2.0 chuppito release",
+                "version": "5.8.0.2",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
-                "safe": false,
-                "sha256": "1ab534b3ee0966bec68131c59003ef01e407a22438ac435918420eff36840474"
+                "safe": true,
+                "sha256": "e46ddf48f2c1b05bbcd01c28fddccb239e9770f082a22c2b36d98bfb157927a6"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
@@ -2133,11 +2133,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/friendly-for-twitter.html",
-                "version": "3.6.11",
+                "version": "4.5.0",
                 "packageName": "io.friendly.twitter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/friendlyfortwitterx_modyolo.apk",
-                "safe": false,
-                "sha256": "ef38a3df960695fde2b457a5855f1207d0ed1ee6eee5adfd07c634af3807b08b"
+                "safe": true,
+                "sha256": "732423a3fbb8c1b99b0626d9c1ece6a484472add243d97b0bd6bb8030d01ae63"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/friendly-for-twitter.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.1.1",
+                "version": "7.6.2.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "3ebdada44e82751a450464b3698c5db801c911feff4f565362f4dfd1f2a5596f"
+                "sha256": "9c93f0187c3b16d38b205b57dbf18b5dac6867e722a8d05f5f90a1dbb5f5d397"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
