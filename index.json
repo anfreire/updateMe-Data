@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.18",
+                "version": "1.13.19",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
-                "safe": true,
-                "sha256": "3c34dffba2db6b7aea28c35fd29b7cbb5135583cb07e966775c17e65d0d69d26"
+                "safe": false,
+                "sha256": "0458bf38118ab85f28f71e642eeeee9676e17c3a5e21732a23502cf502bf3b87"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
