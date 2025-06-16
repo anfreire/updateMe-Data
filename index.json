@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.89.0.2506030000",
+                "version": "6.89.5.2506060000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "c5c60625f5e7b06667388161e3ede54f7102696b5bae5e87e575e488adb22473"
+                "sha256": "d813e7e8d1651f43cb363d2dfe8641500fa8909c8449b3fe4c7112eeb530a825"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.23.1-250527",
+                "version": "15.26.0-250605",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": true,
-                "sha256": "6a2300d5af21e2df11542f37e3712ea0643f765fd3ec2d7a961442948c5566ab"
+                "sha256": "f90dc4c399e3686cae71572f45bcf41ad3b87fc72d9436f36444802fa6db8787"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.92.0606",
+                "version": "1.03.93.0613",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "1b2c24396fb794da11e0a26f85bd23407b9cc3afd33fb56dd5a192a90bd27ecb"
+                "sha256": "f7df1a776d2a7a8c803018c27b85787a0e8605154f2d2fa8c3adf7a2f3757004"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
