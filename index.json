@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.13.18",
+                "version": "1.13.19",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "6f7b240555292db5e3a57034e0d4bd48d85481b809f25ac685c71898ab4ab382"
+                "sha256": "9f9e803dc98221bc12d8ee199c07cdca8697803cbf25a992520cee674a6ff78e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.17.5",
+                "version": "15.17.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "829c3079d7d5fe72d8b93ff9feefe12e29805c0fd209ce89b78023ad078d5751"
+                "sha256": "94fb1adc3eded9b8e5a51b29e4af7d1c53a15d903bcf83723e1267cbad52b61d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
