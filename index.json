@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.52.505",
+                "version": "9.0.54.509",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "db5029aa52b945f8fb1f192811ee17de01c580eb16a834eb219653628fa57be9"
+                "sha256": "f20bfe5f0df2e042cefa42609413fafabe291f420765469049295dccab8ea6fd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -939,11 +939,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.3.4",
+                "version": "6.3.5",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": false,
-                "sha256": "2bb7dbe221c2d1f406498556a7543b44dc632ab07d9bed8d6a9a8e20e117b49f"
+                "sha256": "83a926f676b634b8c671707e65fa62efd4c869d992fba66c306f9b4a7252bacf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.11.6",
+                "version": "4.11.7",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "87cb4b121773f1b659949e3621519b0aa0d743569df777a889cc2021aea9bf55"
+                "sha256": "713edcea7e67e8041df74879f10a0a38b7498673db8a27fc4524dc2beb7a6b77"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.7.6",
+                "version": "27.7.7",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "ff13f06908e1b624a1ee9f3d095c47d8315dcae82a89d5a7ec2553d1bae1a84f"
+                "sha256": "0369a1524e33782aea319bf6cdaaf9ced4cb3bfbf3500cd03c09c6d35b1d7b40"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.43.10",
+                "version": "4.43.14",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "d85795c3b8ce93586f2e8ce279c8fdd62785e5877684dc970880067400479363"
+                "sha256": "e969891d87782b3ed6cede6c5a28495b5dfb44021144d36c1d85ad8daeca04a7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
