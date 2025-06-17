@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.17.6",
+                "version": "15.18.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": false,
-                "sha256": "b7cda3ba1fb61d80f3ee5ed07e7b75d42e12cc8cffb11288f3d6ede5342773a1"
+                "safe": true,
+                "sha256": "61c59d35f74425c1dbdccf977281d182b591127455fc06e73ffdcc1b3c213c25"
             }
         }
     },
@@ -1885,11 +1885,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/sd-maid-2-se-system-cleaner.html",
-                "version": "1.4.12-rc0",
+                "version": "1.4.14-rc0",
                 "packageName": "eu.darken.sdmse",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/sdmaidse_liteapks.apk",
-                "safe": true,
-                "sha256": "92b7777976ce2f80ed23bc19c7e5420bb9d644582f9370479c481e72ac5140b2"
+                "safe": false,
+                "sha256": "be53279903b2084c9b8a8646094c3b18067641ee90e8407c53e34bfff65b2fe7"
             }
         }
     },
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "382b4ad148d80530ac80414d22738cfa9c7f80255c790bc3e815265227cbb294"
+                "sha256": "611fd7553c06ac75419f5a16e60243c52511f8fe27a51b9538005d27e2430e45"
             }
         }
     },
