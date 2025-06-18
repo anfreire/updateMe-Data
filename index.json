@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.9.3.0",
+                "version": "11.9.2.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "f4ac20355dbadf1d8364f9c5f14e6d5c2788e4f62ff291636595e6969dd1c405"
+                "sha256": "cda62a3f6d0602df77b2a820a1535719d1b8324bac68fcfea94c11f0e647b2fc"
             }
         }
     },
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.89.5.2506060000",
+                "version": "6.90.0.2506120000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "b9a660d8a85f62e93ae5989677d63c0fbcd4fc1e19a4ff3000a5261032b59094"
+                "sha256": "d333f1f9ee2fb3e4f653fbd014b441dd70817727e285611849cb3cbb279d2303"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.18",
+                "version": "18.18.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
-                "sha256": "dbbdc9e551a20fd4dbdb907428c734a5168b279786bc8156bf1b331551bb7f76"
+                "sha256": "c2218031562d692443d8ff56ecd4862976a4566a28150254fa047c9044849e3e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.43.10",
-                "packageName": "com.lonelycatgames.Xplore",
+                "version": "2.1.2",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": false,
-                "sha256": "d85795c3b8ce93586f2e8ce279c8fdd62785e5877684dc970880067400479363"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
