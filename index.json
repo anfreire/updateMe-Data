@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.9.2.0",
+                "version": "11.9.3.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "cda62a3f6d0602df77b2a820a1535719d1b8324bac68fcfea94c11f0e647b2fc"
+                "sha256": "f4ac20355dbadf1d8364f9c5f14e6d5c2788e4f62ff291636595e6969dd1c405"
             }
         }
     },
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.6",
+                "version": "4.11.7",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "9ba1286e8217baf4ec5f50ee484b833ef44c95a9e411168f81935e260d951869"
+                "sha256": "7604ab7a8907322f1ec174c07aabc0d2a7477215608341e0a3bcf8cb2d139741"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.43.05",
+                "version": "4.43.14",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": false,
-                "sha256": "916c3bddee7d97b99f1bd52b3d05fe5aaaa3b797adc9b0d5f7dbf737fb0e19b0"
+                "sha256": "e969891d87782b3ed6cede6c5a28495b5dfb44021144d36c1d85ad8daeca04a7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.17.6",
+                "version": "15.18.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "94fb1adc3eded9b8e5a51b29e4af7d1c53a15d903bcf83723e1267cbad52b61d"
+                "sha256": "1487b1b5e131372a11ca9ae3ae9761be80979a711cc1a81ff13d3a6c2a68c3de"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "10.3.2",
+                "version": "10.4.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
-                "safe": true,
-                "sha256": "d999fbb52367422ab69eef02faa6b46b5993090a555ddbdf5919288acbf06843"
+                "safe": false,
+                "sha256": "783423bb4559e036430a06644a0522dae1b132f4293c722ac1b0f895cbc94ba0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
