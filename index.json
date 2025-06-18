@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.131.1489",
+                "version": "2.133.1491",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": false,
-                "sha256": "a4a179a8843c70dfbd9091098f384396bb05e03b9a7037521e8a8253c3939ce2"
+                "safe": true,
+                "sha256": "72fb5098b93e1773e4776e5099c75c9175d4da62b293a0ec79ae9727b073a871"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "2.1.2",
-                "packageName": "com.apkdone.appstore",
+                "version": "27.7.7",
+                "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": false,
-                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
+                "sha256": "ee60af65b517907be2aded3efb70b0fcca79a78f179c436da4b72cf53b581a22"
             }
         }
     },
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.6.2.0",
+                "version": "7.6.3.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
-                "safe": true,
-                "sha256": "9d595db07c89216dfd7767371d5e663915194b1fca273dfe28228c20d220650f"
+                "safe": false,
+                "sha256": "c51f2ecf48b3c3436cc1b171e0e439ba85181e716b3704bab7344792727948de"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
