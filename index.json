@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.131.1489",
+                "version": "2.133.1491",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "bc3d5e93ea30c9508c50aca1d01d5b504d271d8dbd52169762e1b6ea0e3869e7"
+                "sha256": "7e9d789384969fb1e347053ee7cea89c1acec37a88add74253a068808cc655f0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 032 patch 1",
+                "version": "6.5 build 033",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
-                "safe": true,
-                "sha256": "c4f7d201953d74df827699a2a2ce83027d42a6720caf2c36831c716d55fc8684"
+                "safe": false,
+                "sha256": "39d50e4739b92466a3fd19ec0eb09c661273ac3be6d21c7e4055b346474601d4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.35.2",
+                "version": "6.35.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
-                "safe": true,
-                "sha256": "16665f86f9eb087059aa2a6fba787d0200320664f11f59c28a31d095deb692fe"
+                "safe": false,
+                "sha256": "98494aec16bea14bd05b0a1fda159389184d13bf446241855d68e5fb3c618866"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.8.0.2",
+                "version": "5.8.0.4",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": true,
-                "sha256": "e46ddf48f2c1b05bbcd01c28fddccb239e9770f082a22c2b36d98bfb157927a6"
+                "sha256": "2c6e4c11b30112cb3dad6b9d47552f2827a04a4c9cce73f483cfab6c50463672"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
