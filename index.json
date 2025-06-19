@@ -468,7 +468,7 @@
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "551bc56614f6b10b600382b4906d243a0ec2182b1d09d48bfad383eb2d42482a"
+                "sha256": "9f8119ac06805ad897266556505d5abcd9d250b01cb4ea778c90b9a5e4188885"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/capcut-mod-apk/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.18.5",
+                "version": "15.18.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": true,
-                "sha256": "61c59d35f74425c1dbdccf977281d182b591127455fc06e73ffdcc1b3c213c25"
+                "sha256": "405165ee438e4f664ecd5c33fce20550368b6a2bca682294fda90173a5417d14"
             }
         }
     },
