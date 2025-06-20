@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "7578399c845010f618fa9fc3d12dbda5196fa541ef715e10120648b6dec55c62"
+                "sha256": "d8a7a96a9379e0594665adb9e5b963060ac68e243b6f89ebeb541e2c760c42d4"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "a3bdbfadbd16443787b27c5769917a4c4805d1b9f287dc42ec9b29952b75fbbf"
+                "sha256": "4215f56aa195183f920b354f68815cf38ad07aa9a166f90abab9ebc057057406"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "8ba01f475ac6e714f571b93e872b679327bc240bbff38e1473315b1e1a3e363b"
+                "sha256": "7b14ea9618f028696959cc8cd8f6768c042d2dbebf711eb9ff8639ab5f13dd9c"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "416fd918debdf787c613b4771acd3e6a45e33d0e6c87cf013f3e8b913a84e3ea"
+                "sha256": "482b8822c29e5ea19b7dd3a3bc05f0d4d2f5f6a8f2afafc11ac9319f222d33dc"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "b5cc0a0225abe7c99013e08b3c790d3c63c3ac5f8a4b4cba7f38c1b6c5fc97d1"
+                "sha256": "057af97b7d3e7f05eda68391b8601d0baa097794432295230ebd2ae6b8a1dd32"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "4befc0bff8789b0d4bb7a457953d042d915f6a56b056da44e131b676cf119161"
+                "sha256": "2297f956641148150619ff5c40e342712d8eb92b9993eccc41fe6136ff8a8ae9"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.89.5.2506060000",
+                "version": "6.90.0.2506120000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
-                "safe": true,
-                "sha256": "d813e7e8d1651f43cb363d2dfe8641500fa8909c8449b3fe4c7112eeb530a825"
+                "safe": false,
+                "sha256": "a55e8c8ce653108eaf7b978a2c01c98acc34c0f9c8965913b00cb73a768798be"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.7",
+                "version": "4.11.15",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "7604ab7a8907322f1ec174c07aabc0d2a7477215608341e0a3bcf8cb2d139741"
+                "sha256": "8f28c6a60bbb4c0b2f7fdd40abc483f3a6ff2994d93948a89eb2d62c1713bd3b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.18",
+                "version": "18.18.2",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "5d3513239a46177ae50c99668a7a6b599b1ceca8df4aab93bb01b41c9d5b56ab"
+                "sha256": "98a74208e4ecdf4fa65b30202cab18b842f87674c641005589688b8e53cd985d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1688,19 +1688,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.26.0-250605",
+                "version": "15.27.1-250616",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
-                "safe": true,
-                "sha256": "f90dc4c399e3686cae71572f45bcf41ad3b87fc72d9436f36444802fa6db8787"
+                "safe": false,
+                "sha256": "89336b298244aa411ab45fca14ef0d3043a00219ec6cddbf0c784a2f71915c47"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.26.0-250605",
+                "version": "15.27.1-250616",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
-                "safe": true,
-                "sha256": "572241ae392ef5a40c81eaeba14dc70a280a682746601c0b7bd876df7a7cf636"
+                "safe": false,
+                "sha256": "bee45da574cfe2c9d0468962e14bfbce3e663064eab0f6d46905dccadd3253f1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.35.3",
+                "version": "6.36.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "98494aec16bea14bd05b0a1fda159389184d13bf446241855d68e5fb3c618866"
+                "sha256": "3baad05b4ea1b6fe424f70dd91ba9d39bee9f88a0ad7240f4475afd0bcbd671b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.8.0.2",
+                "version": "5.8.0.4 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": true,
-                "sha256": "ccd4d779bf23dcae7624f1f1ce10a162229ecc54f48f59b05899a1cd6b72fada"
+                "safe": false,
+                "sha256": "af4b182347989242b8da5a17d5b093fe3dec88218868f5c202c71574ca53abb5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "750b1a0b9ce2cbbfc4a2a5685bfd3d5c0c4e0c85451e5b56225b789a7b6b194e"
+                "sha256": "7750879cbf8254869a97251a1b67c95383dfa163f0222205edcd17d07f7fb810"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "0ea89b70b958b6ea9cac51abe06e8f37389b5ae7f60038fd4f8bd7b5145eaa78"
+                "sha256": "ac019b6e56e689631f4698f1ece0b09668f2b20d9e253f52eb72761e51f926e1"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": false,
-                "sha256": "efe7a7fb862edb228b5ca8e20affa2d739bc9e65d957b497388abfe72cac1c93"
+                "sha256": "ded0250adf93522188dd2505e217e5aff0e353c10ff13cd945b8600cd4cecfb3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
