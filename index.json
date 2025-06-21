@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.133.1491",
+                "version": "2.134.1492",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "7e9d789384969fb1e347053ee7cea89c1acec37a88add74253a068808cc655f0"
+                "sha256": "7cf8fc0a6c78a09ea0df9f35875640ac6222eb65ef1bbccfbddbfe8bdf04e016"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -1462,11 +1462,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
-                "version": "27.7.7",
-                "packageName": "com.picsart.studio",
+                "version": "2.1.2",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_apkdone.apk",
                 "safe": false,
-                "sha256": "ee60af65b517907be2aded3efb70b0fcca79a78f179c436da4b72cf53b581a22"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.36.0",
+                "version": "6.36.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "3baad05b4ea1b6fe424f70dd91ba9d39bee9f88a0ad7240f4475afd0bcbd671b"
+                "sha256": "1a538b0e5225e1b88ec696b3bcc4361dafa2ce21acb51499e744c55cc8df7811"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
