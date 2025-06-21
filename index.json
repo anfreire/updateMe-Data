@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.7.7",
+                "version": "27.7.8",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "0369a1524e33782aea319bf6cdaaf9ced4cb3bfbf3500cd03c09c6d35b1d7b40"
+                "sha256": "67c6b2e9f30937b53c60760a2de991318e6097e4d7abadae6104f173d5313cf6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1586,11 +1586,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
-                "version": "4.43.14",
-                "packageName": "com.lonelycatgames.Xplore",
+                "version": "2.1.2",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_apkdone.apk",
                 "safe": false,
-                "sha256": "7e9cef6d1a7291af734d79c509aa7af34d32963821a4b37e879a24c97893c6b8"
+                "sha256": "836b693453e2038b7facb5981c59477d040e2deca9a78ce833a5f3473d8a77f3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/x-plore-file-manager.html",
