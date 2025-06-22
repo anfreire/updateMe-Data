@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.46.496",
-                "packageName": "spoti.plus",
+                "version": "9.0.58.73",
+                "packageName": "com.spotify.musiclone",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": false,
-                "sha256": "59c56e90001c08b1a30f34566bc1ae1ca5de92ecc74248314eb06d174e63c166"
+                "sha256": "73997eff9912217cbe7166540ac6b84b6b6b458b6634d473f4e34fa44f788213"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1480,19 +1480,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.101.1",
+                "version": "1.102.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
-                "safe": true,
-                "sha256": "0dbaf2fe38fe4fd1caa79ca68981d40a759a56ab67e6b8c9cb7ba12612d42754"
+                "safe": false,
+                "sha256": "757ad65b450a9c6224936aa08e5eabe5ac217de007f4f3be3dee3b18fc540e99"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.101.1",
+                "version": "1.102.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "4c3e643fb0ce2224337b17d40083ca56de0a21c00f28d64cfb41c026a24eb295"
+                "sha256": "6931ef3c33ba9085932615404b80425719a2c120c3f416b7d89302a5b7fea368"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "20.6.1",
+                "version": "20.6.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "e3f42dd5552ce9b55be55385718394d5b153d34ca88ad446f81169901238b709"
+                "sha256": "f9d168a06a4cf4cca251857abc172dc85f4eb4807d98e61fdc86e3dac34c9e12"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.2.0",
+                "version": "7.6.3.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
-                "safe": true,
-                "sha256": "9c93f0187c3b16d38b205b57dbf18b5dac6867e722a8d05f5f90a1dbb5f5d397"
+                "safe": false,
+                "sha256": "3aec05363b8e9ac1e0289d2df8391c782838d2278c7eff3fd5e7a0547cfa7ec2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
