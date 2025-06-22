@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "20.6.1",
+                "version": "20.6.2",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "873b88de1fb656e20cf85212c67b34aee8221040ce6edf35cb4a2456a0ff0618"
+                "sha256": "7b29e4df0f5077a630eae44a5fc9f68a5bd2ef483dce8d0a206f3d8b76ea6537"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
