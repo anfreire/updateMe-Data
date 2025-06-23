@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.6.12.34647.GP",
+                "version": "7.6.26.34820.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "b76f366d13401998bfa0353ef4d577cff15377544aaef4aa56641240289be2d4"
+                "sha256": "f4e675de4aa145dc1ab6fbbb2efb9bd8be7dc2f91798c070b579dd2cb29f3bb4"
             }
         }
     },
