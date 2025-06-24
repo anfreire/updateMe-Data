@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.133.1491",
+                "version": "2.134.1492",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": true,
-                "sha256": "72fb5098b93e1773e4776e5099c75c9175d4da62b293a0ec79ae9727b073a871"
+                "safe": false,
+                "sha256": "d2591c2b5fca69626f306720bc23169cfe4e47f02b063cb2bec4fb8fb06b04fd"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.43.14",
+                "version": "4.44.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": false,
-                "sha256": "e969891d87782b3ed6cede6c5a28495b5dfb44021144d36c1d85ad8daeca04a7"
+                "sha256": "789acbb9fb494758b81db898196c27001239a9ad562583075ca0983522b1e118"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.18.5",
+                "version": "15.18.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "1487b1b5e131372a11ca9ae3ae9761be80979a711cc1a81ff13d3a6c2a68c3de"
+                "sha256": "2804cf646ea76767b0a400d543b920fae0a6d2fb89f6f8e15be7ec987b8d5cfa"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
