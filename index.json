@@ -1162,7 +1162,7 @@
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "6cbc1c950441808d5398bfba423a6d805669d389344728eb31acde442ac11aa1"
+                "sha256": "a1af5bd3a57967094abb98b8b0f08a75ab882b6703c5e25bfd114e9365043534"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.11.7",
+                "version": "4.11.17",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": true,
-                "sha256": "713edcea7e67e8041df74879f10a0a38b7498673db8a27fc4524dc2beb7a6b77"
+                "sha256": "c2b7bf7accb81cf47d427a7b42de82810d35b2390d96d37373a1a75f87013c9b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.7.8",
+                "version": "27.7.9",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "67c6b2e9f30937b53c60760a2de991318e6097e4d7abadae6104f173d5313cf6"
+                "sha256": "57f0caf0ebfc485a0d5a77524e492192d6d71a95acb3427564f5efbb0518eeb6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.18.6",
+                "version": "15.19.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
-                "safe": true,
-                "sha256": "405165ee438e4f664ecd5c33fce20550368b6a2bca682294fda90173a5417d14"
+                "safe": false,
+                "sha256": "59b8f6da3fd025640c90f662d0a82ab38d38ceed3a06a18a72e206fee6f70088"
             }
         }
     },
@@ -1993,7 +1993,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "7b29e4df0f5077a630eae44a5fc9f68a5bd2ef483dce8d0a206f3d8b76ea6537"
+                "sha256": "2ff7bcf9bada8b5897a8b402d472b4b8df7f803f5228bca6be61e578c05f4cd9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
