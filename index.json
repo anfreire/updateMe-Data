@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.1.0",
+                "version": "10.2.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "3f21da3d8c9df380bc3b7bcf5e6e345f7f4569d3e169f7e4a5887b83de473707"
+                "sha256": "b2269afcb6e84d801dd063127f3d0c732d4a396bc6908841962b1df09bebadc0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1985,7 +1985,7 @@
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "f9d168a06a4cf4cca251857abc172dc85f4eb4807d98e61fdc86e3dac34c9e12"
+                "sha256": "65af3ee5272be635ea150335ca1bbfa1490fc0fcc1a24e078bae07b7efa04cfc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
