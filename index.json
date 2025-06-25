@@ -1124,11 +1124,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/tasker.html",
-                "version": "6.4.15",
+                "version": "6.5.11",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_liteapks.apk",
-                "safe": true,
-                "sha256": "42d443e0bdfb34354f42c9b8c0dbfbcd36e0ec4cc4a030ea2a3176d34d262090"
+                "safe": false,
+                "sha256": "cec661d09651e8c52679a08cd73673097555174357882f4059411773ee62c3c7"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.43.14",
+                "version": "4.44.00",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "7e9cef6d1a7291af734d79c509aa7af34d32963821a4b37e879a24c97893c6b8"
+                "sha256": "5f1e02f46e550399f4ce87e623754ff89941db22b3d3fded47e5eda3e806e7a4"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
