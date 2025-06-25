@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.58.73",
-                "packageName": "com.spotify.musiclone",
+                "version": "9.0.46.496",
+                "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": false,
-                "sha256": "73997eff9912217cbe7166540ac6b84b6b6b458b6634d473f4e34fa44f788213"
+                "sha256": "59c56e90001c08b1a30f34566bc1ae1ca5de92ecc74248314eb06d174e63c166"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1162,7 +1162,7 @@
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "a1af5bd3a57967094abb98b8b0f08a75ab882b6703c5e25bfd114e9365043534"
+                "sha256": "6cbc1c950441808d5398bfba423a6d805669d389344728eb31acde442ac11aa1"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
