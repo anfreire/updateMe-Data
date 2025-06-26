@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.15",
+                "version": "4.11.17",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "8f28c6a60bbb4c0b2f7fdd40abc483f3a6ff2994d93948a89eb2d62c1713bd3b"
+                "sha256": "6758d9767296003e359375c6e4c759d68ff82eca2ed5198f5bf3c15f73583560"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.18.6",
+                "version": "15.19.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "2804cf646ea76767b0a400d543b920fae0a6d2fb89f6f8e15be7ec987b8d5cfa"
+                "sha256": "1af2cce6ab6af52928becc113551850e1a82c30611b1f3270f4c5c2538e29642"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.27.1-250616",
+                "version": "15.28.0-250619",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "89336b298244aa411ab45fca14ef0d3043a00219ec6cddbf0c784a2f71915c47"
+                "sha256": "f5b77ede23501792280eb84ff2bfd85719b610c7f9db6dd7973a0b84bbe688d9"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.8.0.4 chuppito release",
+                "version": "5.8.1.0",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": false,
-                "sha256": "af4b182347989242b8da5a17d5b093fe3dec88218868f5c202c71574ca53abb5"
+                "safe": true,
+                "sha256": "50af7cf9e6cc3061ae7d3d7b660c656dcd6cf64f5c3c44603f531389c070f26b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
