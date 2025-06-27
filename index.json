@@ -370,19 +370,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.651.218",
+                "version": "1.653.220",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": false,
-                "sha256": "8e01fecc1e6e5eed3493be3bbd5c30c0b3a767e5267211fc514192911bb88a39"
+                "sha256": "3109ab6cca0fd156fc5f93c515be99b57bc5d522ad2319e67e748a178cfb4211"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.651.218",
+                "version": "1.653.220",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "5b9e7d1041e4be772b6f8ee3ef4a43acd5b7a6476d0f7a0386168256bd960210"
+                "sha256": "4bd616e4c773a01c3e838bb158d91134fb7fee64eb0dbb9859bd8b80723714a9"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -1150,19 +1150,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.2.0",
+                "version": "10.2.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "b2269afcb6e84d801dd063127f3d0c732d4a396bc6908841962b1df09bebadc0"
+                "sha256": "fb6a237814c38556344a04c75d912d2fef3d65101ffe325c1f8d1f38c88df017"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "10.1.0",
+                "version": "10.2.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "6cbc1c950441808d5398bfba423a6d805669d389344728eb31acde442ac11aa1"
+                "sha256": "3ffc10187188e73ca8f0ea5ed24284b81f8b8daac90aa304e7c7098fdc8e3b29"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.11.17",
+                "version": "4.11.20",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
-                "safe": true,
-                "sha256": "c2b7bf7accb81cf47d427a7b42de82810d35b2390d96d37373a1a75f87013c9b"
+                "safe": false,
+                "sha256": "8be636da39d502deec2ebc4f133fb359b5010a0ae1b1cf268c661c85c0468291"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
