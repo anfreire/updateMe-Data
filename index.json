@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.25.0-dev.1",
+                "version": "1.25.0",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "67a87f0a9dd8fec9a8cedffa45d6c6691649c36d027ad4ef859cecce89998689"
+                "sha256": "c520583c316f1bc0add2b7495354f6f98fe365ad7abca03d34aabf63beb42257"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.7.10",
+                "version": "27.7.11",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "e81eb1f32b8072c425e974e844a0ef8ea514d1c7da41a2d02b82703c6637b0a8"
+                "sha256": "ce4fd300f1d90a36e49676af9527f3945001b64fb775e4db42e3c508f6342e16"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
