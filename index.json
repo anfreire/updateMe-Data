@@ -1654,11 +1654,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
-                "version": "10.4.1",
+                "version": "10.4.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_liteapks.apk",
-                "safe": false,
-                "sha256": "783423bb4559e036430a06644a0522dae1b132f4293c722ac1b0f895cbc94ba0"
+                "safe": true,
+                "sha256": "f6bcb52eb6d81f8450956a21ac0974e1efa7e11b7a01488e0b380a9058795886"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.35.2",
+                "version": "6.36.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": true,
-                "sha256": "c3a087ce13901eed87092a9eb650a5ac70d675d69d638cbf2ab703ddac3ae749"
+                "safe": false,
+                "sha256": "f61e64e714a9e67f1780ed14bbd776af0c9834781cabb22722a97a5faeb80eaa"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
