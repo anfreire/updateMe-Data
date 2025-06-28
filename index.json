@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 033",
+                "version": "6.5 build 034",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": false,
-                "sha256": "39d50e4739b92466a3fd19ec0eb09c661273ac3be6d21c7e4055b346474601d4"
+                "sha256": "2315abe33a2f32bc8520ea515ec429c3108d5fe7f621de7d049e4087fe82ba9f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.18.3",
+                "version": "18.18.4",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
-                "sha256": "29a1db5c265859bf655ed1c804bcf464197b24b084e750679a9a75f4e527dcee"
+                "sha256": "65bcd3613129503ff0dce176189aefa5e5ffdb920f1825dcce707f9c6f2413a4"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
