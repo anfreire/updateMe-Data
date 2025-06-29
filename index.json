@@ -750,11 +750,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.8.4.1-beta",
+                "version": "1.8.4.2-beta",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "5bc2f604f02e8242263dc60781455ae0c0068f0434af8df485db4e38636fef23"
+                "sha256": "286c9a7756b16e7b4950aa86aec1200a1d83b1b5c9eed8afca2f17a4d8feb295"
             }
         }
     },
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.18.2",
+                "version": "18.18.4",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "98a74208e4ecdf4fa65b30202cab18b842f87674c641005589688b8e53cd985d"
+                "sha256": "f1e32a79e20b107d37f727325b401235d37468e9bdbdd7e05f9ab8523464559f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
