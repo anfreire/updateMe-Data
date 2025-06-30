@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.17",
+                "version": "4.11.20",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "6758d9767296003e359375c6e4c759d68ff82eca2ed5198f5bf3c15f73583560"
+                "sha256": "9edffb1363616909a0227d07b7730a11ae8011eace39a714b577713e5ed86685"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
-                "packageName": "com.dlg",
+                "version": "6.37.1",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": false,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "safe": true,
+                "sha256": "77e9033990dac4a2e02e9e35b0a3cc968925184aeeeccb64ff0e6ea2d221cc0e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
