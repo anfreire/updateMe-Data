@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.19.5",
+                "version": "15.20.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "1af2cce6ab6af52928becc113551850e1a82c30611b1f3270f4c5c2538e29642"
+                "sha256": "671d6186b5430c1b162e27f8a1d496910558b9e91dafd16682c1f8eeddb2540f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
