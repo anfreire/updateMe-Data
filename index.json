@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "9cc0f152207ca9b243bf62e56e1e10a4bf3858432cb20779d394043d9d5bb606"
+                "sha256": "aa7effa45e26bdd9e2354955f4b4424e2b24e816861b24b0fa968095026d38f1"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "5f68166769d53684ec144d8502fb7725936738b368fe93179739232a0bd1d26d"
+                "sha256": "4f3bea633210e4bb71831d132eedfc70b913ef8d476662ccfecb51f55e62c55b"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "09aefd4304ac48818585f80bb810ff9fc4551f2fdc7ed9efaa0ade33dfc34054"
+                "sha256": "973b5508b2d70d3d61a8a0e73bded967e43141be2f54ded805c526a5aae7e7f3"
             }
         }
     },
@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.0.15",
+                "version": "9.0.16",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
-                "safe": true,
-                "sha256": "4d6b0c3baacd25f5b7bedc57914ab6bbacded2a3aaa7212065ec0ee8d83eaef0"
+                "safe": false,
+                "sha256": "48e37228ac48bc997364e200ea88a0c559377fb79ddd32a9f44cee2c90fe93e6"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.102.2",
+                "version": "1.103.0",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "6931ef3c33ba9085932615404b80425719a2c120c3f416b7d89302a5b7fea368"
+                "sha256": "dd745750ee252d1fb718c7e2ad8b5ed8e40849d864bbeaacdca8e3cefc09d24a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1620,11 +1620,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
-                "version": "15.19.7",
+                "version": "15.20.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_liteapks.apk",
                 "safe": false,
-                "sha256": "436df20929a04916010da15f50034358bda6192806cf47c66dec1862a011033e"
+                "sha256": "cbd6d11a0c8154fcff0da4898d67f62f40445f6a48c316221cfb762d7cb0634f"
             }
         }
     },
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.26.2",
+                "version": "6.37.1",
                 "packageName": "com.dlg",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "9c0e8c0cefb5bd405cd1c0d5c0086c0bea474a9e609ec69fbb556e18e1e736ab"
+                "sha256": "19dbc2ba142ed8495efb467bac0009d15376334341a6e09a90f9315027b90475"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.97.1",
+                "version": "1.98.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
-                "safe": true,
-                "sha256": "3038f38f220505e2fb976c21b890d1a63e8cf2256074bc1e486bb6c6bf47a458"
+                "safe": false,
+                "sha256": "3a26e635da8006cb887ddde0c300a487ec39cc6a5ba06cc9a1eb6b9416c64aef"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "611fd7553c06ac75419f5a16e60243c52511f8fe27a51b9538005d27e2430e45"
+                "sha256": "ee55fdce84834e2bbaf204bb4fd3c470e77b48295d1f065d2e9165a031d49a04"
             }
         }
     },
