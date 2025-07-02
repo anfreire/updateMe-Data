@@ -997,11 +997,11 @@
         "providers": {
             "APKDONE": {
                 "source": "https://apkdone.com/soundcloud/",
-                "version": "2.2.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "2025.06.27",
+                "packageName": "com.soundcloud.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/soundcloud_apkdone.apk",
                 "safe": false,
-                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
+                "sha256": "56dd5058c2bb2546c5bd0233db497cf3ec6c63fb8bee013d7052691d932044c1"
             }
         }
     },
@@ -1016,11 +1016,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "9.0.15",
+                "version": "9.0.16",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
-                "safe": true,
-                "sha256": "dce00a17f5ccfb8753adb9a036dc817eca09bf7dc6053e060afe9055f70c0928"
+                "safe": false,
+                "sha256": "32f5807b87e8f1fb90e08af3f7ddede6e0b8099ceca9b60daa5f5d60bae789d0"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "27.7.11",
+                "version": "27.8.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
-                "safe": false,
-                "sha256": "2def8b4fa81ebcd5c3d5241cbd0602cf5b4e95dd1a10832873396a45729adf87"
+                "safe": true,
+                "sha256": "4e7a2c2948cf7a0c21f597ea4efb8fa8c61b5c6aefb36302433ab04d467aff86"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
