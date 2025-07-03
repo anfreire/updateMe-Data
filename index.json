@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.46.496",
-                "packageName": "spoti.plus",
+                "version": "9.0.60.128",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "59c56e90001c08b1a30f34566bc1ae1ca5de92ecc74248314eb06d174e63c166"
+                "safe": true,
+                "sha256": "cd2d8c2ed8bcdb0b79060b58116fd8e4135d6fe6313c17a021c2db5cdc4c84ad"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.25.0",
+                "version": "1.25.1-dev.1",
                 "packageName": "app.revanced.manager.flutter",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "c520583c316f1bc0add2b7495354f6f98fe365ad7abca03d34aabf63beb42257"
+                "sha256": "17e3fac3577b9fc3f036b77841692007505367e78fef53f9ba0e476613ba0e59"
             }
         }
     },
