@@ -255,19 +255,19 @@
         "providers": {
             "xManager": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.578",
+                "version": "9.0.58.596",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanager.apk",
                 "safe": true,
-                "sha256": "4e111ce9a5b0569ad2102b1ccb735789d7170ca6f5ed3bd4049f6a39c9f14152"
+                "sha256": "813d88f9d1256194b1b483d686ba02fb1983e11d51b81ddaf8f41edb5f845131"
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.578",
+                "version": "9.0.58.596",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoled.apk",
                 "safe": true,
-                "sha256": "6671350bae6b682410dcb9c15aa69f0decde0ee71cb7b5a6962db4ecd850167a"
+                "sha256": "b7abf5f81f4f9a1060d25e0be4b147f798a8bc3490823174b367d82755fd54d6"
             },
             "xManager (Lite)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -279,19 +279,19 @@
             },
             "xManager (Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.578",
+                "version": "9.0.58.596",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagercloned.apk",
                 "safe": true,
-                "sha256": "58665f1cdec18705e7e652042c96eb836c4901c52c46d148bbf703071c49461e"
+                "sha256": "e2d02fb55aceb7e75320518347a3b154edba3d48a3b88cfcd54c1a4fe2c5a0b9"
             },
             "xManager (Amoled Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.578",
+                "version": "9.0.58.596",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledcloned.apk",
                 "safe": true,
-                "sha256": "f21a40baac3c25087c96775a4e461df722a78a9a2e83a94ac1ce4f492fc67cbd"
+                "sha256": "659c3bf52efd903cdd132b4ff38729b8f2e51ec9ac1249a6d446a6fbce11511c"
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.7.11",
+                "version": "27.8.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "ce4fd300f1d90a36e49676af9527f3945001b64fb775e4db42e3c508f6342e16"
+                "sha256": "882771eb08f2b9b2df35d10ad873121fdf55e34b1417ad3bc1a6e60a63b9324f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
