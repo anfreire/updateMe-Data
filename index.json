@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "aa7effa45e26bdd9e2354955f4b4424e2b24e816861b24b0fa968095026d38f1"
+                "sha256": "9ddd2b8e6f9c9c2d18d9e6cbbb13e3b3241f27a69042306522f46c45f499ca53"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "4f3bea633210e4bb71831d132eedfc70b913ef8d476662ccfecb51f55e62c55b"
+                "sha256": "5b0e2b6cce771de9e694d58bfd56189e13e336977d6103e3fb396b776f94b8e5"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "973b5508b2d70d3d61a8a0e73bded967e43141be2f54ded805c526a5aae7e7f3"
+                "sha256": "fbd8ce4ffb88512957d21a08880702e04f73ab06194a1d06cb7f2cc5ab01b662"
             }
         }
     },
@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.90.0.2506120000",
+                "version": "6.91.0.2507010000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": false,
-                "sha256": "a55e8c8ce653108eaf7b978a2c01c98acc34c0f9c8965913b00cb73a768798be"
+                "sha256": "4625c78471dba23052325ecb9c89784da1649c576b721a74ba51d8d57277285b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.20",
+                "version": "4.11.27",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": true,
-                "sha256": "9edffb1363616909a0227d07b7730a11ae8011eace39a714b577713e5ed86685"
+                "sha256": "cb7e3fd40dc16c61ac87eb7f2792f3ca85311a6e60c5cdda497a0c26e846ac66"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.4.2",
+                "version": "10.4.3",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
-                "safe": false,
-                "sha256": "1f92a9dc475a1d1d3d4e8c3a96aec8a76b22916bc4e6c7c015fa3e1b6acc16ff"
+                "safe": true,
+                "sha256": "92d642b24689c552f2b997b48610fa0d92ea055edc538e49fc9d3d3712face41"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
