@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.134.1492",
+                "version": "2.141.1494",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "d2591c2b5fca69626f306720bc23169cfe4e47f02b063cb2bec4fb8fb06b04fd"
+                "sha256": "41d41fcc2979451476f0fb6fd60231ce8e958c632234eacc39d2c07b0105de02"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 034",
+                "version": "6.5 build 034 patch 1",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": false,
-                "sha256": "2315abe33a2f32bc8520ea515ec429c3108d5fe7f621de7d049e4087fe82ba9f"
+                "sha256": "b6f8ab71339847949ae5fd665042a127dac3d9a70a1190f1ada5a0be1e81b379"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1153,8 +1153,8 @@
                 "version": "10.2.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": true,
-                "sha256": "fb6a237814c38556344a04c75d912d2fef3d65101ffe325c1f8d1f38c88df017"
+                "safe": false,
+                "sha256": "ac0fa5a89fdfb78248ef240140a4f6754925bfdef1a26deab255fc91009f58fb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "ee55fdce84834e2bbaf204bb4fd3c470e77b48295d1f065d2e9165a031d49a04"
+                "sha256": "7e2cae2be03a385ddae5624bcbb8ad59a216d4de7271debff94fee765776d739"
             }
         }
     },
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.939",
+                "version": "4.9.943",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "466cb82a953911745a1f0a92bda479908aaec78ee7da97f27c33c43f940f2ddd"
+                "sha256": "5e10f035f3486a77599b709fdf4eacd7f0eaf87a9a2c97a5774bf07374d7d357"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
