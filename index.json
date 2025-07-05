@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "10.2.1",
+                "version": "10.2.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "3ffc10187188e73ca8f0ea5ed24284b81f8b8daac90aa304e7c7098fdc8e3b29"
+                "sha256": "2ce3203f38e362dc2d24ace998b569513358b7e6555a28578f640f83f66bd120"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "7e2cae2be03a385ddae5624bcbb8ad59a216d4de7271debff94fee765776d739"
+                "sha256": "7f61500544ea0ea709baac65f6f1c375ab7f087ad8d8351b85ec56ac7896ff43"
             }
         }
     },
