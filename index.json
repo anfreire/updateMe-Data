@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.60.128",
+                "version": "9.0.60.588",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "cd2d8c2ed8bcdb0b79060b58116fd8e4135d6fe6313c17a021c2db5cdc4c84ad"
+                "sha256": "ffaa722c7301da6ba03ccfb6a0e2527c60b87da5c8cd6ecbe47bc62d04891454"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "14.6.0",
+                "version": "14.7.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "73ec042e1529d7a50cafebdabfa08fbcb013078ab95382de06913154de491bf2"
+                "sha256": "99bf5d3d1190cada032257f5f193fd132eab83a6910ecccb7b84d47cf3214d5b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.2.1",
+                "version": "10.2.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": false,
-                "sha256": "ac0fa5a89fdfb78248ef240140a4f6754925bfdef1a26deab255fc91009f58fb"
+                "safe": true,
+                "sha256": "4f5cdd63ae2aae1efed388be1c224728bc52a6837e686703dc9b865bf2be56b5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.3.0",
+                "version": "7.6.4.3",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": false,
-                "sha256": "3aec05363b8e9ac1e0289d2df8391c782838d2278c7eff3fd5e7a0547cfa7ec2"
+                "sha256": "4e73ba4c5210e242faf09d8ff24b53c094979ab94fb9cf1b15c7de89b0bcbe1c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
