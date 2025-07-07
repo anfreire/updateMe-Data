@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.141.1494",
+                "version": "2.142.1495",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "41d41fcc2979451476f0fb6fd60231ce8e958c632234eacc39d2c07b0105de02"
+                "sha256": "837de7373d4a6a4c49ba872dbad9c809924497432edfdf17e6097e1dfc6b5e23"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1407,8 +1407,8 @@
                 "version": "4.11.27",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
-                "safe": true,
-                "sha256": "cb7e3fd40dc16c61ac87eb7f2792f3ca85311a6e60c5cdda497a0c26e846ac66"
+                "safe": false,
+                "sha256": "8f7e61f0bbfb571d6d0f50848f650ccc1ca16a1510e21b08d1ca953e6c5ebafc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.20.5",
+                "version": "15.20.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "671d6186b5430c1b162e27f8a1d496910558b9e91dafd16682c1f8eeddb2540f"
+                "sha256": "2159a6230f8b82c3d74e783d2054c4e56d496cb5af68d67ae888f652b1552f62"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.28.0-250619",
+                "version": "15.29.0-250630",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "f5b77ede23501792280eb84ff2bfd85719b610c7f9db6dd7973a0b84bbe688d9"
+                "sha256": "ad6c568dc7032d5a4f587a2322d14c3c99df0f8b41d8251fe7497b165cf87c26"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.93.0613",
+                "version": "1.03.95.0703.1",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "f7df1a776d2a7a8c803018c27b85787a0e8605154f2d2fa8c3adf7a2f3757004"
+                "sha256": "096e72e6febb89105ff73035dfb461c49c3b59306fbe4ca4994e9d9720d582d8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2271,11 +2271,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/secure-vpn.html",
-                "version": "4.3.8",
+                "version": "4.3.9",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_modyolo.apk",
                 "safe": true,
-                "sha256": "77ebe043e642a89111c91a0ea299187eb2e6e63ac4a5b2f900b744c44437dbaf"
+                "sha256": "9a48127f9b76637161b1d3c788d2b0db4c1b8f295d75c49badb07e7b15aaaabc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.943",
+                "version": "4.9.945",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": false,
-                "sha256": "5e10f035f3486a77599b709fdf4eacd7f0eaf87a9a2c97a5774bf07374d7d357"
+                "sha256": "40cb315add9cf8e3c4fd16e2d9733f70193c123a71bb79bd1d834c6c11a9ab20"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
