@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.28.0-250619",
+                "version": "15.29.0-250630",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": false,
-                "sha256": "6480cff431d1d012ac5923f7db476dbe0727a89c93ea69429c46954259a64e55"
+                "sha256": "28ed5a7905752b0567cec60a7e8e951f9c32ea5010e1c2dd4a238b176a704f0b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "4.9.943",
+                "version": "4.9.945",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "3cf120c70bd1f752e48a3cf0041f8045a069b0fdb22198f203ab5fa02f7b70e6"
+                "sha256": "bee7a84c492530787e0fec852dddedabf4fa611bb10a4b828754debe16f13b1c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
