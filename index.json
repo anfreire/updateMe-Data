@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.27",
+                "version": "4.11.29",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
-                "safe": false,
-                "sha256": "8f7e61f0bbfb571d6d0f50848f650ccc1ca16a1510e21b08d1ca953e6c5ebafc"
+                "safe": true,
+                "sha256": "04b281483eb57fa3594e8ee6d5627d3a339328d5581877d156849b3a2c526ec6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.21.5",
+                "version": "15.21.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "33529887e288e5bc2e1ce27b44e8a7717f7e416eae98263a166597951d5b8949"
+                "sha256": "a0453803e489766c95b2784acf5f09f059889c1b79a55270d5c6287a14a220e4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
