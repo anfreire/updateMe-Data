@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "cabe0d9711954db395eb79e289c8f4ad4b8cd9cb949196e1193409bd5a1c6feb"
+                "sha256": "29fa0e7bf5e902c3d5ad718bc2346c37ede08a51983debf92d67c338a26b7972"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "626107b5580794785a4c59a4afb6cc627026dab48ac14439e5c043a9f43a588b"
+                "sha256": "29ef7b2d25c9044269119edfb841769b06e9175274d449dc63d011f86589c5fa"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "69b5bacbb363bd736c364b5582e14a1523b58c5db653b7cc69b8de4e0867aece"
+                "sha256": "364370f2d4fca595108e24f19b141225cf76efb60a9b47a0cd7fe87588df54ef"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "8ecdc4cfa95faa56b04ae310ba9345675591bef73896cf86b5d0d185858c64d7"
+                "sha256": "8c550313366b746038d044104527cbbdc1947a9d599c6b2709eea24152f8a83d"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "80c9b52ee265f131223a50998910c1edb9036e03b51ca3222b4ff1542a4d2d6e"
+                "sha256": "b246277c3ec5825cb2525cca8f5f65e11a3e9d8dfaa0eadadf2eb4dd7f1ae6d9"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "528b058db37f85b52ba588a978275eacff48604c2a7d905ff0251a0b346f0e24"
+                "sha256": "e19e2d30eee9de2ba45fed71dde3510364638c6a443bada29f082f2e03e704b0"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.58.564",
-                "packageName": "spoti.plus",
+                "version": "9.0.60.614",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "bf159b5982a9a795fc14813f3b2d7d90edc91ca31226b81d2727fe4f2b791bce"
+                "safe": true,
+                "sha256": "bc3dfd7c4ad8e7a0ec21758ce6d09d7299d1a9b5fa249093800d579ea76d6f5d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.142.1495",
+                "version": "2.144.1499",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": false,
-                "sha256": "837de7373d4a6a4c49ba872dbad9c809924497432edfdf17e6097e1dfc6b5e23"
+                "safe": true,
+                "sha256": "c0e31f088dca00ab8488603fcec88fef2f71836fc3717c0bd524b5ae5123ea7e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.13.19",
+                "version": "1.14.1",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": false,
-                "sha256": "0458bf38118ab85f28f71e642eeeee9676e17c3a5e21732a23502cf502bf3b87"
+                "sha256": "edef2207feec92b434f98d095381897d0355e27c2381513f862077388e369f27"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.8.11",
+                "version": "27.8.13",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "e8c4014f92a8701ca529cb1971653a2e350778b3f9e07fd6dafd58977d0afe85"
+                "sha256": "93c002c3af0956b18ec74d98339991515a84db8958402240c7ce69b29cd78b6a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.37.1",
-                "packageName": "com.dlg",
+                "version": "6.38.5",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": false,
-                "sha256": "19dbc2ba142ed8495efb467bac0009d15376334341a6e09a90f9315027b90475"
+                "sha256": "fe1b660ca0df26aa2bf06109485c7429c6b040a165c53a7d503aeac041daaa5b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "413f72f368dad5c7298ba2d0104d2d7665926cb2a5b84a532bf241f8b8e08ecc"
+                "sha256": "85b62ebdbb032ea688202cf942c2cb8a0ad53468ffaf9d22fe02f4e6886c5e3b"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "513.1.0.46.107",
+                "version": "515.0.0.51.108",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "e593c12e22f98ef7a36590f0fe1caaa09c01a9a747b51b2e78d1571f0acb7879"
+                "sha256": "1a9265d7df35662c01e98eb82e12205898326b998e2be417b504fc9ec8278e47"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "80bf1fe8ceabc5fe9430bca923bd772d63a82bebde64923e026e96fafe4c1447"
+                "sha256": "4148ef46d80a19f0909e2dad26e097a289eb3e7bfe04297b8581d4c2024e783f"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
