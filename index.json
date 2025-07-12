@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.13.19",
+                "version": "1.14.1",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "9f9e803dc98221bc12d8ee199c07cdca8697803cbf25a992520cee674a6ff78e"
+                "sha256": "edef2207feec92b434f98d095381897d0355e27c2381513f862077388e369f27"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.50.1",
+                "version": "3.51.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
-                "safe": true,
-                "sha256": "9d5b037cfd670f23cd1550415a7be25946e64048a013b73065d31f1856244c00"
+                "safe": false,
+                "sha256": "c85504c132da256d0e3e33682646a4d4262d26058e6d436edbe1b6dda3297707"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
