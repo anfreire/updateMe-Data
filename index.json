@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "29ef7b2d25c9044269119edfb841769b06e9175274d449dc63d011f86589c5fa"
+                "sha256": "55979ffd76fefa8d70c2de15b744458b134b7f88b6681f395a9ef8a193f1593f"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "8c550313366b746038d044104527cbbdc1947a9d599c6b2709eea24152f8a83d"
+                "sha256": "52bafc731a85a16b7b514a81573afa56ed1b34660650c9e6f60a8377237fbf35"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
