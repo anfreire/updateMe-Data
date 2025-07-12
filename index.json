@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.62.877",
+                "version": "9.0.64.652",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
-                "safe": false,
-                "sha256": "5a819644422bf789944450ca04af050015fb31e033a5d64c9cd6c497275c994b"
+                "safe": true,
+                "sha256": "549cdc0c6ee4816faaa45edf4c90faaf147c7b3e53d3ac610d82f75446863b7f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.8.1.0",
+                "version": "5.9.0.0",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": true,
-                "sha256": "50af7cf9e6cc3061ae7d3d7b660c656dcd6cf64f5c3c44603f531389c070f26b"
+                "sha256": "3aa5048af019294cd96f6bbae4e791bbd057110b81a8d315fa63946eb615904b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
