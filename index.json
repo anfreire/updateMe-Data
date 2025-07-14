@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.60.614",
+                "version": "9.0.62.603",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "bc3dfd7c4ad8e7a0ec21758ce6d09d7299d1a9b5fa249093800d579ea76d6f5d"
+                "sha256": "b2ca644b79b89a088764fad0c50ea9d64d875cda1da2a4f8a68d2f0f06f40e11"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1302,11 +1302,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/showly.html",
-                "version": "3.51.0",
+                "version": "3.51.1",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_modyolo.apk",
                 "safe": false,
-                "sha256": "c85504c132da256d0e3e33682646a4d4262d26058e6d436edbe1b6dda3297707"
+                "sha256": "03a2fb9f1b96c50c821249300e39fd726b6b121ae63be7092a1ee6844974a8ac"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "15.29.0-250630",
+                "version": "16.0.0-250703",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "ad6c568dc7032d5a4f587a2322d14c3c99df0f8b41d8251fe7497b165cf87c26"
+                "sha256": "baebbcde4ef6b576e0a537d284ecd94fd7ca5778442a9fd30bd72a45c869bbe6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
