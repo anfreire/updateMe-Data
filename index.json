@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "29fa0e7bf5e902c3d5ad718bc2346c37ede08a51983debf92d67c338a26b7972"
+                "sha256": "86ab4cc261a074b3756017da0bd305d4290b885a27353dba635089e3b348f965"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "55979ffd76fefa8d70c2de15b744458b134b7f88b6681f395a9ef8a193f1593f"
+                "sha256": "d99c2ba5fa51bd275a699f6d6344507118f5bb35ba5da35510d918b06876b0aa"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "364370f2d4fca595108e24f19b141225cf76efb60a9b47a0cd7fe87588df54ef"
+                "sha256": "ce8856a6f6bbef260dc85d2b59b53480a2322cac7e081f73ed85c198d95f6d14"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "52bafc731a85a16b7b514a81573afa56ed1b34660650c9e6f60a8377237fbf35"
+                "sha256": "39fd7d0372e4276e168482b46cf0464d89f582f3ba9caf9c61822f691dac791f"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "b246277c3ec5825cb2525cca8f5f65e11a3e9d8dfaa0eadadf2eb4dd7f1ae6d9"
+                "sha256": "c761aae1f7655248fd5720a5889195e346232deaa752a1fb38a6569203d3b224"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "e19e2d30eee9de2ba45fed71dde3510364638c6a443bada29f082f2e03e704b0"
+                "sha256": "ae56f13f52c4fc131a88ae58936369abaedc635271e88c389b43ad18c048550e"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.62.603",
-                "packageName": "com.spotify.music",
+                "version": "9.0.58.564",
+                "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "b2ca644b79b89a088764fad0c50ea9d64d875cda1da2a4f8a68d2f0f06f40e11"
+                "safe": false,
+                "sha256": "bf159b5982a9a795fc14813f3b2d7d90edc91ca31226b81d2727fe4f2b791bce"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
