@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.37.1",
+                "version": "6.39.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "ec7a5d8f69b6230569367250baf423a4cfe6860cff7f59dd06e477c3aa682fba"
+                "sha256": "2329aaac6dd789acbedd55154b7c62cd6775b4c6fa613a5b03c7aa10558d5ec3"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "85b62ebdbb032ea688202cf942c2cb8a0ad53468ffaf9d22fe02f4e6886c5e3b"
+                "sha256": "451835cfbd4701f368062b4ece092f01ab9f80442fb41168a18855b5b63d2d0a"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "1a9265d7df35662c01e98eb82e12205898326b998e2be417b504fc9ec8278e47"
+                "sha256": "6f0df4f261fe63524fa29a2e951b27c0f4f74a0bea28aa5761608bc6fffc779e"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "4148ef46d80a19f0909e2dad26e097a289eb3e7bfe04297b8581d4c2024e783f"
+                "sha256": "6ea0fe46107d7641a78a95ddafdb9d4206089775fe71d623a98b4400690ced2b"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
