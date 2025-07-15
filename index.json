@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.91.0.2507010000",
+                "version": "6.91.5.2507110000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": false,
-                "sha256": "4625c78471dba23052325ecb9c89784da1649c576b721a74ba51d8d57277285b"
+                "sha256": "3d7d484683f300e54dffc0ced961379e1ffc4f6837d9e972644b1cbf46b6a9e4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.21.6",
+                "version": "15.22.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "a0453803e489766c95b2784acf5f09f059889c1b79a55270d5c6287a14a220e4"
+                "sha256": "b681b1ce2509203cd03464aedaad376cc6c45b11e81a803b082e71133e2a32f4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.6.3.0",
+                "version": "7.6.4.3",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": false,
-                "sha256": "c51f2ecf48b3c3436cc1b171e0e439ba85181e716b3704bab7344792727948de"
+                "sha256": "6ac2765b72d260d581630246488570faae69b943fcd42e7f41cc01f34ea6aacb"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
