@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.144.1499",
+                "version": "2.145.1500",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": true,
-                "sha256": "c0e31f088dca00ab8488603fcec88fef2f71836fc3717c0bd524b5ae5123ea7e"
+                "safe": false,
+                "sha256": "a7dac830959c1e9bf7d1fc3b49505f254feef571629dd69f9d460c57cf431322"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.175.0",
+                "version": "2.176.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
-                "safe": false,
-                "sha256": "2101e576236a104988abd150febd326ce0b276e66b6691f2b7b8533d359b711a"
+                "safe": true,
+                "sha256": "ccd9734cb3bccd773096cb1c6e2275009a1e008cb3cb682b86ed18dafcaed360"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.102.2",
+                "version": "1.104.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
-                "safe": false,
-                "sha256": "757ad65b450a9c6224936aa08e5eabe5ac217de007f4f3be3dee3b18fc540e99"
+                "safe": true,
+                "sha256": "ba7fd0afb017f3730af54cc566420d9b1657d75c3454cdc0b90c25707d676a24"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
