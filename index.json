@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.14.1",
+                "version": "1.14.3",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
                 "safe": false,
-                "sha256": "edef2207feec92b434f98d095381897d0355e27c2381513f862077388e369f27"
+                "sha256": "f92328bf2b13c7e44faeeb6722d6d62bd1019cdca7d6b8443e92c7c5e9f71919"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.103.0",
+                "version": "1.104.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "dd745750ee252d1fb718c7e2ad8b5ed8e40849d864bbeaacdca8e3cefc09d24a"
+                "sha256": "9c0100047d7bb3ae27053b14366915e893fd6d67cc941efd8accdd3bb48e4c7d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
