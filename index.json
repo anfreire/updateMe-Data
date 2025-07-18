@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.14.1",
+                "version": "1.14.3",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "edef2207feec92b434f98d095381897d0355e27c2381513f862077388e369f27"
+                "sha256": "42301228aa81e9adbcf177786f1d17a6c19b3ef098b389c380e8732f5eb79b2f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
