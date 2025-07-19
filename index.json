@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.44.00",
+                "version": "4.44.04",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": false,
-                "sha256": "789acbb9fb494758b81db898196c27001239a9ad562583075ca0983522b1e118"
+                "sha256": "caa27b2bcb25cd7c5171fd993d52a097115b0607de0cbc1e4c9d2663aa7ad6ce"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.4.3",
+                "version": "10.4.4",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": true,
-                "sha256": "92d642b24689c552f2b997b48610fa0d92ea055edc538e49fc9d3d3712face41"
+                "sha256": "6d62be48fd38682990785c8f92073757eb046e966f2585ac5eadf94ca3015fe5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
