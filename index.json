@@ -1578,11 +1578,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
-                "version": "4.44.03",
+                "version": "4.44.04",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_liteapks.apk",
                 "safe": false,
-                "sha256": "84aaedd959e2b0defdd23b7ca034dad8f316e708ad613c0fd069da60884c73cf"
+                "sha256": "caa27b2bcb25cd7c5171fd993d52a097115b0607de0cbc1e4c9d2663aa7ad6ce"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/x-plore-file-manager/",
@@ -2279,11 +2279,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/secure-vpn.html",
-                "version": "4.3.8",
+                "version": "4.3.9",
                 "packageName": "com.fast.free.unblock.secure.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/securevpn_liteapks.apk",
-                "safe": true,
-                "sha256": "fa888beacc0ee1860742e699e9ac9af963b8d5e6595ef73c2a79c28ad58fd4c8"
+                "safe": false,
+                "sha256": "87358c6645bf8e18ad1226594bb94b7097172bfe0f9f154272a774eeec0da63d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/secure-vpn-apk",
