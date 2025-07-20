@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.58.564",
-                "packageName": "spoti.plus",
+                "version": "9.0.64.586",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": false,
-                "sha256": "bf159b5982a9a795fc14813f3b2d7d90edc91ca31226b81d2727fe4f2b791bce"
+                "safe": true,
+                "sha256": "4133d8fa863db7d3137155305e1c87c781faa893966104eb9eaf007a9f4c2e67"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "14.7.0",
+                "version": "14.8.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "99bf5d3d1190cada032257f5f193fd132eab83a6910ecccb7b84d47cf3214d5b"
+                "sha256": "de70d80e90615c11a695b813bf1bc5c57d5eee0b6eba0ca7c7050de9550b959a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1150,19 +1150,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.2.3",
+                "version": "10.3.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": true,
-                "sha256": "d12b89f3af95957ce90e2d4bda0e36820fb21fb3335ea5b3b9d238632a307a1f"
+                "safe": false,
+                "sha256": "b0410b4920497ce9ab97dff228b3b03a2fabb279e93f828194ca81973bd8b2a7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "10.2.3",
+                "version": "10.3.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
-                "safe": true,
-                "sha256": "fe113a94bfa084b6cba9b28b6c91a0c801c41edd5774befe3950b8ea46950b60"
+                "safe": false,
+                "sha256": "51b2e40ac7ac62a55ac9ba2ddb8138947fe27e42e605511a0f05f83b17e7a16b"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.18.4",
+                "version": "18.19",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
-                "safe": false,
-                "sha256": "f1e32a79e20b107d37f727325b401235d37468e9bdbdd7e05f9ab8523464559f"
+                "safe": true,
+                "sha256": "99b90c3bed20a7fdd686fc4bef3973a5c6324381863903b1e66b141481fb221e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
