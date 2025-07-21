@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "63b5e6c28d7ccfbb2fe9b72f1cf5e48766d516d25b986da62f804a5b8be02c27"
+                "sha256": "b8a9f7d5886f35470201ae9416139a1ee48b79696933b4f6b12204952ae86be2"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "4860c85431dcbd08f730829306a81797091b1ef090da018b23e27d57633cde1a"
+                "sha256": "8ec20c020149a08e88e0f9bce8ae9c885d94ecb468956dc4184494accb297276"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "1a2d8e46b213bdf1668a2275d785d291a0171e00b1684b870c0c890c0524565b"
+                "sha256": "a67c536b9c6268935052054553c7be153fabd31814ea66e73a89b11099149553"
             }
         }
     },
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.95.0703.1",
+                "version": "1.03.96.0718",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "096e72e6febb89105ff73035dfb461c49c3b59306fbe4ca4994e9d9720d582d8"
+                "sha256": "a68e788fb936e932cfb979cb7cf8290822d4505af2c5da3b676039826634978c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "68bef412823e4522a6cd0d3b7758fa8ddb9625f1da181a7709bae0f96ffe226f"
+                "sha256": "3882d0ff7c88aae015810a1e959ed20be386717fa6acd0ad6377703ee4c2751a"
             }
         }
     },
