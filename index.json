@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.91.5.2507110000",
+                "version": "6.92.0.2507150000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": false,
-                "sha256": "3d7d484683f300e54dffc0ced961379e1ffc4f6837d9e972644b1cbf46b6a9e4"
+                "sha256": "c96275e142018fc2e6650f5b57e55fb110512b4d2df21976f3dfc75f91bf8d09"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.22.5",
+                "version": "15.23.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "b681b1ce2509203cd03464aedaad376cc6c45b11e81a803b082e71133e2a32f4"
+                "sha256": "910ea1fcfc0c35f5af780b2f21bc4ff4f6e0dc82b9bcbbe25d4415666a4c5d61"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
