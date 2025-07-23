@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.38.5",
+                "version": "6.40.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": false,
-                "sha256": "fe1b660ca0df26aa2bf06109485c7429c6b040a165c53a7d503aeac041daaa5b"
+                "safe": true,
+                "sha256": "b94caa7f223e1433dec36247ea354371f3bf8ce287565d94304b0122830f84a1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
