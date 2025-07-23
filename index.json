@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "b8a9f7d5886f35470201ae9416139a1ee48b79696933b4f6b12204952ae86be2"
+                "sha256": "5abaae9523314311f21bed98e49f45b0cd0ec326ef92d22b29a86c70f76321fd"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "8ec20c020149a08e88e0f9bce8ae9c885d94ecb468956dc4184494accb297276"
+                "sha256": "0fd4c06c9fd154021bc9fcec62e646343a93d85b2688d4f232d10c2676e8148f"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "a67c536b9c6268935052054553c7be153fabd31814ea66e73a89b11099149553"
+                "sha256": "3767a3a761d683fb4af3d74bfbcf77b63b4c0432c396bac8b19d28deaab460b0"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.8.14",
+                "version": "27.9.9",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "43bab10a53fa7cc45db76116e5f8fc69cad65adec7b643b2a37352aa29137eb4"
+                "sha256": "955057e528ab81c639e691e63064693e1b5f63f25aa4daa6cb5fb45a1b08081c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "3882d0ff7c88aae015810a1e959ed20be386717fa6acd0ad6377703ee4c2751a"
+                "sha256": "239331ec1f75bb077bc077d22a1f4fec311424a558712c790cd18130ba1a2dd8"
             }
         }
     },
