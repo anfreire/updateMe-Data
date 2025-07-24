@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.4.3",
+                "version": "7.6.5.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": false,
-                "sha256": "4e73ba4c5210e242faf09d8ff24b53c094979ab94fb9cf1b15c7de89b0bcbe1c"
+                "sha256": "7c6ee14782fb27682e6937f6608763f8382b2d4b75e6222e01dc4b6a9614d522"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
