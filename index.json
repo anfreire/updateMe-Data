@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.40.3",
+                "version": "6.41.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "b94caa7f223e1433dec36247ea354371f3bf8ce287565d94304b0122830f84a1"
+                "sha256": "8b9391eb4a2b9e088218e3eed4a437bccd53b1913a62255d4ef1330c7ed2ec4d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.5.0",
+                "version": "7.6.6.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": false,
-                "sha256": "7c6ee14782fb27682e6937f6608763f8382b2d4b75e6222e01dc4b6a9614d522"
+                "sha256": "bce48a8de34236fbbb4cddd0a0e51bcc1846477809cd5a24f734ae671beeb011"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
