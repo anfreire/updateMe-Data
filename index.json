@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "de44f4c6cfe4bd46446cd68406f307a477651f707db10215074c885cfc61e993"
+                "sha256": "29d9cbb2019bf9625c2bea97bd5ef2a0ec55c1daf7747ac76b31528ed27cd1a2"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -85,11 +85,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.05.51",
+                "version": "8.29.56",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "ce8856a6f6bbef260dc85d2b59b53480a2322cac7e081f73ed85c198d95f6d14"
+                "sha256": "eb0fed47cb02d9d49d9358d337a77a9fef86d2c80af1916cdec9fb5a201ebd24"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "c761aae1f7655248fd5720a5889195e346232deaa752a1fb38a6569203d3b224"
+                "sha256": "1db02146e385c58b91a246e1f1fa28ccc8a743a717d7a7bbfe96ff814bf11ece"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "c9311bb9f2884103ae6e38609226f3e713b77f3f264adc94208cbd8ac1d17e38"
+                "sha256": "32629ac776e38c98fd82ba85f0433533c31f8303c39dbef0271acf6e3b89927f"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "16.0.0-250703",
+                "version": "16.2.0-250717",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "baebbcde4ef6b576e0a537d284ecd94fd7ca5778442a9fd30bd72a45c869bbe6"
+                "sha256": "cf34d6cb21df087b593f690a1d8829fe85ad096dc886fc9090f38fc6fa73e0a7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.96.0718",
+                "version": "1.03.97.0725",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "a68e788fb936e932cfb979cb7cf8290822d4505af2c5da3b676039826634978c"
+                "sha256": "b0034da00680fd351e5015fdbdf0fec8615cafa28b5af15d3077bc1c4ee3d427"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.9.0.0",
+                "version": "5.9.5.4",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": true,
-                "sha256": "3aa5048af019294cd96f6bbae4e791bbd057110b81a8d315fa63946eb615904b"
+                "safe": false,
+                "sha256": "b7240c08ca5af8909ebbc0e98796988aa68d33f0f09d6f1f36358b0a948217a8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "4.9.945",
+                "version": "5.0.028",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
-                "safe": false,
-                "sha256": "40cb315add9cf8e3c4fd16e2d9733f70193c123a71bb79bd1d834c6c11a9ab20"
+                "safe": true,
+                "sha256": "1473b9b0b4a3bb52d50f75f4db8ae0318a450dbc9169506861b5ee40d767ef4b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
@@ -2428,11 +2428,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photomath-microblink.html",
-                "version": "8.49.0",
+                "version": "8.44.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modyolo.apk",
-                "safe": false,
-                "sha256": "ed1a932758f4442fcd0c7f466e5c98e7669f9dda04fedbbce838fd90fb4d9ba8"
+                "safe": true,
+                "sha256": "d379a6f203cc8703adfb87da4894562cdf7000befe0258dbacc7999a0d7ea3d4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photomath.html",
