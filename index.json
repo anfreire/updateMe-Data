@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "d99c2ba5fa51bd275a699f6d6344507118f5bb35ba5da35510d918b06876b0aa"
+                "sha256": "97ecc0657833d213635ff2d9b543e454b26dd024507af463482d96c0f78d9142"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -750,11 +750,11 @@
         "providers": {
             "deniscerr": {
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.8.4.2-beta",
+                "version": "1.8.5",
                 "packageName": "com.deniscerri.ytdl",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "286c9a7756b16e7b4950aa86aec1200a1d83b1b5c9eed8afca2f17a4d8feb295"
+                "sha256": "b894e35115838e3e711f1eb19c0e38747ca4dba3bb7481b7721dc73bd0faade0"
             }
         }
     },
