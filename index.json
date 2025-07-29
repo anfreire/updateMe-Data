@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.66.634",
-                "packageName": "com.spotify.music",
+                "version": "9.0.58.564",
+                "packageName": "spoti.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "eaf9e9c628563be853b4a4dfd06b03631f8415ac83da7d563caac8d362948cb1"
+                "safe": false,
+                "sha256": "bf159b5982a9a795fc14813f3b2d7d90edc91ca31226b81d2727fe4f2b791bce"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "27.9.9",
+                "version": "28.0.6",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "955057e528ab81c639e691e63064693e1b5f63f25aa4daa6cb5fb45a1b08081c"
+                "sha256": "2f9818fc961cb69a719801e74af11fcd5cc23a3103d13fe222aa421fdaf9c9b5"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
