@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.176.0",
+                "version": "2.177.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": true,
-                "sha256": "ccd9734cb3bccd773096cb1c6e2275009a1e008cb3cb682b86ed18dafcaed360"
+                "sha256": "1b3cc958ce84f3cdfe77e8e25e88e22645f1c4e43497eba4f5f0e558c65d9280"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
