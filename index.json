@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "14.8.0",
+                "version": "14.9.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "de70d80e90615c11a695b813bf1bc5c57d5eee0b6eba0ca7c7050de9550b959a"
+                "sha256": "a098818c646a8647858880f67f86a91d067da92052465012649809f97f45cb80"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.98.1",
+                "version": "1.99.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": false,
-                "sha256": "3a26e635da8006cb887ddde0c300a487ec39cc6a5ba06cc9a1eb6b9416c64aef"
+                "sha256": "1ea17d201f40d907d173f9427925d91a4699910fb0d23a36c9a080f6e9ef16fc"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
