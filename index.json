@@ -599,11 +599,11 @@
         "providers": {
             "TeamNewPipe": {
                 "source": "https://github.com/TeamNewPipe/NewPipe",
-                "version": "0.27.7",
+                "version": "0.28.0",
                 "packageName": "org.schabi.newpipe",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/newpipe_teamnewpipe.apk",
                 "safe": true,
-                "sha256": "d59111e2de0732fe6635ac2ecb42c57827ee56897222d2c19afe38a5b2a5eb60"
+                "sha256": "06ea3bab0f56c2cac0a7c471d43e6d0107104c319abb589c894c6b0d47d60ef7"
             }
         }
     },
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.6.26.34820.GP",
+                "version": "7.7.5.35254.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "f4e675de4aa145dc1ab6fbbb2efb9bd8be7dc2f91798c070b579dd2cb29f3bb4"
+                "sha256": "103a44bc0ee59afe2b53b029c5b0f29dfea1ee314e7fe2a7bba1c99a33afdda4"
             }
         }
     },
