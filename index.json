@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "10.2.3",
-                "packageName": "com.xodo.pdf.reader",
+                "version": "2.2.0",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
                 "safe": false,
-                "sha256": "77e9a084ad319c5e34042636ef2c5ae3bce3c17f42111f6b9307db25db4d665e"
+                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
             }
         }
     },
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "28.0.6",
+                "version": "28.0.8",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "2f9818fc961cb69a719801e74af11fcd5cc23a3103d13fe222aa421fdaf9c9b5"
+                "sha256": "88248da82fe473f996ec62fd9e00726e10354185fea2606ae84f4791c178f597"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
