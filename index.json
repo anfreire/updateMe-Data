@@ -648,11 +648,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.14.4",
+                "version": "1.14.5",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
-                "safe": false,
-                "sha256": "5ffe05cc375decaecb1efc576574fd367395cbdb42a9a0b61c8bc551b7f740f7"
+                "safe": true,
+                "sha256": "7e7656cd6eb0bb24fd70848988f2fbbba0ade2ddce5b3030559de55d047f7aa0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -2326,11 +2326,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
-                "version": "7.7.5.35254.GP",
+                "version": "7.7.6.35288.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_liteapks.apk",
                 "safe": true,
-                "sha256": "103a44bc0ee59afe2b53b029c5b0f29dfea1ee314e7fe2a7bba1c99a33afdda4"
+                "sha256": "3516933be5f7bc4a57b6b536fcd123a9b7215005ecf7dcc4c8c906c184a45042"
             }
         }
     },
