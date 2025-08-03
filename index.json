@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.3.0",
+                "version": "10.4.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": false,
-                "sha256": "b0410b4920497ce9ab97dff228b3b03a2fabb279e93f828194ca81973bd8b2a7"
+                "safe": true,
+                "sha256": "3f803bad2da616628dc511bc9c45231c938108bb236f0e47ddd2a61389f3a65a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.23.7",
+                "version": "15.24.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "5ae0f2a3cab5d3615de104897ace0254d78689e6a2b71855ee1ac97156b1f28d"
+                "sha256": "70629defb384ca68e68ce0a052a7fa3c560cf622fb511ede3b134167659b7666"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
