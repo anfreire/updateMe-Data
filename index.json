@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "890432800ff4db5e5a047f93e6dafbe2ce823c04297d94c4bca52811a4b3ea33"
+                "sha256": "137f8bd3d5dffab3cadf601d083ef5845b77bb9908027bf87a9445311cd09e07"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "516.0.0.57.110",
+                "version": "518.0.0.53.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "3be13c0567dbedfb70da8d91fad24223010bcce3f6ca3d0841bd5dc2a6cdca2c"
+                "sha256": "ba1c2544ec663d01a696ad311458888f235ba4403f3150bcc8f5e00890c76fc8"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "e535dd31bdb983697d3e2a0094dd25072ff31b8015f43d9cc285914145bd04fc"
+                "sha256": "3b8c3fb5fb81b1e61381e9c9bbd728b6c1b509acb0801d34a75177ddc7c17c16"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
