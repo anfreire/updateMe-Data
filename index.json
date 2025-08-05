@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.24.8",
+                "version": "15.25.5",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "70629defb384ca68e68ce0a052a7fa3c560cf622fb511ede3b134167659b7666"
+                "sha256": "84e3f229ad1b0e1d0b2c06f04640408caa31860eb6a47297b00611f9b815a711"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "16.2.0-250717",
+                "version": "16.3.0-250724",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "cf34d6cb21df087b593f690a1d8829fe85ad096dc886fc9090f38fc6fa73e0a7"
+                "sha256": "ec7c78a70b47fb308ca8ff6fd1fc7b961dc9ccbf24cd02ef6236964373b547e8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.37.1",
-                "packageName": "com.dlg",
+                "version": "6.41.4",
+                "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": false,
-                "sha256": "19dbc2ba142ed8495efb467bac0009d15376334341a6e09a90f9315027b90475"
+                "safe": true,
+                "sha256": "0e3809c93f1849d9b36d50cbb6ac0adcb136f0b3431851df962f465104bb5ef5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
