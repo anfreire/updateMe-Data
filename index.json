@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "6.92.0.2507150000",
+                "version": "6.93.5.2507300000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": false,
-                "sha256": "c96275e142018fc2e6650f5b57e55fb110512b4d2df21976f3dfc75f91bf8d09"
+                "sha256": "07a757c063342e71674f66c7b6b2a59937827e6cdc023a1a60e5fb225da00484"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "20.6.2",
+                "version": "21.1.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
                 "safe": true,
-                "sha256": "65af3ee5272be635ea150335ca1bbfa1490fc0fcc1a24e078bae07b7efa04cfc"
+                "sha256": "c755ed557e15464632c7a0ad7c86ee12b889477068c590a33795e7e0f5c0a1a7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
