@@ -1153,8 +1153,8 @@
                 "version": "10.4.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": true,
-                "sha256": "3f803bad2da616628dc511bc9c45231c938108bb236f0e47ddd2a61389f3a65a"
+                "safe": false,
+                "sha256": "bcf30282bdfb10e1e381286e0652b858510ad636ceafb5ac8610443733232da8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "28.0.8",
+                "version": "28.0.10",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "74697210fdf98cc4dfa1473a3e0d04f0bc1c1d375f3eb2852f3222408b73f2f2"
+                "sha256": "de63d34be51bd53c1fd6356eff86a259ec3910a3f00bac3ad7f3c65a0e7aeebd"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.25.5",
+                "version": "15.25.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "84e3f229ad1b0e1d0b2c06f04640408caa31860eb6a47297b00611f9b815a711"
+                "sha256": "f6ad4d6e76c413917b94965b07713df858a995b18161637a9d957f32d2b45de8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -2227,11 +2227,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/",
-                "version": "11.8.0-release.0",
+                "version": "11.11.0-release.0",
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "239331ec1f75bb077bc077d22a1f4fec311424a558712c790cd18130ba1a2dd8"
+                "sha256": "1f6132aedd416918b1df1240d19a92e63a291af30bcaed7b878e812463d8db8f"
             }
         }
     },
@@ -2360,11 +2360,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
-                "version": "2.2.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "5.0.028",
+                "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_apkdone.apk",
                 "safe": false,
-                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
+                "sha256": "acc65f8bb18f0515511a84e972994ec1b2f037c2e985c63bff27368f86a31122"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/xy-vpn.html",
