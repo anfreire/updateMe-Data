@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "28.0.8",
+                "version": "28.1.2",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "88248da82fe473f996ec62fd9e00726e10354185fea2606ae84f4791c178f597"
+                "sha256": "c74d64e56ed9c601de0377f2232dcc66095dd366a233769ac84693f349b5e531"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
