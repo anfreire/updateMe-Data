@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.58.564",
-                "packageName": "spoti.plus",
+                "version": "9.0.70.254",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": false,
-                "sha256": "bf159b5982a9a795fc14813f3b2d7d90edc91ca31226b81d2727fe4f2b791bce"
+                "sha256": "0883c56ed95d9b508371436f9c9f494320f1b16ce0e8162257d2e307a35dba80"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.41.4",
+                "version": "6.43.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
                 "safe": true,
-                "sha256": "0e3809c93f1849d9b36d50cbb6ac0adcb136f0b3431851df962f465104bb5ef5"
+                "sha256": "85ae6fcad3077256c2bebf515e811c1daac7993e98cf941e3e235518fd11a81f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.6.0",
+                "version": "7.6.7.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
-                "safe": false,
-                "sha256": "bce48a8de34236fbbb4cddd0a0e51bcc1846477809cd5a24f734ae671beeb011"
+                "safe": true,
+                "sha256": "e6797a6c09a56033fd6d88b6c86c017a3273e1ce15245576b910226ead7fef20"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
