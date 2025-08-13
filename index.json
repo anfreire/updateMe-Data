@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "6.90.0.2506120000",
+                "version": "6.93.5.2507310000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "d333f1f9ee2fb3e4f653fbd014b441dd70817727e285611849cb3cbb279d2303"
+                "sha256": "375230145cbfc28298ea3189e21ef6ce626719207efa4a9fe36f5af571ec9853"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "28.0.10",
+                "version": "28.1.5",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "de63d34be51bd53c1fd6356eff86a259ec3910a3f00bac3ad7f3c65a0e7aeebd"
+                "sha256": "38281b93cc6360ef6fdbf042b7ad5beb2fd2697951f197e1a9cda509c4f0e2bd"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
