@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.50.1",
+                "version": "3.51.1",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
-                "safe": true,
-                "sha256": "aef327053c3c8e77389695477c51ae8b470d868101c6ccec8dc8414135b37c4c"
+                "safe": false,
+                "sha256": "03a2fb9f1b96c50c821249300e39fd726b6b121ae63be7092a1ee6844974a8ac"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "20.6.2",
+                "version": "21.1.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
                 "safe": true,
-                "sha256": "2ff7bcf9bada8b5897a8b402d472b4b8df7f803f5228bca6be61e578c05f4cd9"
+                "sha256": "e093388424f7654c2f0b3da9d456e7d61c42cfeba7d64f8f4bf0388b6387c0dd"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
