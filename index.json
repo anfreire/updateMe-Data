@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "15.29.0-250630",
+                "version": "16.3.0-250724",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": false,
-                "sha256": "28ed5a7905752b0567cec60a7e8e951f9c32ea5010e1c2dd4a238b176a704f0b"
+                "sha256": "39c1ab699b3bbfaf275b917c6027d823da9a20da6d41d5dcbac11f5efe093a39"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.8.1.0",
+                "version": "5.9.90.901",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": true,
-                "sha256": "29659a459a695f3284408d0be1cf0771895f0f17a01e1d856eb9cac28695bec2"
+                "sha256": "be840b9039e22c59eb6cdc6bfe62b9607cd80d79ba8668eab65dbe3775ef5be5"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
