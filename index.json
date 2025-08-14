@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "c20b6551b2f55578a9893b1f64fe0142048ee6661d60fffaa38e0e458ab0de5b"
+                "sha256": "267e3b91c5d80a87121e62bdfb9b3cc5c970b2bb90b77a57a2f93e5db5b3578e"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.30.52",
+                "version": "8.25.54",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "50b0d001ba63102a07f8adbf9581900ab954c43b7d95a50807ac4aa24e3001df"
+                "sha256": "7b8b3feed7793e2db2dd521922681313137ef1cdddcc6329a22002c41c639e0b"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "16.3.0-250724",
+                "version": "16.5.0-250807",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": false,
-                "sha256": "39c1ab699b3bbfaf275b917c6027d823da9a20da6d41d5dcbac11f5efe093a39"
+                "sha256": "6af15a8eb27f2e0187373d5446df4b811ec8c18eb255988875ed8648f3f7dfbf"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.9.90.901",
+                "version": "5.10.0.1",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": true,
-                "sha256": "be840b9039e22c59eb6cdc6bfe62b9607cd80d79ba8668eab65dbe3775ef5be5"
+                "sha256": "c6ce265684ef9d5da965d7ac3bb7a9c100fb5b2a83ce996617e69e94b55bfebf"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
