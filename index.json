@@ -877,11 +877,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "11.4",
+                "version": "11.6",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
-                "safe": false,
-                "sha256": "e0ebce3fe0aee5b47252f6d16fc85707629367be80f5fd38cd1b5a6906083f1c"
+                "safe": true,
+                "sha256": "85254a353b7d737f5a964cb7f386b5bf8adb1430cf4abde419db7c7c0caa3842"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.39.3",
+                "version": "6.42.6",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "989fdb2a93e205f34fd215ffbe9895a7886290919f44b86fca64d502f8e70351"
+                "sha256": "33f5328463501b2f7982a18d8daa2009213995b4feab02e1a6ec9449dc87e35f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
