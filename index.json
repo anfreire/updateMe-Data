@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.25.6",
+                "version": "15.25.8",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "f6ad4d6e76c413917b94965b07713df858a995b18161637a9d957f32d2b45de8"
+                "sha256": "462bdfa69e476b6a1cd97f3f5b9186c9f3b324482d26fbd52903f6df67283328"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -1908,7 +1908,7 @@
                 "packageName": "idm.internet.download.manager.plus",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/onedm_modyolo.apk",
                 "safe": false,
-                "sha256": "5076e6966419256327a38f6a222ee866d395eda861df9a305a2bf867a6d14a12"
+                "sha256": "6d334697c976990e2ad208774a5768c5914a92d37bd7354f497c79ea14b37b47"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/1dm-browser-downloader.html",
