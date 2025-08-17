@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.4.0",
+                "version": "10.5.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": false,
-                "sha256": "bcf30282bdfb10e1e381286e0652b858510ad636ceafb5ac8610443733232da8"
+                "safe": true,
+                "sha256": "a018444d7f5b7c807b8229b2be03cd87764f7b94a3f24671158881fe15306013"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
