@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.72.523",
+                "version": "9.0.74.823",
                 "packageName": "it.vfsfitvnm.Spotify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": false,
-                "sha256": "73db1ea9bfb73c6d82ca80feb651903eb1bd3daf9ab4788af444e081da64174f"
+                "sha256": "b0a871d682e4de2ff82243717dedbf4980f2a04a20e637925c48debb03dcea20"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -2318,11 +2318,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/kinemaster-pro.html",
-                "version": "7.7.4.35250.GP",
+                "version": "7.8.2.35358.GP",
                 "packageName": "com.nexstreaming.app.kinemasterfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/kinemaster_modyolo.apk",
-                "safe": true,
-                "sha256": "7c13e4cf6754427c8f21adb38a5808855e78f7665cf3ca905929d2b113d42ae1"
+                "safe": false,
+                "sha256": "cf2257c8ff041f36389438679d7e2b525d5531ef930f1b2bea9429f4c4ff7574"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/kinemaster-app.html",
