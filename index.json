@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.43.4",
+                "version": "6.44.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "1ad005046fd599a76b0e7564b7c414c2fedb214e6ecc64d565d1014358a1a60d"
+                "sha256": "ecbae2b64e1123112552ad859a4aa5d8bfef069cca81522df7e497683fc03b9e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.97.0725",
+                "version": "1.03.98.0818",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "b0034da00680fd351e5015fdbdf0fec8615cafa28b5af15d3077bc1c4ee3d427"
+                "sha256": "49709e436b0fcd25a7c9a6dd48001bf1eada909ced9d0cb5ac21398195b7b55c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.079",
+                "version": "5.0.113",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
-                "safe": false,
-                "sha256": "21ccfa01d725bd6bda68d104a0f27a9c0320ad847a8f9c2ba49556fb1e9cf0df"
+                "safe": true,
+                "sha256": "b394eadf8389248c6b70c7d9a224650c8a133e4a41a5c34fa4e003f798f9f9fb"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
