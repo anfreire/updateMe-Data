@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.72.949",
+                "version": "9.0.72.967",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "605c01e1a315eaf9739d6f6263163ee8cb612956c7f38d242e75d773420ef58a"
+                "sha256": "92c1286db936f6c253a9121f89b1c77450d5bf92377bb0e0302569fa7af4793f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.26.7",
+                "version": "15.27.7",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
                 "safe": false,
-                "sha256": "8b54d40da3b9d4ede1e62f6bf3a09ddea81e4abad3b1035775e96613cecb5677"
+                "sha256": "1e0cb9daa1a412fe7aacf5d5df285d1011e50cb29a1fc18d8cd0555451c49cfa"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.145",
+                "version": "5.0.282",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "2eed9c5224b5c3da0155d6075a80b948f538111e88e40c74c8322d758f75abe7"
+                "sha256": "342a2d53ae86bf2e14c00cfaf9035f31c93a00cc4116545e959ce8a99c6d9eb9"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
