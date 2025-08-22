@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "1d0d976134e3067a60a8f6cfb9ecfc838946f38cf3036cd3bee63f8f6e344c67"
+                "sha256": "b2241083f862671fb677f26e15c7e91c4ceaf5e43870ff20fbf59ba9a0b3d883"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "206c306de333ab593bfa86af68d13e59683d5e46518e639deb7aa0bc83d0842e"
+                "sha256": "cdc9a9026cbf10676de32006b63e79822f03874b8a39c29e62eaa5d2f2387916"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "59b68f8210a2638930f3e7c28238d879b40bd91805db88a56c32352510c434ee"
+                "sha256": "a4a3b5a09cd23316926e3f882857b262992c41cd16f0547fbb1a30f57ab3e844"
             }
         }
     },
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.10.0.1",
+                "version": "5.10.0.2",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": true,
-                "sha256": "c6ce265684ef9d5da965d7ac3bb7a9c100fb5b2a83ce996617e69e94b55bfebf"
+                "sha256": "45c54d254a5189adff266601741e0c9004934536de1990a897d9968da2283dae"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
