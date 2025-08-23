@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.5.0",
+                "version": "10.5.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": true,
-                "sha256": "a018444d7f5b7c807b8229b2be03cd87764f7b94a3f24671158881fe15306013"
+                "safe": false,
+                "sha256": "32971428296f7a11eb7f57556e691c8af6207ba8f5359cc342c8f5f133da7149"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "10.5.0",
-                "packageName": "com.xodo.pdf.reader",
+                "version": "2.2.0",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": true,
-                "sha256": "f48a4f67a58eb148420ef9299bbcbe8c72b99203b3f9352c62904f4bcc0fa42b"
+                "safe": false,
+                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
             }
         }
     },
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "16.5.0-250807",
+                "version": "16.6.0-250814",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "c395b7b78cbd50bf925eb15b3c793b6f23ac897a75e2460d7a54dbc38e68b2cf"
+                "sha256": "867469f3ee7ae7e4e6ec0869b048fe39b8b59c315e079c46e10af797f371eb93"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.282",
+                "version": "5.0.478",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "342a2d53ae86bf2e14c00cfaf9035f31c93a00cc4116545e959ce8a99c6d9eb9"
+                "sha256": "8bb43f46a7eca696b0d7d1000f1856f8650cfdd57bab343ce628213e72e3abe8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
