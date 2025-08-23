@@ -1981,11 +1981,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/nzb360.html",
-                "version": "21.1.1",
+                "version": "22.0.1",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_modyolo.apk",
-                "safe": true,
-                "sha256": "c755ed557e15464632c7a0ad7c86ee12b889477068c590a33795e7e0f5c0a1a7"
+                "safe": false,
+                "sha256": "62bf4887b836a5fca5ce9cced77cbd42a86e1894dbe1acb99774f2ce5516d786"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.9.5.4",
+                "version": "5.10.0.2",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
-                "safe": false,
-                "sha256": "b7240c08ca5af8909ebbc0e98796988aa68d33f0f09d6f1f36358b0a948217a8"
+                "safe": true,
+                "sha256": "a556a8ba7175496ee573fa85fa98e56a4ca4d403c713b4ddcdc78c4fc76f7291"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
