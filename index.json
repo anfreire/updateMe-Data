@@ -1700,7 +1700,7 @@
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": false,
-                "sha256": "b11bd6b6d987e5b3fa8b3b7d8bdbf5f72943c40d822cce78d55c026f265dc51b"
+                "sha256": "f53f446c490b26b438d8f6f898740437deca516a16fc3ed928b12fbffb1404a0"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
