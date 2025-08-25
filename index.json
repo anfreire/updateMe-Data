@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.72.967",
+                "version": "9.0.75.998",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
-                "safe": true,
-                "sha256": "92c1286db936f6c253a9121f89b1c77450d5bf92377bb0e0302569fa7af4793f"
+                "safe": false,
+                "sha256": "2e2d20830e4f16d62d35c01bfca667ed68d2d32b6318adaefe08368a785c1b55"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.145.1500",
+                "version": "2.152.1504",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": false,
-                "sha256": "a7dac830959c1e9bf7d1fc3b49505f254feef571629dd69f9d460c57cf431322"
+                "safe": true,
+                "sha256": "49d2519e7c5f0c9400303370322480806efd8790fee65b23f199f17b1e897b89"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1016,11 +1016,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "9.0.17",
+                "version": "9.1.2",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": false,
-                "sha256": "60450949265e1fdb2ef6eeb670b90e904d89acdbed1ca8576be03bc67c169017"
+                "sha256": "52d844bf3058133de009ebc95d4bbf215eaae24042ccc158f4ac6394b4ccfcc6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.4.4",
+                "version": "10.5.1",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
-                "safe": true,
-                "sha256": "6d62be48fd38682990785c8f92073757eb046e966f2585ac5eadf94ca3015fe5"
+                "safe": false,
+                "sha256": "f098950f4bbca91e6a9b437f22f8604b186f42f7a6bc9407ce03f318dd51146e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
@@ -2091,11 +2091,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
-                "version": "4.4.3.1",
+                "version": "4.4.3.2",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modyolo.apk",
-                "safe": true,
-                "sha256": "a2f0025a2b90d741775f778ec3a000cbfa624a9c5bad5a7300c9c739a1dcf41d"
+                "safe": false,
+                "sha256": "949871c571ae8bd204cc34bf93d2c953e15ee375135ddcf58b9777ff01720c87"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.478",
+                "version": "5.0.492",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "8bb43f46a7eca696b0d7d1000f1856f8650cfdd57bab343ce628213e72e3abe8"
+                "sha256": "b5036cdbe45f59b80f453f3e0f2dd611c2f9f07651a73dc1bd172f377c5174aa"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
