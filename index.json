@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.5.1",
+                "version": "10.5.2",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": false,
-                "sha256": "32971428296f7a11eb7f57556e691c8af6207ba8f5359cc342c8f5f133da7149"
+                "sha256": "c57da429b6733fe518664ad0a68fe35295271e844d1be848b9dfb10cb32306c4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.492",
+                "version": "5.0.508",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "b5036cdbe45f59b80f453f3e0f2dd611c2f9f07651a73dc1bd172f377c5174aa"
+                "sha256": "e772fe88cb6abe535dad0e04b83ad419ef396853f598374794f06a92cfccacd3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
