@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.19",
+                "version": "18.20",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
-                "safe": true,
-                "sha256": "99b90c3bed20a7fdd686fc4bef3973a5c6324381863903b1e66b141481fb221e"
+                "safe": false,
+                "sha256": "a63c0ad1cff527f4d8bba1107ac2493c65db5963e43ba2308ef72a71bd7bc25d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1646,11 +1646,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
-                "version": "10.5.1",
+                "version": "10.5.2",
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_modyolo.apk",
                 "safe": false,
-                "sha256": "f098950f4bbca91e6a9b437f22f8604b186f42f7a6bc9407ce03f318dd51146e"
+                "sha256": "a52fee0a397e623f7a551d159029eac0ceb21e1c415d348713222564465d1153"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adobe-lightroom-2.html",
