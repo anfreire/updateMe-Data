@@ -1310,11 +1310,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/showly.html",
-                "version": "3.51.1",
+                "version": "3.52.0",
                 "packageName": "com.michaldrabik.showly2",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/showly_liteapks.apk",
                 "safe": false,
-                "sha256": "03a2fb9f1b96c50c821249300e39fd726b6b121ae63be7092a1ee6844974a8ac"
+                "sha256": "f4482ba18fd53ec077aa4d6f4d34e4b241db5945345514d5d8b950a243438ba1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/showly.html",
@@ -1704,11 +1704,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
-                "version": "2.2.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "16.6.0-250814",
+                "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_apkdone.apk",
                 "safe": false,
-                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
+                "sha256": "480b54ab326dd429788355d693201f4773230103cd1f9db2aca9d151d42c8fbc"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/shazam.html",
