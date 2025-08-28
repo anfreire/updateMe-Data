@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.662.224",
+                "version": "1.67.225",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "4f9a89fa389bb05c040d5310dac3755d7b27d3683340bb964d27e555573cbb06"
+                "sha256": "068ccd9b59dd64dfaa0c72fbe6619d726d18104ed9b12d893dddbeb5fdf09a60"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -1662,11 +1662,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
-                "version": "2.2.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "10.5.2",
+                "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_apkdone.apk",
                 "safe": false,
-                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
+                "sha256": "c918647f6248306176118b211512fc26cba22859d565a79d581c91e086d9ee83"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adobe-lightroom.html",
