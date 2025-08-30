@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "2.2.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "10.6.0",
+                "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": false,
-                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
+                "safe": true,
+                "sha256": "151b302ba72536d2ecd4e91a9c9686ffc4728c9884ea3ceecde6f7aacd5bbfc1"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.45.2",
+                "version": "6.46.0",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "db94159eaa96bf2d23ff2d31168337342bbfbb449855540aa0cc61c09158e97e"
+                "sha256": "fce314bfb771a6b6e0e0496a6558f0e33ae1aba9e0b5935613f9b35419613ce1"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "e4af3c47a2abef5d548c601cc07f0979cbda53c7f593f66ee6cc0e5d149ca003"
+                "sha256": "4412b388dd96f8f1cfa49c1aa27dbcd622ecce659498417c8c86f8eecdfdb30a"
             }
         }
     },
