@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.653.220",
+                "version": "1.67.225",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
-                "safe": false,
-                "sha256": "3109ab6cca0fd156fc5f93c515be99b57bc5d522ad2319e67e748a178cfb4211"
+                "safe": true,
+                "sha256": "cbc023be975672dbd67d37ee27ee9b20e2c45c7ed9b282744ffb66ed5f1546c1"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.14.3",
+                "version": "1.14.7",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
                 "safe": false,
-                "sha256": "42301228aa81e9adbcf177786f1d17a6c19b3ef098b389c380e8732f5eb79b2f"
+                "sha256": "74ccdef193697db9d42550910c26da9118b3eeeaab5acf497049327d699bc870"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.5.2",
+                "version": "10.6.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": false,
-                "sha256": "c57da429b6733fe518664ad0a68fe35295271e844d1be848b9dfb10cb32306c4"
+                "safe": true,
+                "sha256": "9d02b43fe55bc9004fd6ceb6e8c73385d0d9e4ae6555b97e1b62753054bf93b7"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "7.0.0.2508160000",
+                "version": "7.1.0.2508220000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "b03a74ca204b0e385eeea8e81a3feedcb4d243fbf3f2748f4b7c74f47b6e072a"
+                "sha256": "cfc0ef0c7c774987d8d775af655c6523b88d46e3e4fd08b048f2d337fd51f879"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.104.1",
+                "version": "1.107.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "ba7fd0afb017f3730af54cc566420d9b1657d75c3454cdc0b90c25707d676a24"
+                "sha256": "800ef93d1c58e003c07d927fa7e5ba1185dfe5595e0b5987a807ec5658918687"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.27.7",
+                "version": "15.28.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": false,
-                "sha256": "1e0cb9daa1a412fe7aacf5d5df285d1011e50cb29a1fc18d8cd0555451c49cfa"
+                "safe": true,
+                "sha256": "8d49f8ae26fc9d0e1f5fb9dcb36ec75443c97d6239fc018ba66dc80deb43a3a8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
