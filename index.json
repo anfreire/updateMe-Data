@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 036 patch 3",
+                "version": "6.5 build 040",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": false,
-                "sha256": "b45ccb6731f3846f73f1dcaac5d94f172f6357ef31425fe2945e8bac24535e67"
+                "sha256": "d10b3a53014eb291aac04431ac0a818ffc4ec5b7649f87de10830532a5351031"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
