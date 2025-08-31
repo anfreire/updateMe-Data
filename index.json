@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.67.225",
+                "version": "1.671.226",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "068ccd9b59dd64dfaa0c72fbe6619d726d18104ed9b12d893dddbeb5fdf09a60"
+                "sha256": "7139cc65dd4a155dd8f8232bb318c2f4a2550e36f0cb2ec98a7a52d8a9ba22fb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.508",
+                "version": "5.0.517",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "e772fe88cb6abe535dad0e04b83ad419ef396853f598374794f06a92cfccacd3"
+                "sha256": "751248e88c048ad4ec181a7bab609b8bccb0601bea273256e19ef5971148d001"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
