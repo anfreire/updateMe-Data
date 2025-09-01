@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "b2241083f862671fb677f26e15c7e91c4ceaf5e43870ff20fbf59ba9a0b3d883"
+                "sha256": "3dc1338dee7c0a1422762556897f0db218d67224d4ea4405beda06d076ead9fe"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -93,11 +93,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.12.53",
+                "version": "8.30.54",
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "cdc9a9026cbf10676de32006b63e79822f03874b8a39c29e62eaa5d2f2387916"
+                "sha256": "cdcae48c28a6965e79a6e2e700847a06313dcc3b693f16f3bc45ec2c48803a64"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "a4a3b5a09cd23316926e3f882857b262992c41cd16f0547fbb1a30f57ab3e844"
+                "sha256": "82bc4c22a3e1d7950fc7cb8619e197840bba427b92df9a8d53ce19b9bfa9b75f"
             }
         }
     },
@@ -881,7 +881,7 @@
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": true,
-                "sha256": "85254a353b7d737f5a964cb7f386b5bf8adb1430cf4abde419db7c7c0caa3842"
+                "sha256": "af98ad6ec26e9e77df64caa2cdaaad8e6be897f575982e098c1abfdb2364c35e"
             }
         }
     },
