@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "3dc1338dee7c0a1422762556897f0db218d67224d4ea4405beda06d076ead9fe"
+                "sha256": "0fe5ebbbee16ee2355b9c66234e1315b7493b1fbc20f5c9a032c6461e2eaad53"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "cdcae48c28a6965e79a6e2e700847a06313dcc3b693f16f3bc45ec2c48803a64"
+                "sha256": "06e850243e6a5bd5d91c856f347a807f861dfd8dc86bd3326d2993f9f47b364b"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "82bc4c22a3e1d7950fc7cb8619e197840bba427b92df9a8d53ce19b9bfa9b75f"
+                "sha256": "0046ffbdaf787c412f4811da3add63362ad2af7948aadae4fef6253b13a37270"
             }
         }
     },
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "11.9.5.0",
+                "version": "12.0.1.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "e5503112273c40e740682d96063cffc9b0a9702173518ccb9ae1adc50a464f07"
+                "sha256": "68969eed204e071a4cba027359b312a8775ee5d47dad19aecbe4ccc2875e789d"
             }
         }
     },
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "1.99.0",
+                "version": "2.0.0",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": false,
-                "sha256": "1ea17d201f40d907d173f9427925d91a4699910fb0d23a36c9a080f6e9ef16fc"
+                "sha256": "420345e03ae0f2e000f2e3247f0322271c423c963819c3f5a693f670f2aca674"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
