@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.517",
+                "version": "5.0.753",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "751248e88c048ad4ec181a7bab609b8bccb0601bea273256e19ef5971148d001"
+                "sha256": "17299bb7c48c7c1133ea09b44e5b62fcc2b54381a4730d375b4ba53dcb0ee267"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
