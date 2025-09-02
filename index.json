@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.74.823",
+                "version": "9.0.78.228",
                 "packageName": "it.vfsfitvnm.Spotify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": false,
-                "sha256": "b0a871d682e4de2ff82243717dedbf4980f2a04a20e637925c48debb03dcea20"
+                "sha256": "286a89fc01a2425d88f704f57e2662449a04275d752add4261cdf02630d65c21"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1281,11 +1281,11 @@
             },
             "Forkgram": {
                 "source": "https://github.com/forkgram/TelegramAndroid",
-                "version": "12.0.1.0",
+                "version": "12.0.2.0",
                 "packageName": "org.forkclient.messenger.beta",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/telegram_forkgram.apk",
                 "safe": true,
-                "sha256": "68969eed204e071a4cba027359b312a8775ee5d47dad19aecbe4ccc2875e789d"
+                "sha256": "cfa44a7fe85739b9e0d33be0990c5d521b7cb63b6521353c230ff9b14ef8d099"
             }
         }
     },
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "4412b388dd96f8f1cfa49c1aa27dbcd622ecce659498417c8c86f8eecdfdb30a"
+                "sha256": "d533a436501f5272898e703509558dd7cd1c29111457dcfea965c9ba7c10b2f0"
             }
         }
     },
