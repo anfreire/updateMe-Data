@@ -255,19 +255,19 @@
         "providers": {
             "xManager": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.596",
+                "version": "9.0.76.1126",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanager.apk",
                 "safe": true,
-                "sha256": "813d88f9d1256194b1b483d686ba02fb1983e11d51b81ddaf8f41edb5f845131"
+                "sha256": "cabaa8f419cab3c97468dd250c40bac40ec9db9d06c1ef6fce7aff38a21a6ba7"
             },
             "xManager (Amoled)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.596",
+                "version": "9.0.76.1126",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoled.apk",
                 "safe": true,
-                "sha256": "b7abf5f81f4f9a1060d25e0be4b147f798a8bc3490823174b367d82755fd54d6"
+                "sha256": "2860428db34562dea59a2065d4211d30e235ce2a9677fb1946a050a145cdc644"
             },
             "xManager (Lite)": {
                 "source": "https://www.xmanagerapp.com/",
@@ -279,19 +279,19 @@
             },
             "xManager (Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.596",
+                "version": "9.0.76.1126",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanagercloned.apk",
                 "safe": true,
-                "sha256": "e2d02fb55aceb7e75320518347a3b154edba3d48a3b88cfcd54c1a4fe2c5a0b9"
+                "sha256": "9459fc78e2f766ce373cbcb2465840eac1851c6ec0570bd3ee88b2e2060ebdf0"
             },
             "xManager (Amoled Cloned)": {
                 "source": "https://www.xmanagerapp.com/",
-                "version": "9.0.58.596",
+                "version": "9.0.76.1126",
                 "packageName": "com.spotify.musix",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_xmanageramoledcloned.apk",
                 "safe": true,
-                "sha256": "659c3bf52efd903cdd132b4ff38729b8f2e51ec9ac1249a6d446a6fbce11511c"
+                "sha256": "918b675f853d1537082a3342f1b5c1e721bdc34e88ef2e1cb4ceb2e507651f0d"
             },
             "xManager (Experimental)": {
                 "source": "https://www.xmanagerapp.com/",
