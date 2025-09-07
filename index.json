@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "7.1.0.2508220000",
+                "version": "7.1.5.2508290000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "cfc0ef0c7c774987d8d775af655c6523b88d46e3e4fd08b048f2d337fd51f879"
+                "sha256": "eabd8d1a591cdcfc00e81eaf2ea521fdd524c7b8ee6e3a525a1ca82b432950eb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.98.0818",
+                "version": "1.03.99.0905",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "49709e436b0fcd25a7c9a6dd48001bf1eada909ced9d0cb5ac21398195b7b55c"
+                "sha256": "a2e03bd2d784dc88632cceb6ef9755736b380dfd50adfd4d913aa07e70e9d1a8"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.10.0.2",
-                "packageName": "com.waze",
+                "version": "5.11.0.0",
+                "packageName": "com.wten",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": true,
-                "sha256": "45c54d254a5189adff266601741e0c9004934536de1990a897d9968da2283dae"
+                "sha256": "aa59ecef2e6c663dea4adb008291f5d46b5ddf7304ee1e075539301141f921cc"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
