@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.44.04",
+                "version": "4.44.05",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": false,
-                "sha256": "caa27b2bcb25cd7c5171fd993d52a097115b0607de0cbc1e4c9d2663aa7ad6ce"
+                "sha256": "417028181366ab7a865c7b13c870a72cbc8d45d37978369a34ca1b41c7b5d144"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.753",
+                "version": "5.0.837",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
-                "safe": true,
-                "sha256": "17299bb7c48c7c1133ea09b44e5b62fcc2b54381a4730d375b4ba53dcb0ee267"
+                "safe": false,
+                "sha256": "80205fedef3d5b4afc496f57308dae6eaa6ae6c42ba2ff82c411dbda111df0a8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
