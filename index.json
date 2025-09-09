@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.14.7",
+                "version": "1.14.8",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
-                "safe": false,
-                "sha256": "74ccdef193697db9d42550910c26da9118b3eeeaab5acf497049327d699bc870"
+                "safe": true,
+                "sha256": "846262c18343547d8df59039a2e8b2526479147ab83d9f6038c037b4247aacb8"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.47.0",
+                "version": "6.47.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": false,
-                "sha256": "b9581a040590c314bcc82b44ecee7e3399e619686d3632c05539ab263091a571"
+                "safe": true,
+                "sha256": "255d420e7b9eaef1e763ba7e662a80d0c832408df90f28dfe9b20c9c8d2f512f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
