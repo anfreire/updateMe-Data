@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "6202b8a0d294724b537092b84801f3fcb1bc9fea745d34569fe34e8cb40cc0d3"
+                "sha256": "12d9deb2b390fac3192fd25a369d95a3ad1638e4876679f74a99135abd6b9f8d"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -85,11 +85,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.33.53",
+                "version": "8.35.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "78a10f16ef483bd23d0003ab1d6c90666a42b64a2b9a2f6e687b23f3f2eae085"
+                "sha256": "449eda3eff7e64546adaefe3b251ddcdb9fd4dbea32ef3657e184b5b000d9509"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "8e062b929a66c592fa26176e35551a18f3109ee904865f6e0981c463c06ce990"
+                "sha256": "002ac35b8456fc30d87cf1aaf70a6433f31fc47dc00f51fe66c17b455cebc124"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "a805b8a8bc5dd14b0395e0498e68665ade77245925b561539c69bc1f2ba39932"
+                "sha256": "c072b1d083cb38835dc30403158ede6477e4c121e6008700119b9fa69b62203d"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.58.564",
-                "packageName": "spoti.plus",
+                "version": "9.0.80.86",
+                "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": false,
-                "sha256": "bf159b5982a9a795fc14813f3b2d7d90edc91ca31226b81d2727fe4f2b791bce"
+                "sha256": "ad2f51ab9968760929a455ae63e154a0c54b26ff117e5f8a2335edbd7a25b572"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.99.0905",
+                "version": "1.03.99.0908",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
                 "safe": true,
-                "sha256": "a2e03bd2d784dc88632cceb6ef9755736b380dfd50adfd4d913aa07e70e9d1a8"
+                "sha256": "e412136bab36f7a514fd93db0a8adb461876a42a245d7554a336e0ce9179ab73"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "1158f9deb4d401df4fb7aa997d7e59deb166a2d9724f7a87295574317a34b767"
+                "sha256": "00e2866e9c799a7b309be9e53f470cfa4d26181b0728b093172bc84b4f6cdab4"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "520.1.0.70.109",
+                "version": "523.0.0.53.109",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "93f861cd432eaf9fb5e9d8ac5fca5199af3712432a2f6894442dd4e30adeb805"
+                "sha256": "6e1af6978d786244375529e8dd8329ac3b42708b018b1ba7d7e9e3afc6a28ed8"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "af6d836d2c4685c32c1ab305743f51bae371f8825ecd0b1202d6d746066e3ffb"
+                "sha256": "ceaa6fbf535bcf0f5e36fbaee6ce9631ba9d07781c8b27ebe83da0586a4ff2ac"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
