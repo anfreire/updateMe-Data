@@ -1166,11 +1166,11 @@
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "2.2.0",
-                "packageName": "com.apkdone.appstore",
+                "version": "10.7.0",
+                "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_apkdone.apk",
-                "safe": false,
-                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
+                "safe": true,
+                "sha256": "78a03ae5a88fc6a57e9f5a6892fe532f65590f68eed8638133400c423ed2939b"
             }
         }
     },
@@ -1662,11 +1662,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adobe-lightroom/",
-                "version": "10.5.2",
-                "packageName": "com.adobe.lrmobile",
+                "version": "2.2.0",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_apkdone.apk",
                 "safe": false,
-                "sha256": "c918647f6248306176118b211512fc26cba22859d565a79d581c91e086d9ee83"
+                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/adobe-lightroom.html",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "d533a436501f5272898e703509558dd7cd1c29111457dcfea965c9ba7c10b2f0"
+                "sha256": "528ec789642931bd75641eb12d25aced188d02d47567888a6244affb5e9ee629"
             }
         }
     },
