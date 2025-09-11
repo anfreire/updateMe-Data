@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.671.226",
+                "version": "1.672.227",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "7139cc65dd4a155dd8f8232bb318c2f4a2550e36f0cb2ec98a7a52d8a9ba22fb"
+                "sha256": "cee7d0f8a72385346e3d5c658b574d5e11eca7a8a343eac69dbd1f70683abd3a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.14.8",
+                "version": "1.14.9",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
-                "safe": true,
-                "sha256": "846262c18343547d8df59039a2e8b2526479147ab83d9f6038c037b4247aacb8"
+                "safe": false,
+                "sha256": "0ca4ea55135979458726dba909360928b3680b545b2c465b138346b174dfc13f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.6.0",
+                "version": "10.7.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
-                "safe": true,
-                "sha256": "9d02b43fe55bc9004fd6ceb6e8c73385d0d9e4ae6555b97e1b62753054bf93b7"
+                "safe": false,
+                "sha256": "7e375408b9a5dc438197ea11a183cda70606645839af268656ed6d63c4edad99"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "7.1.5.2508290000",
+                "version": "7.2.0.2509070000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "eabd8d1a591cdcfc00e81eaf2ea521fdd524c7b8ee6e3a525a1ca82b432950eb"
+                "sha256": "0e3d6b78f6eccd2d003be1bde68215777e85adcd8ddcab08c4397280cc3a132f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.47.0",
+                "version": "6.47.5",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "45654a8b1daec6f406d2c377b452ff0456bd01d0389ba0dfea67b98da9301018"
+                "sha256": "2d52a9294d9a7ca2a90f235a6c3a1379f3e5aadfee36a10225e343a0965a6235"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
