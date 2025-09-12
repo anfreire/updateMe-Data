@@ -50,7 +50,7 @@
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "0fe5ebbbee16ee2355b9c66234e1315b7493b1fbc20f5c9a032c6461e2eaad53"
+                "sha256": "dfee59fd1691ad58b500484291c1370f1334ca43dd215036bd8c29d6b51e25fb"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "06e850243e6a5bd5d91c856f347a807f861dfd8dc86bd3326d2993f9f47b364b"
+                "sha256": "f64cc387388cf623aa306337fd0639c50e4396f6504b449fbce4cf49d352ebec"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "0046ffbdaf787c412f4811da3add63362ad2af7948aadae4fef6253b13a37270"
+                "sha256": "73e7755908f9fc3a608305bd28279f66cf218bb197fe3c46e431922b670819a8"
             }
         }
     },
@@ -599,11 +599,11 @@
         "providers": {
             "TeamNewPipe": {
                 "source": "https://github.com/TeamNewPipe/NewPipe",
-                "version": "0.27.7",
+                "version": "0.28.0",
                 "packageName": "org.schabi.newpipe",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/newpipe_teamnewpipe.apk",
                 "safe": true,
-                "sha256": "d59111e2de0732fe6635ac2ecb42c57827ee56897222d2c19afe38a5b2a5eb60"
+                "sha256": "06ea3bab0f56c2cac0a7c471d43e6d0107104c319abb589c894c6b0d47d60ef7"
             }
         }
     },
