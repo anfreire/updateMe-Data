@@ -599,11 +599,11 @@
         "providers": {
             "TeamNewPipe": {
                 "source": "https://github.com/TeamNewPipe/NewPipe",
-                "version": "0.28.0",
+                "version": "0.27.7",
                 "packageName": "org.schabi.newpipe",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/newpipe_teamnewpipe.apk",
                 "safe": true,
-                "sha256": "06ea3bab0f56c2cac0a7c471d43e6d0107104c319abb589c894c6b0d47d60ef7"
+                "sha256": "d59111e2de0732fe6635ac2ecb42c57827ee56897222d2c19afe38a5b2a5eb60"
             }
         }
     },
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.47.5",
+                "version": "6.47.6",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "2d52a9294d9a7ca2a90f235a6c3a1379f3e5aadfee36a10225e343a0965a6235"
+                "sha256": "d5db663ca5bec216be243c39d77434be10689beba5c03bf963e37488eb58f686"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2231,7 +2231,7 @@
                 "packageName": "com.twitter.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/x_revanced.apk",
                 "safe": true,
-                "sha256": "528ec789642931bd75641eb12d25aced188d02d47567888a6244affb5e9ee629"
+                "sha256": "7fca2a7fd1e0ac21e20d289eab183c062dac643cb4223c1c26fa47acd807ebf6"
             }
         }
     },
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.856",
+                "version": "5.0.912",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "37e57c7eec4ab7248f691df694b85e3fb9d266a88c85d19f42551b7be137cc0d"
+                "sha256": "9ae05b924e6ee6f62549f35fd7650fe69d2264d89121adcb4c66f9d77b0f4426"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
