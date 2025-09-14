@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "4a3f2e7637e2c55a1c058178cbbc6152457501bae231f5f66957be9fafb4b407"
+                "sha256": "f62be75416e014fc4344123e3260a426883a229eb6fbccd9ea4f14e75d4b7506"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "8.25.54",
+                "version": "7.29.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "f1fd0d870cc3c7b3bb7efa3783132169245a9256879c5b96d602852af4d06688"
+                "sha256": "e211e8efe004afe4878f6247cb6eea7be8009a8f659e4b1b92f0a8a053e0ea82"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.47.6",
+                "version": "6.48.3",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "d5db663ca5bec216be243c39d77434be10689beba5c03bf963e37488eb58f686"
+                "sha256": "a58e54db29464c868d20a1ade351f90bc45941b656668f02b1addc1935c05690"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
