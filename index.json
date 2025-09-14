@@ -640,11 +640,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.14.9",
+                "version": "1.14.10",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
-                "safe": false,
-                "sha256": "0ca4ea55135979458726dba909360928b3680b545b2c465b138346b174dfc13f"
+                "safe": true,
+                "sha256": "bb1fcbb4b7a123cd654406819b20cad9a91ad7e5112cda41b78961959640816b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.107.1",
+                "version": "1.108.2",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "800ef93d1c58e003c07d927fa7e5ba1185dfe5595e0b5987a807ec5658918687"
+                "sha256": "3547973aaacbe4bb2480956f32619c42e1f3d2a4055992dad14cf9699b82eb3a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "16.6.0-250814",
+                "version": "16.9.0-250904",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "867469f3ee7ae7e4e6ec0869b048fe39b8b59c315e079c46e10af797f371eb93"
+                "sha256": "c89c677e92a9472e1039200bb0f3f2adf0e7bc55d9e623784d3e29ad63aad3c6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -2428,11 +2428,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photomath-microblink.html",
-                "version": "8.44.0",
+                "version": "8.45.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modyolo.apk",
-                "safe": true,
-                "sha256": "d379a6f203cc8703adfb87da4894562cdf7000befe0258dbacc7999a0d7ea3d4"
+                "safe": false,
+                "sha256": "842ebdc0f70c734e51d784fdf486afc1dec3ecf5b90b4cc7bc3fd4b94c8533ca"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photomath.html",
