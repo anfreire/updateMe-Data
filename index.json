@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.179.0",
+                "version": "2.180.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": true,
-                "sha256": "0926a4c1cf1e4b3afb17007c6acd7c831c2c4b2b2ed01c452c6ae09387f0da4a"
+                "sha256": "7f18b9799461de94f66f8dc20ec1b814350372066d3bbc04eccc0171433ad2af"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.55",
+                "version": "4.11.63",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": false,
-                "sha256": "725e7b15ab30ea648fa403fef2e8dddd24361c29f7a18a95de316abe5d2c4cd6"
+                "sha256": "03eae467ff891578ace364c061866b8b84c08413819235a6a0a5987fd5ac7422"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "56f1969d26375d5fa1c1c6cfd440174f1ce33002a56437b1865bbd3d723f6241"
+                "sha256": "ff12b4b23175d80957eb467cf8070d339ef42a4d3f383c9f6853f309ee981722"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.7.0",
+                "version": "7.6.9.0",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "e6797a6c09a56033fd6d88b6c86c017a3273e1ce15245576b910226ead7fef20"
+                "sha256": "ec1365f9fc7a9de4030dfb9536013e1c53604997e7f673884ce2e9c206946761"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
@@ -2444,11 +2444,11 @@
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photomath/",
-                "version": "8.44.0",
-                "packageName": "com.microblink.photomath",
+                "version": "2.2.0",
+                "packageName": "com.apkdone.appstore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_apkdone.apk",
                 "safe": false,
-                "sha256": "7d8f0ce98a7e3499d565e37d861b4fcf4efea379908fcc689c8527147f3e5ae6"
+                "sha256": "903ee3c0ae8c368fc7ab11b3df423c930e5c48d9801c65a06b3085e3906e8ca3"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/photomath.html",
