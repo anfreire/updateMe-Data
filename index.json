@@ -2057,11 +2057,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/waze.html",
-                "version": "5.11.0.0",
+                "version": "5.11.5.0",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_modyolo.apk",
                 "safe": true,
-                "sha256": "ed42ca24a0b62fd6e524bc76a06ba23b48fa0c42dceaedb46f3e5ed14fc8d53e"
+                "sha256": "8a195a8e15412cb9610b71bf2b890552e54e47321891d55554f583ee565a9ab4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.0.912",
+                "version": "5.0.962",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
                 "safe": true,
-                "sha256": "9ae05b924e6ee6f62549f35fd7650fe69d2264d89121adcb4c66f9d77b0f4426"
+                "sha256": "88e5e465274f6ab060a4e54f695a1bd3eaa3f82aa237c6fbba8d515365ec88e5"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
