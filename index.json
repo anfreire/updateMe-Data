@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "170d268cd76aef9b9332bb70444a6d31ead9b16d300bb95056b251eb3d84dc6f"
+                "sha256": "ee5232b8abe4ec0fc7cdc9f40b3a6a44575fc805ab196d39056e4194f40db550"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "7398d35ec29e6e144541a88dd701d60ddc12ec1f0477a90308861f22a1d4f71a"
+                "sha256": "1bd8773732ca2552e95a0e16f094fb3fa5a034b5c8636e7f6be8f5d07f444903"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "ed58c3213b7203a8466a332aa5ed344abdcc1569d2fd929671b95d69d40ec549"
+                "sha256": "1fa7647322c63de3b53c771529d65c0c17ed0e94f4d2dc6b8b03b070a5dbdd1e"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "ebf7f858965c8041dc98bb299fc94b154b2c2ab8c067ce3899018b97681223d8"
+                "sha256": "9248c743fac0f7d316900900ba57aad2caa7bdd28c52302a01bfe7efe2f8f69d"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "a64254b5e2516472b571a932d8d153f7195ba627e9ac52031d398c09ce1ad067"
+                "sha256": "a6d7c89b3749a2f33800a4e4e794d07cc52ef6c9af3322a52877ee7aecc9b3d2"
             }
         }
     },
@@ -2207,7 +2207,7 @@
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "fa6b50485d11ec2b2453cd02c25f3a60be4cad4ff825d9bcbc5ec773b96a103a"
+                "sha256": "545aac16bc3057495b759692f308b4f814bd86211d1323d287511e0faa01b2ae"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "8ae8c35740a33d30049863b590003b991b7b8d887d83396d5970f4948091bb45"
+                "sha256": "958b30f3d5127c8f367e4f506ed983b0332b493273ff02eb8b6c307e6294fb8a"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
