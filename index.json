@@ -456,11 +456,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "15.0.0",
+                "version": "15.2.0",
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "24de1664b3a80af1a68be926a014e5dd846db640015d8337de9114c084dd3bf4"
+                "sha256": "2f4c1205c214b634378778dbb56bb2aad85bc6348b45891ecde9c9d5198cfc71"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
