@@ -54,11 +54,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "20.13.41",
+                "version": "20.14.43",
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "b2fa165b27ff65fc7e584f6284925f4ff8c02da942f337a0e483eda013ebc587"
+                "sha256": "1bced245ef4f34bd9d757f7dea3fb8f08061732710ada9da01c034b2796cf99b"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -101,11 +101,11 @@
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.29.52",
+                "version": "8.10.52",
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "73d18939634d5442e0fdd52acc7d60c7f2cb81fe0d9ffb977b0abac583012c72"
+                "sha256": "b7b7f90eb34a66a7a96ac6ada4b6d1230177f2b6a85f89b28e2e692c63735a43"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
