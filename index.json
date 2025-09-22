@@ -1016,11 +1016,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/iptv-pro.html",
-                "version": "9.1.2",
+                "version": "9.1.8",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_modyolo.apk",
                 "safe": false,
-                "sha256": "52d844bf3058133de009ebc95d4bbf215eaae24042ccc158f4ac6394b4ccfcc6"
+                "sha256": "c2d6ed3d3827ceb137141e64a8e9a9f993d396ee43e964db5b3443ce8290b35e"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
@@ -2091,11 +2091,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/esx-file-manager-explorer.html",
-                "version": "4.4.3.2",
+                "version": "4.4.3.3",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_modyolo.apk",
-                "safe": false,
-                "sha256": "949871c571ae8bd204cc34bf93d2c953e15ee375135ddcf58b9777ff01720c87"
+                "safe": true,
+                "sha256": "e6a5fb55ff3ffe129de6b0d357a13b4958d0cb7c7d35128eef06c1a793dff4ac"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
