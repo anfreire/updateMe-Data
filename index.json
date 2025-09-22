@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.48.4",
+                "version": "6.49.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "f4983a402612f198ce64ed988bf7d1e9b78cff9d78c1e77b52b1918a61d7c995"
+                "sha256": "1da35ce5dc2ff692b971315de2d72efefc5e2791b0d769b8df5a593421997dfe"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2099,11 +2099,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/es-file-explorer.html",
-                "version": "4.4.3.2",
+                "version": "4.4.3.3",
                 "packageName": "com.estrongs.android.pop",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/esfileexplorer_liteapks.apk",
                 "safe": true,
-                "sha256": "4c1d5cc790833b71ef89e44538a863a4098832ec95d9f80f22b193a9a6a938fc"
+                "sha256": "55823aa3c1f7fc9fac3955029a3942363be6449a7d0ccc0c90c00e0e1f8e476c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/es-file-explorer-manager-pro/",
