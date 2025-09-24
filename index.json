@@ -1336,11 +1336,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/camscanner.html",
-                "version": "7.1.5.2508290000",
+                "version": "7.3.0.2509220000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_modyolo.apk",
                 "safe": true,
-                "sha256": "d193aa3e38932a943116f38b3db311a4624a8f76832745880cae70db52820014"
+                "sha256": "e450b824fd99b62a4a0c5e2cfb54dd01937579ef6bec4269e0b1554c3b446c17"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "2.0.0",
+                "version": "2.0.2l3",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": false,
-                "sha256": "420345e03ae0f2e000f2e3247f0322271c423c963819c3f5a693f670f2aca674"
+                "sha256": "2f5bf7f48fa931c22120b57a0209bf64f62d6bd28113121d5743932c06014a8b"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
