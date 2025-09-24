@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.672.227",
+                "version": "1.673.228",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "cee7d0f8a72385346e3d5c658b574d5e11eca7a8a343eac69dbd1f70683abd3a"
+                "sha256": "b43c860fa9fa2adc0059508cc0b899f95e3d443021dff93d5606173875b5f0aa"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
