@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.673.228",
+                "version": "1.674.229",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "b43c860fa9fa2adc0059508cc0b899f95e3d443021dff93d5606173875b5f0aa"
+                "sha256": "9ff669f38e4742f8240601f300cb5ec1297e7090fed425108eca614d4fba7e41"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "7.2.0.2509070000",
+                "version": "7.3.0.2509220000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "0e3d6b78f6eccd2d003be1bde68215777e85adcd8ddcab08c4397280cc3a132f"
+                "sha256": "57941ac78d752cf694189425c81320b1804bb9f003e5ded8a124d4ffb57692f6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
