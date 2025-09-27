@@ -370,11 +370,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/polish-photo-editor-pro.html",
-                "version": "1.673.228",
+                "version": "1.674.229",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_modyolo.apk",
                 "safe": false,
-                "sha256": "2d7d9ce1591408db11455998ab3a8d1caefbb931bc46febc8283ed11d9d12af4"
+                "sha256": "b907915981e6e46024f0ff1f356b60c483a16c13374e3b3874548c05c2ec9d67"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.11.63",
+                "version": "4.13.5",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": false,
-                "sha256": "03eae467ff891578ace364c061866b8b84c08413819235a6a0a5987fd5ac7422"
+                "sha256": "7c1a35b31b2e7a06fdac7b68a04a4ddd2b4e5a89dbc5947d0af94a0da77e3c1f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.20",
+                "version": "18.21",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "a63c0ad1cff527f4d8bba1107ac2493c65db5963e43ba2308ef72a71bd7bc25d"
+                "sha256": "3c5558ed5b73e7304af5ba8f410bd27e6c3bd4091117b09708f59364f0c64605"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
