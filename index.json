@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.11.5.1",
-                "packageName": "com.wten",
+                "version": "5.11.90.901",
+                "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
                 "safe": true,
-                "sha256": "54bd25676c729110e4f62704b1625c95bef77c08c20d09b37e82a5d3ec06c795"
+                "sha256": "8d29fe92bd07c672ad2800c0708bcc9f333a1907bb81125f817d244c7a7e394e"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
