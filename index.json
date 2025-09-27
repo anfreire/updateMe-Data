@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "1bced245ef4f34bd9d757f7dea3fb8f08061732710ada9da01c034b2796cf99b"
+                "sha256": "5a971cd33ed8d4f08cfb4d7ddf0871c049f418764f45d076ba36d24c5aa012e1"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "b7b7f90eb34a66a7a96ac6ada4b6d1230177f2b6a85f89b28e2e692c63735a43"
+                "sha256": "f17dee1abb77591f15d895b1aa7755a657f84ba0e16014dc2b5a9bf69e578b78"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.13.5",
+                "version": "4.13.6",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": false,
-                "sha256": "7c1a35b31b2e7a06fdac7b68a04a4ddd2b4e5a89dbc5947d0af94a0da77e3c1f"
+                "sha256": "1549e3b1855a0d1e66ea53eb20d11175c370619e41159c83769a351c02ea315a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
