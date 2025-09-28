@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.7.1",
+                "version": "10.8.0",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "35270ede86f7030c14c10fe0a1b24fd73d392b26468e4fc9948149f47078f7a2"
+                "sha256": "7c8e7459b784eae36133b6ca28a446ce6a570ece2b1890b6d3ae568c75265979"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1344,11 +1344,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/camscanner.html",
-                "version": "7.3.0.2509220000",
+                "version": "7.3.1.2509240000",
                 "packageName": "com.intsig.camscanner",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/camscanner_liteapks.apk",
                 "safe": false,
-                "sha256": "57941ac78d752cf694189425c81320b1804bb9f003e5ded8a124d4ffb57692f6"
+                "sha256": "6b43565d65d001345f5ab786d785a971cd9c9dc4c83575b12e9bd7062f4499c2"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/camscanner/",
@@ -2428,11 +2428,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/photomath-microblink.html",
-                "version": "8.45.0",
+                "version": "8.46.0",
                 "packageName": "com.microblink.photomath",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photomath_modyolo.apk",
-                "safe": false,
-                "sha256": "842ebdc0f70c734e51d784fdf486afc1dec3ecf5b90b4cc7bc3fd4b94c8533ca"
+                "safe": true,
+                "sha256": "99477e852f847609fed6ffd7d8970b90e7c9f6c58e8f8cd6c7c7f38ac9ae940d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/photomath.html",
