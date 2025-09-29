@@ -1946,11 +1946,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/my-diary.html",
-                "version": "1.03.99.0908",
+                "version": "1.04.01.0928",
                 "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mydiary_modyolo.apk",
-                "safe": true,
-                "sha256": "e412136bab36f7a514fd93db0a8adb461876a42a245d7554a336e0ce9179ab73"
+                "safe": false,
+                "sha256": "ecb864c245c064b224515c52168f929be30139640d6cea967275f53722506212"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/my-diary/",
@@ -2394,11 +2394,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
-                "version": "7.6.9.0",
+                "version": "7.6.9.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_modyolo.apk",
                 "safe": true,
-                "sha256": "ec1365f9fc7a9de4030dfb9536013e1c53604997e7f673884ce2e9c206946761"
+                "sha256": "c316130dd376cb721b5541e0fb01ff3546399cb33be17d3f6115861f5620a268"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/ticktick/",
