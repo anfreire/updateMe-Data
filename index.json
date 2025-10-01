@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.50.1",
+                "version": "6.50.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "f5cd0f777dddbbffa4225e37f396e8ac69d6a90bea7c827e2d527b558e8440bc"
+                "sha256": "088f89cb377316ecc191e97f5d80233e6277a41076abd031c6131b41f9cfe608"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
