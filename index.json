@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.154.1506",
+                "version": "2.155.1507",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
-                "safe": true,
-                "sha256": "78db15d74cebbfc2077687b30a27e1dca0493b73f61975833da57e0b05cb61c5"
+                "safe": false,
+                "sha256": "b192fcd71bf0cff84b9b7553a5cf4f2320c8c9e655b203bb6d200718aa1331b7"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
