@@ -838,11 +838,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/borealis-icon-pack.html",
-                "version": "2.180.0",
+                "version": "2.181.0",
                 "packageName": "com.unvoid.borealis",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/borealis_liteapks.apk",
                 "safe": true,
-                "sha256": "7f18b9799461de94f66f8dc20ec1b814350372066d3bbc04eccc0171433ad2af"
+                "sha256": "d04c1de2be3bdc6a06e3001186dd3913bf1dc7fb20826f5e1e60deeffa9bfdb0"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/borealis-icon-pack.html",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.13.6",
+                "version": "4.13.7",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": false,
-                "sha256": "7c07e9dc53e838d33afad82513eb2663300ac1278122a7390305f532c59f1af8"
+                "sha256": "d9ef01ad190fd3c3008373d4d84711a088f210477903af15a0c949aa0aac9f4a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
