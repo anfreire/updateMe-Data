@@ -939,11 +939,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/vera-icon-pack.html",
-                "version": "6.4.0",
+                "version": "6.4.1",
                 "packageName": "cs14.pixelperfect.iconpack.vera",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/vera_liteapks.apk",
                 "safe": true,
-                "sha256": "ffc6437c3415a6acfc88b9d08a30388c90fa568e6d91e6d606e72cb6f07de522"
+                "sha256": "25f24c39ab1bf0c6e563c11a7e0499cdb1d72794133286c7a7292eed3295ef00"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/vera-icon-pack.html",
@@ -2386,11 +2386,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/ticktick.html",
-                "version": "7.6.9.0",
+                "version": "7.6.9.1",
                 "packageName": "com.ticktick.task",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/ticktick_liteapks.apk",
                 "safe": false,
-                "sha256": "10e36aed180309d3a98f640fd93856f1e4e657d03aec37346f0b0c6a66af069e"
+                "sha256": "607a1f6ca407e634ad8af3831bd0eb1cf642d18b70beac373dcdf50afe389bf2"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/ticktick.html",
