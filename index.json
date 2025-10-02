@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.84.546",
+                "version": "9.0.84.1313",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": false,
-                "sha256": "5bbcfacbba97164d7054fa7f15c8591e08be68023ff3e725cd08ad2810fc86d4"
+                "sha256": "15dd9faecea5071d874559d617f1c3c695a45f02ddaa4fb74d4ea91f6796258f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -1412,11 +1412,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
-                "version": "4.13.7",
+                "version": "4.13.9",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_liteapks.apk",
                 "safe": false,
-                "sha256": "d9ef01ad190fd3c3008373d4d84711a088f210477903af15a0c949aa0aac9f4a"
+                "sha256": "00863b0a4c251b3ddab1bc3e7128ddfca3b83039854b1e14a97726fa3000c477"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/adguard-premium/",
