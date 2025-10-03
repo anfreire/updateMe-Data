@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.26.0-dev.1",
+                "version": "1.26.0-dev.7",
                 "packageName": "app.revanced.manager",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "8fcbc7ad14218ae19e289aa820303ed7f2e8719362eb617fb7d77cb4e1788940"
+                "sha256": "cec2f1a89ea87ccd9906b7ed6706d13f49c77154b432973ef1c80d974f228e98"
             }
         }
     },
@@ -2065,11 +2065,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/waze.html",
-                "version": "5.11.90.901",
+                "version": "5.12.0.0 chuppito release",
                 "packageName": "com.waze",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/waze_liteapks.apk",
-                "safe": true,
-                "sha256": "8d29fe92bd07c672ad2800c0708bcc9f333a1907bb81125f817d244c7a7e394e"
+                "safe": false,
+                "sha256": "5f7455e3ffb1f503cc4249552fe644f49737bda7be99507ebfa8fbd516168eb1"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/waze.html",
