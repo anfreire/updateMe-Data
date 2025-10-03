@@ -877,11 +877,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/layers-glass-icon-pack.html",
-                "version": "11.6",
+                "version": "11.7",
                 "packageName": "com.sreerag.layers",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/layers_liteapks.apk",
                 "safe": true,
-                "sha256": "af98ad6ec26e9e77df64caa2cdaaad8e6be897f575982e098c1abfdb2364c35e"
+                "sha256": "665aee9286394c23562ff5702d879e5e89e18f49125b356c84db46cf54bdd9e8"
             }
         }
     },
@@ -1158,11 +1158,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
-                "version": "10.8.0",
+                "version": "10.8.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_liteapks.apk",
                 "safe": true,
-                "sha256": "2c84e67b1ca450eb0497bdee6c3d2fa03cbc0cc65e823ba57bb00ba6f1164b81"
+                "sha256": "815978ffbd2a53616710d47ab980bc3b449b255ae7522fee7c72f55e6324667d"
             },
             "APKDONE": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "5.1.056",
+                "version": "5.1.120",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "0c1a5b62bc7bd7aa1e6d9857e9ca62406be4ff5ef33ce20484a22fa16cd20738"
+                "sha256": "39ab58f09be855ca8f5249e21a7987f0decdc9e5d3641553342029a08943cf3d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
