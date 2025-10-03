@@ -327,11 +327,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "9.0.84.1313",
+                "version": "9.0.84.1338",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_modyolo.apk",
                 "safe": false,
-                "sha256": "dbb4bb25f010ff0f60713ee38cb9ae4849dbf7fcf166b14c515188dc0edc83ca"
+                "sha256": "b74209fdd128d42aed07759aedf11739e1f46f9987efb82373129ddb25dc931f"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
@@ -460,7 +460,7 @@
                 "packageName": "com.lemon.lvoverseas",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "5f284da76fdd6cd45b94eb207ce130b81de141464abc2c4aa558e915d8ca7e54"
+                "sha256": "2b479da717fe172bf180a8bceb0ceb1d2720e2b025f8faae35853c146176e45d"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/capcut-video-editor.html",
