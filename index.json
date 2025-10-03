@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.25.1",
-                "packageName": "app.revanced.manager.flutter",
+                "version": "1.26.0-dev.1",
+                "packageName": "app.revanced.manager",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "9971814ab59950c2220bda8ab039155a68e964d0195c7041ce2d8d858df1fb6b"
+                "sha256": "8fcbc7ad14218ae19e289aa820303ed7f2e8719362eb617fb7d77cb4e1788940"
             }
         }
     },
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.13.6",
+                "version": "4.13.8",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": false,
-                "sha256": "1549e3b1855a0d1e66ea53eb20d11175c370619e41159c83769a351c02ea315a"
+                "sha256": "f2ae63ed00a89e9371b8ca82e18080e9ee61747afce55965574d2714d65ced35"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -1732,11 +1732,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/duolingo.html",
-                "version": "6.47.4",
+                "version": "6.50.2",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_modyolo.apk",
-                "safe": true,
-                "sha256": "255d420e7b9eaef1e763ba7e662a80d0c832408df90f28dfe9b20c9c8d2f512f"
+                "safe": false,
+                "sha256": "f50b6b9e76ab376d6745e7a422fc78eb56cf8d56accfc94202f6c23a741faa51"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
