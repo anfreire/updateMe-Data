@@ -46,11 +46,11 @@
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "19.47.53",
+                "version": "20.05.46",
                 "packageName": "app.rvx.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revancedextended.apk",
                 "safe": true,
-                "sha256": "357e3d74e14d82a969b33b17b02308a32448758fde5d1a0ea34bb56cd4ff5465"
+                "sha256": "b83215464bc3269937befed35ca67dafb97a635f69aa0995df85b7fa6a30151f"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -97,7 +97,7 @@
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revancedextended.apk",
                 "safe": true,
-                "sha256": "fa436817f79913c1b82e038926d37d77c4fa275a58a765dc3a131278806606d7"
+                "sha256": "266acb92678d40a6e64931e506bce558c4ae079d91abc410306da5e0affec1da"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -147,7 +147,7 @@
                 "packageName": "com.reddit.frontpage",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/reddit_revancedextended.apk",
                 "safe": true,
-                "sha256": "5206ce5808585f977982001ebfebe1fa58bee1820ebc4c06fe3e8680b3d53736"
+                "sha256": "e4a532f709be2468ae41e375fe4fb8c1877d648a539411e452caa56c6a1695e7"
             }
         }
     },
@@ -1124,11 +1124,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/tasker.html",
-                "version": "6.5.11",
+                "version": "6.6.3-beta",
                 "packageName": "net.dinglisch.android.taskerm",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tasker_liteapks.apk",
                 "safe": false,
-                "sha256": "cec661d09651e8c52679a08cd73673097555174357882f4059411773ee62c3c7"
+                "sha256": "fec97c58a3b62e7a88999ce47b28d0f0206d5d6446e318773db5db494f988876"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/tasker/",
@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.50.2",
+                "version": "6.51.1",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "088f89cb377316ecc191e97f5d80233e6277a41076abd031c6131b41f9cfe608"
+                "sha256": "b36e37af916d6df732145242cd75cc16c9d3cb3ec5d55728a3685c56ff028d47"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
