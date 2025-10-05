@@ -1150,11 +1150,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xodo-pdf-reader-editor.html",
-                "version": "10.8.0",
+                "version": "10.8.1",
                 "packageName": "com.xodo.pdf.reader",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xodo_modyolo.apk",
                 "safe": true,
-                "sha256": "7c8e7459b784eae36133b6ca28a446ce6a570ece2b1890b6d3ae568c75265979"
+                "sha256": "04793f953bb435aa2b23a32c8ec5477ff6fc45e8fe70e7d894d36fd2d035373a"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xodo-pdf.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "16.10.0-250911",
+                "version": "16.12.0-250925",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "815a1832e4cd23fe0e606da1591b748eb7bd1f1a6193e740d63248aeb1c7241d"
+                "sha256": "b2481bc1c40e89d5ba4d5dbdb56488529c38cef9286669fc20099407c826ec6b"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
@@ -2344,11 +2344,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/xy-vpn.html",
-                "version": "5.1.026",
+                "version": "5.1.123",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_modyolo.apk",
-                "safe": true,
-                "sha256": "c51b42ccb1a1fe440055e4a8ea26831add4a2cd2de633db2e8cf5ee39451e7fb"
+                "safe": false,
+                "sha256": "991732f8a45881fb99e0bab763293a3735b5a4d54ca0bbeb5d1e602b351608c4"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
