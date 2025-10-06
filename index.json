@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 047",
+                "version": "6.5 build 048",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": false,
-                "sha256": "c6ded1997f515debe20a727122c5a5df698bfc5f84b82a7fdd6d89bff5bb8415"
+                "sha256": "4d885a28dbed23252da6e9fc1448cc4fac8a85adaf12a745b6c02e0798741d0f"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1214,11 +1214,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
-                "version": "8.0.0",
+                "version": "8.0.1",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_liteapks.apk",
-                "safe": false,
-                "sha256": "4241ccd2d5f95a18bbfbe127f58bb47cd976082566438f70bd227386197dfda7"
+                "safe": true,
+                "sha256": "4115afec922b7b05f01ee1085a5fdb4c21d7280782c148a0e2f4db2c5f74680a"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
@@ -1454,11 +1454,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
-                "version": "28.5.2",
+                "version": "28.5.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_liteapks.apk",
                 "safe": true,
-                "sha256": "59a4f191fde0b9b6c678c4ec1569ccbfb0dece806e1ae232287592576c0e48c5"
+                "sha256": "f70e87b0019d28fcdcd9a655129da5c24ddac920be33ed2795a74e0cb65cd71c"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/picsart-app/",
