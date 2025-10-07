@@ -728,11 +728,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/ReVanced/revanced-manager",
-                "version": "1.26.0-dev.9",
+                "version": "1.26.0-dev.10",
                 "packageName": "app.revanced.manager",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/revancedmanager_revanced.apk",
                 "safe": true,
-                "sha256": "5f2dffbbd0691b071d8c12b8bef253b4d29646e479ea2325cfca55e70b4cdd52"
+                "sha256": "ac5d9bbda12de6391051ae20e565eb095ceece02b3fd844e0eaf6f9942d80825"
             }
         }
     },
