@@ -1206,11 +1206,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/musixmatch.html",
-                "version": "8.0.0",
+                "version": "8.0.1",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_modyolo.apk",
                 "safe": true,
-                "sha256": "6a8ad600e80501ca74f58572c5171650f6b73a982efc40397be1b74b401a156c"
+                "sha256": "85402a10f5829ae3220087a8bec0bfd40a68419b4b46ee3d0dd92e1fe1592c11"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
@@ -1570,11 +1570,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/x-plore-file-manager.html",
-                "version": "4.44.05",
+                "version": "4.44.20",
                 "packageName": "com.lonelycatgames.Xplore",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xplorefilemanager_modyolo.apk",
                 "safe": false,
-                "sha256": "417028181366ab7a865c7b13c870a72cbc8d45d37978369a34ca1b41c7b5d144"
+                "sha256": "ee530ccb6165ba47fe908d8452f7aab306832b377c709ee214591c5a041f6080"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/x-plore-file-manager-2.html",
@@ -1612,11 +1612,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/truecaller-caller-id-block.html",
-                "version": "15.28.6",
+                "version": "15.32.6",
                 "packageName": "com.truecaller",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/truecaller_modyolo.apk",
-                "safe": true,
-                "sha256": "8d49f8ae26fc9d0e1f5fb9dcb36ec75443c97d6239fc018ba66dc80deb43a3a8"
+                "safe": false,
+                "sha256": "18cdb136ad17a0b592ef08cc90112d548cee679f656b8fd280d4e97d9e9b63b3"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/truecaller-app.html",
