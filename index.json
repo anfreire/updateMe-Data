@@ -515,11 +515,11 @@
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.155.1507",
+                "version": "2.160.1508",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_modyolo.apk",
                 "safe": false,
-                "sha256": "b192fcd71bf0cff84b9b7553a5cf4f2320c8c9e655b203bb6d200718aa1331b7"
+                "sha256": "2884bd88cf87499bee48c9074bdbe32ebb9538685acb0b66f26ca33ce44405ae"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/inshot.html",
@@ -1404,11 +1404,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/adguard.html",
-                "version": "4.13.8",
+                "version": "4.13.12",
                 "packageName": "com.adguard.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/adguard_modyolo.apk",
                 "safe": false,
-                "sha256": "f2ae63ed00a89e9371b8ca82e18080e9ee61747afce55965574d2714d65ced35"
+                "sha256": "69e1d844039ec6105abd4a10a9ae0cc33cfda4f6897d83ec23fe8688ea2a99fc"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/adguard-2.html",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "f9308b54cc3684401c841c095b8f0b5de0d6f1252813f36dc276438f93aa7c9f"
+                "sha256": "6d6ebed718a8ef3af9b8a6476b91b5b9528b1778082d276e557e5ae2afaff57e"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "526.0.0.52.108",
+                "version": "527.0.0.47.108",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "90ee3084577476a34365c390b233327d313e7e4395d9c35046018d2147ef51d8"
+                "sha256": "cc27adbd859537a16dead5d1dcdd745af2d7fd546d56ee119df0c7c1927b3b8a"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "cd80ddb167d044e34628c3186b073dcd999a671c01d43c19e8d4a045b0885f8d"
+                "sha256": "d1fab068881ca729b504e5e4f5d10a7f8d8a40cb564701fba0a7aeebd21899b8"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
