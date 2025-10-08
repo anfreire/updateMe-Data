@@ -58,7 +58,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced2.apk",
                 "safe": true,
-                "sha256": "5a971cd33ed8d4f08cfb4d7ddf0871c049f418764f45d076ba36d24c5aa012e1"
+                "sha256": "9fb133a590101bcfdb09c85a12cc159906caee4265832801e0d6c2cc5d54803d"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -105,7 +105,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced2.apk",
                 "safe": true,
-                "sha256": "f17dee1abb77591f15d895b1aa7755a657f84ba0e16014dc2b5a9bf69e578b78"
+                "sha256": "40b29abe5c9c55e52823927c8f8e2e2de01e378023df2dbbf1994edd1b8f8259"
             },
             "ReVanced Extended (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -1696,11 +1696,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
-                "version": "16.12.0-250925",
+                "version": "16.13.0-251003",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_liteapks.apk",
                 "safe": false,
-                "sha256": "add5185815febcd5fcad8fe90674a8afdc19ef6654ed23d262cf249dc1a648be"
+                "sha256": "a070a886017d2b497e0f2aff1f1051c37c54591edc593ae660638cce7ee5bbcb"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/shazam/",
@@ -1989,11 +1989,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/nzb360.html",
-                "version": "22.2",
+                "version": "22.3",
                 "packageName": "com.kevinforeman.nzb360",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/nzb360_liteapks.apk",
-                "safe": true,
-                "sha256": "9ab911a1aec8a03c603697d267c6e41284145b14e619e2fe658cc4b1fa510793"
+                "safe": false,
+                "sha256": "e0369a3785ae68060879ed064f513dad1341ab4e0d8d9786693f64d1601cba74"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/nzb360/",
