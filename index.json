@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.155.1507",
+                "version": "2.160.1508",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "c86be5bf53fb15c5452c4c33ff80ce538c774df8eaf59aadc8f67738f5ec3c1f"
+                "sha256": "aee162606bd1f13fa8b3855e336d284c068c1c7c0443775ce63b7b2a3c81b517"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -1446,11 +1446,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/picsart-studio-1.html",
-                "version": "28.1.5",
+                "version": "28.5.4",
                 "packageName": "com.picsart.studio",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/picsart_modyolo.apk",
                 "safe": true,
-                "sha256": "38281b93cc6360ef6fdbf042b7ad5beb2fd2697951f197e1a9cda509c4f0e2bd"
+                "sha256": "2d4197fd4ba4275c7d48c168e256f37e405a87403cad1c91b00d63d4c7fdc4fe"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/picsart-2.html",
