@@ -1740,11 +1740,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/duolingo.html",
-                "version": "6.51.1",
+                "version": "6.51.4",
                 "packageName": "com.duolingo",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/duolingo_liteapks.apk",
                 "safe": false,
-                "sha256": "b36e37af916d6df732145242cd75cc16c9d3cb3ec5d55728a3685c56ff028d47"
+                "sha256": "524a06a6e2e6be11a01a5d4eee7c81617953319ced1b1c4fdcfae23528049c04"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/duolingo/",
@@ -2352,11 +2352,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/xy-vpn-2.html",
-                "version": "5.1.120",
+                "version": "5.1.123",
                 "packageName": "com.mate.vpn",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/xyvpn_liteapks.apk",
                 "safe": false,
-                "sha256": "39ab58f09be855ca8f5249e21a7987f0decdc9e5d3641553342029a08943cf3d"
+                "sha256": "061c8de33fb9d0161323700a4472c1b37c32700da8f8d504cdb46b65eaf2b898"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/xy-vpn",
