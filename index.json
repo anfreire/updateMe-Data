@@ -1488,11 +1488,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
-                "version": "1.108.2",
+                "version": "1.110.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_liteapks.apk",
                 "safe": true,
-                "sha256": "0806dcc09c01c1a42beb67aeef4895a63bdde852e489806a18bdda7e523e1341"
+                "sha256": "2766f5af94759418f6f21d9128bf6c2b818b18e32096f688f496f06dde469694"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/fitify/",
@@ -1544,11 +1544,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
-                "version": "18.21",
+                "version": "18.21.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_liteapks.apk",
                 "safe": false,
-                "sha256": "6cd01aebb10c9f957d22426a534b1b35d9199e9f1a5b4aada286cc8790fdb436"
+                "sha256": "61c07e3a9a9528e448b8f6a5a8870734de3ec8c7819d403552f9f046e6539252"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/wps-office.html",
