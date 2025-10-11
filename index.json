@@ -640,19 +640,19 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/niagara-launcher.html",
-                "version": "1.14.10",
+                "version": "1.14.11",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_modyolo.apk",
-                "safe": true,
-                "sha256": "bb1fcbb4b7a123cd654406819b20cad9a91ad7e5112cda41b78961959640816b"
+                "safe": false,
+                "sha256": "7d2b3bd64d24b5ba243cdf7d44d21930395abfee38d002976e89d321e6931f51"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/niagara-launcher.html",
-                "version": "1.14.10",
+                "version": "1.14.11",
                 "packageName": "bitpit.launcher",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/niagaralauncher_liteapks.apk",
-                "safe": true,
-                "sha256": "7acf81cf4d6837eb54d63fcdcff6cadf3b509891371803c54ce381863eda2d88"
+                "safe": false,
+                "sha256": "209f9ba967735d38d9631dedd55d34c0a4fdea235847e11ff1a6d914f5c39001"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/niagara-launcher/",
@@ -1480,11 +1480,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/fitify-workout-routines-training-plans.html",
-                "version": "1.109.0",
+                "version": "1.110.1",
                 "packageName": "com.fitifyworkouts.bodyweight.workoutapp",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/fitify_modyolo.apk",
                 "safe": true,
-                "sha256": "8d5ddeb392fca26cabb4ba6cb034e45e45cc54254dff2f4d0e013d3e59f77c28"
+                "sha256": "c937a598b0bdba4e76690f14c68b06e1dab5bba45803fb18024d013fa2ca4cf6"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/fitify.html",
@@ -1536,11 +1536,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/wps-office-pdf-word-excel-ppt.html",
-                "version": "18.21",
+                "version": "18.21.1",
                 "packageName": "cn.wps.moffice_eng",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/wpsoffice_modyolo.apk",
                 "safe": false,
-                "sha256": "3c5558ed5b73e7304af5ba8f410bd27e6c3bd4091117b09708f59364f0c64605"
+                "sha256": "5c638746ff2a090a2d6fe48fcd884198b3582dac557dc298020e47c76b7e4dcf"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/wps-office.html",
@@ -1688,11 +1688,11 @@
         "providers": {
             "MODYOLO": {
                 "source": "https://modyolo.com/shazam.html",
-                "version": "16.12.0-250925",
+                "version": "16.13.0-251003",
                 "packageName": "com.shazam.android",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/shazam_modyolo.apk",
                 "safe": false,
-                "sha256": "b2481bc1c40e89d5ba4d5dbdb56488529c38cef9286669fc20099407c826ec6b"
+                "sha256": "b52820d29f283b4cfe7b24cbd7772187a13058c47e6bbd6e3d7d951e2a04ebbe"
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/shazam.html",
