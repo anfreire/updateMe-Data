@@ -335,11 +335,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "9.0.84.1340",
+                "version": "9.0.86.1358",
                 "packageName": "com.spotify.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "ec1a6483b2f7d829396184048e0ffe0c56d63f8f5d704a087b5d701bb5f06722"
+                "sha256": "141428bf21675d34dd21297bb902dc11c779afb6e679d06f4e41b89bac5c7a3e"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/spotify-mod/",
@@ -2186,7 +2186,7 @@
                 "packageName": "com.facebook.katana",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/facebook_revanced.apk",
                 "safe": true,
-                "sha256": "fd13e74231337f05cbccfeb2332cc0c0f10b4d47975b8b4fb8c96bf87ac9ff09"
+                "sha256": "7e0b1c94a846951a26399d763dde507ff1bb56e40df745db8b7a70be632fed81"
             }
         }
     },
@@ -2203,11 +2203,11 @@
         "providers": {
             "ReVanced": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-                "version": "527.0.0.47.108",
+                "version": "528.0.0.62.107",
                 "packageName": "com.facebook.orca",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/messenger_revanced.apk",
                 "safe": true,
-                "sha256": "fde0ac1cfa11b6b364cec1f0781fc4b7d399e44679de16866b2913e4ea15f1ed"
+                "sha256": "036394f6119c27216d264e553860aa966f41eee3abba635a6d45d6fc364aeb9b"
             }
         }
     },
@@ -2249,7 +2249,7 @@
                 "packageName": "com.rarlab.rar",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/rar_revanced.apk",
                 "safe": true,
-                "sha256": "a3a996c0ae64d940672f5d340c10065a39e1eb8806127e130d7fb24439391d23"
+                "sha256": "91846f2cf0ce9103a3a2c37c626d903d161535bbd94bfe5322b8d24cee77521f"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/rar.html",
