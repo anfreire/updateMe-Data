@@ -42,7 +42,7 @@
                 "packageName": "app.revanced.android.youtube",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "00aae9f51b2ad07ff6f4ac4acf3a7fcacc6192e0a0dedc37cc9e8ec03a2782b3"
+                "sha256": "ebc39f153befce10c62440cea12e4dbd44178ba9b5b2000a668ed11a2b934507"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
@@ -89,7 +89,7 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/youtubemusic_revanced.apk",
                 "safe": true,
-                "sha256": "e23664eabe7614dfa597fb77603ed0ae9cfdfd2afd540af0d4ec0f862f0dbc0e"
+                "sha256": "c004a224f11ce225671464ac9fce81c47a2633686fec605eac0ef7eb4b7b4840"
             },
             "ReVanced Extended": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -171,7 +171,7 @@
                 "packageName": "tv.twitch.android.app",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/twitch_revanced.apk",
                 "safe": true,
-                "sha256": "81d789305932102022fbf9121d993b62768a738d1ad17917f501ae6ddb6d2d64"
+                "sha256": "0efbf4da9363f3e77e7150bab4dd8c6ba29b60323826bd03b3af89a14001e826"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -202,7 +202,7 @@
                 "packageName": "com.zhiliaoapp.musically",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "23aec0d4f373a4f8f2e5d0aee99930c2f019876caa6283088318571025000273"
+                "sha256": "697d5c4656dceb755d90b1bf366858c7e66ba6c840cba42c1d80511279f796ac"
             },
             "ReVanced (2)": {
                 "source": "https://github.com/j-hc/revanced-magisk-module",
@@ -378,11 +378,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.674.229",
+                "version": "1.68.230",
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/photoeditorpro_liteapks.apk",
                 "safe": false,
-                "sha256": "9ff669f38e4742f8240601f300cb5ec1297e7090fed425108eca614d4fba7e41"
+                "sha256": "008b49b549eea5d62134fb562ac45b2b31e7b857381680a0feef927ec24856ca"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/photo-editor-pro-apk",
@@ -499,11 +499,11 @@
         "providers": {
             "LITEAPKS": {
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.160.1508",
+                "version": "2.161.1509",
                 "packageName": "com.camerasideas.instashot",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/inshot_liteapks.apk",
                 "safe": false,
-                "sha256": "aee162606bd1f13fa8b3855e336d284c068c1c7c0443775ce63b7b2a3c81b517"
+                "sha256": "a1085f13d1e9ed2ea8150e87b921f775cd73a960a9d4ce2e682f6dad18d36830"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/inshot",
@@ -1642,7 +1642,7 @@
                 "packageName": "com.adobe.lrmobile",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/lightroom_revanced.apk",
                 "safe": true,
-                "sha256": "9fa98b5b0df8354fb83d667cb67e655f81a881233e5adc2b16047ab3f88b6058"
+                "sha256": "8849263a03aca4c725107eaad7f1e5880b6e7a4f121fcda6da2974beb2b51e73"
             },
             "MODYOLO": {
                 "source": "https://modyolo.com/adobe-lightroom.html",
@@ -1783,11 +1783,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/mx-player.html",
-                "version": "2.1.0",
+                "version": "2.1.1",
                 "packageName": "com.mxtech.videoplayer.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/mxplayer_liteapks.apk",
                 "safe": false,
-                "sha256": "5ef3f01695d4eac934e7525b9ee1b8ad43ac4046d8412c3ac93984f9e14d41d6"
+                "sha256": "4cd0186ee5a2bd0068a4d21fac4a79dd8bd085856fa27d1b351b20601f822239"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/mx-player/",
