@@ -691,11 +691,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.5 build 048",
+                "version": "6.5 build 049",
                 "packageName": "ginlemon.flowerfree",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/smartlauncher6_liteapks.apk",
                 "safe": false,
-                "sha256": "4d885a28dbed23252da6e9fc1448cc4fac8a85adaf12a745b6c02e0798741d0f"
+                "sha256": "d0bf5e12dc3395e8bcd1fd0f89393d98116dc21b602891228c8e056e8eca38f6"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/smart-launcher-5/",
@@ -1024,11 +1024,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/iptv-pro.html",
-                "version": "9.1.9",
+                "version": "9.1.10",
                 "packageName": "ru.iptvremote.android.iptv.pro",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/iptvpro_liteapks.apk",
                 "safe": false,
-                "sha256": "d91b8857404c681b6c9af0d6ff1ded8279369fc7f655c15d22bc3b81b0e2dadf"
+                "sha256": "56b3a610a912f9befbb1781f8dac8aaa755db3d00bbcd066f98b1038bca8f85f"
             },
             "MODZOCO": {
                 "source": "https://modzoco.com/iptv-pro.html",
@@ -1214,11 +1214,11 @@
             },
             "LITEAPKS": {
                 "source": "https://liteapks.com/musixmatch.html",
-                "version": "8.0.1",
+                "version": "8.0.2",
                 "packageName": "com.musixmatch.android.lyrify",
                 "download": "https://github.com/anfreire/UpdateMe-Data/releases/download/apps/musixmatch_liteapks.apk",
                 "safe": true,
-                "sha256": "4115afec922b7b05f01ee1085a5fdb4c21d7280782c148a0e2f4db2c5f74680a"
+                "sha256": "33ef6b0ba624516be0d854ab9f05541184d142f92777435b8fbabddab159ef1d"
             },
             "APKDONE": {
                 "source": "https://apkdone.com/musixmatch/",
